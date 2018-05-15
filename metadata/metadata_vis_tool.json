@@ -1,0 +1,59 @@
+{
+    "id": {
+        "description": "The unique identifier of the corresponding software component",
+        "type": "number"
+    },
+    "category": {
+        "type": "string"
+    },
+    "tags": {
+        "type": "array",
+        "items": {
+            "type": "string"
+        },
+        "minItems": 1,
+        "uniqueItems": true
+    },
+    "maintainers": {
+        "type": "array",
+        "items": {
+            "type": "string"
+        },
+        "minItems": 1,
+        "uniqueItems": true
+    },
+    "contributors": {
+        "type": "array",
+        "items": {
+            "type": "string"
+        },
+        "minItems": 1,
+        "uniqueItems": true
+    },
+    "homepage": {
+        "type": "string"
+    },
+    "documentation": {
+        "type": "string"
+    },
+    "support": {
+        "type": "string"
+    },
+    "sourceCode": {
+        "type": "string"
+    },
+    "license": {
+        "type": "string"
+    },
+    "latestVersion": {
+        "type": "string"
+    },
+    "allVersions": {
+        "type": "array",
+        "items": {
+            "type": "string"
+        },
+        "minItems": 1,
+        "uniqueItems": true 
+    }
+}
