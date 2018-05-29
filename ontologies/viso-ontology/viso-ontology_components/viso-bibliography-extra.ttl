@@ -1,0 +1,1461 @@
+@prefix :        <http://purl.org/viso/bibliography/extra#> .
+@prefix bibliography:  <http://purl.org/viso/bibliography/> .
+@prefix ctag:    <http://commontag.org/ns#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix resource:  <http://purl.org/vocab/resourcelist/schema#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix zotero:  <http://www.zotero.org/namespaces/export#> .
+
+bibliography:extra
+      rdf:type owl:Ontology ;
+      owl:imports <http://purl.org/vocab/resourcelist/schema> , <http://commontag.org/ns> , bibliography: ;
+      owl:versionInfo "Created with TopBraid Composer"^^xsd:string .
+
+<http://zotero.org/users/local/eWAsvxOK/items/246G2DXV>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b1 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "human information processing"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "display algorithms"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "multivariate visualization"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/TVCG.2007.70436> ;
+      zotero:repository "IEEE Computer Society" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/2MUHD4FI>
+      rdf:type zotero:UserItem ;
+      zotero:repository "Google Scholar" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/2ZCTPS38>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/1-57230-040-X> ;
+      zotero:repository "Google Scholar" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/3GGUHI7G>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b2 , _:b3 , _:b4 , _:b5 , _:b6 , _:b7 , _:b8 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "heuristic methods"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "management"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "multiple views"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "usability heuristics"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "design guidelines"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1145/345513.345271> ;
+      zotero:repository "ACM Digital Library" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/3XGRVMBP>
+      rdf:type zotero:UserItem ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Quantitative decision making"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Qualitative exploration"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Attribute Explorer"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1016/S0953-5438(98)00022-8> ;
+      zotero:accessDate "2011-07-25 16:56:19" ;
+      zotero:repository "ScienceDirect" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/4EFTCSPQ>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b4 , _:b9 ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "algorithm animation"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1145/1185448.1185538> ;
+      zotero:repository "ACM Digital Library" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/4M2W3V4S>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b4 ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "high interaction"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "dynamic graphics"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1145/192426.192472> ;
+      zotero:repository "ACM Digital Library" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/4Q5JITPB>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1109/INFVIS.1998.729560> ;
+      zotero:repository "IEEE Computer Society" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/4VJM3IX9>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1007/s003710050111> ;
+      zotero:accessDate "2011-07-25 17:09:38" ;
+      zotero:repository "CrossRef" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/5XSMZ4TR>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b4 , _:b2 ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "automated design of graphics"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1145/274644.274698> ;
+      zotero:accessDate "2011-07-28 10:23:18" ;
+      zotero:repository "ACM Digital Library" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/6U3VZ9F6>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/9783540259947> ;
+      zotero:repository "Google Books" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/7DUX265E>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/9781558608191> ;
+      zotero:repository "Google Books" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/8CJE9WDQ>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b3 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual data exploration"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual data mining"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "classification."
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/2945.981847> ;
+      zotero:repository "IEEE Computer Society" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/8D5QDT7I>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b10 , _:b11 , _:b12 ;
+      resource:resource <http://dx.doi.org/10.1109/VIS.2005.102> ;
+      zotero:repository "IEEE Computer Society" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/8IPJIJHH>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b13 , _:b14 , _:b15 , _:b16 , _:b17 , _:b18 , _:b19 , _:b3 , _:b20 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual representation"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "User-Computer Interface"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Models, Theoretical"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "high-dimensional data"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "user-centered perspective"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Cognition"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Information Storage and Retrieval"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Databases, Factual"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/MCG.2005.91> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/93GMCM57>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b18 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "spatial data structures"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "APT"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "knowledge-based system"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Vista"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visualization technique design"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "software tools"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "rules"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "rendering (computer graphics)"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Automatic Presentation Tool"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "interactively modify"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "heuristic programming"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "2D graphics"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visualization design"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "compositional design methodology"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "rendering algorithms"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "knowledge based systems"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "graphical perception"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data set"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "heuristic"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "design methodology"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visualization techniques"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/38.329093> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/9629DHTK>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b18 , _:b3 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "bioinformatics visualization"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "scientific visualization"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "cartographic information"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "future directions"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual display techniques"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "cartography"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "geography"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "geographic information technique"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "biology computing"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "natural sciences computing"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/MCG.2003.1198256> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/9684KIAJ>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1109/VLHCC.2005.57> ;
+      zotero:repository "IEEE Computer Society" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/9SGJUSBG>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b4 , _:b1 , _:b2 ;
+      resource:resource <http://dx.doi.org/10.1145/258549.258803> ;
+      zotero:repository "ACM Digital Library" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/ADDDRE7S>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b5 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "intermediate symbolic representation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "knowledge representation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "virtual reality"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "low-level computer graphics representations"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "natural language"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "multi-modal interface"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "knowledge representation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "implicit parametric functions"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "hand gestures"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "teleconferencing"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "knowledge-level representation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "intermediate symbolic representation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "implicit parametric functions"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "teleconferencing"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "knowledge-level representation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "virtual space teleconferencing system"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "shape knowledge representation scheme"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "natural language"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "shape knowledge representation scheme"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "hand gestures"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "low-level computer graphics representations"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "virtual space teleconferencing system"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "human mind"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "multi-modal interface"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "3D shape ontologies"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "3D shape ontologies"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "human mind"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "virtual reality"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/ROMAN.1995.531969> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/ATEUKNUH>
+      rdf:type zotero:UserItem ;
+      resource:resource bibliography:AcademicArticle1 ;
+      zotero:repository "Google Scholar" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/AWSF939H>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1002/asi.21215> ;
+      zotero:repository "Google Scholar" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/AZEP74U2>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/9789057760891> ;
+      zotero:repository "Google Books" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/B2K2V564>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1109/IV.2007.43> ;
+      zotero:repository "IEEE Computer Society" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/BD43ZGZW>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b21 , _:b22 , _:b18 , _:b23 , _:b24 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Data State Model"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "operating steps"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Data State Model"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data state reference model"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data domains"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data state reference model"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "taxonomic analysis"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information visualization techniques"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information visualization techniques"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "operating steps"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data domains"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "taxonomic analysis"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/INFVIS.2000.885092> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/DWADJ8MR>
+      rdf:type zotero:UserItem ;
+      resource:resource bibliography:AcademicArticle3 ;
+      zotero:repository "Google Scholar" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/EUEAT74V>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/9783540649441> ;
+      zotero:repository "Google Books" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/EV3CXE2N>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/3110088681> ;
+      zotero:repository "Amazon.com" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/FJQWTXD4>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b3 , _:b25 , _:b26 , _:b18 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Infovis systems"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Infovis interaction techniques"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Infovis community"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/TVCG.2007.70515> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/FMTUWU4I>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b15 , _:b18 , _:b20 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual programming"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information visualizations"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual programming"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "multi dimensional data"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "multi dimensional data"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information visualizations"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "advanced graphical user interface design"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data type taxonomy"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "advanced graphical user interface design"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual information seeking"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data type taxonomy"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "network data"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "network data"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual information seeking"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/VL.1996.545307> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/HH52PGT3>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/978-3-540-69553-0> ;
+      zotero:accessDate "2011-07-25 16:24:11" ;
+      zotero:repository "CrossRef" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/IFNQF27B>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b3 , _:b18 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual communication"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visualization criticism"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "pragmatic visualization"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "art"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "missing link"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "computational linguistics"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "aesthetic criteria"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/IV.2007.130> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/KDJIG3CE>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b10 , _:b26 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "design model"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "conceptual model"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "classification"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "user model"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/INFVIS.2004.59> ;
+      zotero:repository "IEEE Computer Society" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/KG785IXP>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b7 , _:b5 , _:b9 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "starfield displays"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "query processing"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "dynamic queries"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "video"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information seeking"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "tight coupling"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "database query"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1145/191666.191775> ;
+      zotero:repository "ACM Digital Library" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/MJZQ24JW>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/9781558605336> ;
+      zotero:repository "Google Books" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/NBN2TJKB>
+      rdf:type zotero:UserItem ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "graphical user interfaces; database management systems; human factors; query processing; dynamic queries; visual information seeking; databases; widgets; animated results; retrieval; display algorithms; user-interface design; visual interfaces; complex queries"
+              ] ;
+      resource:resource <http://purl.org/viso/bibliography/issn/0740-7459> ;
+      zotero:repository "IEEE Computer Society" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/NKNIBVQB>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b15 , _:b22 , _:b18 , _:b13 , _:b23 , _:b20 ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "reference model"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "exploratory multiview visualization"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "coordination model"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "dataflow model"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data flow computing"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/CMV.2003.1215005> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/NZI4UQ45>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b4 , _:b11 , _:b13 , _:b20 , _:b2 , _:b15 , _:b12 ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "graph visualization"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "task taxonomy"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "experimentation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "evaluation/methodology"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      resource:resource <http://dx.doi.org/10.1145/1168149.1168168> ;
+      zotero:repository "ACM Digital Library" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/PF7KGVMS>
+      rdf:type zotero:UserItem ;
+      resource:resource bibliography:AcademicArticle2 ;
+      zotero:repository "Google Scholar" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/PNJ7B9QT>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1126/science.103.2684.677> ;
+      zotero:accessDate "2011-09-03 14:54:24" ;
+      zotero:repository "Highwire 2.0" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/Q3QSSSTU>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1145/985692.985706> ;
+      zotero:repository "Google Scholar" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/QFJQTJT7>
+      rdf:type zotero:UserItem ;
+      resource:resource bibliography:Article1 ;
+      zotero:repository "Google Scholar" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/QQPJUPGV>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b26 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "systems analysis"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "requirements elicitation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual modeling notation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "meta model"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "distributed processing"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "simulation languages"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "formal specification"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "stakeholder roles"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "requirements analysts"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "site locations"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "modeling language"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "telecommunications"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "requirements elicitation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "telecommunications"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "simulation languages"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "stakeholder roles"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "video gaming"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "repositories"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "site locations"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "risk management"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "communication flows"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visual modeling notation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "systems analysis"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "modeling language"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "distributed processing"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "repositories"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "meta model"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "globally distributed requirements engineering projects"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "risk management"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "globally distributed requirements engineering projects"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "communication flows"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "formal specification"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "requirements analysts"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "video gaming"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/ICGSE.2010.55> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/QTF8H5ME>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b24 , _:b21 , _:b18 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visualization interface construction toolkits"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "graphics"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information acquisition"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "user interface management systems"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information communication"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "automatic presentation systems"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information analysis"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "large data sets"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "interactive visualization"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "semantics"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "complex 3D visualizations"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/INFVIS.1996.559213> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/SD97G66V>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b10 , _:b27 , _:b28 ;
+      resource:resource <http://dx.doi.org/10.1016/j.advengsoft.2007.03.016> ;
+      zotero:accessDate "2011-07-25 14:33:36" ;
+      zotero:repository "ScienceDirect" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/SDTTKEG4>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1006/ijhc.1996.0042> ;
+      zotero:accessDate "2011-09-03 14:42:35" ;
+      zotero:repository "CrossRef" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/SHI4IJ56>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b18 , _:b27 , _:b25 , _:b28 , _:b19 , _:b16 , _:b29 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "ontologies (artificial intelligence)"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data visualization process"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "groupware"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "Humans"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/MCG.2005.55> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/SW8FMAI2>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/0132065509> ;
+      zotero:repository "Amazon.com" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/T2IRP9D7>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b4 , _:b29 ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "device independence"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1145/22949.22950> ;
+      zotero:repository "ACM Digital Library" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/TXTSCJM8>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1111/j.1467-8659.2008.01230.x> ;
+      zotero:accessDate "2011-07-25 16:23:15" ;
+      zotero:repository "CrossRef" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/V38BUT2Q>
+      rdf:type zotero:UserItem ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "ontology, semantic web, grid"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/VISUAL.2004.10> ;
+      zotero:accessDate "2011-07-25 14:36:08" ;
+      zotero:repository "ACM Digital Library" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/V7MZDQG5>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/9783540250166> ;
+      zotero:repository "Google Books" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/VNPG85JT>
+      rdf:type zotero:UserItem ;
+      resource:resource bibliography:AcademicArticle4 ;
+      zotero:repository "Google Scholar" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/VU6WP4WG>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1145/1287620.1287621> ;
+      zotero:accessDate "2011-09-03 16:06:44" ;
+      zotero:repository "CrossRef" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/W85PDJG3>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b30 , _:b31 , _:b10 , _:b14 , _:b17 ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "natural scene paradigm"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "matching process"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data representations"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "interpretation aims"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "generic framework"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data types"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/38.79454> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/WHZWNWDR>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b30 , _:b31 , _:b5 , _:b18 ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "data set analysis"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "analytic question"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "system level taxonomy"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "visualization task"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "low level analysis task"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information visualization tool"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information visualization system"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "user analytic activity"
+              ] ;
+      ctag:tagged
+              [] ;
+      resource:resource <http://dx.doi.org/10.1109/INFVIS.2005.1532136> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/WIIV5SAR>
+      rdf:type zotero:UserItem ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "intelligent virtual environments"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "ontologies"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "web graphics"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "domain knowledge"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "semantic driven visualization"
+              ] ;
+      resource:resource <http://dx.doi.org/10.1109/VR.2006.41> ;
+      zotero:repository "IEEE Xplore" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/X4D4V74T>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://purl.org/viso/bibliography/isbn/9781848002180> ;
+      zotero:repository "Google Books" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/X923VVZV>
+      rdf:type zotero:UserItem ;
+      resource:resource <http://dx.doi.org/10.1057/palgrave.ivs.9500181> ;
+      zotero:accessDate "2011-07-25 16:31:26" ;
+      zotero:repository "CrossRef" .
+
+<http://zotero.org/users/local/eWAsvxOK/items/ZA5I9RX5>
+      rdf:type zotero:UserItem ;
+      ctag:tagged _:b6 , _:b7 , _:b4 , _:b8 ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "graphic design"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "presentation tool"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "automatic generation"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "graphics data structures and data types"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "expressiveness"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "user interface"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "information presentation"
+              ] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "effectiveness"
+              ] ;
+      ctag:tagged
+              [] ;
+      ctag:tagged
+              [ rdf:type ctag:AutoTag ;
+                ctag:label "composition algebra"
+              ] ;
+      resource:resource <http://purl.org/viso/bibliography/issn/1-55860-533-9> ;
+      zotero:accessDate "2011-07-25 17:06:00" ;
+      zotero:repository "ACM Digital Library" .
+
+_:b31
+      rdf:type ctag:AutoTag ;
+      ctag:label "data analysis" .
+
+_:b29
+      rdf:type ctag:AutoTag ;
+      ctag:label "Algorithms" .
+
+_:b27
+      rdf:type ctag:AutoTag ;
+      ctag:label "Ontology" .
+
+_:b28
+      rdf:type ctag:AutoTag ;
+      ctag:label "Semantic Web" .
+
+_:b26
+      rdf:type ctag:AutoTag ;
+      ctag:label "taxonomy" .
+
+_:b25
+      rdf:type ctag:AutoTag ;
+      ctag:label "human computer interaction" .
+
+_:b22
+      rdf:type ctag:AutoTag ;
+      ctag:label "data models" .
+
+_:b23
+      rdf:type ctag:AutoTag ;
+      ctag:label "data models" .
+
+_:b24
+      rdf:type ctag:AutoTag ;
+      ctag:label "interactive systems" .
+
+_:b21
+      rdf:type ctag:AutoTag ;
+      ctag:label "interactive systems" .
+
+_:b14
+      rdf:type ctag:AutoTag ;
+      ctag:label "computer graphics" .
+
+_:b18
+      rdf:type ctag:AutoTag ;
+      ctag:label "data visualisation" .
+
+_:b15
+      rdf:type ctag:AutoTag ;
+      ctag:label "graphical user interfaces" .
+
+_:b20
+      rdf:type ctag:AutoTag ;
+      ctag:label "graphical user interfaces" .
+
+_:b19
+      rdf:type ctag:AutoTag ;
+      ctag:label "Communication" .
+
+_:b16
+      rdf:type ctag:AutoTag ;
+      ctag:label "Vision" .
+
+_:b10
+      rdf:type ctag:AutoTag ;
+      ctag:label "Visualization" .
+
+_:b12
+      rdf:type ctag:AutoTag ;
+      ctag:label "evaluation" .
+
+_:b9  rdf:type ctag:AutoTag ;
+      ctag:label "documentation" .
+
+_:b4  rdf:type ctag:AutoTag ;
+      ctag:label "design" .
+
+_:b2  rdf:type ctag:AutoTag ;
+      ctag:label "human factors" .
+
+_:b3  rdf:type ctag:AutoTag ;
+      ctag:label "information visualization" .
+
+_:b7  rdf:type ctag:AutoTag ;
+      ctag:label "theory" .
+
+_:b8  rdf:type ctag:AutoTag ;
+      ctag:label "performance" .
+
+_:b5  rdf:type ctag:AutoTag ;
+      ctag:label "user interfaces" .
+
+_:b1  rdf:type ctag:AutoTag ;
+      ctag:label "interaction techniques" .

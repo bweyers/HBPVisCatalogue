@@ -1,0 +1,3102 @@
+@prefix bibo:    <http://purl.org/ontology/bibo/> .
+@prefix bixt:    <http://purl.org/viso/bibo-extension/> .
+@prefix dct:     <http://purl.org/dc/terms/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix viso:    <http://purl.org/viso/> .
+@prefix viso-anno:  <http://purl.org/viso/anno/> .
+@prefix viso-data:  <http://purl.org/viso/data/> .
+@prefix viso-facts:  <http://purl.org/viso/facts/> .
+@prefix viso-graphic:  <http://purl.org/viso/graphic/> .
+@prefix viso-bibliography:  <http://purl.org/viso/bibliography/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/viso/activity/Action>
+      bixt:considersSource
+              viso-anno:Quote_Amar , viso-anno:Quote_Bertin1983_Adrienko2006 , viso-anno:Quote_Gotz2008 , viso-anno:Quote_Zhang1997 ;
+      skos:editorialNote "TODO: a better way to say: has no domain? ; What is the best label for this?"^^xsd:string .
+
+<http://purl.org/viso/activity/Algorithm>
+      bixt:considersSource
+              viso-anno:Quote_Haber1990_Robertson1991_Ware2004_2 ;
+      bixt:followsSource <http://dx.doi.org/10.1109/38.79454> , <http://purl.org/viso/bibliography/AcademicArticle1> , <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+<http://purl.org/viso/activity/Analytical_Abstraction>
+      bixt:followsSource viso-anno:Quote_Chi1998 , viso-anno:Quote_Chi1998_2 .
+
+<http://purl.org/viso/activity/Brush>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+<http://purl.org/viso/activity/Change_Metaphor>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+<http://purl.org/viso/activity/Change_Range>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+<http://purl.org/viso/activity/Composite_Task>
+      bixt:followsSource viso-anno:Quote_Armar2005_1 , viso-anno:Quote_Limbourg2003_1 .
+
+<http://purl.org/viso/activity/Data_State>
+      bixt:followsSource viso-anno:Quote_Chi1998_3 .
+
+<http://purl.org/viso/activity/Data_Transformation>
+      bixt:followsSource viso-anno:Quote_Chi1998_4 , viso-anno:Quote_Chi2000_1 , <http://purl.org/viso/bibliography/isbn/9781558605336> .
+
+<http://purl.org/viso/activity/Elementary_Task>
+      bixt:followsSource viso-anno:Quote_Bezold2009_1 , viso-anno:Quote_Gotz2008_3 .
+
+<http://purl.org/viso/activity/Filter>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+<http://purl.org/viso/activity/Generation>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/IV.2007.130> , <http://purl.org/viso/bibliography/isbn/9783540649441> ;
+      bixt:followsSource <http://dx.doi.org/10.1109/IV.2007.130> , <http://purl.org/viso/bibliography/isbn/9783540649441> .
+
+<http://purl.org/viso/activity/Interaction>
+      bixt:considersSource
+              viso-anno:Quote_Fikkert2007_1 .
+
+<http://purl.org/viso/activity/Merge>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+<http://purl.org/viso/activity/Method>
+      bixt:followsSource viso-anno:Quote_Oberle2006_2 .
+
+<http://purl.org/viso/activity/Operation>
+      bixt:considersSource
+              viso-anno:Quote_Chi1998_5 ;
+      bixt:followsSource viso-anno:Quote_Chi1998_6 .
+
+<http://purl.org/viso/activity/Pan>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+<http://purl.org/viso/activity/Projection>
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_29 .
+
+<http://purl.org/viso/activity/Sort>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+<http://purl.org/viso/activity/Split>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+<http://purl.org/viso/activity/Task>
+      rdfs:comment """a process step could be done by humans 
+
+it is an human task in the domain of business processes (BPEL4People & WS-HumanTask)"""^^xsd:string , "http://st.inf.tu-dresden.de/stwiki/index.php/SemVis:References"^^xsd:string ;
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/38.79454> , <http://dx.doi.org/10.1109/INFVIS.2005.1532136> , viso-anno:Quote_Paterno_1 , viso-anno:Quote_Shneiderman2003_1 , <http://purl.org/viso/bibliography/AcademicArticle1> , <http://purl.org/viso/bibliography/isbn/9781558605336> , <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+<http://purl.org/viso/activity/Update_Characteristic>
+      skos:editorialNote "This class was introduced to be the type of various time values that characterize update processes such as \"Never\", \"Periodically\"."^^xsd:string .
+
+<http://purl.org/viso/activity/View_Action>
+      bixt:considersSource
+              viso-anno:Quote_26 .
+
+<http://purl.org/viso/activity/View_State>
+      bixt:followsSource viso-anno:Quote_Card1999_1 , viso-anno:Quote_Chi1998_7 .
+
+<http://purl.org/viso/activity/View_Transformation>
+      bixt:followsSource viso-anno:Quote_Card2007_19 , viso-anno:Quote_Chi1999_2 .
+
+<http://purl.org/viso/activity/Virtual_Image>
+      rdfs:seeAlso "Mental Construction"^^xsd:string ;
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_29 .
+
+<http://purl.org/viso/activity/Visual_Mapping>
+      bixt:followsSource viso-anno:Quote_Card1999_2 , viso-anno:Quote_Chi2000_2 , viso-anno:Quote_Haber1990_Robertson1991_Ware2004_3 .
+
+<http://purl.org/viso/activity/Visualisation>
+      bixt:followsSource viso-anno:Quote_Card1999_Schumann1999_Kosara2007 .
+
+<http://purl.org/viso/activity/Visualisation_Intent>
+      bixt:followsSource viso-anno:Quote_DukeBrodlie2004_3 .
+
+<http://purl.org/viso/activity/Visualisation_Model>
+      bixt:followsSource viso-anno:Quote_Card1999_3 , viso-anno:Quote_Chi2000_3 .
+
+<http://purl.org/viso/activity/Visualization_Abstraction>
+      bixt:followsSource viso-anno:Quote_Chi1998_2 .
+
+<http://purl.org/viso/activity/Within_Stage_Operator>
+      bixt:followsSource viso-anno:Quote_Chi2000_4 .
+
+<http://purl.org/viso/activity/Zoom>
+      bixt:considersSource
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+viso-anno:
+      rdf:type owl:Ontology ;
+      rdfs:label "Annotation module of the Visualisation Ontology (VISO)"@en , "Annotations-Modul der Visualisierungsontologie (VISO)"@de ;
+      dct:creator viso:FabianPrager , viso:JanPolowinski , viso:MartinVoigt ;
+      dct:description "The annotation module stores annotations on VISO, such as design decisions, change information. It also relates statements to existing literature by using the bibliography ontology (BIBO) and an extension of it."^^xsd:string ;
+      owl:imports viso-bibliography: , bixt: ;
+      owl:versionInfo "0.5"^^xsd:string .
+
+viso-anno:Amar2005
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@inproceedings(amar_low-level_2005,
+	title = (Low-level components of analytic activity in information visualization),
+	booktitle = ((IEEE) Symposium on Information Visualization, 2005. (INFOVIS) 2005),
+	author = (R. Amar and J. Eagan and J. Stasko),
+	year = (2005),
+	pages = (111-117)
+)"""^^xsd:string .
+
+viso-anno:Andrienko2006
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@article(andrienko_exploratory_2006,
+	title = (Exploratory Analysis of Spatial and Temporal Data: A Systematic Approach),
+	shorttitle = (Exploratory Analysis of Spatial and Temporal Data),
+	author = (N. Andrienko and G. Andrienko),
+	year = (2006),
+	keywords = (read),
+	annote = ((\\textless)p(\\textgreater)- comments on the value of visualisation (in contrast to other perception, such as sound etc.). explains with similarity of visual and mental images as opossed to text and spoken language (p. 166)(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater)- visualisation is mapping (p. 169 f.)(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater)- visual variables and bertin in general nicely reviewed (p. 171)(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater) (\\textless)/p(\\textgreater)
+((\\textless)p(\\textgreater)DATA(\\textless)/p(\\textgreater))
+(\\textless)p(\\textgreater)- \"data represent results of the observation or measurement of phenomena\" (p. 17)(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater)- two types of data components:(\\textless)/p(\\textgreater)
+(\\textless)ul(\\textgreater)
+(\\textless)li(\\textgreater)referrers (independent variables, maybe more then one!, references are values of the referers)(\\textless)/li(\\textgreater)
+(\\textless)li(\\textgreater)attributes (dependent variables, maybe many, characteristics are values of the attributes)(\\textless)/li(\\textgreater)
+(\\textless)/ul(\\textgreater)
+((\\textless)p(\\textgreater)Does) this correspond to data- and object properties? -\\&gt; No, rather varied and measured parameters. are semantic webdata like this? can we make this seperation here?(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater)- Wilkinson states that the three most important referers are time, space and population (population stands for every group of items) -\\&gt; Does this just mean any items on a categorical scale?(\\textless)/p(\\textgreater)
+((\\textless)p(\\textgreater)STRUCTURE) (OF) (DATA:)  (p. 18)(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater)- siehe Google Docs(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater) (\\textless)/p(\\textgreater)),
+	annote = ((\\textless)p(\\textgreater)interesting for data properties(\\textless)/p(\\textgreater))
+)"""^^xsd:string .
+
+viso-anno:Card2007
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@article(card_information_2009,
+	title = (Information visualization),
+	lccn = (2092),
+	location = (85),
+	journal = ((Human-Computer) Interaction: Design Issues, Solutions, and Applications),
+	author = (S. Card),
+	year = (2009),
+	keywords = (2d vs. 3d, axis wrapping, composition, definition, effectiveness, expressiveness, interaction, misinterpretation, perspective distortion, ranking, sensemaking, visual analytics, visual structures, visualization reference model, widget, widgets as visualizations, world within world),
+	pages = (181),
+	annote = (((\\textless)p(\\textgreater)Achtung:) (PDF) ist (2007-Ausgabe,) wurde aber nahzu unverändert, bis auf seiten zahlen.(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater) (\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater)p. 526: Filtering Widgets as Visualizations (controls consume space that is valuable)(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater) (\\textless)/p(\\textgreater)
+((\\textless)p(\\textgreater)Keine) rechte Unterscheidung zwischen (n-Variable) Data and Vis.. Es bleibt unklar, ob mi (1-Variable) Univariate Daten gemeint sind. Er schreibt aber \"by the time we get to three dat variables\" (p. 526) Es wird auf jeden Fall keine Unterscheidung gemacht in independent/dependent variables. objects werden als input variables (also independent) angenommen, aber es wird nciht erläutert, ob diese auch mehrere Dimensionen haben können. -\\&gt; Egal, ob independent Variable oder dependent - jede Variable kann eine Dimension des Diagramms in Anspruch nehmen. Wenn also geographische Breite und Länge variiert werden (independent) nehmen sie unter Umständen trotzdem zwei Dimensionen der Grafik in Anspruch.(\\textless)/p(\\textgreater)
+(\\textless)p(\\textgreater) (\\textless)/p(\\textgreater))
+)"""^^xsd:string .
+
+viso-anno:ChuaRoth1996
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@INPROCEEDINGS(Chuah1996,
+  author = (Chuah, M.C. and Roth, S.F.),
+  title = (On the semantics of interactive visualizations),
+  booktitle = (Information Visualization '96, Proceedings IEEE Symposium on),
+  year = (1996),
+  pages = (29-36),
+  month = (Oct),
+  abstract = (Interactive techniques are powerful tools for manipulating visualizations
+	to analyze, communicate and acquire information. This is especially
+	true for large data sets or complex 3D visualizations. Although many
+	new types of interaction have been introduced recently, very little
+	work has been done on understanding what their components are, how
+	they are related and how they can be combined. This paper begins
+	to address these issues with a framework for classifying interactive
+	visualizations. Our goal is a framework that will enable us to develop
+	toolkits for assembling visualization interfaces both interactively
+	and automatically),
+  doi = (10.1109/INFVIS.1996.559213),
+  file = (:U\\:\\\\Forschung\\\\Paper\\\\Chuah, Roth - On the semantics of interactive visualizations.pdf:PDF),
+  keywords = (data visualisation, interactive systems, user interface management
+	systems, semantics, visualization, taxonomy),
+  owner = (m.voigt),
+  timestamp = (2009.10.19)
+)"""^^xsd:string .
+
+viso-anno:Document_1
+      rdf:type bibo:Document .
+
+viso-anno:Document_2
+      rdf:type bibo:Document .
+
+viso-anno:Document_3
+      rdf:type bibo:Document .
+
+viso-anno:Document_4
+      rdf:type bibo:Document .
+
+viso-anno:Document_5
+      rdf:type bibo:Document .
+
+viso-anno:Document_6
+      rdf:type bibo:Document .
+
+viso-anno:DukeBrodlie2004
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@INPROCEEDINGS(Duke2004,
+  author = (Duke, D.J. and Brodlie, K.W. and Duce, D.A.),
+  title = (Building an Ontology of Visualization),
+  booktitle = (Visualization, 2004. IEEE),
+  year = (2004),
+  pages = ( 7p-7p),
+  month = (Oct.),
+  abstract = (Recent activity within the UK National e-Science Programme has identified
+	a need to establish an ontology for visualization. Motivation for
+	this includes defining web and grid services for visualization (the
+	ësemantic gridí), supporting collaborative work, curation, and underpinning
+	visualization research and education. At a preliminary meeting, members
+	of the UK visualization community identified a skeleton for the ontology.
+	We have started to build on this by identifying how existing work
+	might be related and utilized. We believe that the greatest challenge
+	is reaching a consensus within the visualization community itself.
+	This poster is intended as one step in this process, setting out
+	the perceived needs for the ontology, and sketching initial directions.
+	It is hoped that this will lead to debate, feedback and involvement
+	across the community.),
+  crossref = (Brodlie2004),
+  doi = (10.1109/VISUAL.2004.10),
+  file = (:U\\:\\\\Forschung\\\\Paper\\\\Duke et al. - Building an Ontology of Visualization.pdf:PDF),
+  keywords = (Ontology, Semantic Web, visualization),
+  owner = (m.voigt),
+  review = (- Motivation von der Dom‰ne Visualisierung als interdisziplin‰re Aktivit‰t
+	
+	- Vorstellung einer ersten groben Top Level Visualisierungsontologie
+	
+	- Kurze Beschreibung der 4 Hauptbestandteile: Task, Representation,
+	Data und Transformation),
+  timestamp = (2009.09.02)
+)"""^^xsd:string .
+
+viso-anno:Engelhardt2002
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@phdthesis(engelhardt_von_language_2002,
+	title = (The Language of Graphics),
+	lccn = (0000),
+	school = (Institute for Logic, Language \\& Computation, University of Amsterdam.),
+	author = (Jörg Engelhardt, von),
+	year = (2002),
+	note = ((ISBN) 90-5776-089-4),
+	annote = (((\\textless)p(\\textgreater)Empfehlung) Martin(\\textless)/p(\\textgreater))
+)"""^^xsd:string .
+
+viso-anno:Engelhardt2002_on_statistical_path_map
+      rdf:type bibo:Quote ;
+      bibo:pages "145"^^xsd:string ;
+      bixt:documentContent
+              "A statistical path map finally is a representation that qualifies both as a path map and as a statistical link diagram."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:EngelhardtOnSpatialStructuresAndInformationTypes
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment "Table on spatial structures and the type of information they can express. However - are these all Spatial Structures? They are partially already classified as Spaces. What does this imply?"^^xsd:string ;
+      bibo:pages "70"^^xsd:string ;
+      bibo:section "Figure 2-35"^^xsd:string ;
+      bixt:documentContent
+              """###Type of Information###
+Type of information that is expressed by different spatial structures."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              viso-anno:Engelhardt2002 .
+
+viso-anno:EngelhardtOnVisualAttributesAndInformationType
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment ""^^xsd:string ;
+      dct:isPartOf viso-anno:Engelhardt2002 ;
+      bibo:pages "135"^^xsd:string ;
+      bibo:section "Figure 3-26"^^xsd:string .
+
+viso-anno:Katifori2007
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@ARTICLE(Katifori2007,
+  author = (Katifori, Akrivi and Halatsis, Constantin and Lepouras, George and
+	Vassilakis, Costas and Giannopoulou, Eugenia),
+  title = (Ontology visualization methods---a survey),
+  journal = (ACM Comput. Surv.),
+  year = (2007),
+  volume = (39),
+  pages = (10),
+  number = (4),
+  abstract = (Ontologies, as sets of concepts and their interrelations in a specific
+	domain, have proven to be a useful tool in the areas of digital libraries,
+	the semantic web, and personalized information management. As a result,
+	there is a growing need for effective ontology visualization for
+	design, management and browsing. There exist several ontology visualization
+	methods and also a number of techniques used in other contexts that
+	could be adapted for ontology representation. The purpose of this
+	article is to present these techniques and categorize their characteristics
+	and features in order to assist method selection and promote future
+	research in the area of ontology visualization.),
+  address = (New York, NY, USA),
+  doi = (http://doi.acm.org/10.1145/1287620.1287621),
+  file = (:U\\:\\\\Forschung\\\\Paper\\\\Katifori et al. - Ontology visualization methods--a survey.pdf:PDF),
+  issn = (0360-0300),
+  keywords = (visualization, ontology, survey, overview),
+  owner = (m.voigt),
+  publisher = (ACM),
+  timestamp = (2009.11.03)
+)"""^^xsd:string .
+
+viso-anno:Lee2006
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@INPROCEEDINGS(Lee2006,
+  author = (Lee, Bongshin and Plaisant, Catherine and Parr, Cynthia Sims and
+	Fekete, Jean-Daniel and Henry, Nathalie),
+  title = (Task taxonomy for graph visualization),
+  booktitle = (BELIV '06: Proceedings of the 2006 AVI workshop on BEyond time and
+	errors),
+  year = (2006),
+  pages = (1--5),
+  address = (New York, NY, USA),
+  publisher = (ACM),
+  abstract = (Our goal is to define a list of tasks for graph visualization that
+	has enough detail and specificity to be useful to: 1) designers who
+	want to improve their system and 2) to evaluators who want to compare
+	graph visualization systems. In this paper, we suggest a list of
+	tasks we believe are commonly encountered while analyzing graph data.
+	We define graph specific objects and demonstrate how all complex
+	tasks could be seen as a series of low-level tasks performed on those
+	objects. We believe that our taxonomy, associated with benchmark
+	datasets and specific tasks, would help evaluators generalize results
+	collected through a series of controlled experiments.),
+  doi = (http://doi.acm.org/10.1145/1168149.1168168),
+  file = (:U\\:\\\\Forschung\\\\Paper\\\\Lee et al. - Task taxonomy for graph visualization.pdf:PDF),
+  isbn = (1-59593-562-2),
+  keywords = (visualization, graph, taxonomy),
+  location = (Venice, Italy),
+  owner = (m.voigt),
+  timestamp = (2009.10.19)
+)"""^^xsd:string .
+
+viso-anno:Mackinlay1986_on_Perceptual_Task
+      rdf:type bibo:Quote ;
+      bibo:pages "118"^^xsd:string ;
+      bixt:documentContent
+              "When interpreting a graphical sentence, a person is confronted with perceptual tasks that correspond to these graphical encoding techniques. Since some perceptual tasks are accomplished more accurately than others, effectiveness criteria can be based on the comparison of the perceptual tasks required by alternative graphical languages."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Paterno
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@article(paterno_task_????,
+	title = (Task models in interactive software systems),
+	lccn = (0024),
+	journal = (Handbook of Software Engineering and Knowledge),
+	author = (F. Paterno and V. V Alfieri)
+)"""^^xsd:string .
+
+viso-anno:Quote_11
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:Andrienko2006 ;
+      bibo:pages "79"^^xsd:string .
+
+viso-anno:Quote_12
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment "Relate task"^^xsd:string ;
+      dct:isPartOf viso-anno:Shneiderman2003 .
+
+viso-anno:Quote_2
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:Andrienko2006 ;
+      bibo:pages "79"^^xsd:string .
+
+viso-anno:Quote_20
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:Shneiderman2003 ;
+      bibo:pages "4"^^xsd:string .
+
+viso-anno:Quote_23
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment "Tasks are activities that have to be performed to reach a goal. They can be either logical activities such as Retrieving information about the movies projected tonight or physical activities such as Selecting the button in the top left corner."^^xsd:string ;
+      dct:isPartOf viso-anno:Paterno ;
+      bibo:pages "2"^^xsd:string .
+
+viso-anno:Quote_25
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment "Hence, a task dealing with a set as a whole implies making a sort of synopsis concerning this set, and therefore can be called a \"synoptic task\". A synopsis is not necessarily verbal; in some cases data may be summarized numerically, graphically or in the form of equations, for example."^^xsd:string ;
+      dct:isPartOf viso-anno:Andrienko2006 ;
+      bibo:pages "83"^^xsd:string .
+
+viso-anno:Quote_26
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:ZhouFeiner1998 .
+
+viso-anno:Quote_27
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:DukeBrodlie2004 ;
+      bibo:pages "2"^^xsd:string ;
+      bibo:section "3.3 Data Models"^^xsd:string ;
+      bixt:documentContent
+              """Regularities (geometric and/or topological) have long been used to structure and organize data, and these all underpin fundamental disinctions, e.g. between structured and unstructured grids. Several taxonomies of data and its organization have been been developed, in particular work by Butler, Pendley, and Bergeron and Kao; other approaches are also notable, for example the lattice model of Hibbard et.al. is significant in addressing error and uncertainty.
+A classification scheme for data proposed by Brodlie emphasises the importance of the underlying field, i.e. the phenomenon that is captured within the data. Building on this, Tory and Möller have developed a visualization taxonomy based on data models rather than data. These two groups of taxonomies (e.g. Bergeron and Kao, and Brodlie), are complimentary; the former concentrate on how data is structured, while the latter the link between data and representation. A synthesis of these two contributions should help to develop the ‘data’ branch of the top-level ontology."""^^xsd:string .
+
+viso-anno:Quote_30
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment ""^^xsd:string ;
+      dct:isPartOf viso-anno:Andrienko2006 .
+
+viso-anno:Quote_31
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:Tweedie1997 .
+
+viso-anno:Quote_56
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing .
+
+viso-anno:Quote_62
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "519"^^xsd:string .
+
+viso-anno:Quote_70
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing .
+
+viso-anno:Quote_71
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing .
+
+viso-anno:Quote_72
+      rdf:type bibo:Quote .
+
+viso-anno:Quote_8
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "111"^^xsd:string ;
+      bixt:documentContent
+              "The codification of graphic design criteria in a form that can be used by the presentation tool [...] The graphic design issues are codified as expressiveness and effectiveness criteria for graphical languages. "^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_9
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:Andrienko2006 ;
+      bibo:pages "78"^^xsd:string .
+
+viso-anno:Quote_Amar
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment "[Composite task combines low level tasks]"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.2005.1532136> .
+
+viso-anno:Quote_Amar2005_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.2005.1532136> .
+
+viso-anno:Quote_Andrienko2005_1
+      rdf:type bibo:Quote ;
+      bibo:pages "18"^^xsd:string ;
+      bixt:documentContent
+              "The value of an attribute"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9783540259947> .
+
+viso-anno:Quote_Andrienko2005_2
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              """###Related Referer and Attributes###
+*Similar: dependent and independent dimensions"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9783540259947> .
+
+viso-anno:Quote_Andrienko2005_3
+      rdf:type bibo:Quote ;
+      rdfs:comment "The authors state that continuity and discreteness are properties of a variable with respect to some independent variable (n-ary-relation)."^^xsd:string ;
+      bibo:pages "27"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9783540259947> .
+
+viso-anno:Quote_Andrienko2005_4
+      rdf:type bibo:Quote ;
+      bibo:pages "171"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9783540259947> .
+
+viso-anno:Quote_Andrienko2005_5
+      rdf:type bibo:Quote ;
+      bibo:pages "18,26"^^xsd:string ;
+      bixt:documentContent
+              "A value of a referrer, or a set of values from multiple referrers."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9783540259947> .
+
+viso-anno:Quote_Armar2005_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:Amar2005 ;
+      bixt:documentContent
+              "[Combines low level tasks]"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.2005.1532136> .
+
+viso-anno:Quote_Baldonado2000_1
+      rdf:type bibo:Quote ;
+      bibo:pages "110"^^xsd:string ;
+      bixt:documentContent
+              "A multiple view system uses two or more distinct views to support the investigation of a single conceptual entity."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/345513.345271> .
+
+viso-anno:Quote_Bertin1981_Keim2002_Tory2004_Mazza2009
+      rdf:type bibo:Quote ;
+      rdfs:comment "These authors use \"Attribute\" as a synonym for \"Dimension\"."^^xsd:string ;
+      bixt:documentContent
+              "###Attribute###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/2945.981847> , <http://dx.doi.org/10.1109/INFVIS.2004.59> , <http://purl.org/viso/bibliography/isbn/3110088681> , <http://purl.org/viso/bibliography/isbn/9781848002180> .
+
+viso-anno:Quote_Bertin1983_1
+      rdf:type bibo:Quote ;
+      rdfs:comment "Bertin separates data into values with attributes and structures that define the data as a whole."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/0299090604> , <http://purl.org/viso/bibliography/isbn/3110088681> ;
+      skos:editorialNote "Two sources given! Which one is correct? Note: This quote is used to annotate multiple resources."^^xsd:string .
+
+viso-anno:Quote_Bertin1983_Adrienko2006
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "Tasks defined by Bertin1983 or Adrienko2006 are defined by using characteristics of data. As they aren't fitting good to this classification, they had a relation to the Action layer defined here. For example, they define terms like compare or lookup task."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/0299090604> , <http://purl.org/viso/bibliography/isbn/9783540259947> .
+
+viso-anno:Quote_Bertin_1
+      rdf:type bibo:Quote ;
+      rdfs:comment "Bertin separates data into values with attributes and structures that define the data as a whole."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/0299090604> , <http://purl.org/viso/bibliography/isbn/3110088681> ;
+      skos:editorialNote "Two sources given! Which one is correct?"^^xsd:string .
+
+viso-anno:Quote_Bezold2009_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "tasks which cannot be decomposed are the to bridge to the level of actions which is verified, e. g., by Bezold2009: “Tasks describe the users activity by combining user actions hierarchically.”"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1007/978-3-642-02247-0_16> .
+
+viso-anno:Quote_Card1999_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "###View###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9781558605336> .
+
+viso-anno:Quote_Card1999_2
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "###Visual Mapping###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9781558605336> .
+
+viso-anno:Quote_Card1999_3
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "*Visualization Reference Model"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9781558605336> .
+
+viso-anno:Quote_Card1999_Schumann1999_Kosara2007
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "Here visualization is defined as the process. The result of this process is a Graphic Representation."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/IV.2007.130> , <http://purl.org/viso/bibliography/isbn/9781558605336> , <http://purl.org/viso/bibliography/isbn/9783540649441> .
+
+viso-anno:Quote_Card2007_1
+      rdf:type bibo:Quote ;
+      bibo:pageStart "524"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_10
+      rdf:type bibo:Quote ;
+      rdfs:comment """We consider \"Data type\" the same as the class \"Data\" in ontological modeling. Card uses data types to distinguish a) spatial axes and b) nodes and links in network visual structures: 
+**unstructured  (unlabeled) 
+**nominal (labeled) 
+**ordinal (labeled with an ordinal quantity)
+**quantitative (weighted links)"""^^xsd:string ;
+      bibo:pages "519, 530"^^xsd:string ;
+      bixt:documentContent
+              """###Data Type###
+"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_11
+      rdf:type bibo:Quote ;
+      rdfs:comment "Card uses \"attribute\" and \"variable\" as synonyms."^^xsd:string ;
+      bibo:pages "518"^^xsd:string ;
+      bixt:documentContent
+              """###Attribute###
+attributes or variables"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> ;
+      skos:editorialNote "Check: Does he use it also synonymous with dimension?"^^xsd:string .
+
+viso-anno:Quote_Card2007_12
+      rdf:type bibo:Quote ;
+      bibo:pages "521"^^xsd:string ;
+      bixt:documentContent
+              "Interval (can do subtraction on values, but no natural zero and can't compute ratios). Example: |10. Dec. 1978-4 Jun. 1982|"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_13
+      rdf:type bibo:Quote ;
+      bibo:pages "521"^^xsd:string ;
+      bixt:documentContent
+              "Nominal (can only distinguish whether two values are equal). Example: {Goldfinger, Ben Hur, Star Wars}"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_14
+      rdf:type bibo:Quote ;
+      bibo:pages "521"^^xsd:string ;
+      bixt:documentContent
+              "Ordinal (can distinguish whether one value is less or greater but not difference or ratio). Example: <Small, Medium, Large>"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_15
+      rdf:type bibo:Quote ;
+      bibo:pages "521"^^xsd:string ;
+      bixt:documentContent
+              "Quantitative (can do arithmetic on values). Example: |0-100| kg"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_16
+      rdf:type bibo:Quote ;
+      bibo:pages "520"^^xsd:string ;
+      bixt:documentContent
+              """Variables imply a scale of measurement, and it is important to
+keep these straight. The most important to distinguish are
+
+N= Nominal (are only = or # to other values) 
+O = Ordinal(obeys a < relation)
+Q = Quantitative (can do arithmetic on them)
+
+A nominal variable N is an unordered set, such as film titles {Goldfinger, Ben Hur, Star Wars}. An ordinal variable 0 is a tuple (ordered set), such as film ratings (G, PG, PG-13, R). A quantitative variable  Q is a numeric range, such as film length [O,360].
+In addition to the three basic types of variables, subtypes represent important properties of the world associated with specialized visual conventions. We sometimes distinguish the subtype QuantitativeSpatial(Qg) for intrinsically spatial variables common in scientificvisualization and the subtype Quantitative Geographical (Qp) for spatial variables that are specifically geophysical coordinates. Other important subtypes are similarity metrics Quantitative Similarity (Q,,), and the temporal variablesQuantitative Time (Q) and Ordinal Time (0,) We can also distinguish Interval Scales (I) (like Quantitative Scales, but since there is not a natural zero point, it is not meaningful to take ratios). An example would be dates. It is meaningful to subtract two dates (June 5, 2002 - June 3, 2002 = 2 days), but it does not make sense to divide them (June 5,2002 + June 23, 2002 = Undefined). Finally, we can define an Unstructured Scale (4, whose only value is present or absent (e.g., an error flag)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_17
+      rdf:type bibo:Quote ;
+      bibo:pages "530"^^xsd:string ;
+      bixt:documentContent
+              "We can distinguish the same types of nodes and links in network Visual Structures that we did for spatial axes: (a) Unstructured (unlabeled), (b) Nominal (labeled), (c) Ordinal (labeled with an ordinal quantity), or (d) Quantitative (weighted links)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_18
+      rdf:type bibo:Quote ;
+      bibo:pages "521"^^xsd:string ;
+      bixt:documentContent
+              "Unstructured (can only distinguish presence or absence). Example: Error flag"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_19
+      rdf:type bibo:Quote ;
+      bibo:pages "519"^^xsd:string ;
+      bixt:documentContent
+              """===View Transformation===
+*References:[31]
+*References:[28](page 519, in the context of the visualization reference model)"""^^xsd:string .
+
+viso-anno:Quote_Card2007_2
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "524"^^xsd:string ;
+      bixt:documentContent
+              """INTERACTIVE VISUAL STRUCTURES
+
+* Dynamic Queries
+* Magic lens (moveable filter)
+* Overview + detail
+* Linking and brushing
+* Extraction and comparison
+* Attribute explorer"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_3
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "519"^^xsd:string ;
+      bixt:documentContent
+              """###Basic Object###
+For example, in the FilmFinder, the basic objects (or \"cases\") are films."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_4
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "526"^^xsd:string ;
+      bixt:documentContent
+              "In fact, one popular 3-variable information visualization that lies between 2D and 3D is the information landscape (Fig. 26.16[m]). This is essentially a 2D scattergraphwith one datavariable extruded into the third spatial dimension. Its essence is that two of the spatial dimensions are more tightly coupled and often relate to a 2D visualization. For example, the two dimensions might form a map with the bars showing the GDP of each region."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_5
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "534"^^xsd:string ;
+      bixt:documentContent
+              "Interactivity is what makes visualization a new medium, separating it from generations of excellent work on scientific diagrams and data graphics. Interactivity means controlling the parameters in the visualization reference model (Fig. 26.10). This naturally means that there are different types of interactivity, because the user could control the parameters to data transformations, to visual mappings, or to view transformations. It also means that there are different forms of interactivity based on the response cycle of the interaction. As an approximation, we can think of there being three time constants that govern interactivity, which we take to be 0.1 sec, 1 sec , and 10 sec (Card, Moran, & Newell, 1986) (although the ideal value of these may be somewhat less, say, 0.07 sec, 0.7 sec, and 7 sec)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_6
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "A permutation matrix is a graphic rendition of a cases x variables display."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_7
+      rdf:type bibo:Quote ;
+      bibo:pages "520"^^xsd:string ;
+      bixt:documentContent
+              "###Spatial Substrate###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_8
+      rdf:type bibo:Quote ;
+      bibo:pages "530"^^xsd:string ;
+      bixt:documentContent
+              "Roberts: Enclosure: ===Enclosure=== *Examples: Venn-Diagramms, Enclosure Trees, TreeMaps (squarified)"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2007_9
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "###topological structure###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card2009_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "Local position might have another meaning as in the overview."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card99_on_enclosure_trees
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "530"^^xsd:string ;
+      bixt:documentContent
+              "Enclosure uses lines to hierarchically enclose nested subsets of the tree. Figure 26.20 (d) is an enclosure tree encoding of Darwin's tree in Fig. 26.20 (a). We have already seen one attempt to use tree enclosure, TreeMaps (Fig. 26.5)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Card99_on_tree_maps
+      rdf:type bibo:Quote ;
+      bibo:pageStart "530"^^xsd:string ;
+      bixt:documentContent
+              "We have already seen one attempt to use tree enclosure, TreeMaps (Fig. 26.5). TreeMaps make use of all the space and stays within prescribed space boundaries, but they do not represent the nonterminal nodes of the tree very well and similar leaves can have wildly different aspect ratios. Recent variations on TreeMaps found ways to \"squarify\" nodes (Shneiderman & Wattenberg, 2001), mitigating this problem."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article2> .
+
+viso-anno:Quote_Chi1998
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "*In Chi1998 Analytical Abstraction stands for the second stage in Chi's data stage reference model, the stage of \"data about data, or information [..]\""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.1998.729560> .
+
+viso-anno:Quote_Chi1998_2
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              """###Visualization Abstraction###
+In Chi1998 Visualization Abstraction stands for the third stage in Chi's data stage reference model, the stage of vizualizable information (on a screen using a information technique)"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.1998.729560> ;
+      skos:editorialNote "Original citation? Or own text?"^^xsd:string .
+
+viso-anno:Quote_Chi1998_3
+      rdf:type bibo:Quote ;
+      rdfs:comment "Value stands for the first stage in his data stage reference model, the stage of raw data"^^xsd:string ;
+      bixt:documentContent
+              "###Value###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.1998.729560> .
+
+viso-anno:Quote_Chi1998_4
+      rdf:type bibo:Quote ;
+      bibo:pages "3"^^xsd:string ;
+      bixt:documentContent
+              """Another dimension of operators is whether it is view or value oriented. By value, we mean the raw data, whereas view is the visualization end–product. A value operator changes the data source by such processes as adding or deleting subsets of the data, filtering or modifying the raw data, and performing a Fourier Transform on an image. A value operator fundamentally generates a new data set.
+A view operator, on the other hand, changes the visualization content only. Examples of such operators include 3D rotation, translation, and zooming, a horizontal or vertical flip of an image, and changing transparency values of a surface in order to see the underlying structures better. A view operator fundamentally does not change the underlying data set.
+The distinction between a view and value operator is not always clear."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.1998.729560> .
+
+viso-anno:Quote_Chi1998_5
+      rdf:type bibo:Quote ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.1998.729560> .
+
+viso-anno:Quote_Chi1998_6
+      rdf:type bibo:Quote ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.1998.729560> .
+
+viso-anno:Quote_Chi1998_7
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              """##View###
+View stands for the last stage in Chi's data stage reference model, the stage of the picture presented to the user (end-product)"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.1998.729560> .
+
+viso-anno:Quote_Chi1999_2
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "###View Transformation###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9781558605336> .
+
+viso-anno:Quote_Chi2000_1
+      rdf:type bibo:Quote ;
+      rdfs:comment "First transformation in Chi's pipeline model"^^xsd:string ;
+      bixt:documentContent
+              "Generates some form of analytical abstraction from the value (usually by extraction)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.2000.885092> .
+
+viso-anno:Quote_Chi2000_2
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "###Visual Mapping Transformation### *Third transformation in Chi's pipeline model (data state reference model): \"Takes information that is in a visualizable format and presents a graphical view.\""^^xsd:string .
+
+viso-anno:Quote_Chi2000_3
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "*Data State Reference Model"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.2000.885092> .
+
+viso-anno:Quote_Chi2000_4
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              """###Stage Operator, Within (Value Stage Operator | Analytical SO | Visualization SO| View SO)###
+*Resources: Within Stage Operators are mentioned in the context of the Data State Reference Model [35]"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.2000.885092> .
+
+viso-anno:Quote_ChuaRoth1996_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "1"^^xsd:string ;
+      bixt:documentContent
+              "In the last few years many interactive techniques and metaphors have been introduced for different visualization types. These techniques allow users to deform space[6], deform objects[1], view objects at different levels of abstraction[3] and a wide variety of other functions."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.1996.559213> .
+
+viso-anno:Quote_ChuaRoth1996_2
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "5"^^xsd:string ;
+      bixt:documentContent
+              "There are three BVI classes: graphical operations, which change the appearance of visualizations, data operations which manipulate data encoded in visualizations, and set operations which create and manipulate object sets. Data objects are only mapped to graphical objects, not spaces, so data operations will not refer to space entities."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/INFVIS.1996.559213> .
+
+viso-anno:Quote_DukeBrodlie2004_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "2"^^xsd:string ;
+      bibo:section "3.2"^^xsd:string ;
+      bixt:documentContent
+              """###Representation###
+Tufte’s books on visual representation illustrate how the use of pictures to understand ‘data’ predates modern interest by some millenia! Tufte builds on Bertin’s 1967 semiology of graphics that sets out a taxonomy of marks and representation systems; both in turn draw on the semiotic approach established by Peirce around a century ago. An interesting bridge between this work and the more formal approach of Brodlie et.al. (see below) was set out by Keller and Keller in a book on visual cues, in which example representations are indexed by properties of the data field (numbers of dependent and independent variables), and by the visualization goal.
+Data (field) and representation are coupled; some models of representation are specific to classes of data. Thus for example work in flow visualization and graph visualization have distinct categories of representations. Many visualization problems call for the composition of multiple representations; an ontology will need concepts to distinguish for example graphical superimposition from separate representations linked via some common frame of reference."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VISUAL.2004.10> .
+
+viso-anno:Quote_DukeBrodlie2004_2
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bixt:documentContent
+              "###Technique###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VISUAL.2004.10> .
+
+viso-anno:Quote_DukeBrodlie2004_3
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "*Context: Visualization Goal"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VISUAL.2004.10> .
+
+viso-anno:Quote_Engelhardt2002
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "55"^^xsd:string ;
+      bixt:documentContent
+              "Let me now add a few general remarks about the difference between object-to-space relations and object-to-object relations. See the table on the next page (Figure 2-24). In object-to-object relations (spatial clustering, separation by separators, lineup, linking by connectors, containment, superimposition), an object is anchored to one or more other objects. For example, a connector is anchored to the nodes that it connects, and a label is anchored to the node that it labels. In object-to-space relations on the other hand, an object is anchored to one or more spatial positions in the involved (distorted) metric space. We will see, for example, that a point locator (e.g. a 'city-dot' on a map) is anchored to a single point, while a surface locator (e.g. a lake on a map) is anchoredd to a set of points. Objects in object-to-object relations usually have a certain degree of freedom in their spatial positioning (e.g. on a map, a city- name may appear above or below its 'city-dot'). This could be referred to as 'loose' anchoring. Objects in ob]ect-to-space relations however are fixed in theirr spatial positioning in the involved (distorted) metric space (e.g. a 'city-dot' is fixed in its exact position on a map). This could be referred to as 'tight' anchoring. Object-to-object relations can express information regarding association, dissociation, and order. Object-to-space relations can express informationn regarding order, proportion, and direction."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_10
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A composite syntactic structure is a syntactic structure that is constructed from two or more basic syntactic structures, through simultaneous combination and/or nesting (2.5.4)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_100
+      rdf:type bibo:Quote ;
+      bibo:pages "65"^^xsd:string ;
+      bixt:documentContent
+              "Trilinear coordinates are used in triangular charts, which plot the proportional composition of a total with three ingredients (areas of application include election results, and the composition of sediments). Note that such trilinear charts are not integral metric spaces, but that their dimensions are also not 'independent', as they are in most composite metric spaces. Concerning this aspect, trilinear charts may form a separate category."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_101
+      rdf:type bibo:Quote ;
+      bibo:pages "25"^^xsd:string ;
+      bixt:documentContent
+              "A visual attribute is a visually perceivable attribute of a graphic object. "^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_102
+      rdf:type bibo:Quote ;
+      bibo:pages "25"^^xsd:string ;
+      bixt:documentContent
+              "\"Positions, directions and differences in size, shape, brightness, color and texture are measured and assimilated by the eye.\" (Gyorg Kepes (1944), p. 20)"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_103
+      rdf:type bibo:Quote ;
+      bibo:pages "25"^^xsd:string ;
+      bixt:documentContent
+              "For convenience, I propose to divide visual attributes into two groups, which I will call spatial attributes and area-fill attributes."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_104
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "4"^^xsd:string ;
+      bixt:documentContent
+              "Specific visual languages (schemas) can be thought of as having their own set of compositional rules and their own set of categories of graphic constituents with specific syntactic roles."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_105
+      rdf:type bibo:Quote ;
+      bibo:pages "21"^^xsd:string ;
+      bixt:documentContent
+              "As mentioned above, even in seemingly two-dimensional graphic representations graphic objects are often perceived as occupying different visual layers, where some graphic objects appear as being superimposed on other graphic objects, partially occluding them. Visual layers lie at the basis of superimposition as one of the possible types of object-to-object relations (discussed in 2.5.1), and background-inset displays, which are superimpositions of composite objects on each other."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_106
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a syntactic role): A volume locator is a graphic object that is anchored to a specific volume in a meaningful space (2.5.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_107
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "3"^^xsd:string ;
+      bixt:documentContent
+              "Note in particular that with our definition of graphic representations we choose to include written text - regardless of whether it is written with pictorial hieroglyphs or with the letters of the Latin alphabet [...]."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_107_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "142"^^xsd:string ;
+      bixt:documentContent
+              """A written text is a graphic representation in which: 
+- the syntactic structure of the representation is a lineup, 
+- the graphic objects represent expressions in an existing human language, and 
+- the linear ordering within the lineup is determined by the sentential grammar of that language."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_108
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Containment by a Container"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_109
+      rdf:type bibo:Quote ;
+      bibo:pages "65"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_11
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "3.1.6"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_110
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Graphic space is the two-dimensional or (virtual) three-dimensional space that is displayed within a graphic object (2.2)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_111
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Literal"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_112
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a syntactic role): A separator is a line- or band-shaped graphic object that is anchored between other graphic objects, thereby separating them."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_113
+      rdf:type bibo:Quote ;
+      bibo:pages "34"^^xsd:string ;
+      bixt:documentContent
+              """Spatial clustering separates graphic objects through the use of empty space. Another way to separate graphic objects is through the use of a separator. A separator is a line- or band-shaped graphic object that is anchored between thee graphic objects that it separates. The separated objects (the nodes) are anchored to either one side or the other side of the separator(s). [...]
+Separators are free to run in all directions. For example, a set of graphic objects may be separated into subsets by curving separator-lines that 'wriggle' their way through the group in various changing directions. In other cases, separators may be straight, parallel lines. A separation may be ordered or unordered. An ordered separation is a separation in which the spatial order of the resulting subsets of graphic objects is subject to interpretation."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_114
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Cluster"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_115
+      rdf:type bibo:Quote ;
+      bibo:pages "144"^^xsd:string ;
+      bixt:documentContent
+              "A statistical link diagram is a representation that qualifies both as a statistical chart and a link diagram (e.g. quantitative flows are represented by the thickness of lines)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_116
+      rdf:type bibo:Quote ;
+      bibo:pages "70"^^xsd:string ;
+      bibo:section "FIGURE 2-35"^^xsd:string ;
+      bixt:documentContent
+              """###Type of Information###
+Type of information that is expressed by different spatial structures. See section 3.4 for a very brief discussion of types of information."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_117
+      rdf:type bibo:Quote ;
+      bibo:pages "70"^^xsd:string ;
+      bixt:documentContent
+              """###Ordinal type of information###
+Ordinal relations between categories of elements (ordered categories of elements)"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_118
+      rdf:type bibo:Quote ;
+      bibo:pages "70"^^xsd:string ;
+      bixt:documentContent
+              """###Nominal type of information###
+Nominal relations between elements (categories of elements)"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_119
+      rdf:type bibo:Quote ;
+      bibo:pages "57"^^xsd:string ;
+      bixt:documentContent
+              "A spatial dimension that is neither structured by separators (2.5.1) nor by a metric space, is referred to as an unstructured dimension."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_12
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a syntactic role): A connector is a graphic object in the shape of an arrow, band or line that is anchored to two other graphic objects (nodes), connecting them (2.5.1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_13
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a syntactic role): A container is a graphic object that contains other graphic objects by visually surrounding them (2.5.1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_14
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Containment is a basic syntactic structure, see container (2.5.1)"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_15
+      rdf:type bibo:Quote ;
+      rdfs:comment "Engelhardt uses \"Orientation\" interchangeably to \"Coordinate\"."^^xsd:string ;
+      bibo:pages "65"^^xsd:string ;
+      bixt:documentContent
+              """###Orientation###
+There are a few common orientations for spatial dimensions: rectilinear coordinates: horizontal and vertical, plus - in 3-D graphics - distal (variation of the 'distance' from the viewer), or polar coordinates: circular (angular rotation around a center) and radial (away from the center)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_16
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Type of correspondence is the type of relationship between what is shown and what is meant. Type of correspondence may be literal, metonymic, metaphoric, rebus-based, or arbitrary-conventional (3.1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_17
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(an informational role): Decoration objects are graphic objects that serve neither as information objects nor as reference objects, and that could be erased without affecting the intended representation of information (data). They serve as embellishment, and may or may not be related to the context and theme of the represented information (3.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_18
+      rdf:type bibo:Quote ;
+      bibo:pageStart "65"^^xsd:string ;
+      bixt:documentContent
+              "variation of the 'distance' from the viewer"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_19
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of meaningful space): A distorted metric space is a meaningful space that can be thought of as a metric space that was printed on a 'rubber sheet' and then stretched non-homogeneously, preserving both order and approximate directions, but not preserving the ratios of spatial distances (2.5.2)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_2
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:Engelhardt2002 ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Type of correspondence is arbitrary-conventional if it seems to be based on pure convention. Note that in many cases the current users of the concerned representation may simply not be aware of the fact that the representation originated involving one of the other types of correspondence (3.1.5)."^^xsd:string .
+
+viso-anno:Quote_Engelhardt2002_20
+      rdf:type bibo:Quote ;
+      bibo:pageStart "65"^^xsd:string ;
+      bixt:documentContent
+              "Some graphic representations involve distorted metric spaces such as 'exploded' views and 'fisheye' views. Most subway maps involve a distorted metric space. A distorted metric space is a graphic space that can be thought off as a metric space that was printed on a 'rubber sheet' and then stretched non-homogeneously, preserving both order and approximate directions, but not preserving the ratios of spatial distances. [57] (p. 65)"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_21
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "23"^^xsd:string ;
+      bixt:documentContent
+              """The graphic objects at the most detailed level of a syntactic decomposition are referred to as elementary graphic objects. The level of detail of a syntactic decomposition will usually be chosen such that, with regard to semantics, an elementary graphic object will be a 'basic-level' meaningful object (often standing for some concept, entity, or occurrence).
+Useful levels of detail for distinguishing meaningful graphic objects depend on the function of the graphic representation in its communicational context andd on the goal of the compositional analysis."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_22
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "An elementary graphic object is a graphic object at the most detailed level of a syntactic decomposition. The level of detail of a syntactic decomposition will usually be chosen such that, with regard to semantics, an elementary graphic object will be a 'basic-level' meaningful object (often standing for some concept, entity, or occurrence) (2.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_23
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "34"^^xsd:string ;
+      bixt:documentContent
+              "Spatial clustering separates graphic objects through the use of empty space."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_24
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of composite syntactic structure): A graphic multiple is a multipanel display in which the panels can be regarded as variations of a single representation. These variations have the same design and the same general syntactic structure (usually based on a meaningful space), but they display different data (2.5.4)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_25
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "23"^^xsd:string ;
+      bixt:documentContent
+              "A graphic object is a 'carrier' of visual attributes such as size, shape and color. Often a graphic object is equated with its shape, and the shape is regarded as the 'carrier' of the other visual attributes (e.g. \"a large red square\"). Visual attributes are discussed in section 2.2."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_26
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Graphic representations, as well as their graphic constituents, are graphic objects. A graphic object may be an elementary graphic object or a composite graphic object (2.1 and 2.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_27
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A graphic representation is a visible artifact on a more or less flat surface, that was created in order to express information (1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_28
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "2,23,137"^^xsd:string ;
+      bixt:documentContent
+              """A graphic representation is a visible artifact on a more or less flat surface, that was created in order to express information. (p. 2) (See page 9 for difference between interactive, dynamic, static.)
+
+It was noted in section 2.1 that we will regard a graphic representation as a graphic object, and we will also regard the graphic constituents of a graphic representationn as graphic objects. This notion of graphic objects incorporates the recursive notion of composite graphic objects and their graphic sub-objects [...]. (p. 23)
+
+The main criteria in most existing classifications of graphic representations seem to be based on combinations of: 
+- the type of syntactic structure that is involved in the representation, and
+- the type of information that is expressed in the representation. (p. 137)"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_29
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment "Taken from a section on graphic space."^^xsd:string ;
+      bibo:pages "21"^^xsd:string ;
+      bixt:documentContent
+              "[...] our notion of spatial structure will not concern the physical space of the presen tation surface, but the two-dimensional or three-dimensional graphic space that is displayed on that presentation surface."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_3
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A background-inset display is a nested syntactic structure that consists of a superimposition of one or more composite graphic objects on a background object."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_30
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A graphic sub-object is a graphic object that is part of a composite graphic object (2.1 and 2.3)"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_31
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A grid line is a line-shaped graphic object that serves to mark a meaningful space (2.5.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_32
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "141"^^xsd:string ;
+      bixt:documentContent
+              "A grouping diagram is a graphic representation in which the syntactic structuree serves to express the categorization of a set of elements. The syntactic structure of a grouping diagram may consist of a spatial clustering, of separations by separators, or of (overlapping) containers (all discussed in sub- section 2.5.1). This type of representation involves 'grouping' in the sense proposedd by Richards (1984)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_33
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(an informational role): Information objects are those graphic objects within a graphic representation that would have to be adjusted if the information (data) that one intends to represent would change (3.3). Compare with: reference object and decoration object."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_34
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "The informational role of a graphic object is the role that it plays within a graphic representation with regard to the conveying of information. We distinguish three main informational roles: information object, reference object or decoration object (3.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_35
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of meaningful space): An integral metric space is aa two- or three-dimensional metric space in which all geometric properties of Euclidian space are subject to interpretation. This means that in ann integral metric space, a ratio between two spatial distances is perceived as meaningful, regardless of the directions in which these two distances are measured (e.g. horizontally, vertically, diagonally, or in any direction inbetween) (2.5.2). Compare with: composite metric space."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_36
+      rdf:type bibo:Quote ;
+      bibo:pages "57"^^xsd:string ;
+      bixt:documentContent
+              """An integral metric space is a two- or three-dimensional graphic space in whichh all geometric properties of Euclidian space are subject to interpretation. Examples: a topographic map, a drawing of a three-dimensional physicall object (e.g. the ear in figure 2-16).
+
+The difference between integral and composite metric space can be specified in the following way. In an integralintegral metric space, the ratio between any two spatial distances is perceived as meaningful, regardless of the directions in which these two dis- tancess are measured (e.g. horizontally, vertically, diagonally, or in any directionn in-between). On a map for example, one might compare how far variouss people live from their respective jobs, regardless of the directions in whichh these people commute. In a composite metric space on the other hand
+(e.g. a two-axis chart), the ratio between two spatial distances is only perceived as meaningful if these two distances are measured in certain directions (due to the way the space is constructed)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_37
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A label is a graphic object that is anchored to another graphic object by spatial clustering (sometimes also involving containment or superimposition), or through linking by a connector (2.5.1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_38
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(an informational role): Legend objects are graphic objects that explain symbols and/or visual attributes that are used in a graphic representation. Most legend objects are composite graphic objects, structured as a table with one column displaying (some of) the used symbols and/or visual attributes, and another column displaying a verbal or numerical explanation of their meaning (3.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_39
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              """(a syntactic role): A line locator is a graphic object that is anchored
+to a specific line in a meaningful space (2.5.3)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_4
+      rdf:type bibo:Quote ;
+      bibo:pageStart "57"^^xsd:string ;
+      bixt:documentContent
+              """A basic metric space may either be a graphic space with a single metric axis (such as a time line) or it may be an integral metric space (such as a map):
+- A metric axis creates a graphic space in which ratios of spatial distances, measuredd along the spatial dimension of the axis, are perceived as meaningful. Example: a time line.
+- An integral metric space is a two- or three-dimensional graphic space in whichh all geometric properties of Euclidian space are subject to interpretation. Examples: a topographic map, a drawing of a three-dimensional physical object [...]"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_40
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              """A lineup is a basic syntactic structure in which graphic objects are
+arranged in a 'string': Each object is perceived as having two neighboring objects, except for the two objects at either end of the lineup (2.5.1)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_41
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "140"^^xsd:string ;
+      bixt:documentContent
+              "A link diagram is a graphic representation in which the syntactic structure consists of linking. Syntactic structures that consist of linking can be divided into linear chains, circular chains, trees, and networks (see subsection 2.5.1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_42
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Linking is a basic syntactic structure that involves connectors (2.5.1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_43
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              """(a type of correspondence): Type of correspondence is literal if what is
+shown is based on similarity to the physical object or physical structure that is meant, or on similarity to a prototypical example of the kind of physical object that is meant (3.1.1)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_44
+      rdf:type bibo:Quote ;
+      rdfs:comment "Example is here a picture. Figure 2-34"^^xsd:string ;
+      bibo:section "Figure 2-34"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_45
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "138"^^xsd:string ;
+      bixt:documentContent
+              "A map is a graphic representation in which the syntactic structure is based on an integral metric space (see subsection 2.5.2) that serves to represent a physical arrangement on a geographical surface. This integral metric space mayy be distorted, involving a more or less literal correspondence to the represented physical arrangement. The graphic objects that a map consists of are usually free in their mode of expression: they may be non-pictorial - such as abstract shapes as symbols for cities, and words or numbers as labels - or pictorial - such as pictorial symbols."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_46
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "The graphic space of a composite graphic object is a meaningful space if spatial positions in it are subject to interpretation regardless of whether or not there are graphic sub-objects present at those positions (2.5.2)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_47
+      rdf:type bibo:Quote ;
+      bibo:pages "54"^^xsd:string ;
+      bixt:documentContent
+              "[...] To say it differently, a meaningful space is a graphic space that involves an interpretation function from positions in space to information."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_48
+      rdf:type bibo:Quote ;
+      bibo:pages "2"^^xsd:string ;
+      bixt:documentContent
+              "Many graphic representationss do show three-dimensional spaces and objects, so while the medium of display of a graphic representation is usually flat, what is displayed may certainly be three-dimensional in character [57] (p. 2)"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_49
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of correspondence): Type of correspondence is metaphoric if it is based on a (supposed) analogy between what is shown and what is meant. This may concern either a shared functional characteristic or a structural analogy (3.1.2)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_5
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:Engelhardt2002 ;
+      bibo:pages "144"^^xsd:string ;
+      bixt:documentContent
+              "A chronological link diagram is a representation that qualifies both as a link diagram and as a time chart (e.g. family tree)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_50
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of correspondence): Type of correspondence is metonymic if it is based on a mental association due to the fact that there is (or used to be) a relationship of physical involvement between what is shown andd what is meant. For example, what is shown 'is a part of' or 'is a possible result of' what is meant, or in some other way it 'plays a role in' what is meant (3.1.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_51
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A metric axis is a spatial dimension along which the ratios of spatial distances are perceived as meaningful. A metric axis establishes a metric space (2.5.2)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_52
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a syntactic role): A metric bar is a graphic object in a bar chart that is anchored to two points, extending between them: One end of a metric bar is anchored to the bar chart's base line (or base point in polar coordinates) The other end is anchored to a point at a distance from the base line that is measured along a metric axis (thereby determining the bar's length/height) (2.53)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_53
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of meaningful space): A metric space is a graphic space in which metric aspects of spatial positioning are subject to interpretation, such as the ratios of distances between graphic objects (e.g. 'the distance betwenn A and B is twice the distance between B and C') (2.5.2)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_54
+      rdf:type bibo:Quote ;
+      bibo:pages "54, 57"^^xsd:string ;
+      bixt:documentContent
+              """In the context of this thesis, we will restrict our notion of meaningful space to metric spaces [..] (p. 54)
+
+A metric space is a graphic space in which metric aspects of spatial positioning are subject to interpretation, such as the ratios of distances between objects (e.g. 'the distance between A and B is twice the distance between B and C). We will distinguish basic metric spaces from composite metric spaces. (p. 57)"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_55
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of composite syntactic structure): A multipanel display is a nested syntactic structure in which two or more composite graphic objects are arranged as separate panels, next to each other (2.5.4)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_56
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A nested syntactic structure is a syntactic structure that involves nesting (2.5.4)"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_57
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a way of constructing composite syntactic structures): In a nesting of syntactic structures, a composite graphic object serves as a single graphic object in a syntactic structure at a 'higher level' (2.5.4)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_58
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              """'Node' is the term that we use for the syntactic role that
+is played by a graphic object that does not play any of the other syntactic roles that we have defined (e.g. label, connector, separator) (2.5.1)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_59
+      rdf:type bibo:Quote ;
+      rdfs:comment "Engelhardt gives an overview on terms that other authors used. incl. Card (1999) who calls them \"topological structures\"."^^xsd:string ;
+      bibo:pages "52"^^xsd:string ;
+      bibo:section "Figure 2-23"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_6
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "14"^^xsd:string ;
+      bixt:documentContent
+              "A composite graphic object consists of a graphic space that contains a set of graphic sub-objects. A graphic sub-object may be a composite graphic object itself, or it may be an elementary graphic object."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_60
+      rdf:type bibo:Quote ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_61
+      rdf:type bibo:Quote ;
+      bibo:pages "143"^^xsd:string ;
+      bixt:documentContent
+              "A path map is a representation that qualifies both as a link diagram and as a map."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_62
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "3"^^xsd:string ;
+      bixt:documentContent
+              "According to our definition, a photograph may also serve as a graphic representation, especially if it is augmented with explanatory labels."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_63
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "139"^^xsd:string ;
+      bixt:documentContent
+              "A picture is a graphic representation in which the syntactic structure is based on an integral metric space (see subsection 2.5.2) that serves to represent thee physical structure of physical objects. Like in a map, the integral metric spacee of a picture may be distorted, involving a more or less literal correspondencee to the represented physical structure. While the graphic objects that a map consists of are usually free in their mode of expression, the main graphic objects that a picture consists of involve a pictorial mode of expression (realistic or schematic). However, a picture may also include labels, which are free in their mode of expression."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_64
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a syntactic role): A point locator is a graphic object that is anchored to a specific point in a meaningful space (2.5.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_65
+      rdf:type bibo:Quote ;
+      bibo:pages "65"^^xsd:string ;
+      bixt:documentContent
+              """polar coordinates: circular (angular rotation around a center) and
+radial (away from the center)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_66
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              """In a proportional division the total surface or volume
+of a graphic object is divided into sub-objects, and the relative sizes of
+these sub-objects are subject to interpretation (2.4)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_67
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A proportional repetition is an evenly spaced collection of several identical copies of a graphic object, usually arranged in a lineup, in which the number of copies - and thus the size of the resulting composite object - expresses quantitative information (2.5.1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_68
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of correspondence): Type of correspondence is rebus-based if it is based on the fact that (part of) the spoken word for what is shown sounds like (part of) the spoken word for what is meant (3.1.4)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_69
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(an informational role): Reference objects are those graphic objects within a graphic representation that a) serve to enable the interpretation of information objects, and that b) would not necessarily have to be adjusted if the represented information (data) would change. Reference objects can be divided into spatial reference objects and legend objects (3.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_7
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              """A composite graphic object is a graphic object that
+consistss of a graphic space, a set of graphic objects that are contained in this graphicc space, and a set of graphic relations in which these contained graphicc objects are involved. A graphic object may be either a composite graphicc object itself, or it may be an elementary graphic object (2.1 and 2.3)."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_70
+      rdf:type bibo:Quote ;
+      bibo:pages "34"^^xsd:string ;
+      bixt:documentContent
+              "A separator is a line- or band-shaped graphic object that is anchored between the graphic objects that it separates. The separated objects (the nodes) are anchored to either one side or the other side of the separator(s)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_71
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Separation is a basic syntactic structure"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_72
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of composite syntactic structure): A shared-axis multipanel is a multipanel display consisting of panels that share a metric axis, and that are arranged in a lineup - aligned with each other with regard to this shared metric axis (2.5.4)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_73
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a way of constructing composite syntactic structures): In a simultaneous combination of basic syntactic structures, a set of graphic objects simultaneously participates in two or more basic syntactic structures, at the same syntactic level of object decomposition (2.5.4). Compare with: nesting."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_74
+      rdf:type bibo:Quote ;
+      bibo:pages "25"^^xsd:string ;
+      bixt:documentContent
+              "If we would regard every point of a graphic object as being anchored to its location in graphic space, then varying a spatial attribute of the object would alter this anchoring (at least for some points), while varying an area-fill attribute of the object would not alter this anchoring."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_75
+      rdf:type bibo:Quote ;
+      bibo:pages "27"^^xsd:string ;
+      bixt:documentContent
+              "In this framework spatial position is treated separately, in the context of syntactic structures (2.5)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_76
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Spatial clustering is a basic syntactic structure in which graphicgraphic objects are arranged into two or more groups through the use of within-group proximity versus between-group distance. The involved groupss of graphic objects are referred to as 'clusters' (2.5.1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_77
+      rdf:type bibo:Quote ;
+      bibo:pages "32"^^xsd:string ;
+      bixt:documentContent
+              "Spatial clustering is the spatial arrangement of a set of graphic objects into two or more groups through the use of within-group proximity versus between-group distance. In other words, a spatial clustering of a set of objects willl result in two or more composite objects that contain subsets of the involved objects. These subsets of graphic objects are referred to as clusters. Thee food pyramid in figure 2-08 for example shows clusters of ocean creatures. Spatial clustering entails the separation of (groups of) graphic objects by empty graphic space, and is in that sense related to the separation of graphic objects by a separator, which is discussed further down in this sub-section. "^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_78
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bixt:documentContent
+              "(an informational role): Spatial reference objects are reference objects that mark a meaningful space (e.g. grid lines, axes and their annotations) (3.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_79
+      rdf:type bibo:Quote ;
+      bibo:pages "31"^^xsd:string ;
+      bixt:documentContent
+              "A spatial structure is set of spatial relations in graphic space. Spatial relations may either be object-to-space relations or object-to-object relations (see figure 2-07). A spatial structure that involves neither a meaningful space nor meaningful object-to-object relations is an arbitrary spatial structure: the spatial arrangement of graphic objects is not subject to interpretation."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_8
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a type of meaningful space): A composite metric space is a metric space that is constructed by combining two or more metric axes and/or integral metric spaces. In a composite metric space, a ratio between two spatial distances is only perceived as meaningful if these two distances are measured in certain directions (2.5.2). Compare with: integral metric space."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_80
+      rdf:type bibo:Quote ;
+      bibo:pages "21"^^xsd:string ;
+      bixt:documentContent
+              "Throughoutt this thesis, whenever I talk about the spatial structure of a graphicc representation, I will mean the spatial structure that we 'see' in the representation,, as opposed to the spatial structure into which the marks (e.g. ink,, pixels) are arranged on the presentation surface. In other words, our notionn of spatial structure will not concern the physical space of the presen- tationn surface, but the two-dimensional or three-dimensional graphic space thatt is displayed on that presentation surface"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_81
+      rdf:type bibo:Quote ;
+      bibo:pages "56"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_82
+      rdf:type bibo:Quote ;
+      bibo:pages "65"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_83
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "28"^^xsd:string ;
+      bixt:documentContent
+              "A stacked bar like those shown in figure 2-26 (illustrating offshore dumping of radioactive waste) involves a proportional division along a rectilinear dimension."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_84
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "139"^^xsd:string ;
+      bixt:documentContent
+              """A statistical chart is a graphic representation in which the syntactic structure serves to show (and allows to compare) quantities. In order to do this, such a syntactic structure uses:
+- metric axes (see subsection 2.5.2), such as in a two-axis chart, and/or proportional division of graphic objects (see section 2.4), such as in a pie
+chart, and/ or 
+- variations in visual attributes (see section 2.4), such as variations of size or - much less precise in their interpretation - variations of brightness. A statistical chart usually involves metaphoric correspondence."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_85
+      rdf:type bibo:Quote ;
+      bibo:pages "143"^^xsd:string ;
+      bixt:documentContent
+              "A statistical map is a representation that qualifies both as a statistical chart and as a map (a map that displays quantities)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_86
+      rdf:type bibo:Quote ;
+      bibo:pages "143"^^xsd:string ;
+      bixt:documentContent
+              "A statistical time chart is a representation that qualifies both as a statistical chart and as a time chart."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_87
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Superimposition is a basic syntactic structure that involves a foreground object and a background object. The foreground object is perceived as being 'in front of' the background object, visually occluding part of it (2.5.1)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_88
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "(a syntactic role): A surface locator is a graphic object that is anchored to a specific surface in a meaningful space (2.5.3)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_89
+      rdf:type bibo:Quote ;
+      bibo:pages "7"^^xsd:string ;
+      bixt:documentContent
+              """AA third main aspect that is missing in the existing approaches is a de- scription of the different syntactic rolesthat graphic objects may play within a graphic representation (e.g. a graphic object may serve as a surface locator in a metric space, or as a label for another graphic object, or as a connector between two other graphic objects, etc.
+"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_9
+      rdf:type bibo:Quote ;
+      bibo:pageStart "57f"^^xsd:string ;
+      bixt:documentContent
+              "A composite metric space is a metric space that is constructed from two or more basic metric spaces. See the discussion of composite spatial structures in subsectionn 2.5.4. The simplest type of composite metric space involves the simultaneouss combination of two orthogonal metric axes into a two-axis chart. See for example the rectilinear two-axis charts in figures 2-25 and 2-26, and the polar two-axis chart in figure 2-27."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_90
+      rdf:type bibo:Quote ;
+      bibo:pages "47"^^xsd:string ;
+      bixt:documentContent
+              "There are specific syntactic roles that constituent objects may play within the fixed compositional grammar of a family of composite symbols. The most common ones of these syntactic roles can be referred to as container object (discussed above), content object (indicating the 'specific subject' of thee composite symbol), label (discussed above) and modifier (discussed below).. The terms 'container', 'contents' and 'modifier' are also used by Horton (1994, p. 134-135) in a case study of file icons in Apple's system 7, see figure 2-19."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_91
+      rdf:type bibo:Quote ;
+      bibo:pages "74"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_92
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "A syntactic role is a role that a graphic object may play within a syntactic structure. We distinguish these syntactic roles: node, label, connector, nector, separator, container, point locator, line locator, surface locator, volume locator,locator, metric bar, and grid line (2.5.1 and 2.5.3)"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_93
+      rdf:type bibo:Quote ;
+      bibo:pages "30"^^xsd:string ;
+      bixt:documentContent
+              "The syntactic structure of a composite graphic object is a set of graphic relations in which its constituent graphic objects are involved. "^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_94
+      rdf:type bibo:Quote ;
+      bibo:pages "30"^^xsd:string ;
+      bixt:documentContent
+              "Graphic relations are the ways in which these 'ingredients' are combined into syntactic structures (usually meaningfull ones). In this section we will first examine syntactic structures consisting of object-to-object relations (section 2.5.1), and then syntactic structures consisting of object-to-space relations (section 2.5.2)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_95
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "Basic Syntactic Structure"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_96
+      rdf:type bibo:Quote ;
+      bibo:section "Glossary"^^xsd:string ;
+      bixt:documentContent
+              "The syntactic structure of a composite graphic object is a set of graphic relations in which its constituent graphic objects are involved. A graphic relation may be either an object-to-space relation or an object-to-object relation. A syntactic structure may be either a basic syntactic structure or a composite syntactic. The graphic objects that are involved in a syntactic structure may play different syntactic roles (2.5)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_97
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "141"^^xsd:string ;
+      bixt:documentContent
+              "A table is a graphic representation in which the syntactic structure consists of a simultaneous combination of horizontal separations and vertical separations and/or of a simultaneous combination of horizontal lineups and vertical lineups."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_98
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      dct:isPartOf viso-anno:Engelhardt2002 ;
+      bibo:pages "140"^^xsd:string ;
+      bixt:documentContent
+              "A time chart is a graphic representation in which the syntactic structure serves to show the passing of time. Such a syntactic structure may be an ordered lineup or it may be based on a metric axis. A time chart involves metaphoric correspondence (order/length in graphic space stands metaphorically for order/length in time). According to Tufte, time charts are the most frequently used type of graphic representations."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_99
+      rdf:type bibo:Quote ;
+      bibo:pages "65"^^xsd:string ;
+      bixt:documentContent
+              "Trilinear coordinates are used in triangular charts, which plot the proportional composition of a total with three ingredients (areas of application include election results, and the composition of sediments). Note that such trilinear charts are not integral metric spaces, but that their dimensions are also not 'independent', as they are in most composite metric spaces. Concerning this aspect, trilinear charts may form a separate category."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_On_Texture
+      rdf:type bibo:Quote ;
+      bibo:pages "27"^^xsd:string ;
+      bixt:documentContent
+              "There has been some slight confusion regarding Bertin's treatment of texture. What Bertin means with the French term 'grain' is \"the fineness or coarseness of the constituents of an area\" (Bertin 1983, p. 61), which is our size of texture elements. Another appropriate term may be 'granularity' (Wilkinson 1999, p. 118). However, Bertin's French 'grain' was translated with the broader and therefore somewhat misleading term 'texture' in the 1981 and 1983 translations of his work, which Bertin enormously regrets now (Daru's interview with Bertin, 2000). In his more recent English publications Bertin translates his French 'grain' with the English 'grain' (Bertin 2000). For a discussion of different approaches to texture attributes see MacEachren 1995 (p. 272-275)."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> ;
+      skos:editorialNote "Evtl. add included quotes as actual quote objects."^^xsd:string .
+
+viso-anno:Quote_Engelhardt2002_on_Quantitative_Type_of_Information
+      rdf:type bibo:Quote ;
+      bibo:pages "70"^^xsd:string ;
+      bixt:documentContent
+              """###Quantitative type of information###
+quantitative relations between elements, concerning a single attribute"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Engelhardt2002_on_Type_of_Information_No_Information
+      rdf:type bibo:Quote ;
+      rdfs:comment "Uses the type of information \"no information\"."^^xsd:string ;
+      bibo:pages "70"^^xsd:string ;
+      bixt:documentContent
+              "###No information###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9789057760891> .
+
+viso-anno:Quote_Fikkert2007_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "\"Interaction is the way in which communication between the user(s) and the machine(s) takes place” Fikkert2007"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1007/978-3-540-71949-6_3> .
+
+viso-anno:Quote_Gotz2008
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              """\"Here we define an action as an atomic analytic step performed by a user\"
+
+\"they represent the most basic, meaningful user analytic steps from which we can infer higher-level user tasks and sub-tasks\" 
+
+action have a relation to data (create, edit, delete, sort,...) or to the visual representation.
+
+all Gotz2008"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+viso-anno:Quote_Gotz2008_2
+      rdf:type bibo:Quote ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+viso-anno:Quote_Gotz2008_3
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "corresponds to more objective, concrete analytic goals"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VAST.2008.4677365> .
+
+viso-anno:Quote_Haber1990_Robertson1991_Ware2004_1
+      rdf:type bibo:Quote ;
+      rdfs:comment "Context: Some visualization is appropriate or not."^^xsd:string ;
+      bixt:documentContent
+              "###appropriate###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/38.79454> , <http://purl.org/viso/bibliography/AcademicArticle1> , <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+viso-anno:Quote_Haber1990_Robertson1991_Ware2004_2
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "*Realizes Mapping Rules"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/38.79454> , <http://purl.org/viso/bibliography/AcademicArticle1> , <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+viso-anno:Quote_Haber1990_Robertson1991_Ware2004_3
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              """###parameterize###
+
+    * Context: the mapping is parameterized via interaction
+    * Synonym: adapt?"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/38.79454> , <http://purl.org/viso/bibliography/AcademicArticle1> , <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+viso-anno:Quote_Haber1990_Robertson1991_Ware2004_4
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "*Example: User has intend to gain new insight"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/38.79454> , <http://purl.org/viso/bibliography/AcademicArticle1> , <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+viso-anno:Quote_Katifori2007_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "10:6"^^xsd:string ;
+      bixt:documentContent
+              "Most of the ontology visualization systems [...] along with their main visualization technique, offer a Windows Explorer-like tree view of the ontology."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/1287620.1287621> .
+
+viso-anno:Quote_Katifori2007_2
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bixt:documentContent
+              "Cushion Treemaps, Squarified"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/1287620.1287621> .
+
+viso-anno:Quote_Katifori2007_3
+      rdf:type bibo:Quote ;
+      bibo:pages "10:25"^^xsd:string ;
+      bixt:documentContent
+              "Polyarchies are structures composed of multiple intersecting hierarchies and in Robertson et al. [2002] a Web-based visualization technique called Visual Pivot is proposed for the representation of polyarchies."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/1287620.1287621> ;
+      skos:editorialNote "Nested quotation given."^^xsd:string .
+
+viso-anno:Quote_Lee2006_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/1168149.1168168> .
+
+viso-anno:Quote_Limbourg2003_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "tasks have a composite character which is not part of the activity theory but rather element of most of the task models  see Limbourg2003"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1.1.58.1444> .
+
+viso-anno:Quote_Mackinlay1986_1
+      rdf:type bibo:Quote ;
+      bibo:pageStart "111"^^xsd:string ;
+      bixt:documentContent
+              "[Expressiveness criteria] identify graphical languages that express the desired information"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_10
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "111"^^xsd:string ;
+      bixt:documentContent
+              """###Located Object###
+Each tuple, which is called a located object, indicates the placement of an object at a given location."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_11
+      rdf:type bibo:Quote ;
+      bibo:pageStart "137"^^xsd:string ;
+      bixt:documentContent
+              "###Output Medium###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_12
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment "Mackinlay gives examples of primitive graphical languages: Horizontal axis, Vertical axis, line chart, bar chart, color, shape, orientation, tree, acyclic graph, network, pie chart, venn diagramm"^^xsd:string ;
+      bibo:pages "129"^^xsd:string ;
+      bibo:section "Fig. 22"^^xsd:string ;
+      bixt:documentContent
+              """###Primitive Graphical Language###
+"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_13
+      rdf:type bibo:Quote ;
+      rdfs:comment "The usage of \"Perceptual Task\" in this work is similar to \"Visual Attribute\", but the term focuses on the task that a human has to perform when watching the variable. Cf. another quote in this work (p. 118), where it's stated that the perceptual tasks do correspond to the graphic language."^^xsd:string ;
+      bibo:pages "125"^^xsd:string ;
+      bibo:section "Fig. 15"^^xsd:string ;
+      bixt:documentContent
+              """###Perceptual Task###
+*Position
+*Length
+*Angle
+*Slope
+*Area
+*Volume
+*Color
+*Density
+*Color Hue
+*Color Saturation
+*Texture
+*Connection
+*Containment
+*Shape"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_14
+      rdf:type bibo:Quote ;
+      rdfs:comment "Mackinlay uses the term \"Retinal Technique\" for the following concepts: Size, Saturation, Texture, Color, Orientation, Shape"^^xsd:string ;
+      bibo:pages "130"^^xsd:string ;
+      bibo:section "Fig. 25"^^xsd:string ;
+      bixt:documentContent
+              "###Retinal Technique###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_15
+      rdf:type bibo:Quote ;
+      bibo:pages "131"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_16
+      rdf:type bibo:Quote ;
+      bibo:pages "131"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_17
+      rdf:type bibo:Quote ;
+      bibo:pages "136"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_18
+      rdf:type bibo:Quote ;
+      bibo:pages "116"^^xsd:string ;
+      bixt:documentContent
+              """###Domain Set###
+Each domain set can be one of the following three types [...]: A domain set is nominal when it is a collection of unordered items, such as {Jay, Eagle, Robin). A domain set is ordinal when it is an ordered tuple, such as (Monday, Tuesday, Wednesday). A domain set is quantitative when it is a range, such as [ 0, 273]."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_2
+      rdf:type bibo:Quote ;
+      bibo:pageStart "118"^^xsd:string ;
+      bixt:documentContent
+              "Intuitively, a set of facts is expressible in a language if there is a sentence of the language that encodes every fact in the set."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_3
+      rdf:type bibo:Quote ;
+      rdfs:comment "Similar to Graphical Variables, but focus on the task that a human has to perform when watching the variable."^^xsd:string ;
+      bibo:pageStart "125"^^xsd:string ;
+      bixt:documentContent
+              "###Perceptual Task###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_4
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "131"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_6
+      rdf:type bibo:Quote ;
+      bibo:pages "124"^^xsd:string ;
+      bibo:section "Fig. 13"^^xsd:string ;
+      bixt:documentContent
+              "Area/position presentation of the Price and Mileage relations. The vertical positioning of the marks reduces the chance that a mark is covered. This technique is called jittering; the vertical positioning does not encode any information."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_7
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "111"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_8
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "12"^^xsd:string ;
+      bixt:documentContent
+              "###Node-Link Diagram###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Mackinlay1986_9
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment "after BERTIN, J. Semiology of Graphics, W. J. Berg, Tr. University of Wisconsin Press, Milwaukee, Wis., 1983."^^xsd:string ;
+      bibo:pages "118"^^xsd:string ;
+      bixt:documentContent
+              """###Graphical Mark###
+Graphical presentations use graphical marks, such as points, lines, and areas, to encode information via their positional, temporal, and retinal properties."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/22949.22950> .
+
+viso-anno:Quote_Oberle2006_1
+      rdf:type bibo:Quote ;
+      rdfs:comment "Oberle et al. : Interface has some method"^^xsd:string ;
+      bibo:pages "21"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article3> .
+
+viso-anno:Quote_Oberle2006_2
+      rdf:type bibo:Quote ;
+      bibo:pages "21"^^xsd:string ;
+      bixt:documentContent
+              "Expresses a plan to do by some software. It yields or requires some data. Oberle2006, p21"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article3> .
+
+viso-anno:Quote_Paterno_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "2"^^xsd:string ;
+      bixt:documentContent
+              "Tasks are activities that have to be performed to reach a goal. They can be either logical activities such as Retrieving information about the movies projected tonight or physical activities such as Selecting the button in the top left corner."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/Article4> .
+
+viso-anno:Quote_Plaisant2005_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "# Categories: Keyboard Device, Pointing Device, Speech Device ..."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VLHCC.2005.57> .
+
+viso-anno:Quote_Schumann1999_1
+      rdf:type bibo:Quote ;
+      bibo:pages "12"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9783540649441> .
+
+viso-anno:Quote_Shneiderman1996_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "###Data Type###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VL.1996.545307> .
+
+viso-anno:Quote_Shneiderman1996_2
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              """###network###
+*Context: a datatype"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VL.1996.545307> .
+
+viso-anno:Quote_Shneiderman1996_3
+      rdf:type bibo:Quote ;
+      bibo:pages "2"^^xsd:string ;
+      bixt:documentContent
+              "Most relational and statistical databases are conveniently manipulated as multi-dimensional data in which items with n attributes become points in a n-dimensional space. The interface representation can be 2-dimensional scattergrams with each additional dimension controlled by a slider."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/191666.191775> .
+
+viso-anno:Quote_Shneiderman1996_4
+      rdf:type bibo:Quote ;
+      bibo:pages "2"^^xsd:string ;
+      bixt:documentContent
+              "Linear data types include textual documents, program source code, and alphabetical lists of names which are all organized in a sequential manner."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/191666.191775> .
+
+viso-anno:Quote_Shneiderman1996_5
+      rdf:type bibo:Quote ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VL.1996.545307> .
+
+viso-anno:Quote_Shneiderman1996_6
+      rdf:type bibo:Quote ;
+      bibo:pages "2"^^xsd:string ;
+      bixt:documentContent
+              "Real-world objects such as molecules, the human body, and buildings have items with volume and some potentially complex relationship with other items."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VL.1996.545307> .
+
+viso-anno:Quote_Shneiderman1996_7
+      rdf:type bibo:Quote ;
+      bibo:pages "2"^^xsd:string ;
+      bixt:documentContent
+              """###Planar or map data###
+Planar or map data include geographic maps, floorplans, or newspaper layouts."""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VL.1996.545307> .
+
+viso-anno:Quote_Shneiderman2003_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bibo:pages "2"^^xsd:string ;
+      bixt:documentContent
+              """Overview: Gain an overview of the entire collection.
+Zoom : Zoom in on items of interest Filter: filter out uninteresting items. Details-on-demand: Select an item or group and
+get details when needed. Relate: View relationships among items. History: Keep a history of actions to support undo,
+replay, and progressive refinement. Extract: Allow extraction of sub-collections and of the query parameters. [Here Shneiderman defines seven tasks, but some of the could actually rather be seen as \"Interaction Techniques\".]"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/issn/0740-7459> .
+
+viso-anno:Quote_Shneidermann1994_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              """
+"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1145/191666.191775> .
+
+viso-anno:Quote_Shu2008_Duke2004
+      rdf:type bibo:Quote ;
+      rdfs:comment "These authors describe the field of data in their visualization ontologies and have been considered for this ontology."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1016/j.advengsoft.2007.03.016> , <http://dx.doi.org/10.1109/VISUAL.2004.10> .
+
+viso-anno:Quote_SonYi2007_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              """###Interactivity###
+    * Indicate: show me where I am pointing at
+    * Select: mark something as interesting
+    * Explore: show me something else
+    * Reconfigure: show me a different arrangement
+    * Encode: show me a different representation
+    * Abstract/Elaborate: show me more or less detail
+    * Filter: show me something conditionally
+    * Connect: show me related items
+    * Activate: trigger action
+    * Modify: manipulate elements 
+
+"""^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/TVCG.2007.70515> ;
+      skos:editorialNote "What is the exact relation between Interactivity and the given terms?"^^xsd:string .
+
+viso-anno:Quote_Spence1998_1
+      rdf:type bibo:Quote ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1016/S0953-5438(98)00022-8> .
+
+viso-anno:Quote_Spence2007_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "Interaction between human and computer is at the heart of modern information visualization and for a single overriding reason: the enormous benefit that can accrue from being able to change one's view of a corpus of data. Usually that corpus is so large that no single all-inclusive view is likely to lead to insight. Those who wish to acquire insight must explore, interactively, subsets of that corpus to find their way towards the view that triggers an 'a ha!' experience."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/0132065509> .
+
+viso-anno:Quote_Stevens1946_1
+      rdf:type bibo:Quote ;
+      bibo:pages "679"^^xsd:string ;
+      bixt:documentContent
+              "With the interval scale we come to a form that is \"quantitative\" in the ordinary sense of the word. Almost all the usual statistical measures are applicable here, unless they are the kinds that imply a knowledge of a 'true' zero point. The zero point on an interval scale is a matter of convention or convenience, as is shown by the fact that the scale form remains invariant when a constant is added."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1126/science.103.2684.677> .
+
+viso-anno:Quote_Stevens1946_2
+      rdf:type bibo:Quote ;
+      bibo:pages "679"^^xsd:string ;
+      bixt:documentContent
+              "Ratio scales are those most commonly encountered in physics and are possible only when there exist operations for determining all four relations: equality, rank-order, equality of intervals, and equality of ratios. Once such a scale is erected, its numerical values can be transformed (as from inches to feet) only by multiplying each value by a constant. An absolute zero is always implied, even though the zero value on some scales (e.g. Absolute Temperature) may never be produced. All types of statistical measures are applicable to ratio scales, and only with these scales may we properly indulge in logarithmic transformations such as are involved in the use of decibels. Foremost among the ratio scales is the scale of number itself-cardinal number-the scale we use when we count such things as eggs, pennies, and apples. This scale of the numerosity of aggregates is so basic and so common that it is ordinarily not even mentioned in discussions of measurement."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1126/science.103.2684.677> .
+
+viso-anno:Quote_Ware2004_1
+      rdf:type bibo:Quote ;
+      bibo:pages "23"^^xsd:string ;
+      bixt:documentContent
+              "Entities are generally the objects of interest. People can be entities; hurricanes can be entities. Both fish and fishponds can be entities. A group of things can be considered a single entity if it is convenient- for example, a school of fish."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+viso-anno:Quote_Ware2004_2
+      rdf:type bibo:Quote ;
+      rdfs:comment "Good summary on \"Data Type\""^^xsd:string ;
+      bibo:pages "23"^^xsd:string ;
+      bixt:documentContent
+              "###Data Type###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+viso-anno:Quote_Ware2004_3
+      rdf:type bibo:Quote ;
+      bibo:pages "23"^^xsd:string ;
+      bixt:documentContent
+              "Relations define the structures and patterns that relate entities to one another. Sometimes the relationships are provided explicitly; sometimes discovering relationships is the very purpose of visualization."^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+viso-anno:Quote_Wijk2005_1
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "###appropriate###"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1109/VIS.2005.102> .
+
+viso-anno:Quote_Zhang1996_1
+      rdf:type bibo:Quote , owl:NamedIndividual , owl:Thing ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1006/ijhc.1996.0042> .
+
+viso-anno:Quote_Zhang1997
+      rdf:type bibo:Quote ;
+      bixt:documentContent
+              "Zhang1997 refers to an action as ‘basic unit in problem solving’"^^xsd:string ;
+      bixt:isDocumentPartOf
+              <http://dx.doi.org/10.1006/ijhc.1996.0042> .
+
+viso-anno:Shneiderman2003
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@article(shneiderman_eyes_2003,
+	title = (The eyes have it: A task by data type taxonomy for information visualizations),
+	shorttitle = (The eyes have it),
+	journal = (The craft of information visualization: readings and reflections),
+	author = (B. Shneiderman),
+	year = (2003),
+	keywords = (criteria, details-on-demand, extract, filter, history, mantra, overview, relate, requirements, visualization, zoom),
+	pages = (364–371),
+	annote = ((\\textless)p(\\textgreater)advanced filtering section relevant for faceted browsing (dynamic queries)(\\textless)/p(\\textgreater))
+)"""^^xsd:string .
+
+viso-anno:Tweedie1997
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@INPROCEEDINGS(Tweedie1997,
+  author = (Tweedie, Lisa),
+  title = (Characterizing interactive externalizations),
+  booktitle = (CHI '97: Proceedings of the SIGCHI conference on Human factors in
+	computing systems),
+  year = (1997),
+  pages = (375--382),
+  address = (New York, NY, USA),
+  publisher = (ACM),
+  doi = (http://doi.acm.org/10.1145/258549.258803),
+  file = (:U\\:\\\\Forschung\\\\Paper\\\\Tweedie - Characterizing interactive externalizations.pdf:PDF),
+  isbn = (0-89791-802-9),
+  keywords = (visualization, interaction, taxonomy),
+  location = (Atlanta, Georgia, United States),
+  owner = (m.voigt),
+  review = (- noch lesen),
+  timestamp = (2009.10.14)
+)"""^^xsd:string .
+
+viso-anno:Zhang1996
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@ARTICLE(Zhang1996,
+  author = (Zhang, Jiajie),
+  title = (A representational analysis of relational information displays),
+  journal = (Int. J. Hum.-Comput. Stud.),
+  year = (1996),
+  volume = (45),
+  pages = (59--74),
+  number = (1),
+  abstract = (Graphic and tabular displays are analysed under a common, unified
+	form-relational information displays (RIDs), which are displays that
+	represent relations between dimensions. First, the mapping between
+	the represented and the representing dimensions of RIDs is analysed
+	from the perspective of distributed representations (Zhang & Norman,
+	1994). Second, the structures of RIDs are analysed at three levels:
+	dimensionality, scale types, and dimensional representations. From
+	this analysis, a representational taxonomy is developed that not
+	only can classify all RIDs but also can serve as a framework for
+	systematic studies of RIDs. Third, a task taxonomy of RIDs is developed,
+	which can classify the majority of dimension-based display tasks.
+	Finally, the relation between representations of displays and structures
+	of tasks is analysed in terms of a mapping principle: the information
+	perceivable from a RID should exactly match the information required
+	for the task. Thus, although there are no best displays that are
+	efficient for all types of tasks, there is a correct or incorrect
+	mapping between the representation of a display and the structure
+	of a task.),
+  address = (Duluth, MN, USA),
+  doi = (http://dx.doi.org/10.1006/ijhc.1996.0042),
+  file = (:U\\:\\\\Forschung\\\\Paper\\\\Zhang - A representational analysis of relational information displays.pdf:PDF),
+  issn = (1071-5819),
+  keywords = (visualization, mapping, task, graphical variables),
+  owner = (m.voigt),
+  publisher = (Academic Press, Inc.),
+  timestamp = (2009.10.14)
+)"""^^xsd:string .
+
+viso-anno:ZhouFeiner1998
+      rdf:type bibo:Document , owl:NamedIndividual , owl:Thing ;
+      rdfs:comment """@inproceedings(zhou_visual_1998,
+	title = (Visual task characterization for automated visual discourse synthesis),
+	booktitle = (Proceedings of the (SIGCHI) conference on Human factors in computing systems),
+	author = (M. X Zhou and S. K Feiner),
+	year = (1998),
+	pages = (392–399)
+)"""^^xsd:string .
+
+viso-anno:quote
+      rdf:type bibo:Document .
+
+viso-data:
+      bixt:considersSource
+              viso-anno:Quote_Shu2008_Duke2004 .
+
+viso-data:Characteristic
+      bixt:followsSource viso-anno:Quote_Andrienko2005_1 .
+
+viso-data:Continuous_Variable
+      bixt:considersSource
+              viso-anno:Quote_Andrienko2005_3 .
+
+viso-data:Data
+      bixt:considersSource
+              viso-anno:Quote_27 , viso-anno:Quote_Bertin1983_1 , viso-anno:Quote_Engelhardt2002_116 , viso-anno:Quote_Mackinlay1986_18 ;
+      bixt:followsSource viso-anno:Quote_Card2007_10 , viso-anno:Quote_Shneiderman1996_1 , viso-anno:Quote_Ware2004_2 .
+
+viso-data:Data_Object
+      bixt:synonymLabel "Case"^^xsd:string , "Data Row"^^xsd:string .
+
+viso-data:Data_Structure
+      bixt:considersSource
+              viso-anno:Quote_Bertin_1 .
+
+viso-data:Data_Value
+      bixt:considersSource
+              viso-anno:Quote_Bertin1983_1 .
+
+viso-data:Dimension
+      bixt:considersSource
+              viso-anno:Quote_Andrienko2005_2 , viso-anno:Quote_Bertin1981_Keim2002_Tory2004_Mazza2009 , viso-anno:Quote_Bertin1983_1 , viso-anno:Quote_Card2007_11 .
+
+viso-data:Discrete_Variable
+      bixt:considersSource
+              viso-anno:Quote_Andrienko2005_3 .
+
+viso-data:Distorted_Numerical_Data
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_117 .
+
+viso-data:Graph
+      bixt:followsSource viso-anno:Quote_Shneiderman1996_2 ;
+      bixt:synonymLabel "Network"^^xsd:string .
+
+viso-data:Independent_Variable
+      bixt:followsSource viso-anno:Quote_Andrienko2005_4 .
+
+viso-data:Interval_Scale_of_Measurement
+      bixt:followsSource viso-anno:Quote_Card2007_12 , viso-anno:Quote_Stevens1946_1 .
+
+viso-data:Meta_Data
+      bixt:considersSource
+              viso-anno:Quote_31 .
+
+viso-data:Multidimensional_Data
+      bixt:followsSource viso-anno:Quote_Shneiderman1996_3 ;
+      bixt:synonymLabel "Tabular Data"^^xsd:string ;
+      skos:editorialNote "There could be a property-restriction on has_dimensionality_of_independent_variables, however restricting datatype ranges is not yet possible."^^xsd:string .
+
+viso-data:Multivariate_Data
+      skos:editorialNote "There could be a property-restriction on has_dimensionality_of_dependent_variables, however restricting datatype ranges is not yet possible."^^xsd:string .
+
+viso-data:Nominal_Data
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_118 .
+
+viso-data:Nominal_Scale_of_Measurement
+      bixt:followsSource viso-anno:Quote_Card2007_13 .
+
+viso-data:One-Dimensional_Data
+      bixt:followsSource viso-anno:Quote_Shneiderman1996_4 .
+
+viso-data:Ordinal_Data
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_117 .
+
+viso-data:Ordinal_Scale_of_Measurement
+      bixt:followsSource viso-anno:Quote_Card2007_14 .
+
+viso-data:Physical_Order_Data
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_117 .
+
+viso-data:Polyarchy
+      bixt:followsSource viso-anno:Quote_Katifori2007_3 .
+
+viso-data:Quantitative_Data
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_on_Quantitative_Type_of_Information .
+
+viso-data:Quantitative_Scale_of_Measurement
+      bixt:followsSource viso-anno:Quote_Card2007_15 .
+
+viso-data:Ratio_Scale_of_Measurement
+      bixt:followsSource viso-anno:Quote_Stevens1946_2 .
+
+viso-data:Raw_Data
+      bixt:followsSource <http://purl.org/viso/bibliography/isbn/9781558605336> .
+
+viso-data:Reference
+      bixt:followsSource viso-anno:Quote_Andrienko2005_5 .
+
+viso-data:Relation
+      bixt:followsSource viso-anno:Quote_Ware2004_3 .
+
+viso-data:Scale_of_Measurement
+      bixt:considersSource
+              viso-anno:EngelhardtOnSpatialStructuresAndInformationTypes ;
+      bixt:followsSource viso-anno:Quote_Card2007_16 , viso-anno:Quote_Card2007_17 .
+
+viso-data:Temporal_Data
+      bixt:followsSource viso-anno:Quote_Shneiderman1996_5 .
+
+viso-data:Three-Dimensional_Data
+      bixt:considersSource
+              viso-anno:Quote_Shneiderman1996_6 .
+
+viso-data:Tree
+      bixt:followsSource <http://dx.doi.org/10.1109/VL.1996.545307> .
+
+viso-data:Two-Dimensional_Data
+      bixt:followsSource viso-anno:Quote_Shneiderman1996_7 .
+
+viso-data:Unstructured_Data
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_on_Type_of_Information_No_Information .
+
+viso-data:Unstructured_Scale_of_Measurement
+      bixt:followsSource viso-anno:Quote_Card2007_18 .
+
+viso-facts:Appropriateness
+      bixt:considersSource
+              viso-anno:Quote_Haber1990_Robertson1991_Ware2004_1 , viso-anno:Quote_Schumann1999_1 , viso-anno:Quote_Wijk2005_1 .
+
+viso-facts:Effectiveness
+      skos:editorialNote "add original sources"^^xsd:string .
+
+viso-facts:Expressiveness
+      bixt:followsSource viso-anno:Quote_Mackinlay1986_1 , viso-anno:Quote_Mackinlay1986_2 ;
+      skos:editorialNote "Check if description not original quote."^^xsd:string .
+
+viso-facts:Graphic_Design_Criterion
+      bixt:followsSource viso-anno:Quote_8 .
+
+viso-graphic:Anchoring
+      bixt:followsSource viso-anno:Quote_Engelhardt2002 .
+
+viso-graphic:Application
+      rdfs:comment "An application is a computer program designed to help people perform an activity."^^xsd:string .
+
+viso-graphic:Application_Framework
+      rdfs:comment "An application framework is used by software developers to implement the standard structure of an application for a specific development environment."^^xsd:string .
+
+viso-graphic:Arbitrary-Conventional_Correspondence
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_2 .
+
+viso-graphic:Attribute_Explorer
+      bixt:considersSource
+              viso-anno:Quote_Card2007_2 , viso-anno:Quote_Spence1998_1 .
+
+viso-graphic:Background-Inset_Display
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_3 .
+
+viso-graphic:Basic_Metric_Space
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_4 .
+
+viso-graphic:Case
+      rdfs:seeAlso "Basic Objects"^^xsd:string ;
+      bixt:considersSource
+              viso-anno:Quote_Card2007_3 .
+
+viso-graphic:Case_Composition
+      bixt:followsSource viso-anno:Quote_Mackinlay1986_15 .
+
+viso-graphic:Chronological_Link_Diagram
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_5 .
+
+viso-graphic:Clarity_Attribute
+      skos:editorialNote "compare to Wilkinson: optics"^^xsd:string .
+
+viso-graphic:Composite_Graphic_Object
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_7 ;
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_6 .
+
+viso-graphic:Composite_Metric_Space
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_8 , viso-anno:Quote_Engelhardt2002_9 .
+
+viso-graphic:Composite_Structure
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_10 .
+
+viso-graphic:Composite_Symbol
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_11 .
+
+viso-graphic:Composition_Operator
+      bixt:considersSource
+              viso-anno:Quote_Mackinlay1986_4 .
+
+viso-graphic:Computational_Thing
+      rdfs:comment "Specifying the domain of complete computaional systems is out of scope here. Only need concepts would be developed or were referred. The Common Information Model (CIM) suggested by DTFM as UML model (http://dmtf.org/standards/cim) show the broadness of this domain."^^xsd:string .
+
+viso-graphic:Connector
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_12 .
+
+viso-graphic:Container
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_13 .
+
+viso-graphic:Containment_Relation
+      rdfs:seeAlso viso-anno:Quote_Engelhardt2002_108 ;
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_14 ;
+      bixt:contradictsSource
+              viso-anno:Quote_Card2007_8 .
+
+viso-graphic:Coordinate
+      rdfs:seeAlso viso-anno:Quote_Engelhardt2002_15 .
+
+viso-graphic:Correspondence
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_16 .
+
+viso-graphic:Cylindrical_Coordinate
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_109 .
+
+viso-graphic:Decoration_Object
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_17 .
+
+viso-graphic:Dependent_Variable
+      rdfs:seeAlso "Attribute: N. Andrienko und G. Andrienko, “Exploratory Analysis of Spatial and Temporal Data: A Systematic Approach” (2005). p. 18"^^xsd:string .
+
+viso-graphic:Detail
+      bixt:followsSource viso-anno:Quote_Mackinlay1986_17 .
+
+viso-graphic:Distal_Coordinate
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_18 .
+
+viso-graphic:Distorted_Metric_Space
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_19 , viso-anno:Quote_Engelhardt2002_20 .
+
+viso-graphic:Domain
+      rdfs:comment "Domains will be described using existing domain ontologies."^^xsd:string .
+
+viso-graphic:Elementary_Graphic_Object
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_21 , viso-anno:Quote_Engelhardt2002_22 .
+
+viso-graphic:Empty_Space
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_23 .
+
+viso-graphic:Enclosure_Tree
+      bixt:considersSource
+              viso-anno:Quote_Card99_on_enclosure_trees .
+
+viso-graphic:Entity
+      rdfs:seeAlso viso-graphic:Case ;
+      bixt:followsSource viso-anno:Quote_Ware2004_1 .
+
+viso-graphic:Extraction_and_Comparison
+      bixt:considersSource
+              viso-anno:Quote_Card2007_2 .
+
+viso-graphic:Graphic_Multiple
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_24 ;
+      skos:editorialNote "compare to Tufte: Small Multiples"^^xsd:string .
+
+viso-graphic:Graphic_Object
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_25 , viso-anno:Quote_Engelhardt2002_26 .
+
+viso-graphic:Graphic_Representation
+      bixt:considersSource
+              viso-anno:Quote_DukeBrodlie2004_1 ;
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_27 , viso-anno:Quote_Engelhardt2002_28 .
+
+viso-graphic:Graphic_Space
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_29 ;
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_110 .
+
+viso-graphic:Graphic_Sub-Object
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_30 .
+
+viso-graphic:Grid_Line
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_31 .
+
+viso-graphic:Grouping_Diagram
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_32 .
+
+viso-graphic:Information_Landscape
+      bixt:considersSource
+              viso-anno:Quote_Card2007_4 .
+
+viso-graphic:Information_Object
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_33 .
+
+viso-graphic:Informational_Role
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_34 .
+
+viso-graphic:Integral_Metric_Space
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_35 , viso-anno:Quote_Engelhardt2002_36 .
+
+viso-graphic:Indented_List
+      bixt:considersSource
+              viso-anno:Quote_Katifori2007_1 .
+
+viso-graphic:Interactive_Graphic_Representation
+      bixt:considersSource
+              viso-anno:Quote_Card2007_5 , viso-anno:Quote_SonYi2007_1 ;
+      bixt:followsSource viso-anno:Quote_Spence2007_1 .
+
+viso-graphic:Interactive_Technique
+      bixt:considersSource
+              viso-anno:Quote_ChuaRoth1996_1 , viso-anno:Quote_ChuaRoth1996_2 , viso-anno:Quote_DukeBrodlie2004_2 , viso-anno:Quote_Lee2006_1 , viso-anno:Quote_SonYi2007_1 , viso-anno:Quote_Zhang1996_1 .
+
+viso-graphic:Jittering
+      bixt:considersSource
+              viso-anno:Quote_Mackinlay1986_6 .
+
+viso-graphic:Label
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_37 , viso-anno:Quote_Mackinlay1986_7 .
+
+viso-graphic:Legend_Object
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_38 .
+
+viso-graphic:Line_Locator
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_39 .
+
+viso-graphic:Lineup_Undirected_Relation
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_40 ;
+      skos:editorialNote "compare to Roberts:Alignment"^^xsd:string .
+
+viso-graphic:Link_Diagram
+      rdfs:comment "Also called \"Graph\" or \"Connected Graph\" sometimes, though also plots are called \"graphs\" elsewhere."^^xsd:string ;
+      bixt:considersSource
+              viso-anno:Quote_Mackinlay1986_8 ;
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_41 ;
+      bixt:synonymLabel "Node-Link-Diagram"^^xsd:string .
+
+viso-graphic:Linking_Undirected_Relation
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_42 ;
+      skos:editorialNote "compare to Roberts: Connectivity"^^xsd:string .
+
+viso-graphic:Literal_Correspondence
+      rdfs:seeAlso viso-anno:Quote_Engelhardt2002_111 ;
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_43 .
+
+viso-graphic:Locally_Distorted_Integral_Metric_Space
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_44 .
+
+viso-graphic:Magic_Lens
+      bixt:followsSource viso-anno:Quote_Card2007_2 .
+
+viso-graphic:Map
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_45 .
+
+viso-graphic:Mark
+      rdfs:seeAlso "Graphical Mark"^^xsd:string , "Located Object"^^xsd:string ;
+      bixt:considersSource
+              viso-anno:Quote_Mackinlay1986_10 ;
+      bixt:followsSource viso-anno:Quote_Mackinlay1986_9 .
+
+viso-graphic:Meaningful_Graphic_Space
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_46 , viso-anno:Quote_Engelhardt2002_47 .
+
+viso-graphic:Metaphoric_Correspondence
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_49 .
+
+viso-graphic:Metonymic_Correspondence
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_50 .
+
+viso-graphic:Metric_Axis
+      bixt:contradictsSource
+              viso-anno:Quote_Engelhardt2002_51 ;
+      skos:editorialNote "This seems to be contradictory. Do we follow Engelhardt here or not? Is there is difference between span and create?"^^xsd:string .
+
+viso-graphic:Metric_Bar
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_52 .
+
+viso-graphic:Metric_Space
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_53 , viso-anno:Quote_Engelhardt2002_54 .
+
+viso-graphic:Multi_Panel_Display
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_55 .
+
+viso-graphic:Nested_Structure
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_56 .
+
+viso-graphic:Nesting
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_57 .
+
+viso-graphic:Node_Class
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_58 .
+
+viso-graphic:Object-to-Composite-Metric-Space-Structure
+      skos:example "Two-Axis Chart"^^xsd:string .
+
+viso-graphic:Object-to-Distorted-Integral-Metric-Space-Structure
+      skos:example "Subway Map"^^xsd:string .
+
+viso-graphic:Object-to-Object_Structure
+      bixt:followsSource viso-anno:Quote_Card2007_9 , viso-anno:Quote_Engelhardt2002_59 .
+
+viso-graphic:Object-to-Space_Structure
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_60 ;
+      bixt:contradictsSource
+              viso-anno:EngelhardtOnSpatialStructuresAndInformationTypes .
+
+viso-graphic:Path_Map
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_61 .
+
+viso-graphic:Permutation_Matrix
+      bixt:followsSource viso-anno:Quote_Card2007_6 , <http://purl.org/viso/bibliography/isbn/0299090604> .
+
+viso-graphic:Photograph
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_62 .
+
+viso-graphic:Picture
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_63 .
+
+viso-graphic:Point_Locator
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_64 .
+
+viso-graphic:Polar_Coordinate
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_65 .
+
+viso-graphic:Primary_Graphic_Representation
+      bixt:considersSource
+              viso-anno:Quote_Mackinlay1986_12 .
+
+viso-graphic:Proportional_Division_Relation
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_66 .
+
+viso-graphic:Proportional_Repetition_Relation
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_67 .
+
+viso-graphic:Range_Slider
+      bixt:followsSource viso-anno:Quote_Shneidermann1994_1 .
+
+viso-graphic:Rebus-Based_Correspondence
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_68 .
+
+viso-graphic:Recursive_Composition
+      bixt:followsSource viso-anno:Quote_Mackinlay1986_16 .
+
+viso-graphic:Reference_Object
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_69 .
+
+viso-graphic:Retinal_Attribute
+      skos:editorialNote "after Bertins Retinal Variable. What is the literature source here exactly?"^^xsd:string .
+
+viso-graphic:Semantic_Zoom
+      bixt:followsSource <http://dx.doi.org/10.1145/985692.985706> ;
+      skos:editorialNote "add quote from Wolfgang Aigner, 2009"^^xsd:string .
+
+viso-graphic:Separation_by_Separator_Relation
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_113 , viso-anno:Quote_Engelhardt2002_71 .
+
+viso-graphic:Separator
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_112 , viso-anno:Quote_Engelhardt2002_113 , viso-anno:Quote_Engelhardt2002_70 .
+
+viso-graphic:Shared-Axis_Multipanel
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_72 .
+
+viso-graphic:Simultaneous_Combination
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_73 .
+
+viso-graphic:Size_of_Texture_Elements
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_On_Texture .
+
+viso-graphic:Spatial_Attribute
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_74 , viso-anno:Quote_Engelhardt2002_75 .
+
+viso-graphic:Spatial_Clustering_Relation
+      rdfs:seeAlso viso-anno:Quote_Engelhardt2002_114 ;
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_76 , viso-anno:Quote_Engelhardt2002_77 ;
+      skos:editorialNote "compare to Roberts: Proximity"^^xsd:string .
+
+viso-graphic:Spatial_Reference_Object
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_78 .
+
+viso-graphic:Spatial_Structure
+      bixt:followsSource viso-anno:Quote_Card2007_7 , viso-anno:Quote_Engelhardt2002_79 , viso-anno:Quote_Engelhardt2002_80 , viso-anno:Quote_Engelhardt2002_81 .
+
+viso-graphic:Spherical_Coordinate
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_82 .
+
+viso-graphic:Stacked_Bar
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_83 .
+
+viso-graphic:Statistical_Chart
+      rdfs:seeAlso "Plot"^^xsd:string ;
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_84 .
+
+viso-graphic:Statistical_Link_Diagram
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_115 .
+
+viso-graphic:Statistical_Map
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_85 .
+
+viso-graphic:Statistical_Path_Map
+      rdfs:seeAlso viso-graphic:Statistical_Time_Chart ;
+      bixt:considersSource
+              viso-anno:Engelhardt2002_on_statistical_path_map .
+
+viso-graphic:Statistical_Time_Chart
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_86 .
+
+viso-graphic:Superimposition_Relation
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_87 .
+
+viso-graphic:Surface_Locator
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_88 .
+
+viso-graphic:Symbol
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_11 .
+
+viso-graphic:Syntactic_Role_Class
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_89 ;
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_90 , viso-anno:Quote_Engelhardt2002_91 , viso-anno:Quote_Engelhardt2002_92 .
+
+viso-graphic:Syntactic_Structure
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_95 ;
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_93 , viso-anno:Quote_Engelhardt2002_94 , viso-anno:Quote_Engelhardt2002_96 ;
+      skos:editorialNote "cf. Primitive Graphical Language, Perceptual Tasks, Visualisation Primitive"^^xsd:string .
+
+viso-graphic:Table
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_97 .
+
+viso-graphic:Time_Chart
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_98 .
+
+viso-graphic:Tree_Map
+      bixt:considersSource
+              viso-anno:Quote_Card99_on_tree_maps , viso-anno:Quote_Katifori2007_2 .
+
+viso-graphic:Triangular_Chart
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_99 .
+
+viso-graphic:Trilinear_Coordinate
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_100 .
+
+viso-graphic:View
+      bixt:followsSource viso-anno:Quote_Baldonado2000_1 , <http://purl.org/viso/bibliography/isbn/9781558605336> .
+
+viso-graphic:View_State
+      rdfs:seeAlso "Image"^^xsd:string , "Rendering"^^xsd:string .
+
+viso-graphic:View_Transformation
+      rdfs:seeAlso "Projection and Rendering (Engelhardt, 2002, p. 21)"^^xsd:string .
+
+viso-graphic:Visual_Attribute
+      bixt:considersSource
+              viso-anno:Mackinlay1986_on_Perceptual_Task , viso-anno:Quote_Mackinlay1986_13 , viso-anno:Quote_Mackinlay1986_14 ;
+      bixt:followsSource <http://dx.doi.org/10.1109/38.79454> , viso-anno:Quote_Engelhardt2002_101 , viso-anno:Quote_Engelhardt2002_102 , viso-anno:Quote_Engelhardt2002_103 , <http://purl.org/viso/bibliography/AcademicArticle1> , <http://purl.org/viso/bibliography/isbn/9781558608191> .
+
+viso-graphic:Visual_Language
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_104 .
+
+viso-graphic:Visual_Layer
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_105 .
+
+viso-graphic:Visualisation_Intent
+      rdfs:seeAlso "Goal"^^xsd:string , "Reason"^^xsd:string .
+
+viso-graphic:Volume_Locator
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_106 .
+
+viso-graphic:World_within_World
+      bixt:followsSource viso-anno:Quote_Card2009_1 .
+
+viso-graphic:Written_Text
+      bixt:considersSource
+              viso-anno:Quote_Engelhardt2002_107 , viso-anno:Quote_Engelhardt2002_107_1 .
+
+viso-graphic:not_suitable_to_visualize
+      rdfs:seeAlso "acceptable / appropriate to visualize (Engelhardt 2002, p. 135)"^^xsd:string .
+
+<http://purl.org/viso/system/Interaction_Device>
+      bixt:followsSource viso-anno:Quote_Plaisant2005_1 .
+
+<http://purl.org/viso/system/Interface>
+      bixt:considersSource
+              viso-anno:Quote_Oberle2006_1 .
+
+<http://purl.org/viso/system/Medium_of_Display>
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_48 , viso-anno:Quote_Mackinlay1986_11 .
+
+<http://purl.org/viso/system/Multiple_Views_System>
+      bixt:followsSource viso-anno:Quote_Baldonado2000_1 .
+
+<http://purl.org/viso/system/Software>
+      bixt:considersSource
+              <http://purl.org/viso/bibliography/Article3> .
+
+<http://purl.org/viso/system/Unstructured_Dimension>
+      bixt:followsSource viso-anno:Quote_Engelhardt2002_119 .

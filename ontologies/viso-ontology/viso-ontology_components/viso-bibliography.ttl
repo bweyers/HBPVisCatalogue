@@ -1,0 +1,2658 @@
+@prefix address:  <http://schemas.talis.com/2005/address/schema#> .
+@prefix bibo:    <http://purl.org/ontology/bibo/> .
+@prefix dct:     <http://purl.org/dc/terms/> .
+@prefix foaf:    <http://xmlns.com/foaf/0.1/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix viso-bibliography:  <http://purl.org/viso/bibliography/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+<http://dx.doi.org/10.1.1.58.1444>
+      rdf:type bibo:Article ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn/9780805844320> ;
+      dct:title "Comparing task models for user interface design"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Limbourg"^^xsd:string ;
+                rdf:_2  "Vanderdonckt"^^xsd:string
+              ] ;
+      bibo:doi "10.1.1.58.1444"^^xsd:string ;
+      bibo:pages "135–154"^^xsd:string ;
+      bibo:uri "http://dx.doi.org/10.1.1.58.1444"^^xsd:string .
+
+<http://dx.doi.org/10.1002/asi.21215>
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Plaisant , viso-bibliography:Schneiderman ;
+      dct:date "1998"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue6 ;
+      dct:title "Designing the user interface: strategies for effective human-computer interaction" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Schneiderman"^^xsd:string ;
+                rdf:_2  "Plaisant"^^xsd:string
+              ] ;
+      bibo:doi "10.1002/asi.21215" ;
+      bibo:shortTitle "Designing the user interface" ;
+      bibo:uri "http://kbpublisher.gu-scs.com/kb_file/MPTM642%20-%20Summer%202011%20-%20Human%20Computer%20Interaction.pdf" .
+
+<http://dx.doi.org/10.1006/ijhc.1996.0042>
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Zhang ;
+      dct:date "1996"^^xsd:string ;
+      dct:title "A representational analysis of relational information displays" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Zhang"
+              ] ;
+      bibo:doi "10.1006/ijhc.1996.0042" ;
+      bibo:pages "59-74" ;
+      bibo:uri "http://dl.acm.org/citation.cfm?id=238922" .
+
+<http://dx.doi.org/10.1007/978-3-540-71949-6_3>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Ambros , viso-bibliography:Bierz , viso-bibliography:Fikkert , viso-bibliography:Jankun-Kelly ;
+      dct:date "2007-07"^^xsd:string ;
+      dct:title "Interacting with Visualizations"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Fikkert"^^xsd:string ;
+                rdf:_2  "Ambros"^^xsd:string ;
+                rdf:_3  "Bierz"^^xsd:string ;
+                rdf:_4  "Jankun-Kelly"^^xsd:string
+              ] ;
+      bibo:doi "10.1201/9781420088861.fmatt"^^xsd:string ;
+      bibo:isbn "978-3-540-71948-9"^^xsd:string ;
+      bibo:issn "0302-9743"^^xsd:string ;
+      bibo:pageEnd "162"^^xsd:string ;
+      bibo:pageStart "77"^^xsd:string ;
+      bibo:producer viso-bibliography:Springer ;
+      bibo:shortDescription
+              "In human-media interactions, visualizations occur in a large variety of forms. However, they remain but a single form of possible feedback towards a user. In this chapter it is argued that human-centered visualization is a fundamental part of human-media interaction and vice versa. To that end, the focus in this chapter lies first on the more general topic of interaction research, thus providing a solid literary ground for the rest of this chapter (Section 3.1). In Section 3.2 the focus shifts towards the question how a display technology influences the way(s) in which interaction with visualization takes place. This path is then broadened in Section 3.3 by focusing on approaches towards interacting multimodally with visualizations. To that end a chronological overview of developments in that field is given, thus providing an insight of trends and required steps in realizing multimodal interactions. Also, future work in this field is deducted from literature and those development trends. Fourthly, Section 3.4 describes the issues at hand for effectively applying visualizations in group-based collaborative and distributed environments. The aim in this chapter is to provide an overview of developments and the current state-of-the-art of approaches in which visualization supports the human-machine interaction process and vice versa. For that, this chapter is finalized with a short summary of issues to deal with while designing interaction for visualization. In addition current and future challenges in interacting with visualizations will be discussed."^^xsd:string ;
+      bibo:volume "4417/2007"^^xsd:string .
+
+<http://dx.doi.org/10.1007/978-3-642-02247-0_16>
+      rdf:type bibo:BookSection ;
+      dct:creator viso-bibliography:Bezold ;
+      dct:date "2009"^^xsd:string ;
+      dct:publisher viso-bibliography:Houben , viso-bibliography:McCalla , viso-bibliography:Pianesi , viso-bibliography:Zancanaro ;
+      dct:title "Describing User Interactions in Adaptive Interactive Systems"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Bezold"^^xsd:string
+              ] ;
+      bibo:doi "10.1007/978-3-642-02247-0_16"^^xsd:string ;
+      bibo:isbn "978-3-642-02246-3 "^^xsd:string , "978-3-642-02247-0"^^xsd:string ;
+      bibo:pageEnd "161"^^xsd:string ;
+      bibo:pageStart "150"^^xsd:string ;
+      bibo:producer viso-bibliography:Springer ;
+      bibo:shortDescription
+              "the description of the user-system interaction plays a crucial role  in adaptive interactive systems, since the adaptations depend on  this description. user actions in interactive systems can be described  as a sequence of events, which are created by input through input  devices as well as by the system as reactions to these inputs. an  interactive system can observe these events and thus extract information  about the users behavior. this paper presents a two-step approach  for describing user behavior from sequences of basic events. first,  user actions are recognized in the sequence of interaction events  by means of previously trained probabilistic automata. second, a  task model describes the higher-level user activity as a hierarchical  composition of these actions. different kinds of adaptive support  can be derived from this description of user behavior, such as recommending  next interaction steps to the user."^^xsd:string ;
+      bibo:volume "5535"^^xsd:string .
+
+<http://dx.doi.org/10.1007/s003710050111>
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Lodha , viso-bibliography:Pang , viso-bibliography:Wittenbrink ;
+      dct:date "1997"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue3 ;
+      dct:title "Approaches to uncertainty visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Pang" ;
+                rdf:_2  "Wittenbrink" ;
+                rdf:_3  "Lodha"
+              ] ;
+      bibo:doi "10.1007/s003710050111" ;
+      bibo:pages "370-390" ;
+      bibo:uri "http://www.springerlink.com/content/adm01gwambwp9g15/" .
+
+<http://dx.doi.org/10.1016/S0953-5438(98)00022-8>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "The Attribute Explorer is a visualization tool in which the graphical and interactive presentation of data supports the human acquisition of insight into that data. The underlying concept employed is that of interactive linked histograms. The advantage of the Attribute Explorer derives from its ability to support both qualitative exploration and quantitative design decisions, as well as a smooth transition between these two activities."^^xsd:string ;
+      dct:creator viso-bibliography:Spence , viso-bibliography:Tweedie ;
+      dct:date "1998-12-15"^^xsd:string ;
+      dct:title "The Attribute Explorer: information synthesis via exploration" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Spence" ;
+                rdf:_2  "Tweedie"
+              ] ;
+      bibo:doi "10.1016/S0953-5438(98)00022-8"^^xsd:string ;
+      bibo:pages "137-146" ;
+      bibo:shortTitle "The Attribute Explorer" ;
+      bibo:uri "http://www.sciencedirect.com/science/article/pii/S0953543898000228" .
+
+<http://dx.doi.org/10.1016/j.advengsoft.2007.03.016>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "<p><br/>This paper firstly reviews the related visualization taxonomies, and discusses the need for ontology for visualization. It then presents the design of the ontology for visualization, which aims to provide more semantics for the discovery of visualization services, and gives the detailed description of the ontology's components. In the end, the paper illustrates how to use the ontology in the portal for discovery visualization services, which is being developed.</p>" ;
+      dct:creator viso-bibliography:Avis , viso-bibliography:Rana , viso-bibliography:Shu ;
+      dct:date "2008"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue14 ;
+      dct:title "Bringing semantics to visualization services" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Shu" ;
+                rdf:_2  "Avis" ;
+                rdf:_3  "Rana"
+              ] ;
+      bibo:doi "10.1016/j.advengsoft.2007.03.016"^^xsd:string ;
+      bibo:pages "514-520" ;
+      bibo:uri "http://www.sciencedirect.com/science/article/pii/S0965997807001019" .
+
+<http://dx.doi.org/10.1017/S0269888909000137>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "<p><br/>This paper firstly reviews the related visualization taxonomies, and discusses the need for ontology for visualization. It then presents the design of the ontology for visualization, which aims to provide more semantics for the discovery of visualization services, and gives the detailed description of the ontology's components. In the end, the paper illustrates how to use the ontology in the portal for discovery visualization services, which is being developed.</p>" ;
+      dct:creator viso-bibliography:Sun , viso-bibliography:Wang ;
+      dct:date "2008"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue14 ;
+      dct:title "A Semantic Web Environment for Components"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Sun"^^xsd:string ;
+                rdf:_2  "Wang"^^xsd:string
+              ] ;
+      bibo:doi "10.1017/S0269888909000137"^^xsd:string ;
+      bibo:pages "59-75"^^xsd:string ;
+      bibo:shortDescription
+              "Component-based development (CBD) has become an important emerging topic in the software engineering field. It promises long-sought-after benefits such as increased software reuse, reduced development time to market and, hence, reduced software production cost. Despite the huge potential, the lack of reasoning support and development environment of component modeling and verification may hinder its development. Methods and tools that can support component model analysis are highly appreciated by industry. Such a tool support should be fully automated as well as efficient. At the same time, the reasoning tool should scale up well as it may need to handle hundreds or even thousands of components that a modern software system may have. Furthermore, a distributed environment that can effectively manage and compose components is also desirable. In this paper, we present an approach to the modeling and verification of a newly proposed component model using Semantic Web languages and their reasoning tools. We use the Web Ontology Language and the Semantic Web Rule Language to precisely capture the inter-relationships and constraints among the entities in a component model. Semantic Web reasoning tools are deployed to perform automated analysis support of the component models. Moreover, we also proposed a service-oriented architecture (SOA)-based semantic web environment for CBD. The adoption of Semantic Web services and SOA make our component environment more reusable, scalable, dynamic and adaptive."^^xsd:string ;
+      bibo:uri "http://www.sciencedirect.com/science/article/pii/S0965997807001019" .
+
+<http://dx.doi.org/10.1057/palgrave.ivs.9500181>
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Pignataro ;
+      dct:date "2008"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue7 ;
+      dct:title "Information Visualization: Design for Interaction" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Pignataro"
+              ] ;
+      bibo:doi "10.1057/palgrave.ivs.9500181" ;
+      bibo:pages "170-171" ;
+      bibo:shortTitle "Information Visualization" ;
+      bibo:uri "https://secure.palgrave-journals.com/ivs/journal/v7/n2/full/9500181a.html" .
+
+<http://dx.doi.org/10.1109/2945.981847>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "Abstract—Never before in history has data been generated at such high volumes as it is today. Exploring and analyzing the vast volumes of data is becoming increasingly difficult. Information visualization and visual data mining can help to deal with the flood of information. The advantage of visual data exploration is that the user is directly involved in the data mining process. There are a large number of information visualization techniques which have been developed over the last decade to support the exploration of large data sets. In this paper, we propose a classification of information visualization and visual data mining techniques which is based on the data type to be visualized, the visualization technique, and the interaction and distortion technique. We exemplify the classification using a few examples, most of them referring to techniques and systems presented in this special section." ;
+      dct:creator viso-bibliography:Keim ;
+      dct:date "2002"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue8 ;
+      dct:title "Information Visualization and Visual Data Mining" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Keim"
+              ] ;
+      bibo:doi "10.1109/2945.981847" ;
+      bibo:pages "1-8" ;
+      bibo:uri "http://www.computer.org/portal/web/csdl/doi/10.1109/2945.981847" .
+
+<http://dx.doi.org/10.1109/38.329093>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "<p>Vista is a knowledge-based system that helps scientists design<br/>visualization techniques. It generates a technique for a given data set<br/>and lets users modify the design interactively using a compositional<br/>design methodology. To ensure the effectiveness of its designs, Vista<br/>uses many rules, mostly heuristic in nature, that were acquired through<br/>literature surveys and discussions with visualization experts. In<br/>general, Vista's design was based on research in graphical perception.<br/>It extends the design methodology of Automatic Presentation Tool (APT)<br/>(J.D. Mckinlay, 1986), a presentation tool for 2D graphics, to three<br/>dimensions. While Vista's primary function is to automatically generate<br/>an effective visualization technique design for a given data set, it<br/>also allows users to interactively modify this design and renders the<br/>resulting image using a variety of rendering algorithms</p>" ;
+      dct:creator viso-bibliography:Ignatius , viso-bibliography:Senay ;
+      dct:date "1994"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue1 ;
+      dct:title "A knowledge-based system for visualization design" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Senay" ;
+                rdf:_2  "Ignatius"
+              ] ;
+      bibo:doi "10.1109/38.329093" ;
+      bibo:pages "36-47" ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=329093" .
+
+<http://dx.doi.org/10.1109/38.79454>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "<p>The process of matching the type of information of interest with<br/>the ability of the different representation properties to convey this<br/>information is formalized in a generic framework. Visualization<br/>approaches are discussed, and the natural scene paradigm on which the<br/>methodology for choosing a representation is based is described. Data<br/>types and interpretation aims are explored. The use of the paradigm, the<br/>matching process, and implementation and display of the representation<br/>are described. The advantages of the methodology over ad hoc display<br/>approaches are examined</p>" ;
+      dct:creator viso-bibliography:Robertson ;
+      dct:date "1991"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue17 ;
+      dct:title "A methodology for choosing data representations" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Robertson"
+              ] ;
+      bibo:doi "10.1109/38.79454" ;
+      bibo:pages "56-67" ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=79454" .
+
+<http://dx.doi.org/10.1109/CMV.2003.1215005>
+      rdf:type bibo:Article ;
+      dct:abstract "<p> We present a coordination model for exploratory multiview visualization. We base our work on current research in exploratory visualization and other disciplines. Our model is based on sharing abstract objects such as the visualization parameters of the dataflow model to achieve coordinated exploratory tasks in multiple views. This model describes how current coordinations in exploratory visualization work and allows novel coordinations to be constructed.</p>" ;
+      dct:creator viso-bibliography:Boukhelifa , viso-bibliography:Roberts , viso-bibliography:Rodgers ;
+      dct:date "2003"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-7695-2001-4> ;
+      dct:title "A coordination model for exploratory multiview visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Boukhelifa" ;
+                rdf:_2  "Roberts" ;
+                rdf:_3  "Rodgers"
+              ] ;
+      bibo:doi "10.1109/CMV.2003.1215005" ;
+      bibo:pages "76-85" ;
+      bibo:presentedAt viso-bibliography:International_Conference_on_Coordinated_and_Multiple_Views_in_Exploratory_Visualization_2003 ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1215005" .
+
+<http://dx.doi.org/10.1109/ICGSE.2010.55>
+      rdf:type bibo:Article ;
+      dct:abstract "<p>This paper presents a visual modeling notation for use in planning globally distributed requirements engineering projects. An underlying meta-model defines the elements of the modeling language, including site locations, stakeholder roles, communication flows, critical documents, and supporting tools and repositories. The modeling notation is motivated through the findings of eight in-depth interviews with requirements analysts who had worked on requirements elicitation, analysis, and specification tasks in globally distributed projects. We illustrate the modeling notation with examples drawn from telecommunications, video gaming, retail, and consulting projects. Based on a set of recurring problems and best practices identified in our interviews, the models are then analyzed, and specific recommendations are made to mitigate the identified risks.</p>" ;
+      dct:creator viso-bibliography:Cleland-Huang , viso-bibliography:Laurent , viso-bibliography:Maeder , viso-bibliography:Steele ;
+      dct:date "2010"^^xsd:string ;
+      dct:isPartOf viso-bibliography:proceedings5 ;
+      dct:title "A Taxonomy and Visual Notation for Modeling Globally Distributed Requirements Engineering Projects" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Laurent" ;
+                rdf:_2  "Mäder" ;
+                rdf:_3  "Cleland-Huang" ;
+                rdf:_4  "Steele"
+              ] ;
+      bibo:doi "10.1109/ICGSE.2010.55" ;
+      bibo:pages "35-44" ;
+      bibo:presentedAt viso-bibliography:IEEE_International_Conference_on_Global_Software_Engineering_2010 .
+
+<http://dx.doi.org/10.1109/INFVIS.1996.559213>
+      rdf:type bibo:Article ;
+      dct:abstract "<p>Interactive techniques are powerful tools for manipulating<br/>visualizations to analyze, communicate and acquire information. This is<br/>especially true for large data sets or complex 3D visualizations.<br/>Although many new types of interaction have been introduced recently,<br/>very little work has been done on understanding what their components<br/>are, how they are related and how they can be combined. This paper<br/>begins to address these issues with a framework for classifying<br/>interactive visualizations. Our goal is a framework that will enable us<br/>to develop toolkits for assembling visualization interfaces both<br/>interactively and automatically</p>" ;
+      dct:creator viso-bibliography:Chuah , viso-bibliography:Roth ;
+      dct:date "1996"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-8186-7668-X> ;
+      dct:title "On the semantics of interactive visualizations" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Chuah" ;
+                rdf:_2  "Roth"
+              ] ;
+      bibo:doi "10.1109/INFVIS.1996.559213" ;
+      bibo:pages "29-36" ;
+      bibo:presentedAt viso-bibliography:IEEE_Symposium_on_Information_Visualization_1996 ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=559213" .
+
+<http://dx.doi.org/10.1109/INFVIS.1998.729560>
+      rdf:type bibo:Article ;
+      dct:abstract "Information visualization encounters a wide variety of different data domains. The visualization community has developed representation methods and interactive techniques. As a community, we have realized that the requirements in each domain are often dramatically different. In order to easily apply existing methods, researchers have developed a semiology of graphic representations. We have extended this research into a framework that includes operators and interactions in visualization systems, such as a visualization spreadsheet. We discuss properties of this framework and use it to characterize operations spanning a variety of different visualization techniques. The framework developed in this paper enables a new way of exploring and evaluating the design space of visualization operators, and helps end--users in their analysis tasks." ;
+      dct:creator viso-bibliography:Chi , viso-bibliography:Riedl ;
+      dct:date "1998"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-8186-9093-3> ;
+      dct:title "An Operator Interaction Framework for Visualization Systems" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Chi" ;
+                rdf:_2  "Riedl"
+              ] ;
+      bibo:doi "10.1109/INFVIS.1998.729560" ;
+      bibo:pages "63" ;
+      bibo:uri "http://www.computer.org/portal/web/csdl/doi/10.1109/INFVIS.1998.729560" .
+
+<http://dx.doi.org/10.1109/INFVIS.2000.885092>
+      rdf:type bibo:Article ;
+      dct:abstract "<p>In previous work, researchers have attempted to construct<br/>taxonomies of information visualization techniques by examining the data<br/>domains that are compatible with these techniques. This is useful<br/>because implementers can quickly identify various techniques that can be<br/>applied to their domain of interest. However, these taxonomies do not<br/>help the implementers understand how to apply and implement these<br/>techniques. The author extends and proposes a new way to taxonomize<br/>information visualization techniques by using the Data State Model (E.H.<br/>Chi and J.T. Reidl, 1998). In fact, as the taxonomic analysis in the<br/>paper will show, many of the techniques share similar operating steps<br/>that can easily be reused. The paper shows that the Data State Model not<br/>only helps researchers understand the space of design, but also helps<br/>implementers understand how information visualization techniques can be<br/>applied more broadly</p>" ;
+      dct:creator viso-bibliography:Chi ;
+      dct:date "2000"^^xsd:string ;
+      dct:isPartOf viso-bibliography:proceedings3 ;
+      dct:title "A taxonomy of visualization techniques using the data state reference model" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Chi"
+              ] ;
+      bibo:doi "10.1109/INFVIS.2000.885092" ;
+      bibo:pages "69-75" ;
+      bibo:presentedAt viso-bibliography:IEEE_Symposium_on_Information_Visualization_2000 ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=885092" .
+
+<http://dx.doi.org/10.1109/INFVIS.2004.59>
+      rdf:type bibo:Article ;
+      dct:abstract "We present a novel high-level visualization taxonomy. Our taxonomy classifies visualization algorithms rather than data. Algorithms are categorized based on the assumptions they make about the data being visualized; we call this set of assumptions the design model. Because our taxonomy is based on design models, it is more flexible than existing taxonomies and considers the user's conceptual model, emphasizing the human aspect of visualization. Design models are classified according to whether they are discrete or continuous and by how much the algorithm designer chooses display attributes such as spatialization, timing, colour, and transparency. This novel approach provides an alternative view of the visualization field that helps explain how traditional divisions (e.g., information and scientific visualization) relate and overlap, and that may inspire research ideas in hybrid visualization areas." ;
+      dct:creator viso-bibliography:Moeller , viso-bibliography:Tory ;
+      dct:date "2004"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-7803-8779-3> ;
+      dct:title "Rethinking Visualization: A High-Level Taxonomy" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Tory" ;
+                rdf:_2  "Möller"
+              ] ;
+      bibo:doi "10.1109/INFVIS.2004.59" ;
+      bibo:pages "151-158" ;
+      bibo:shortTitle "Rethinking Visualization" ;
+      bibo:uri "http://www.computer.org/portal/web/csdl/doi/10.1109/INFVIS.2004.59" .
+
+<http://dx.doi.org/10.1109/INFVIS.2005.1532136>
+      rdf:type bibo:Article ;
+      dct:abstract "<p> Existing system level taxonomies of visualization tasks are geared more towards the design of particular representations than the facilitation of user analytic activity. We present a set of ten low level analysis tasks that largely capture people's activities while employing information visualization tools for understanding data. To help develop these tasks, we collected nearly 200 sample questions from students about how they would analyze five particular data sets from different domains. The questions, while not being totally comprehensive, illustrated the sheer variety of analytic questions typically posed by users when employing information visualization systems. We hope that the presented set of tasks is useful for information visualization system designers as a kind of common substrate to discuss the relative analytic capabilities of the systems. Further, the tasks may provide a form of checklist for system designers.</p>" ;
+      dct:creator viso-bibliography:Amar , viso-bibliography:Eagan , viso-bibliography:Stasko ;
+      dct:date "2005"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-7803-9464-X> ;
+      dct:title "Low-level components of analytic activity in information visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Amar" ;
+                rdf:_2  "Eagan" ;
+                rdf:_3  "Stasko"
+              ] ;
+      bibo:doi "10.1109/INFVIS.2005.1532136" ;
+      bibo:pages "111-117" ;
+      bibo:presentedAt viso-bibliography:IEEE_Symposium_on_Information_Visualization_2005 ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1532136" .
+
+<http://dx.doi.org/10.1109/IV.2007.130>
+      rdf:type bibo:Article ;
+      dct:abstract "<p>Classifications of visualization are often based on technical criteria, and leave out artistic ways of visualizing information. Understanding the differences between information visualization and other forms of visual communication provides important insights into the way the field works, though, and also shows the path to new approaches. We propose a classification of several types of information visualization based on aesthetic criteria. The notions of artistic and pragmatic visualization are introduced, and their properties discussed. Finally, the idea of visualization criticism is proposed, and its rules are laid out. Visualization criticism bridges the gap between design, art, and technical/pragmatic information visualization. It guides the view away from implementation details and single mouse clicks to the meaning of a visualization.</p>" ;
+      dct:creator viso-bibliography:Kosara ;
+      dct:date "2007"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/1550-6037> ;
+      dct:title "Visualization Criticism - The Missing Link Between Information Visualization and Art" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Kosara"
+              ] ;
+      bibo:doi "10.1109/IV.2007.130" ;
+      bibo:pages "631-636" ;
+      bibo:presentedAt viso-bibliography:International_Conference_Information_Visualization_2007 ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4272046&tag=1" .
+
+<http://dx.doi.org/10.1109/IV.2007.43>
+      rdf:type bibo:Article ;
+      dct:abstract "Previous research has shown that Alphasliders are an effective tool for searching an alphabetically sorted list when only limited screen space is available for the graphical user interface. To improve user satisfaction, we propose equipping the widget with a novel text filter to dynamically limit the slider range. In this way, users are supported in locating target items and in identifying records that are missing. The results of a comparative user evaluation run on a Personal Digital Assistant showed that 8 out of 12 participants preferred the filter widget to the classic interface. We further suggest an enhanced Alphaslider design to speed up user interaction." ;
+      dct:creator viso-bibliography:Buring , viso-bibliography:Gerken , viso-bibliography:Reiterer ;
+      dct:date "2007"^^xsd:string ;
+      dct:title "Dynamic Text Filtering for Improving the Usability of Alphasliders on Small Screens" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Buring" ;
+                rdf:_2  "Gerken" ;
+                rdf:_3  "Reiterer"
+              ] ;
+      bibo:doi "10.1109/IV.2007.43" ;
+      bibo:pages "145-149" ;
+      bibo:uri "http://www.computer.org/portal/web/csdl/doi/10.1109/IV.2007.43" .
+
+<http://dx.doi.org/10.1109/MCG.2003.1198256>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "<p> Is it necessary to continue to define a difference between information and scientific visualization? Is the determined need for these differences creating confusion rather than helping investigators understand how to effectively apply visual display techniques to data and information? The author considers how cartographic and geographic information techniques seem to span both scientific and information visualization. She discusses the future directions in bioinformatics visualization.</p>" ;
+      dct:creator viso-bibliography:Rhyne ;
+      dct:date "2003"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue10 ;
+      dct:title "Does the difference between information and scientific visualization really matter?" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Rhyne"
+              ] ;
+      bibo:doi "10.1109/MCG.2003.1198256" ;
+      bibo:pages "6-8" ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1198256" .
+
+<http://dx.doi.org/10.1109/MCG.2005.55>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "<p> Visualizers, like logicians, have long been concerned with meaning. Generalizing from MacEachren's overview of cartography, visualizers have to think about how people extract meaning from pictures (psychophysics), what people understand from a picture (cognition), how pictures are imbued with meaning (semiotics), and how in some cases that meaning arises within a social and/or cultural context. If we think of the communication acts carried out in the visualization process further levels of meaning are suggested. Visualization begins when someone has data that they wish to explore and interpret; the data are encoded as input to a visualization system, which may in its turn interact with other systems to produce a representation. This is communicated back to the user(s), who have to assess this against their goals and knowledge, possibly leading to further cycles of activity. Each phase of this process involves communication between two parties. For this to succeed, those parties must share a common language with an agreed meaning. We offer the following three steps, in increasing order of formality: terminology (jargon), taxonomy (vocabulary), and ontology. Our argument in this article is that it's time to begin synthesizing the fragments and views into a level 3 model, an ontology of visualization. We also address why this should happen, what is already in place, how such an ontology might be constructed, and why now.</p>" ;
+      dct:creator viso-bibliography:Brodlie , viso-bibliography:Duce , viso-bibliography:Duke , viso-bibliography:Herman ;
+      dct:date "2005"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue9 ;
+      dct:title "Do you see what I mean? [Data visualization]" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Duke" ;
+                rdf:_2  "Brodlie" ;
+                rdf:_3  "Duce" ;
+                rdf:_4  "Herman"
+              ] ;
+      bibo:doi "10.1109/MCG.2005.55" ;
+      bibo:pages "6-9" ;
+      bibo:shortTitle "Do you see what I mean?" ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1438250" .
+
+<http://dx.doi.org/10.1109/MCG.2005.91>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "<p> The top 10 unsolved problems list described in this article is a revised and extended version of information visualization problems. These problems are not necessarily imposed by technical barriers, rather, they are problems that might hinder the growth of information visualization as a field. The first three problems highlight issues from a user-centered perspective. The fifth, sixth, and seventh problems are technical challenges in nature. The last three are the ones that need tackling at the disciplinary level. The author broadly defines information visualization as visual representations of the semantics, or meaning, of information. In contrast to scientific visualization, information visualization typically deals with nonnumeric, nonspatial, and high-dimensional data.</p>" ;
+      dct:creator viso-bibliography:Chen_C ;
+      dct:date "2005"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue12 ;
+      dct:title "Top 10 unsolved information visualization problems" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Chen"
+              ] ;
+      bibo:doi "10.1109/MCG.2005.91" ;
+      bibo:pages "12-16" ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1463074" .
+
+<http://dx.doi.org/10.1109/ROMAN.1995.531969>
+      rdf:type bibo:Article ;
+      dct:abstract "<p>This paper introduces recent advances in research on 3D shape<br/>ontologies. The purpose of shape ontologies is to formalize the<br/>characteristics of 3D geometric primitives so as to bridge the gap<br/>between knowledge-level representation of shapes in the human mind and<br/>their low-level computer graphics representations. In the formalizations<br/>described in this paper, an intermediate symbolic representation in the<br/>form of implicit, parametric functions is used for this purpose. With<br/>this intermediate level representation of shape knowledge it becomes<br/>possible to interactively change the &ldquo;meaning&rdquo; of a<br/>primitive by transforming its parametric space according to information<br/>extracted from natural language and/or hand gestures. Furthermore,<br/>&ldquo;meaningful&rdquo; hierarchical combinations of shapes into<br/>complex shapes also becomes possible because they can also be<br/>parameterized and thus formalized</p>" ;
+      dct:creator viso-bibliography:Abe , viso-bibliography:Kishino , viso-bibliography:Tijerino , viso-bibliography:Yoshida ;
+      dct:date "1995"^^xsd:string ;
+      dct:isPartOf viso-bibliography:proceedings2 ;
+      dct:title "A shape knowledge representation scheme and its application on a multi-modal interface for a virtual space teleconferencing system" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Tijerino" ;
+                rdf:_2  "Yoshida" ;
+                rdf:_3  "Abe" ;
+                rdf:_4  "Kishino"
+              ] ;
+      bibo:doi "10.1109/ROMAN.1995.531969" ;
+      bibo:pages "259-264" ;
+      bibo:presentedAt viso-bibliography:IEEE_International_Workshop_on_Robot_and_Human_Communication_1995 ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=531969" .
+
+<http://dx.doi.org/10.1109/TVCG.2007.70436>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "This paper describes the integration of perceptual guidelines from human vision with an AI-based mixed-initiative search strategy. The result is a visualization assistant called ViA, a system that collaborates with its users to identify perceptually salient visualizations for large, multidimensional datasets. ViA applies knowledge of low-level human vision to: (1) evaluate the effectiveness of a particular visualization for a given dataset and analysis tasks; and (2) rapidly direct its search towards new visualizations that are most likely to offer improvements over those seen to date. Context, domain expertise, and a high-level understanding of a dataset are critical to identifying effective visualizations. We apply a mixed-initiative strategy that allows ViA and its users to share their different strengths and continually improve ViA's understanding of a user's preferences. We visualize historical weather conditions to compare ViA's search strategy to exhaustive analysis, simulated annealing, and reactive tabu search, and to measure the improvement provided by mixed-initiative interaction. We also visualize intelligent agents competing in a simulated online auction to evaluate ViA's perceptual guidelines. Results from each study are positive, suggesting that ViA can construct high-quality visualizations for a range of real-world datasets." ;
+      dct:creator viso-bibliography:Amant , viso-bibliography:Healey , viso-bibliography:Kocherlakota , viso-bibliography:Mehta , viso-bibliography:Rao ;
+      dct:date "2007"^^xsd:string ;
+      dct:title "Visual Perception and Mixed-Initiative Interaction for Assisted Visualization Design" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Healey" ;
+                rdf:_2  "Kocherlakota" ;
+                rdf:_3  "Rao" ;
+                rdf:_4  "Mehta" ;
+                rdf:_5  "Amant"
+              ] ;
+      bibo:doi "10.1109/TVCG.2007.70436" ;
+      bibo:pages "396-411" .
+
+<http://dx.doi.org/10.1109/TVCG.2007.70515>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "<p>Even though interaction is an important part of information visualization (Infovis), it has garnered a relatively low level of attention from the Infovis community. A few frameworks and taxonomies of Infovis interaction techniques exist, but they typically focus on low-level operations and do not address the variety of benefits interaction provides. After conducting an extensive review of Infovis systems and their interactive capabilities, we propose seven general categories of interaction techniques widely used in Infovis: 1) Select, 2) Explore, 3) Reconfigure, 4) Encode, 5) Abstract/Elaborate, 6) Filter, and 7) Connect. These categories are organized around a user's intent while interacting with a system rather than the low-level interaction techniques provided by a system. The categories can act as a framework to help discuss and evaluate interaction techniques and hopefully lay an initial foundation toward a deeper understanding and a science of interaction.</p>" ;
+      dct:creator viso-bibliography:Jacko , viso-bibliography:Ji_Soo_Yi , viso-bibliography:Stasko , viso-bibliography:Youn_ah_Kang ;
+      dct:date "2007"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue11 ;
+      dct:title "Toward a Deeper Understanding of the Role of Interaction in Information Visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Ji_Soo_Yi"^^xsd:string ;
+                rdf:_2  "Youn_ah_Kang"^^xsd:string ;
+                rdf:_3  "Stasko"^^xsd:string ;
+                rdf:_4  "Jacko"^^xsd:string
+              ] ;
+      bibo:doi "10.1109/TVCG.2007.70515" ;
+      bibo:pages "1224-1231" ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4376144" .
+
+<http://dx.doi.org/10.1109/VAST.2008.4677365>
+      rdf:type bibo:Article ;
+      dct:abstract "Insight provenance - a historical record of the process and rationale by which an insight is derived - is an essential requirement in many visual analytics applications. While work in this area has relied on either manually recorded provenance (e.g., user notes) or automatically recorded event-based insight provenance (e.g., clicks, drags, and key-presses), both approaches have fundamental limitations. Our aim is to develop a new approach that combines the benefits of both approaches while avoiding their deficiencies. Toward this goal, we characterize userspsila visual analytic activity at multiple levels of granularity. Moreover, we identify a critical level of abstraction, Actions, that can be used to represent visual analytic activity with a set of general but semantically meaningful behavior types. In turn, the action types can be used as the semantic building blocks for insight provenance. We present a catalog of common actions identified through observations of several different visual analytic systems. In addition, we define a taxonomy to categorize actions into three major classes based on their semantic intent. The concept of actions has been integrated into our labpsilas prototype visual analytic system, HARVEST, as the basis for its insight provenance capabilities."^^xsd:string ;
+      dct:creator viso-bibliography:Gotz , viso-bibliography:Zhou ;
+      dct:date "2008"^^xsd:string ;
+      dct:title "Characterizing users’ visual analytic activity for insight provenance"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Gotz"^^xsd:string ;
+                rdf:_2  "Zhou"^^xsd:string
+              ] ;
+      bibo:doi "10.1109/VAST.2008.4677365"^^xsd:string ;
+      bibo:isbn "978-1-4244-2935-6"^^xsd:string ;
+      bibo:pageEnd "130"^^xsd:string ;
+      bibo:pageStart "123"^^xsd:string ;
+      bibo:presentedAt viso-bibliography:IEEE_Symposium_on_Visual_Analytics_Science_and_Technology_2008 ;
+      bibo:uri "http://dx.doi.org/10.1109/VAST.2008.4677365"^^xsd:string .
+
+<http://dx.doi.org/10.1109/VIS.2005.102>
+      rdf:type bibo:Article ;
+      dct:abstract "The field of Visualization is getting mature. Many problems have been solved, and new directions are sought for. In order to make good choices, an understanding of the purpose and meaning of visualization is needed. Especially, it would be nice if we could assess what a good visualization is. In this paper an attempt is made to determine the value of visualization. A technological viewpoint is adopted, where the value of visualization is measured based on effectiveness and efficiency. An economic model of visualization is presented, and benefits and costs are established. Next, consequences for and limitations of visualization are discussed (including the use of alternative methods, high initial costs, subjectiveness, and the role of interaction), as well as examples of the use of the model for the judgement of existing classes of methods and understanding why they are or are not used in practice. Furthermore, two alternative views on visualization are presented and discussed: viewing visualization as an art or as a scientific discipline. Implications and future directions are identified." ;
+      dct:creator viso-bibliography:Wijk ;
+      dct:date "2005"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-7803-9462-3> ;
+      dct:title "The Value of Visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Wijk"
+              ] ;
+      bibo:doi "10.1109/VIS.2005.102" ;
+      bibo:pages "11" ;
+      bibo:uri "http://www.computer.org/portal/web/csdl/doi/10.1109/VIS.2005.102" .
+
+<http://dx.doi.org/10.1109/VISUAL.2004.10>
+      rdf:type bibo:Article ;
+      dct:abstract "Recent activity within the UK National e-Science Programme has identified a need to establish an ontology for visualization. Motivation for this includes defining web and grid services for visualization (the ýsemantic gridý), supporting collaborative work, curation, and underpinning visualization research and education. At a preliminary meeting, members of the UK visualization community identified a skeleton for the ontology. We have started to build on this by identifying how existing work might be related and utilized. We believe that the greatest challenge is reaching a consensus within the visualization community itself. This poster is intended as one step in this process, setting out the perceived needs for the ontology, and sketching initial directions. It is hoped that this will lead to debate, feedback and involvement across the community." ;
+      dct:creator viso-bibliography:Brodlie , viso-bibliography:Duce , viso-bibliography:Duke ;
+      dct:date "2004"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-7803-8788-0> ;
+      dct:title "Building an Ontology of Visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Duke" ;
+                rdf:_2  "Brodlie" ;
+                rdf:_3  "Duce"
+              ] ;
+      bibo:doi "10.1109/VISUAL.2004.10" ;
+      bibo:pages "598.7–" ;
+      bibo:uri "http://dx.doi.org/10.1109/VISUAL.2004.10" .
+
+<http://dx.doi.org/10.1109/VL.1996.545307>
+      rdf:type bibo:Article ;
+      dct:abstract "<p>A useful starting point for designing advanced graphical user<br/>interfaces is the visual information seeking Mantra: overview first,<br/>zoom and filter, then details on demand. But this is only a starting<br/>point in trying to understand the rich and varied set of information<br/>visualizations that have been proposed in recent years. The paper offers<br/>a task by data type taxonomy with seven data types (one, two, three<br/>dimensional data, temporal and multi dimensional data, and tree and<br/>network data) and seven tasks (overview, zoom, filter,<br/>details-on-demand, relate, history, and extracts)</p>" ;
+      dct:creator viso-bibliography:Schneiderman ;
+      dct:date "1996"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-8186-7508-X> ;
+      dct:title "The eyes have it: a task by data type taxonomy for information visualizations" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Schneiderman"^^xsd:string
+              ] ;
+      bibo:doi "10.1109/VL.1996.545307" ;
+      bibo:pages "336-343" ;
+      bibo:presentedAt viso-bibliography:IEEE_Symposium_on_Visual_Languages_1996 ;
+      bibo:shortTitle "The eyes have it" ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=545307" .
+
+<http://dx.doi.org/10.1109/VLHCC.2005.57>
+      rdf:type bibo:Article ;
+      dct:abstract "Although recorded demonstrations (screen capture animations with narration) have become a popular form of instruction for user interfaces, little work has been done to describe guidelines for their design. Based on our experience in several projects, we offer a starting set of guidelines for the design of visually appealing and cognitively effective recorded demonstrations. Technical guidelines encourage users to keep file sizes small, strive for universal usability, and ensure user control etc. and provide tips to achieve those goals. Content guidelines include: create short demonstrations that focus on tasks, highlight each step with auditory and visual cues, synchronize narration and animation carefully, and create demonstrations with a clear beginning, middle, and end." ;
+      dct:creator viso-bibliography:Plaisant , viso-bibliography:Schneiderman ;
+      dct:date "2005"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-7695-2443-5> ;
+      dct:title "Show Me! Guidelines for Producing Recorded Demonstrations" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Plaisant"^^xsd:string ;
+                rdf:_2  "Schneiderman"^^xsd:string
+              ] ;
+      bibo:doi "10.1109/VLHCC.2005.57" ;
+      bibo:pages "171-178" ;
+      bibo:uri "http://www.computer.org/portal/web/csdl/doi/10.1109/VLHCC.2005.57" .
+
+<http://dx.doi.org/10.1109/VR.2006.41>
+      rdf:type bibo:Article ;
+      dct:abstract "<p> A great challenge in information visualization today is to provide models and software that effectively integrate the graphics content of scenes with domain-specific knowledge so that the users can effectively query, interpret, personalize and manipulate the visualized information [1]. Moreover, it is important that the intelligent visualization applications are interoperable in the semantic web environment and thus, require that the models and software supporting them integrate state-of-the-art international standards for knowledge representation, graphics and multimedia. In this paper, we present a model, a methodology and a software framework for the semantic web (Intelligent 3D Visualization Platform - I3DVP) for the development of interoperable intelligent visualization applications that support the coupling of graphics and virtual reality scenes with domain knowledge of different domains. The graphics content and the semantics of the scenes are married into a consistent and cohesive ontological model while at the same time knowledge- based techniques for the querying, manipulation, and semantic personalization of the scenes are introduced. We also provide methods for knowledge driven information visualization and visualization- aided decision making based on inference by reasoning.</p>" ;
+      dct:creator viso-bibliography:Christodoulakis , viso-bibliography:Kalogerakis , viso-bibliography:Moumoutzis ;
+      dct:date "2006"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/1087-8270> ;
+      dct:title "Coupling Ontologies with Graphics Content for Knowledge Driven Visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Kalogerakis" ;
+                rdf:_2  "Christodoulakis" ;
+                rdf:_3  "Moumoutzis"
+              ] ;
+      bibo:doi "10.1109/VR.2006.41" ;
+      bibo:pages "43-50" ;
+      bibo:presentedAt viso-bibliography:Virtual_Reality_Conference_2006 ;
+      bibo:uri "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1667625" .
+
+<http://dx.doi.org/10.1111/j.1467-8659.2008.01230.x>
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Chen_M , viso-bibliography:Gilson , viso-bibliography:Grant , viso-bibliography:Silva ;
+      dct:date "2008"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue2 ;
+      dct:title "From Web Data to Visualization via Ontology Mapping" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Gilson" ;
+                rdf:_2  "Silva" ;
+                rdf:_3  "Grant" ;
+                rdf:_4  "Chen"
+              ] ;
+      bibo:doi "10.1111/j.1467-8659.2008.01230.x" ;
+      bibo:pages "959-966" ;
+      bibo:uri "http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8659.2008.01230.x/full" .
+
+<http://dx.doi.org/10.1126/science.103.2684.677>
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Stevens ;
+      dct:date "1946"^^xsd:string ;
+      dct:title "On the Theory of Scales of Measurement" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Stevens"
+              ] ;
+      bibo:doi "10.1126/science.103.2684.677" ;
+      bibo:pages "677 -680" ;
+      bibo:uri "http://www.sciencemag.org/content/103/2684/677.short" .
+
+<http://dx.doi.org/10.1145/1168149.1168168>
+      rdf:type bibo:Article ;
+      dct:abstract "Our goal is to define a list of tasks for graph visualization that has enough detail and specificity to be useful to: 1) designers who want to improve their system and 2) to evaluators who want to compare graph visualization systems. In this paper, we suggest a list of tasks we believe are commonly encountered while analyzing graph data. We define graph specific objects and demonstrate how all complex tasks could be seen as a series of low-level tasks performed on those objects. We believe that our taxonomy, associated with benchmark datasets and specific tasks, would help evaluators generalize results collected through a series of controlled experiments." ;
+      dct:creator viso-bibliography:Fekete , viso-bibliography:Henry , viso-bibliography:Lee , viso-bibliography:Parr , viso-bibliography:Plaisant ;
+      dct:date "2006"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/1-59593-562-2> ;
+      dct:source "Venice, Italy" ;
+      dct:title "Task taxonomy for graph visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Lee" ;
+                rdf:_2  "Plaisant" ;
+                rdf:_3  "Parr" ;
+                rdf:_4  "Fekete" ;
+                rdf:_5  "Henry"
+              ] ;
+      bibo:doi "10.1145/1168149.1168168" ;
+      bibo:pages "1–5" ;
+      bibo:uri "http://portal.acm.org/citation.cfm?id=1168168" .
+
+<http://dx.doi.org/10.1145/1185448.1185538>
+      rdf:type bibo:Article ;
+      dct:abstract "VisIOn (Interactive Visualization Ontology) is a web application designed to categorize and store information about Software Visualization (SV) systems, in a way that can be easily searched and used for comparison. VisIOn will allow users and developers to quickly find systems related to their needs or interests. Also, this site will serve as a collection point for information about SV tools through which developers can disseminate their work and make it available to their target community in a timely manner. VisIOn incorporates attributes identified in earlier taxonomies but emphasizes the notion of effectiveness. In the context of Software Visualization, we define effectiveness as how well a system can be used by an SV designer to communicate information to the SV viewer. In developing an SV ontology, we seek to clarify the meaning of effectiveness in the SV domain and to reconcile the terminology introduced in various SV taxonomy papers. In related work, we are conducting studies that we hope will help reduce some of the subjectivity and difficulty involved in rating the effectiveness of SV systems and of visualizations created using these systems." ;
+      dct:creator viso-bibliography:Kraemer , viso-bibliography:Reed , viso-bibliography:Rhodes ;
+      dct:date "2006"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/1-59593-315-8> ;
+      dct:source "Melbourne, Florida" ;
+      dct:title "VisIOn: an interactive visualization ontology" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Rhodes" ;
+                rdf:_2  "Kraemer" ;
+                rdf:_3  "Reed"
+              ] ;
+      bibo:doi "10.1145/1185448.1185538" ;
+      bibo:pages "405–410" ;
+      bibo:shortTitle "VisIOn" ;
+      bibo:uri "http://portal.acm.org/citation.cfm?id=1185538" .
+
+<http://dx.doi.org/10.1145/1287620.1287621>
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Giannopoulou , viso-bibliography:Halatsis , viso-bibliography:Katifori , viso-bibliography:Lepouras , viso-bibliography:Vassilakis ;
+      dct:date "2007"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue15 ;
+      dct:title "Ontology visualization methods---a survey" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Katifori" ;
+                rdf:_2  "Halatsis" ;
+                rdf:_3  "Lepouras" ;
+                rdf:_4  "Vassilakis" ;
+                rdf:_5  "Giannopoulou"
+              ] ;
+      bibo:doi "10.1145/1287620.1287621" ;
+      bibo:pages "10-es" ;
+      bibo:uri "http://dl.acm.org/citation.cfm?id=1287621" .
+
+<http://dx.doi.org/10.1145/191666.191775>
+      rdf:type bibo:Article ;
+      dct:abstract """Christopher Ahlberg
+	
+	
+	
+	No contact information provided yet.
+	
+	
+			
+	
+	
+	
+	
+	
+
+
+
+
+
+                                            
+
+
+
+	Bibliometrics: publication history
+		
+        
+			
+				Publication years1992-2001
+			
+			
+			
+				Publication count17
+			
+			
+			
+				Citation Count524
+			
+			
+			
+				Available for download12
+			
+			
+ 			
+			
+				Downloads (6 Weeks)70
+			
+			
+			
+				Downloads (12 Months)744
+			
+			
+ 			
+		
+	
+	
+
+
+
+                                        
+                                        
+                                                    View colleagues of Christopher Ahlberg
+                                            
+                                         
+                                        
+                                     
+								
+					
+								
+									
+                                    
+                                    
+                                        
+                                        
+
+
+
+
+	
+		
+			
+		 
+		  
+	
+
+
+	Ben Shneiderman
+	
+	homepage
+	
+	bencs.umd.edu
+	
+	
+	
+	
+	
+	
+			
+	
+	
+	
+	
+	
+
+
+
+
+
+                                            
+
+
+
+	Bibliometrics: publication history
+		
+        
+			
+				Publication years1971-2011
+			
+			
+			
+				Publication count334
+			
+			
+			
+				Citation Count5,178
+			
+			
+			
+				Available for download181
+			
+			
+ 			
+			
+				Downloads (6 Weeks)1,610
+			
+			
+			
+				Downloads (12 Months)14,744
+			
+			
+ 			
+		
+	
+	
+
+
+
+                                        
+                                        
+                                                    View colleagues of Ben Shneiderman""" ;
+      dct:creator viso-bibliography:Ahlberg , viso-bibliography:Schneiderman ;
+      dct:date "1994	"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-89791-650-6> ;
+      dct:source "Boston, Massachusetts, United States" ;
+      dct:title "Visual information seeking: tight coupling of dynamic query filters with starfield displays" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Ahlberg"^^xsd:string ;
+                rdf:_2  "Schneiderman"^^xsd:string
+              ] ;
+      bibo:doi "10.1145/191666.191775" ;
+      bibo:pages "313–317" ;
+      bibo:shortTitle "Visual information seeking" ;
+      bibo:uri "http://portal.acm.org/citation.cfm?id=191775" .
+
+<http://dx.doi.org/10.1145/192426.192472>
+      rdf:type bibo:Article ;
+      dct:abstract "Computer sliders are a generic user input mechanism for specifying a numeric value from a range. For data visualization, the effectiveness of sliders may be increased by using the space inside the slider as• an interactive color scale,• a barplot for discrete data, and• a density plot for continuous data.The idea is to show the selected values in relation to the data and its distribution. Furthermore, the selection mechanism may be generalized using a painting metaphor to specify arbitrary, disconnected intervals while maintaining an intuitive user-interface." ;
+      dct:creator viso-bibliography:Eick ;
+      dct:date "1994"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-89791-657-3> ;
+      dct:source "Marina del Rey, California, United States" ;
+      dct:title "Data visualization sliders" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Eick"
+              ] ;
+      bibo:doi "10.1145/192426.192472" ;
+      bibo:pages "119–120" ;
+      bibo:uri "http://portal.acm.org/citation.cfm?id=192472" .
+
+<http://dx.doi.org/10.1145/22949.22950>
+      rdf:type bibo:AcademicArticle ;
+      dct:abstract "The goal of the research described in this paper is to develop an application-independent presentation tool that automatically designs effective graphical presentations (such as bar charts, scatter plots, and connected graphs) of relational information. Two problems are raised by this goal: The codification of graphic design criteria in a form that can be used by the presentation tool, and the generation of a wide variety of designs so that the presentation tool can accommodate a wide variety of information. The approach described in this paper is based on the view that graphical presentations are sentences of graphical languages. The graphic design issues are codified as expressiveness and effectiveness criteria for graphical languages. Expressiveness criteria determine whether a graphical language can express the desired information. Effectiveness criteria determine whether a graphical language exploits the capabilities of the output medium and the human visual system. A wide variety of designs can be systematically generated by using a composition algebra that composes a small set of primitive graphical languages. Artificial intelligence techniques are used to implement a prototype presentation tool called APT (A Presentation Tool), which is based on the composition algebra and the graphic design criteria." ;
+      dct:creator viso-bibliography:Mackinlay ;
+      dct:date "April 1986"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue5 ;
+      dct:title "Automating the design of graphical presentations of relational information" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Mackinlay"
+              ] ;
+      bibo:doi "10.1145/22949.22950" ;
+      bibo:pages "110–141" ;
+      bibo:uri "http://portal.acm.org/citation.cfm?id=22950" .
+
+<http://dx.doi.org/10.1145/258549.258803>
+      rdf:type bibo:Article ;
+      dct:abstract """Lisa Tweedie
+	
+	
+	
+	No contact information provided yet.
+	
+	
+			
+	
+	
+	
+	
+	
+
+
+
+
+
+                                            
+
+
+
+	Bibliometrics: publication history
+		
+        
+			
+				Publication years1994-1999
+			
+			
+			
+				Publication count11
+			
+			
+			
+				Citation Count110
+			
+			
+			
+				Available for download7
+			
+			
+ 			
+			
+				Downloads (6 Weeks)22
+			
+			
+			
+				Downloads (12 Months)338
+			
+			
+ 			
+		
+	
+	
+
+
+
+                                        
+                                        
+                                                    View colleagues of Lisa Tweedie""" ;
+      dct:creator viso-bibliography:Tweedie ;
+      dct:date "1997"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-89791-802-9> ;
+      dct:source "Atlanta, Georgia, United States" ;
+      dct:title "Characterizing interactive externalizations" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Tweedie"
+              ] ;
+      bibo:doi "10.1145/258549.258803" ;
+      bibo:pages "375–382" ;
+      bibo:uri "http://portal.acm.org/citation.cfm?id=258803" .
+
+<http://dx.doi.org/10.1145/274644.274698>
+      rdf:type bibo:Article ;
+      dct:abstract """Michelle X. Zhou
+	
+	
+	
+	No contact information provided yet.
+	
+	
+			
+	
+	
+	
+	
+	
+
+
+
+
+
+                                            
+
+
+
+	Bibliometrics: publication history
+		
+        
+			
+				Publication years1995-2011
+			
+			
+			
+				Publication count46
+			
+			
+			
+				Citation Count221
+			
+			
+			
+				Available for download30
+			
+			
+ 			
+			
+				Downloads (6 Weeks)312
+			
+			
+			
+				Downloads (12 Months)2,296
+			
+			
+ 			
+		
+	
+	
+
+
+
+                                        
+                                        
+                                                    View colleagues of Michelle X. Zhou
+                                            
+                                         
+                                        
+                                     
+								
+					
+								
+									
+                                    
+                                    
+                                        
+                                        
+
+
+
+
+	
+		
+			
+		
+	
+
+
+	 Steven K. Feiner
+	
+	
+	
+	No contact information provided yet.
+	
+	
+			
+	
+	
+	
+	
+	
+
+
+
+
+
+                                            
+
+
+
+	Bibliometrics: publication history
+		
+        
+			
+				Publication years1981-2011
+			
+			
+			
+				Publication count158
+			
+			
+			
+				Citation Count2,601
+			
+			
+			
+				Available for download85
+			
+			
+ 			
+			
+				Downloads (6 Weeks)578
+			
+			
+			
+				Downloads (12 Months)5,065
+			
+			
+ 			
+		
+	
+	
+
+
+
+                                        
+                                        
+                                                    View colleagues of Steven K. Feiner""" ;
+      dct:creator viso-bibliography:Feiner , viso-bibliography:Zhou ;
+      dct:date "1998"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/0-201-30987-4> ;
+      dct:source "Los Angeles, California, United States" ;
+      dct:title "Visual task characterization for automated visual discourse synthesis" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Zhou" ;
+                rdf:_2  "Feiner"
+              ] ;
+      bibo:doi "10.1145/274644.274698" ;
+      bibo:pages "392–399" ;
+      bibo:uri "http://dx.doi.org/10.1145/274644.274698" .
+
+<http://dx.doi.org/10.1145/345513.345271>
+      rdf:type bibo:Article ;
+      dct:abstract "A multiple view system uses two or more distinct views to support the investigation of a single conceptual entity. Many such systems exist, ranging from computer-aided design (CAD) systems for chip design that display both the logical structure and the actual geometry of the integrated circuit to overview-plus-detail systems that show both an overview for context and a zoomed-in-view for detail. Designers of these systems must make a variety of design decisions, ranging from determining layout to constructing sophisticated coordination mechanisms. Surprisingly, little work has been done to characterize these systems or to express guidelines for their design. Based on a workshop discussion of multiple views, and based on our own design and implementation experience with these systems, we present eight guidelines for the design of multiple view systems." ;
+      dct:creator viso-bibliography:Baldonado , viso-bibliography:Kuchinsky , viso-bibliography:Woodruff ;
+      dct:date "2000"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/isbn13/1-58113-252-2> ;
+      dct:source "Palermo, Italy" ;
+      dct:title "Guidelines for using multiple views in information visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Wang Baldonado" ;
+                rdf:_2  "Woodruff" ;
+                rdf:_3  "Kuchinsky"
+              ] ;
+      bibo:doi "10.1145/345513.345271" ;
+      bibo:pages "110–119" ;
+      bibo:uri "http://portal.acm.org/citation.cfm?id=345271" .
+
+<http://dx.doi.org/10.1145/985692.985706>
+      rdf:type bibo:Article ;
+      dct:creator viso-bibliography:Bade , viso-bibliography:Miksch , viso-bibliography:Schlechtweg ;
+      dct:date "2004"^^xsd:string ;
+      dct:isPartOf viso-bibliography:proceedings4 ;
+      dct:title "Connecting time-oriented data and information to a coherent interactive visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Bade" ;
+                rdf:_2  "Schlechtweg" ;
+                rdf:_3  "Miksch"
+              ] ;
+      bibo:doi "10.1145/985692.985706" ;
+      bibo:pages "105–112" ;
+      bibo:uri "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.6199&rep=rep1&type=pdf" .
+
+<http://dx.doi.org/10.1201/9781420088861.fmatt>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Jacko , viso-bibliography:Sears ;
+      dct:date "2009-03-03"^^xsd:string ;
+      dct:title "Human-Computer Interaction Design Issues, Solutions, and Applications"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Sears"^^xsd:string ;
+                rdf:_2  "Jacko"^^xsd:string
+              ] ;
+      bibo:doi "10.1201/9781420088861.fmatt"^^xsd:string ;
+      bibo:isbn10 "1420088858"^^xsd:string ;
+      bibo:isbn13 "978-1420088854"^^xsd:string ;
+      bibo:numPages "382"^^xsd:string ;
+      bibo:shortTitle "Human-Computer Interaction"^^xsd:string .
+
+viso-bibliography:
+      rdf:type owl:Ontology ;
+      rdfs:label "Bibliographie-Modul der Visualisierungsontologie (VISO)."@de , "Bibliography module of the Visualisation Ontology (VISO)."@en ;
+      dct:creator <http://purl.org/viso/FabianPrager> , <http://purl.org/viso/JanPolowinski> , <http://purl.org/viso/MartinVoigt> ;
+      dct:description "The bibliographic module of VISO stores documents and authors related to  the field of visualisation that have been referenced within the quotes we stored in the annotation module in order to document the literature the ontology terms we defined are based on."^^xsd:string ;
+      #owl:imports <http://localhost/ontology/viso/bibliography/bibo-latest.owl> ;
+      owl:imports <http://purl.org/ontology/bibo/> ;
+      owl:versionInfo "0.5"^^xsd:string .
+
+viso-bibliography:ACM
+      rdf:type foaf:Organization ;
+      address:localityName
+              "New York, NY, USA" ;
+      foaf:name "ACM" .
+
+viso-bibliography:ACM_Addison-Wesley_Publishing_Co
+      rdf:type foaf:Organization ;
+      address:localityName
+              "New York, NY, USA" ;
+      foaf:name "ACM Press/Addison-Wesley Publishing Co." .
+
+viso-bibliography:Abe
+      rdf:type foaf:Person ;
+      foaf:family_name "Abe" ;
+      foaf:givenname "S." .
+
+viso-bibliography:AcademicArticle1
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Haber , viso-bibliography:McNabb ;
+      dct:date "1990"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue16 ;
+      dct:title "Visualization idioms: A conceptual model for scientific visualization systems" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Haber" ;
+                rdf:_2  "McNabb"
+              ] ;
+      bibo:pages "93" ;
+      bibo:shortTitle "Visualization idioms" .
+
+viso-bibliography:AcademicArticle2
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Alfieri ;
+      dct:date "2001"^^xsd:string ;
+      dct:title "Task Models in Interactive Software Systems" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Alfieri"
+              ] .
+
+viso-bibliography:AcademicArticle3
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Polowinski ;
+      dct:date "2007-08-25"^^xsd:string ;
+      dct:title "Semi-Automatic Mapping of Structured Data to Visual Variables" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Polowinski"
+              ] ;
+      bibo:uri "http://st.inf.tu-dresden.de/semvis/papers/diploma_thesis_polowinski.pdf" .
+
+viso-bibliography:AcademicArticle4
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Brodlie , viso-bibliography:Noor ;
+      dct:date "2007"^^xsd:string ;
+      dct:title "Visualization notations, models and taxonomies" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Brodlie" ;
+                rdf:_2  "Noor"
+              ] ;
+      bibo:pages "207–212" ;
+      bibo:uri "http://www.comp.leeds.ac.uk/kwb/publication_repository/2007/kwnf1234.pdf" .
+
+viso-bibliography:AcademicArticle5
+      rdf:type bibo:AcademicArticle ;
+      dct:creator viso-bibliography:Haber , viso-bibliography:McNabb ;
+      dct:date "1990"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue16 ;
+      dct:title "Visualization idioms: A conceptual model for scientific visualization systems" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Haber" ;
+                rdf:_2  "McNabb"
+              ] ;
+      bibo:pages "93" ;
+      bibo:shortTitle "Visualization idioms" .
+
+viso-bibliography:Agent_1
+      rdf:type dct:Agent .
+
+viso-bibliography:Ahlberg
+      rdf:type foaf:Person ;
+      foaf:family_name "Ahlberg" ;
+      foaf:givenname "Christopher" .
+
+viso-bibliography:Alfieri
+      rdf:type foaf:Person ;
+      foaf:family_name "Alfieri" ;
+      foaf:givenname "V. V" .
+
+viso-bibliography:Amant
+      rdf:type foaf:Person ;
+      foaf:family_name "Amant" ;
+      foaf:givenname "Robert St." .
+
+viso-bibliography:Amar
+      rdf:type foaf:Person ;
+      foaf:family_name "Amar" ;
+      foaf:givenname "R." .
+
+viso-bibliography:Ambros
+      rdf:type foaf:Person ;
+      foaf:family_name "Ambros"^^xsd:string ;
+      foaf:givenname "Marco D'"^^xsd:string .
+
+viso-bibliography:Andrienko
+      rdf:type foaf:Person ;
+      foaf:family_name "Andrienko" ;
+      foaf:givenname "Gennady" , "Natalia" .
+
+viso-bibliography:Article1
+      dct:creator viso-bibliography:Keim ;
+      dct:isPartOf viso-bibliography:proceedings1 ;
+      dct:title "Scaling visual analytics to very large data sets" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Keim"
+              ] ;
+      bibo:uri "http://infovis.uni-konstanz.de/events/VisAnalyticsWs05/pdf/03DanielKeim.pdf" .
+
+viso-bibliography:Article2
+      rdf:type bibo:Article ;
+      rdfs:comment """{{{\\textless}p{\\textgreater}Achtung:} {PDF} ist {2007-Ausgabe,} wurde aber nahzu unverändert, bis auf seiten zahlen.{\\textless}/p{\\textgreater}
+{\\textless}p{\\textgreater} {\\textless}/p{\\textgreater}
+{\\textless}p{\\textgreater}p. 526: Filtering Widgets as Visualizations (controls consume space that is valuable){\\textless}/p{\\textgreater}
+{\\textless}p{\\textgreater} {\\textless}/p{\\textgreater}
+{{\\textless}p{\\textgreater}Keine} rechte Unterscheidung zwischen {n-Variable} Data and Vis.. Es bleibt unklar, ob mi {1-Variable} Univariate Daten gemeint sind. Er schreibt aber \"by the time we get to three dat variables\" (p. 526) Es wird auf jeden Fall keine Unterscheidung gemacht in independent/dependent variables. objects werden als input variables (also independent) angenommen, aber es wird nciht erläutert, ob diese auch mehrere Dimensionen haben können. -\\&gt; Egal, ob independent Variable oder dependent - jede Variable kann eine Dimension des Diagramms in Anspruch nehmen. Wenn also geographische Breite und Länge variiert werden (independent) nehmen sie unter Umständen trotzdem zwei Dimensionen der Grafik in Anspruch.{\\textless}/p{\\textgreater}
+{\\textless}p{\\textgreater} {\\textless}/p{\\textgreater}}"""^^xsd:string ;
+      dct:creator viso-bibliography:Card ;
+      dct:date "1997"^^xsd:string ;
+      dct:isPartOf <http://dx.doi.org/10.1201/9781420088861.fmatt> ;
+      dct:title "Information visualization"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Card"^^xsd:string
+              ] ;
+      bibo:lccn "2092"^^xsd:string ;
+      bibo:numPages "181"^^xsd:string ;
+      bibo:pageStart "85"^^xsd:string .
+
+viso-bibliography:Article3
+      rdf:type bibo:Article ;
+      dct:creator viso-bibliography:Gangemi , viso-bibliography:Grimm , viso-bibliography:Lamparter , viso-bibliography:Oberle , viso-bibliography:Staab , viso-bibliography:Vrandecic ;
+      dct:date "2006"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue18 ;
+      dct:title "Towards ontologies for formalizing modularization and communication in large software systems"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Oberle"^^xsd:string ;
+                rdf:_2  "Lamparter"^^xsd:string ;
+                rdf:_3  "Grimm"^^xsd:string ;
+                rdf:_4  "Vrandecic"^^xsd:string ;
+                rdf:_5  "Staab"^^xsd:string ;
+                rdf:_6  "Gangemi"^^xsd:string
+              ] ;
+      bibo:pages "163-202"^^xsd:string ;
+      bibo:uri "http://researchr.org/publication/OberleLGVSG06"^^xsd:string .
+
+viso-bibliography:Article4
+      rdf:type bibo:Article ;
+      dct:creator viso-bibliography:Paterno ;
+      dct:date "2006"^^xsd:string ;
+      dct:description "sdasd"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue18 ;
+      dct:title "Task Models in Interactive Software Systems"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Paterno"^^xsd:string
+              ] ;
+      bibo:uri "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.25.1931"^^xsd:string .
+
+viso-bibliography:Avis
+      rdf:type foaf:Person ;
+      foaf:family_name "Avis" ;
+      foaf:givenname "Nick J." .
+
+viso-bibliography:Bade
+      rdf:type foaf:Person ;
+      foaf:family_name "Bade" ;
+      foaf:givenname "R." .
+
+viso-bibliography:Baldonado
+      rdf:type foaf:Person ;
+      foaf:family_name "Baldonado" ;
+      foaf:givenname "Michelle Q Wang"^^xsd:string .
+
+viso-bibliography:Bertin
+      rdf:type foaf:Person ;
+      foaf:family_name "Bertin" ;
+      foaf:givenname "Jacques" .
+
+viso-bibliography:Bezold
+      rdf:type foaf:Person ;
+      foaf:family_name "Bezold"^^xsd:string ;
+      foaf:givenname "Matthias"^^xsd:string .
+
+viso-bibliography:Bierz
+      rdf:type foaf:Person ;
+      foaf:family_name "Bierz"^^xsd:string ;
+      foaf:givenname "Torsten"^^xsd:string .
+
+viso-bibliography:Birkhaeuser
+      rdf:type foaf:Organization ;
+      foaf:name "Birkhäuser" .
+
+viso-bibliography:Blandford
+      rdf:type foaf:Person ;
+      foaf:family_name "Blandford" ;
+      foaf:givenname "Ann" .
+
+viso-bibliography:Boehlen
+      rdf:type foaf:Person ;
+      foaf:family_name "Böhlen" ;
+      foaf:givenname "Michael H." .
+
+viso-bibliography:Boukhelifa
+      rdf:type foaf:Person ;
+      foaf:family_name "Boukhelifa" ;
+      foaf:givenname "N." .
+
+viso-bibliography:Brodlie
+      rdf:type foaf:Person ;
+      foaf:family_name "Brodlie" ;
+      foaf:givenname "K. W" .
+
+viso-bibliography:Buring
+      rdf:type foaf:Person ;
+      foaf:family_name "Buring" ;
+      foaf:givenname "Thorsten" .
+
+viso-bibliography:Card
+      rdf:type foaf:Person ;
+      foaf:family_name "Card" ;
+      foaf:givenname "Stuart K" .
+
+viso-bibliography:Chen_C
+      rdf:type foaf:Person ;
+      foaf:family_name "Chen" ;
+      foaf:givenname "C." .
+
+viso-bibliography:Chen_M
+      rdf:type foaf:Person ;
+      foaf:family_name "Chen" ;
+      foaf:givenname "M." .
+
+viso-bibliography:Chi
+      rdf:type foaf:Person ;
+      foaf:family_name "Chi" ;
+      foaf:givenname "Ed H." .
+
+viso-bibliography:Christodoulakis
+      rdf:type foaf:Person ;
+      foaf:family_name "Christodoulakis" ;
+      foaf:givenname "S." .
+
+viso-bibliography:Chuah
+      rdf:type foaf:Person ;
+      foaf:family_name "Chuah" ;
+      foaf:givenname "M.C." .
+
+viso-bibliography:Cleland-Huang
+      rdf:type foaf:Person ;
+      foaf:family_name "Cleland-Huang" ;
+      foaf:givenname "J." .
+
+viso-bibliography:Computation
+      rdf:type foaf:Person ;
+      foaf:family_name "Computation" ;
+      foaf:givenname "Universiteit van Amsterdam. Institute for Logic, Language and" .
+
+viso-bibliography:Doherty
+      rdf:type foaf:Person ;
+      foaf:family_name "Doherty" ;
+      foaf:givenname "Gavin" .
+
+viso-bibliography:Duce
+      rdf:type foaf:Person ;
+      foaf:family_name "Duce" ;
+      foaf:givenname "D.A." .
+
+viso-bibliography:Duke
+      rdf:type foaf:Person ;
+      foaf:family_name "Duke" ;
+      foaf:givenname "D. J" .
+
+viso-bibliography:Eagan
+      rdf:type foaf:Person ;
+      foaf:family_name "Eagan" ;
+      foaf:givenname "J." .
+
+viso-bibliography:Ebert
+      rdf:type foaf:Person ;
+      foaf:family_name "Ebert"^^xsd:string ;
+      foaf:givenname "Achim"^^xsd:string .
+
+viso-bibliography:Eick
+      rdf:type foaf:Person ;
+      foaf:family_name "Eick" ;
+      foaf:givenname "Stephen G" .
+
+viso-bibliography:Engelhardt
+      rdf:type foaf:Person ;
+      foaf:family_name "Engelhardt"^^xsd:string ;
+      foaf:givenname "Jörg von"^^xsd:string .
+
+viso-bibliography:Feiner
+      rdf:type foaf:Person ;
+      foaf:family_name "Feiner" ;
+      foaf:givenname "Steven K" .
+
+viso-bibliography:Fekete
+      rdf:type foaf:Person ;
+      foaf:family_name "Fekete" ;
+      foaf:givenname "Jean-Daniel" .
+
+viso-bibliography:Fikkert
+      rdf:type foaf:Person ;
+      foaf:family_name "Fikkert"^^xsd:string ;
+      foaf:givenname "Wim"^^xsd:string .
+
+viso-bibliography:Gangemi
+      rdf:type foaf:Person ;
+      foaf:family_name "Gangemi"^^xsd:string ;
+      foaf:givenname "Aldo"^^xsd:string .
+
+viso-bibliography:Gerken
+      rdf:type foaf:Person ;
+      foaf:family_name "Gerken" ;
+      foaf:givenname "Jens" .
+
+viso-bibliography:Giannopoulou
+      rdf:type foaf:Person ;
+      foaf:family_name "Giannopoulou" ;
+      foaf:givenname "Eugenia" .
+
+viso-bibliography:Gilson
+      rdf:type foaf:Person ;
+      foaf:family_name "Gilson" ;
+      foaf:givenname "O." .
+
+viso-bibliography:Gotz
+      rdf:type foaf:Person ;
+      foaf:family_name "Gerken" ;
+      foaf:givenname "David"^^xsd:string .
+
+viso-bibliography:Grant
+      rdf:type foaf:Person ;
+      foaf:family_name "Grant" ;
+      foaf:givenname "P.W." .
+
+viso-bibliography:Grimm
+      rdf:type foaf:Person ;
+      foaf:family_name "Grimm"^^xsd:string ;
+      foaf:givenname "S."^^xsd:string .
+
+viso-bibliography:Guilford_Press
+      rdf:type foaf:Organization ;
+      foaf:name "Guilford Press" .
+
+viso-bibliography:Haber
+      rdf:type foaf:Person ;
+      foaf:family_name "Haber" ;
+      foaf:givenname "R. B" .
+
+viso-bibliography:Halatsis
+      rdf:type foaf:Person ;
+      foaf:family_name "Halatsis" ;
+      foaf:givenname "Constantin" .
+
+viso-bibliography:Healey
+      rdf:type foaf:Person ;
+      foaf:family_name "Healey" ;
+      foaf:givenname "Christopher" .
+
+viso-bibliography:Henry
+      rdf:type foaf:Person ;
+      foaf:family_name "Henry" ;
+      foaf:givenname "Nathalie" .
+
+viso-bibliography:Herman
+      rdf:type foaf:Person ;
+      foaf:family_name "Herman" ;
+      foaf:givenname "I." .
+
+viso-bibliography:Houben
+      rdf:type foaf:Person ;
+      foaf:family_name "Herman" ;
+      foaf:givenname "Geert-Jan"^^xsd:string .
+
+viso-bibliography:IEEE_Computer_Society
+      rdf:type foaf:Organization ;
+      address:localityName
+              "Los Alamitos, CA, USA" , "Washington, DC, USA" ;
+      foaf:name "IEEE Computer Society" .
+
+viso-bibliography:IEEE_International_Conference_on_Global_Software_Engineering_2010
+      rdf:type bibo:Conference ;
+      dct:title "Global Software Engineering (ICGSE), 2010 5th IEEE International Conference on" .
+
+viso-bibliography:IEEE_International_Workshop_on_Robot_and_Human_Communication_1995
+      rdf:type bibo:Conference ;
+      dct:title "Robot and Human Communication, 1995. RO-MAN'95 TOKYO, Proceedings., 4th IEEE International Workshop on" .
+
+viso-bibliography:IEEE_Symposium_on_Information_Visualization_1996
+      rdf:type bibo:Conference ;
+      dct:title "Information Visualization '96, Proceedings IEEE Symposium on" .
+
+viso-bibliography:IEEE_Symposium_on_Information_Visualization_2000
+      rdf:type bibo:Conference ;
+      dct:title "Information Visualization, 2000. InfoVis 2000. IEEE Symposium on" .
+
+viso-bibliography:IEEE_Symposium_on_Information_Visualization_2005
+      rdf:type bibo:Conference ;
+      dct:title "Information Visualization, 2005. INFOVIS 2005. IEEE Symposium on" .
+
+viso-bibliography:IEEE_Symposium_on_Visual_Analytics_Science_and_Technology_2008
+      rdf:type bibo:Conference ;
+      dct:title "IEEE Symposium on Visual Analytics Science and Technology, 2008. VAST '08"^^xsd:string .
+
+viso-bibliography:IEEE_Symposium_on_Visual_Languages_1996
+      rdf:type bibo:Conference ;
+      dct:title "Visual Languages, 1996. Proceedings., IEEE Symposium on" .
+
+viso-bibliography:Ignatius
+      rdf:type foaf:Person ;
+      foaf:family_name "Ignatius" ;
+      foaf:givenname "E." .
+
+viso-bibliography:International_Conference_Information_Visualization_2007
+      rdf:type bibo:Conference ;
+      dct:title "Information Visualization, 2007. IV '07. 11th International Conference" .
+
+viso-bibliography:International_Conference_on_Coordinated_and_Multiple_Views_in_Exploratory_Visualization_2003
+      rdf:type bibo:Conference ;
+      dct:title "Coordinated and Multiple Views in Exploratory Visualization, 2003. Proceedings. International Conference on" .
+
+viso-bibliography:Issue1
+      rdf:type bibo:Issue ;
+      dct:date "1994" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/0272-1716> ;
+      bibo:issue "6" ;
+      bibo:volume "14" .
+
+viso-bibliography:Issue10
+      rdf:type bibo:Issue ;
+      dct:date "2003" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/0272-1716> ;
+      bibo:issue "3" ;
+      bibo:volume "23" .
+
+viso-bibliography:Issue11
+      rdf:type bibo:Issue ;
+      dct:date "2007" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/1077-2626> ;
+      bibo:issue "6" ;
+      bibo:volume "13" .
+
+viso-bibliography:Issue12
+      rdf:type bibo:Issue ;
+      dct:date "2005" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/0272-1716> ;
+      bibo:issue "4" ;
+      bibo:volume "25" .
+
+viso-bibliography:Issue13
+      rdf:type bibo:Issue ;
+      dct:date "1994" ;
+      dct:isPartOf
+              [ rdf:type bibo:Magazine ;
+                dct:title "IEEE Software" ;
+                bibo:issn "0740-7459"
+              ] ;
+      bibo:issue "6" ;
+      bibo:volume "11" .
+
+viso-bibliography:Issue14
+      rdf:type bibo:Issue ;
+      dct:date "Juni 2008" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/0965-9978> ;
+      bibo:issue "6" ;
+      bibo:volume "39" .
+
+viso-bibliography:Issue15
+      rdf:type bibo:Issue ;
+      dct:date "11/2007" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/03600300> ;
+      bibo:issue "4" ;
+      bibo:volume "39" .
+
+viso-bibliography:Issue16
+      rdf:type bibo:Issue ;
+      dct:date "1990" ;
+      dct:isPartOf viso-bibliography:journal2 ;
+      bibo:volume "74" .
+
+viso-bibliography:Issue17
+      rdf:type bibo:Issue ;
+      dct:date "1991" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/0272-1716> ;
+      bibo:issue "3" ;
+      bibo:volume "11" .
+
+viso-bibliography:Issue18
+      rdf:type bibo:Issue ;
+      dct:date "2006"^^xsd:string ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/1570-5838> ;
+      bibo:issue "2"^^xsd:string ;
+      bibo:volume "1"^^xsd:string .
+
+viso-bibliography:Issue2
+      rdf:type bibo:Issue ;
+      dct:date "05/2008" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/01677055> ;
+      bibo:issue "3" ;
+      bibo:volume "27" .
+
+viso-bibliography:Issue3
+      rdf:type bibo:Issue ;
+      dct:date "11/1997" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/01782789> ;
+      bibo:issue "8" ;
+      bibo:volume "13" .
+
+viso-bibliography:Issue4
+      rdf:type bibo:Issue ;
+      dct:date "1999" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/1-55860-533-9> ;
+      bibo:editor viso-bibliography:Card , viso-bibliography:Mackinlay ;
+      bibo:editorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Card" ;
+                rdf:_2  "Mackinlay" ;
+                rdf:_3  "Shneiderman"
+              ] .
+
+viso-bibliography:Issue5
+      rdf:type bibo:Issue ;
+      dct:date "April 1986" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/0730-0301> ;
+      bibo:volume "5" .
+
+viso-bibliography:Issue6
+      rdf:type bibo:Issue ;
+      dct:date "1998" ;
+      dct:isPartOf viso-bibliography:journal1 .
+
+viso-bibliography:Issue7
+      rdf:type bibo:Issue ;
+      dct:date "22/2008" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/1473-8716> ;
+      bibo:issue "2" ;
+      bibo:volume "7" .
+
+viso-bibliography:Issue8
+      rdf:type bibo:Issue ;
+      dct:date "2002" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/1077-2626> ;
+      bibo:issue "1" ;
+      bibo:volume "8" .
+
+viso-bibliography:Issue9
+      rdf:type bibo:Issue ;
+      dct:date "2005" ;
+      dct:isPartOf <http://purl.org/viso/bibliography/issn/0272-1716> ;
+      bibo:issue "3" ;
+      bibo:volume "25" .
+
+viso-bibliography:Jacko
+      rdf:type foaf:Person ;
+      foaf:family_name "Jacko" ;
+      foaf:givenname "Julie A."^^xsd:string .
+
+viso-bibliography:Jankun-Kelly
+      rdf:type foaf:Person ;
+      foaf:family_name "Jankun-Kelly"^^xsd:string ;
+      foaf:givenname "T. J."^^xsd:string .
+
+viso-bibliography:Ji_Soo_Yi
+      rdf:type foaf:Person ;
+      foaf:family_name "Ji Soo Yi" .
+
+viso-bibliography:Kalogerakis
+      rdf:type foaf:Person ;
+      foaf:family_name "Kalogerakis" ;
+      foaf:givenname "E." .
+
+viso-bibliography:Katifori
+      rdf:type foaf:Person ;
+      foaf:family_name "Katifori" ;
+      foaf:givenname "Akrivi" .
+
+viso-bibliography:Keim
+      rdf:type foaf:Person ;
+      foaf:family_name "Keim" ;
+      foaf:givenname "Daniel A." .
+
+viso-bibliography:Kerren
+      rdf:type foaf:Person ;
+      foaf:family_name "Kerren"^^xsd:string ;
+      foaf:givenname "Andreas"^^xsd:string .
+
+viso-bibliography:Kishino
+      rdf:type foaf:Person ;
+      foaf:family_name "Kishino" ;
+      foaf:givenname "F." .
+
+viso-bibliography:Kocherlakota
+      rdf:type foaf:Person ;
+      foaf:family_name "Kocherlakota" ;
+      foaf:givenname "Sarat" .
+
+viso-bibliography:Kosara
+      rdf:type foaf:Person ;
+      foaf:family_name "Kosara" ;
+      foaf:givenname "R." .
+
+viso-bibliography:Kraemer
+      rdf:type foaf:Person ;
+      foaf:family_name "Kraemer" ;
+      foaf:givenname "Eileen" .
+
+viso-bibliography:Kuchinsky
+      rdf:type foaf:Person ;
+      foaf:family_name "Kuchinsky" ;
+      foaf:givenname "Allan" .
+
+viso-bibliography:Lamparter
+      rdf:type foaf:Person ;
+      foaf:family_name "Lamparter"^^xsd:string ;
+      foaf:givenname "Steffen"^^xsd:string .
+
+viso-bibliography:Laurent
+      rdf:type foaf:Person ;
+      foaf:family_name "Laurent" ;
+      foaf:givenname "P." .
+
+viso-bibliography:Lee
+      rdf:type foaf:Person ;
+      foaf:family_name "Lee" ;
+      foaf:givenname "Bongshin" .
+
+viso-bibliography:Lepouras
+      rdf:type foaf:Person ;
+      foaf:family_name "Lepouras" ;
+      foaf:givenname "George" .
+
+viso-bibliography:Limbourg
+      rdf:type foaf:Person ;
+      foaf:family_name "Limbourg"^^xsd:string ;
+      foaf:givenname "Quentin"^^xsd:string .
+
+viso-bibliography:Lodha
+      rdf:type foaf:Person ;
+      foaf:family_name "Lodha" ;
+      foaf:givenname "Suresh K." .
+
+viso-bibliography:MacEachren
+      rdf:type foaf:Person ;
+      foaf:family_name "MacEachren" ;
+      foaf:givenname "A. M" .
+
+viso-bibliography:Mackinlay
+      rdf:type foaf:Person ;
+      foaf:family_name "Mackinlay" ;
+      foaf:givenname "Jock D." .
+
+viso-bibliography:Maeder
+      rdf:type foaf:Person ;
+      foaf:family_name "Mäder"^^xsd:string ;
+      foaf:givenname "P." .
+
+viso-bibliography:Mazza
+      rdf:type foaf:Person ;
+      foaf:family_name "Mazza" ;
+      foaf:givenname "Riccardo" .
+
+viso-bibliography:McCalla
+      rdf:type foaf:Person ;
+      foaf:family_name "McCalla"^^xsd:string ;
+      foaf:givenname "Gord"^^xsd:string .
+
+viso-bibliography:McNabb
+      rdf:type foaf:Person ;
+      foaf:family_name "McNabb" ;
+      foaf:givenname "D. A" .
+
+viso-bibliography:Mehta
+      rdf:type foaf:Person ;
+      foaf:family_name "Mehta" ;
+      foaf:givenname "Reshma" .
+
+viso-bibliography:Meyer
+      rdf:type foaf:Person ;
+      foaf:family_name "Meyer"^^xsd:string ;
+      foaf:givenname "Jörg"^^xsd:string .
+
+viso-bibliography:Miksch
+      rdf:type foaf:Person ;
+      foaf:family_name "Miksch" ;
+      foaf:givenname "S." .
+
+viso-bibliography:Moeller
+      rdf:type foaf:Person ;
+      foaf:family_name "Möller" ;
+      foaf:givenname "Torsten" .
+
+viso-bibliography:Morgan_Kaufmann
+      rdf:type foaf:Organization ;
+      foaf:name "Morgan Kaufmann" .
+
+viso-bibliography:Moumoutzis
+      rdf:type foaf:Person ;
+      foaf:family_name "Moumoutzis" ;
+      foaf:givenname "N." .
+
+viso-bibliography:Mueller
+      rdf:type foaf:Person ;
+      foaf:family_name "Müller" ;
+      foaf:givenname "Wolfgang" .
+
+viso-bibliography:Noor
+      rdf:type foaf:Person ;
+      foaf:family_name "Noor" ;
+      foaf:givenname "N. M" .
+
+viso-bibliography:Oberle
+      rdf:type foaf:Person ;
+      foaf:family_name "Oberle"^^xsd:string ;
+      foaf:givenname "Daniel"^^xsd:string .
+
+viso-bibliography:Pang
+      rdf:type foaf:Person ;
+      foaf:family_name "Pang" ;
+      foaf:givenname "Alex T." .
+
+viso-bibliography:Parr
+      rdf:type foaf:Person ;
+      foaf:family_name "Parr" ;
+      foaf:givenname "Cynthia Sims" .
+
+viso-bibliography:Paterno
+      rdf:type foaf:Person ;
+      foaf:family_name "Paterno"^^xsd:string ;
+      foaf:givenname "Fabio"^^xsd:string .
+
+viso-bibliography:Pianesi
+      rdf:type foaf:Person ;
+      foaf:family_name "Pianesi"^^xsd:string ;
+      foaf:givenname "Fabio"^^xsd:string .
+
+viso-bibliography:Pignataro
+      rdf:type foaf:Person ;
+      foaf:family_name "Pignataro" ;
+      foaf:givenname "Julie" .
+
+viso-bibliography:Plaisant
+      rdf:type foaf:Person ;
+      foaf:family_name "Plaisant" ;
+      foaf:givenname "Catherine" .
+
+viso-bibliography:Polowinski
+      rdf:type foaf:Person ;
+      foaf:family_name "Polowinski" ;
+      foaf:givenname "J." .
+
+viso-bibliography:Prentice_Hall
+      rdf:type foaf:Organization ;
+      foaf:name "Prentice Hall" .
+
+viso-bibliography:Rana
+      rdf:type foaf:Person ;
+      foaf:family_name "Rana" ;
+      foaf:givenname "Omer F." .
+
+viso-bibliography:Rao
+      rdf:type foaf:Person ;
+      foaf:family_name "Rao" ;
+      foaf:givenname "Vivek" .
+
+viso-bibliography:Reed
+      rdf:type foaf:Person ;
+      foaf:family_name "Reed" ;
+      foaf:givenname "Bina" .
+
+viso-bibliography:Reiterer
+      rdf:type foaf:Person ;
+      foaf:family_name "Reiterer" ;
+      foaf:givenname "Harald" .
+
+viso-bibliography:Rhodes
+      rdf:type foaf:Person ;
+      foaf:family_name "Rhodes" ;
+      foaf:givenname "Philippa" .
+
+viso-bibliography:Rhyne
+      rdf:type foaf:Person ;
+      foaf:family_name "Rhyne" ;
+      foaf:givenname "T.-M." .
+
+viso-bibliography:Riedl
+      rdf:type foaf:Person ;
+      foaf:family_name "Riedl" ;
+      foaf:givenname "John T." .
+
+viso-bibliography:Roberts
+      rdf:type foaf:Person ;
+      foaf:family_name "Roberts" ;
+      foaf:givenname "J.C." .
+
+viso-bibliography:Robertson
+      rdf:type foaf:Person ;
+      foaf:family_name "Robertson" ;
+      foaf:givenname "P.K." .
+
+viso-bibliography:Rodgers
+      rdf:type foaf:Person ;
+      foaf:family_name "Rodgers" ;
+      foaf:givenname "P.J." .
+
+viso-bibliography:Roth
+      rdf:type foaf:Person ;
+      foaf:family_name "Roth" ;
+      foaf:givenname "S.F." .
+
+viso-bibliography:Schlechtweg
+      rdf:type foaf:Person ;
+      foaf:family_name "Schlechtweg" ;
+      foaf:givenname "S." .
+
+viso-bibliography:Schneiderman
+      rdf:type foaf:Person ;
+      foaf:family_name "Schneiderman" ;
+      foaf:givenname "Ben" .
+
+viso-bibliography:Schumann
+      rdf:type foaf:Person ;
+      foaf:family_name "Schumann" ;
+      foaf:givenname "Heidrun" .
+
+viso-bibliography:Sears
+      rdf:type foaf:Person ;
+      foaf:family_name "Sears"^^xsd:string ;
+      foaf:givenname "Andrew"^^xsd:string .
+
+viso-bibliography:Senay
+      rdf:type foaf:Person ;
+      foaf:family_name "Senay" ;
+      foaf:givenname "H." .
+
+viso-bibliography:Shu
+      rdf:type foaf:Person ;
+      foaf:family_name "Shu" ;
+      foaf:givenname "Gao" .
+
+viso-bibliography:Silva
+      rdf:type foaf:Person ;
+      foaf:family_name "Silva" ;
+      foaf:givenname "N." .
+
+viso-bibliography:Spence
+      rdf:type foaf:Person ;
+      foaf:family_name "Spence" ;
+      foaf:givenname "Robert" .
+
+viso-bibliography:Springer
+      rdf:type foaf:Organization ;
+      address:localityName
+              "Berlin, Heidelberg" ;
+      foaf:name "Springer" , "Springer Berlin Heidelberg" .
+
+viso-bibliography:Staab
+      rdf:type foaf:Person ;
+      foaf:family_name "Staab"^^xsd:string ;
+      foaf:givenname "Steffen"^^xsd:string .
+
+viso-bibliography:Stasko
+      rdf:type foaf:Person ;
+      foaf:family_name "Stasko" ;
+      foaf:givenname "J.T." .
+
+viso-bibliography:Steele
+      rdf:type foaf:Person ;
+      foaf:family_name "Steele" ;
+      foaf:givenname "A." .
+
+viso-bibliography:Stevens
+      rdf:type foaf:Person ;
+      foaf:family_name "Stevens" ;
+      foaf:givenname "S. S." .
+
+viso-bibliography:Sun
+      rdf:type foaf:Person ;
+      foaf:family_name "Sun"^^xsd:string ;
+      foaf:givenname "Jing"^^xsd:string .
+
+viso-bibliography:Tijerino
+      rdf:type foaf:Person ;
+      foaf:family_name "Tijerino" ;
+      foaf:givenname "Y.A." .
+
+viso-bibliography:Tory
+      rdf:type foaf:Person ;
+      foaf:family_name "Tory" ;
+      foaf:givenname "Melanie" .
+
+viso-bibliography:Tweedie
+      rdf:type foaf:Person ;
+      foaf:family_name "Tweedie" ;
+      foaf:givenname "Lisa" .
+
+viso-bibliography:University_of_Wisconsin_Press
+      rdf:type foaf:Organization ;
+      foaf:name "University of Wisconsin Press"^^xsd:string .
+
+viso-bibliography:Vanderdonckt
+      rdf:type foaf:Person ;
+      foaf:family_name "Vanderdonckt"^^xsd:string ;
+      foaf:givenname "Jean"^^xsd:string .
+
+viso-bibliography:Vassilakis
+      rdf:type foaf:Person ;
+      foaf:family_name "Vassilakis" ;
+      foaf:givenname "Costas" .
+
+viso-bibliography:Virtual_Reality_Conference_2006
+      rdf:type bibo:Conference ;
+      dct:title "Virtual Reality Conference, 2006" .
+
+viso-bibliography:Vrandecic
+      rdf:type foaf:Person ;
+      foaf:family_name "Vrandecic"^^xsd:string ;
+      foaf:givenname "Denny"^^xsd:string .
+
+viso-bibliography:Walter_de_Gruyter
+      rdf:type foaf:Organization ;
+      foaf:name "Walter de Gruyter" .
+
+viso-bibliography:Wang
+      rdf:type foaf:Person ;
+      foaf:family_name "Wang"^^xsd:string ;
+      foaf:givenname "Hai H."^^xsd:string .
+
+viso-bibliography:Ware
+      rdf:type foaf:Person ;
+      foaf:family_name "Ware" ;
+      foaf:givenname "Colin" .
+
+viso-bibliography:Wijk
+      rdf:type foaf:Person ;
+      foaf:family_name "Wijk" ;
+      foaf:givenname "Jarke J. van" .
+
+viso-bibliography:Wittenbrink
+      rdf:type foaf:Person ;
+      foaf:family_name "Wittenbrink" ;
+      foaf:givenname "Craig M." .
+
+viso-bibliography:Woodruff
+      rdf:type foaf:Person ;
+      foaf:family_name "Woodruff" ;
+      foaf:givenname "Allison" .
+
+viso-bibliography:Yoshida
+      rdf:type foaf:Person ;
+      foaf:family_name "Yoshida" ;
+      foaf:givenname "M." .
+
+viso-bibliography:Youn_ah_Kang
+      rdf:type foaf:Person ;
+      foaf:family_name "Youn ah Kang" .
+
+viso-bibliography:Yuri_Engelhardt
+      rdf:type foaf:Organization ;
+      foaf:name "Yuri Engelhardt" .
+
+viso-bibliography:Zancanaro
+      rdf:type foaf:Person ;
+      foaf:family_name "Zancanaro"^^xsd:string ;
+      foaf:givenname "Massimo"^^xsd:string .
+
+viso-bibliography:Zhang
+      rdf:type foaf:Person ;
+      foaf:family_name "Zhang" ;
+      foaf:givenname "J" .
+
+viso-bibliography:Zhou
+      rdf:type foaf:Person ;
+      foaf:family_name "Zhou" ;
+      foaf:givenname "Michelle X" .
+
+<http://purl.org/viso/bibliography/isbn/0132065509>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Spence ;
+      dct:date "2007-01-15" ;
+      dct:publisher viso-bibliography:Prentice_Hall ;
+      dct:title "Information Visualization: Design for Interaction" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Spence"
+              ] ;
+      bibo:edition "2" ;
+      bibo:isbn10 "0132065509" ;
+      bibo:shortTitle "Information Visualization" .
+
+<http://purl.org/viso/bibliography/isbn/0299090604>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Bertin ;
+      dct:date "1983"^^xsd:string ;
+      dct:publisher viso-bibliography:University_of_Wisconsin_Press ;
+      dct:title "Semiology of Graphics: Diagrams, Networks, Maps "^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Bertin"^^xsd:string
+              ] ;
+      bibo:content "Originally published in French in 1967, Semiology of Graphics holds a significant place in the theory of information design. Founded on Jacques Bertin’s practical experience as a cartographer, Part One of this work is an unprecedented attempt to synthesize principles of graphic communication with the logic of standard rules applied to writing and topography. Part Two brings Bertin’s theory to life, presenting a close study of graphic techniques including shape, orientation, color, texture, volume, and size in an array of more than 1,000 maps and diagrams."^^xsd:string ;
+      bibo:isbn10 "0299090604"^^xsd:string ;
+      bibo:shortTitle "Semiology of Graphics"^^xsd:string .
+
+<http://purl.org/viso/bibliography/isbn/1-57230-040-X>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:MacEachren ;
+      dct:date "1995" ;
+      dct:publisher viso-bibliography:Guilford_Press ;
+      dct:title "How maps work" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "MacEachren"
+              ] ;
+      bibo:isbn13 "1-57230-040-X" ;
+      bibo:uri "http://www.geovista.psu.edu/SIGGRAPH04/files/MacEachren_HowMapsWork_order-form.pdf" .
+
+<http://purl.org/viso/bibliography/isbn/3110088681>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Bertin ;
+      dct:date "1981-12" ;
+      dct:publisher viso-bibliography:Walter_de_Gruyter ;
+      dct:title "Graphics and Graphic Information Processing" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Bertin"
+              ] ;
+      bibo:isbn10 "3110088681" .
+
+<http://purl.org/viso/bibliography/isbn/978-3-540-69553-0>
+      rdf:type bibo:Book ;
+      dct:date "2007" ;
+      dct:publisher viso-bibliography:Springer ;
+      dct:title "An Ontological Approach to Visualization Resource Management" ;
+      bibo:editor viso-bibliography:Blandford , viso-bibliography:Doherty ;
+      bibo:editorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Doherty" ;
+                rdf:_2  "Blandford"
+              ] ;
+      bibo:isbn13 "978-3-540-69553-0" ;
+      bibo:uri "http://www.springerlink.com/content/86272300mr45502w/" ;
+      bibo:volume "4323" .
+
+<http://purl.org/viso/bibliography/isbn/9780805844320>
+      rdf:type bibo:Book ;
+      dct:date "2003-09-01"^^xsd:string ;
+      dct:title "The Handbook of Task Analysis for Human-Computer Interaction"^^xsd:string ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Card"^^xsd:string ;
+                rdf:_2  "Mackinlay"^^xsd:string ;
+                rdf:_3  "Schneiderman"^^xsd:string
+              ] ;
+      bibo:isbn "9780805844320"^^xsd:string ;
+      bibo:isbn10 "0805844325 "^^xsd:string ;
+      bibo:numPages "568"^^xsd:string ;
+      bibo:shortTitle "The Handbook of Task Analysis for Human-Computer Interaction"^^xsd:string .
+
+<http://purl.org/viso/bibliography/isbn/9781558605336>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Card , viso-bibliography:Mackinlay , viso-bibliography:Schneiderman ;
+      dct:date "1999-01-25" ;
+      dct:publisher viso-bibliography:Morgan_Kaufmann ;
+      dct:title "Readings in information visualization: using vision to think" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Card"^^xsd:string ;
+                rdf:_2  "Mackinlay"^^xsd:string ;
+                rdf:_3  "Schneiderman"^^xsd:string
+              ] ;
+      bibo:isbn13 "9781558605336" ;
+      bibo:numPages "705" ;
+      bibo:shortTitle "Readings in information visualization" ;
+      bibo:uri "http://books.google.co.uk/books?hl=en&lr=&id=wdh2gqWfQmgC&oi=fnd&pg=PR13&dq=Readings+in+information+visualization:+using+vision+to+think&ots=olzD8DvHIv&sig=qsV2U9qFFC5oawr6OPGYd9-4JBQ#v=onepage&q&f=false" .
+
+<http://purl.org/viso/bibliography/isbn/9781558608191>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Ware ;
+      dct:date "2004-04-07" ;
+      dct:publisher viso-bibliography:Morgan_Kaufmann ;
+      dct:title "Information visualization: perception for design" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Ware"
+              ] ;
+      bibo:isbn13 "9781558608191" ;
+      bibo:numPages "514" ;
+      bibo:shortTitle "Information visualization" ;
+      bibo:uri "http://books.google.co.uk/books?hl=en&lr=&id=ZmG_FiqqyqgC&oi=fnd&pg=PP2&dq=Information+visualization:+perception+for+design&ots=xCvRDyUiyT&sig=i3IRKkYKaRbATI_MLNPhRI6D7r4#v=onepage&q&f=false" .
+
+<http://purl.org/viso/bibliography/isbn/9781848002180>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Mazza ;
+      dct:date "2009" ;
+      dct:publisher viso-bibliography:Springer ;
+      dct:title "Introduction to Information Visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Mazza"
+              ] ;
+      bibo:isbn13 "9781848002180" ;
+      bibo:numPages "149" ;
+      bibo:uri "http://books.google.co.uk/books?hl=en&lr=&id=JEhkpAH4BPgC&oi=fnd&pg=PR9&dq=Introduction+to+information+visualization&ots=icXa_rFOxH&sig=cpoyS8QLN6uaZeLkxmfsGM36k04#v=onepage&q&f=false" .
+
+<http://purl.org/viso/bibliography/isbn/9783540250166>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Boehlen ;
+      dct:date "2005" ;
+      dct:publisher viso-bibliography:Springer ;
+      dct:title "E-government: towards electronic democracy : international conference, TCGOV 2005 Bolzano, Italy, March 2-4, 2005 proceedings" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Böhlen"
+              ] ;
+      bibo:isbn13 "9783540250166" ;
+      bibo:numPages "322" ;
+      bibo:shortTitle "E-government" .
+
+<http://purl.org/viso/bibliography/isbn/9783540259947>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Andrienko ;
+      dct:date "2006" ;
+      dct:publisher viso-bibliography:Birkhaeuser ;
+      dct:title "Exploratory analysis of spatial and temporal data: a systematic approach" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Andrienko" ;
+                rdf:_2  "Andrienko"
+              ] ;
+      bibo:isbn13 "9783540259947" ;
+      bibo:numPages "728" ;
+      bibo:shortTitle "Exploratory analysis of spatial and temporal data" ;
+      bibo:uri "http://books.google.co.uk/books?hl=en&lr=&id=t5MGtFEl_ScC&oi=fnd&pg=PA1&dq=Exploratory+Analysis+of+Spatial+and+Temporal+Data:+A+Systematic+Approach&ots=w1ZxucoWOT&sig=q2MYXRGVzCgKCcubBOWUqcYyVZ8#v=onepage&q&f=false" .
+
+<http://purl.org/viso/bibliography/isbn/9783540649441>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Mueller , viso-bibliography:Schumann ;
+      dct:date "1999-12-27" ;
+      dct:publisher viso-bibliography:Springer ;
+      dct:title "Visualisierung: Grundlagen und allgemeine Methoden" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Schumann" ;
+                rdf:_2  "Müller"
+              ] ;
+      bibo:isbn13 "9783540649441" ;
+      bibo:numPages "388" ;
+      bibo:uri "http://books.google.co.uk/books?hl=en&lr=&id=KPjLfRNi3l8C&oi=fnd&pg=PA1&dq=Schumann+und+W.+M%C3%BCller,+Visualisierung:+Grundlagen+und+allgemeine+Methoden+&ots=9C5kIyUYHT&sig=1nD8eeitGgmO094uCkV3-bUMk_c#v=onepage&q&f=false" .
+
+<http://purl.org/viso/bibliography/isbn/9789057760891>
+      rdf:type bibo:Book ;
+      dct:creator viso-bibliography:Engelhardt ;
+      dct:date "2002" ;
+      dct:publisher viso-bibliography:Yuri_Engelhardt ;
+      dct:title "The language of graphics: a framework for the analysis of syntax and meaning in maps, charts and diagrams." ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Engelhardt"^^xsd:string
+              ] ;
+      bibo:isbn13 "9789057760891" ;
+      bibo:numPages "218" ;
+      bibo:shortTitle "The language of graphics" .
+
+<http://purl.org/viso/bibliography/isbn13/0-201-30987-4>
+      rdf:type bibo:Proceedings ;
+      dct:date "1998" ;
+      dct:isPartOf
+              [ rdf:type bibo:Series ;
+                dct:title "CHI '98"
+              ] ;
+      dct:publisher viso-bibliography:ACM_Addison-Wesley_Publishing_Co ;
+      dct:title "Proceedings of the SIGCHI conference on Human factors in computing systems" ;
+      bibo:isbn13 "0-201-30987-4" .
+
+<http://purl.org/viso/bibliography/isbn13/0-7695-2001-4>
+      rdf:type bibo:Proceedings ;
+      dct:date "2003" ;
+      dct:title "Coordinated and Multiple Views in Exploratory Visualization, 2003. Proceedings. International Conference on" ;
+      bibo:isbn13 "0-7695-2001-4" .
+
+<http://purl.org/viso/bibliography/isbn13/0-7695-2443-5>
+      rdf:type bibo:Proceedings ;
+      dct:date "2005" ;
+      dct:publisher viso-bibliography:IEEE_Computer_Society ;
+      dct:title "Visual Languages and Human-Centric Computing, IEEE Symposium on" ;
+      bibo:isbn13 "0-7695-2443-5" ;
+      bibo:volume "0" .
+
+<http://purl.org/viso/bibliography/isbn13/0-7803-8779-3>
+      rdf:type bibo:Proceedings ;
+      dct:date "2004" ;
+      dct:publisher viso-bibliography:IEEE_Computer_Society ;
+      dct:title "Information Visualization, IEEE Symposium on" ;
+      bibo:isbn13 "0-7803-8779-3" ;
+      bibo:volume "0" .
+
+<http://purl.org/viso/bibliography/isbn13/0-7803-8788-0>
+      rdf:type bibo:Proceedings ;
+      dct:date "2004" ;
+      dct:isPartOf
+              [ rdf:type bibo:Series ;
+                dct:title "VIS '04"
+              ] ;
+      dct:publisher viso-bibliography:IEEE_Computer_Society ;
+      dct:title "Proceedings of the conference on Visualization '04" ;
+      bibo:isbn13 "0-7803-8788-0" .
+
+<http://purl.org/viso/bibliography/isbn13/0-7803-9462-3>
+      rdf:type bibo:Proceedings ;
+      dct:date "2005" ;
+      dct:publisher viso-bibliography:IEEE_Computer_Society ;
+      dct:title "Visualization Conference, IEEE" ;
+      bibo:isbn13 "0-7803-9462-3" ;
+      bibo:volume "0" .
+
+<http://purl.org/viso/bibliography/isbn13/0-7803-9464-X>
+      rdf:type bibo:Proceedings ;
+      dct:date "2005" ;
+      dct:title "Information Visualization, 2005. INFOVIS 2005. IEEE Symposium on" ;
+      bibo:isbn13 "0-7803-9464-X" .
+
+<http://purl.org/viso/bibliography/isbn13/0-8186-7508-X>
+      rdf:type bibo:Proceedings ;
+      dct:date "1996" ;
+      dct:title "Visual Languages, 1996. Proceedings., IEEE Symposium on" ;
+      bibo:isbn13 "0-8186-7508-X" .
+
+<http://purl.org/viso/bibliography/isbn13/0-8186-7668-X>
+      rdf:type bibo:Proceedings ;
+      dct:date "1996" ;
+      dct:title "Information Visualization '96, Proceedings IEEE Symposium on" ;
+      bibo:isbn13 "0-8186-7668-X" .
+
+<http://purl.org/viso/bibliography/isbn13/0-8186-9093-3>
+      rdf:type bibo:Proceedings ;
+      dct:date "1998" ;
+      dct:publisher viso-bibliography:IEEE_Computer_Society ;
+      dct:title "Information Visualization, IEEE Symposium on" ;
+      bibo:isbn13 "0-8186-9093-3" ;
+      bibo:volume "0" .
+
+<http://purl.org/viso/bibliography/isbn13/0-89791-650-6>
+      rdf:type bibo:Proceedings ;
+      dct:date "1994" ;
+      dct:isPartOf
+              [ rdf:type bibo:Series ;
+                dct:title "CHI '94"
+              ] ;
+      dct:publisher viso-bibliography:ACM ;
+      dct:title "Proceedings of the SIGCHI conference on Human factors in computing systems: celebrating interdependence" ;
+      bibo:isbn13 "0-89791-650-6" .
+
+<http://purl.org/viso/bibliography/isbn13/0-89791-657-3>
+      rdf:type bibo:Proceedings ;
+      dct:date "1994" ;
+      dct:isPartOf
+              [ rdf:type bibo:Series ;
+                dct:title "UIST '94"
+              ] ;
+      dct:publisher viso-bibliography:ACM ;
+      dct:title "Proceedings of the 7th annual ACM symposium on User interface software and technology" ;
+      bibo:isbn13 "0-89791-657-3" .
+
+<http://purl.org/viso/bibliography/isbn13/0-89791-802-9>
+      rdf:type bibo:Proceedings ;
+      dct:date "1997" ;
+      dct:isPartOf
+              [ rdf:type bibo:Series ;
+                dct:title "CHI '97"
+              ] ;
+      dct:publisher viso-bibliography:ACM ;
+      dct:title "Proceedings of the SIGCHI conference on Human factors in computing systems" ;
+      bibo:isbn13 "0-89791-802-9" .
+
+<http://purl.org/viso/bibliography/isbn13/1-58113-252-2>
+      rdf:type bibo:Proceedings ;
+      dct:date "2000" ;
+      dct:isPartOf
+              [ rdf:type bibo:Series ;
+                dct:title "AVI '00"
+              ] ;
+      dct:publisher viso-bibliography:ACM ;
+      dct:title "Proceedings of the working conference on Advanced visual interfaces" ;
+      bibo:isbn13 "1-58113-252-2" .
+
+<http://purl.org/viso/bibliography/isbn13/1-59593-315-8>
+      rdf:type bibo:Proceedings ;
+      dct:date "2006" ;
+      dct:isPartOf
+              [ rdf:type bibo:Series ;
+                dct:title "ACM-SE 44"
+              ] ;
+      dct:publisher viso-bibliography:ACM ;
+      dct:title "Proceedings of the 44th annual Southeast regional conference" ;
+      bibo:isbn13 "1-59593-315-8" .
+
+<http://purl.org/viso/bibliography/isbn13/1-59593-562-2>
+      rdf:type bibo:Proceedings ;
+      dct:date "2006" ;
+      dct:isPartOf
+              [ rdf:type bibo:Series ;
+                dct:title "BELIV '06"
+              ] ;
+      dct:publisher viso-bibliography:ACM ;
+      dct:title "Proceedings of the 2006 AVI workshop on BEyond time and errors: novel evaluation methods for information visualization" ;
+      bibo:isbn13 "1-59593-562-2" .
+
+<http://purl.org/viso/bibliography/isbn13/1087-8270>
+      rdf:type bibo:Proceedings ;
+      dct:date "2006" ;
+      dct:title "Virtual Reality Conference, 2006" ;
+      bibo:isbn13 "1087-8270" .
+
+<http://purl.org/viso/bibliography/isbn13/1550-6037>
+      rdf:type bibo:Proceedings ;
+      dct:date "2007" ;
+      dct:title "Information Visualization, 2007. IV '07. 11th International Conference" ;
+      bibo:isbn13 "1550-6037" .
+
+<http://purl.org/viso/bibliography/issn/01677055>
+      rdf:type bibo:Journal ;
+      dct:title "Computer Graphics Forum" ;
+      bibo:issn "01677055" .
+
+<http://purl.org/viso/bibliography/issn/01782789>
+      rdf:type bibo:Journal ;
+      dct:title "The Visual Computer" ;
+      bibo:issn "01782789" .
+
+<http://purl.org/viso/bibliography/issn/0272-1716>
+      rdf:type bibo:Journal ;
+      dct:title "Computer Graphics and Applications, IEEE" ;
+      bibo:issn "0272-1716" ;
+      bibo:shortTitle "Computer Graphics and Applications, IEEE" .
+
+<http://purl.org/viso/bibliography/issn/03600300>
+      rdf:type bibo:Journal ;
+      dct:title "ACM Computing Surveys" ;
+      bibo:issn "03600300" ;
+      bibo:shortTitle "ACM Comput. Surv." .
+
+<http://purl.org/viso/bibliography/issn/0730-0301>
+      rdf:type bibo:Journal ;
+      dct:title "ACM Transactions on Graphics (TOG)" ;
+      bibo:issn "0730-0301" ;
+      bibo:shortTitle "ACM Trans. Graph." .
+
+<http://purl.org/viso/bibliography/issn/0740-7459>
+      rdf:type bibo:Article ;
+      dct:abstract "Considers how dynamic queries allow users to \"fly through\" databases by adjusting widgets and viewing the animated results. In studies, users reacted to this approach with an enthusiasm more commonly associated with video games. Adoption requires research into retrieval and display algorithms and user-interface design. The author discusses how experts may benefit from visual interfaces because they will be able to formulate more complex queries and interpret intricate results." ;
+      dct:creator viso-bibliography:Schneiderman ;
+      dct:date "1994"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue13 ;
+      dct:title "Dynamic Queries for Visual Information Seeking" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Schneiderman"
+              ] ;
+      bibo:pages "70-77" ;
+      bibo:uri "http://www.computer.org/portal/web/csdl/doi/10.1109/52.329404" .
+
+<http://purl.org/viso/bibliography/issn/0965-9978>
+      rdf:type bibo:Journal ;
+      dct:title "Advances in Engineering Software" ;
+      bibo:issn "0965-9978" .
+
+<http://purl.org/viso/bibliography/issn/1-55860-533-9>
+      rdf:type bibo:AcademicArticle , bibo:Journal ;
+      dct:abstract """J. Bertin
+	
+	
+	
+	No contact information provided yet.
+	
+	
+			
+	
+	
+	
+	
+	
+
+
+
+
+
+                                            
+
+
+
+	Bibliometrics: publication history
+		
+        
+			
+				Publication years1999-1999
+			
+			
+			
+				Publication count1
+			
+			
+			
+				Citation Count3
+			
+			
+			
+				Available for download0
+			
+			
+ 			
+			
+				Downloads (6 Weeks)0
+			
+			
+			
+				Downloads (12 Months)0
+			
+			
+ 			
+		
+	
+	
+
+
+
+                                        
+                                        
+                                                    View colleagues of J. Bertin""" ;
+      dct:creator viso-bibliography:Bertin ;
+      dct:date "1999"^^xsd:string ;
+      dct:isPartOf viso-bibliography:Issue4 ;
+      dct:title "Readings in information visualization" ;
+      bibo:authorList
+              [ rdf:type rdf:Seq ;
+                rdf:_1  "Bertin"
+              ] ;
+      bibo:issn "1-55860-533-9" ;
+      bibo:pages "62–65" ;
+      bibo:uri "http://portal.acm.org/citation.cfm?id=300679.300683" .
+
+<http://purl.org/viso/bibliography/issn/1077-2626>
+      rdf:type bibo:Journal ;
+      dct:title "IEEE Transactions on Visualization and Computer Graphics" , "Visualization and Computer Graphics, IEEE Transactions on" ;
+      bibo:issn "1077-2626" ;
+      bibo:shortTitle "Visualization and Computer Graphics, IEEE Transactions on" .
+
+<http://purl.org/viso/bibliography/issn/1473-8716>
+      rdf:type bibo:Journal ;
+      dct:title "Information Visualization" ;
+      bibo:issn "1473-8716" ;
+      bibo:shortTitle "Inf Vis" .
+
+<http://purl.org/viso/bibliography/issn/1570-5838>
+      rdf:type bibo:Journal ;
+      dct:title "Applied Ontology"^^xsd:string ;
+      bibo:issn "1570-5838"^^xsd:string .
+
+viso-bibliography:journal1
+      rdf:type bibo:Journal ;
+      dct:title "Reading, MA" .
+
+viso-bibliography:journal2
+      rdf:type bibo:Journal ;
+      dct:title "Visualization in scientific computing" .
+
+viso-bibliography:proceedings1
+      rdf:type bibo:Proceedings ;
+      dct:date "2005" ;
+      dct:title "Workshop on Visual Analytics" .
+
+viso-bibliography:proceedings2
+      rdf:type bibo:Proceedings ;
+      dct:date "1995" ;
+      dct:title "Robot and Human Communication, 1995. RO-MAN'95 TOKYO, Proceedings., 4th IEEE International Workshop on" .
+
+viso-bibliography:proceedings3
+      rdf:type bibo:Proceedings ;
+      dct:date "2000" ;
+      dct:title "Information Visualization, 2000. InfoVis 2000. IEEE Symposium on" .
+
+viso-bibliography:proceedings4
+      rdf:type bibo:Proceedings ;
+      dct:date "2004" ;
+      dct:title "Proceedings of the SIGCHI conference on Human factors in computing systems" .
+
+viso-bibliography:proceedings5
+      rdf:type bibo:Proceedings ;
+      dct:date "2010" ;
+      dct:title "Global Software Engineering (ICGSE), 2010 5th IEEE International Conference on" .

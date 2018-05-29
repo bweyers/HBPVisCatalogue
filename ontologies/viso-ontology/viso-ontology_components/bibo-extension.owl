@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<rdf:RDF
+    xmlns:bixt="http://purl.org/viso/bibo-extension/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:bibo="http://purl.org/ontology/bibo/"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xml:base="http://purl.org/viso/bibo-extension/">
+  <owl:Ontology rdf:about="">
+        <dct:creator rdf:resource="http://purl.org/viso/JanPolowinski"/>
+    <rdfs:label xml:lang="en">BIBO extension vocabulary</rdfs:label>
+    <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >0.5</owl:versionInfo>
+    <dct:description xml:lang="en">Extension of the BIBO vocabulary, to allow for annotating ontological resources with literature references (modeled in BIBO)</dct:description>
+    <owl:imports rdf:resource="http://purl.org/ontology/bibo/"/>
+	<!--<owl:imports rdf:resource="http://localhost/ontology/viso/bibliography/bibo-latest.owl"/>-->
+    <rdfs:label xml:lang="de">BIBO-Erweiterungsvokabular</rdfs:label>
+  </owl:Ontology>
+  <owl:Class rdf:about="http://purl.org/ontology/bibo/Quote"/>
+  <owl:ObjectProperty rdf:about="http://purl.org/viso/bibo-extension/followsSource">
+    <dct:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >The new definition of the concept follows the definition/statements in the referenced source.</dct:description>
+    <rdfs:subPropertyOf>
+      <owl:ObjectProperty rdf:about="http://purl.org/viso/bibo-extension/considersSource"/>
+    </rdfs:subPropertyOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >follows source</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >The new definition of the concept follows the definition/statements in the referenced source.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://www.w3.org/2004/02/skos/core#note"/>
+  <owl:ObjectProperty rdf:about="http://purl.org/viso/bibo-extension/contradictsSource">
+    <dct:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >The new definition of the concept contradicts the definition/statements in the referenced source.</dct:description>
+    <rdfs:subPropertyOf>
+      <owl:ObjectProperty rdf:about="http://purl.org/viso/bibo-extension/considersSource"/>
+    </rdfs:subPropertyOf>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >contradicts source</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >The new definition of the concept contradicts the definition/statements in the referenced source.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </owl:ObjectProperty>
+  <owl:ObjectProperty rdf:about="http://purl.org/viso/bibo-extension/considersSource">
+    <dct:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Annotates concepts with quotes that point to sources that have been considered when this terms was coined. Note that considering can mean both: The new definition of the concept can either contradict the definition/statements in the referenced source or it may follow them.</dct:description>
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2004/02/skos/core#note"/>
+    <rdfs:range rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >considers source</rdfs:label>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >Annotates concepts with quotes that point to sources that have been considered when this terms was coined. Note that considering can mean both: The new definition of the concept can either contradict the definition/statements in the referenced source or it may follow them.</rdfs:comment>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </owl:ObjectProperty>
+  <owl:DatatypeProperty rdf:about="http://www.w3.org/2004/02/skos/core#example"/>
+  <owl:DatatypeProperty rdf:about="http://purl.org/ontology/bibo/section"/>
+  <owl:DatatypeProperty rdf:about="http://purl.org/viso/bibo-extension/documentContent">
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#value"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </owl:DatatypeProperty>
+  <owl:TransitiveProperty rdf:about="http://purl.org/viso/bibo-extension/isDocumentPartOf">
+    <dct:description rdf:datatype="http://www.w3.org/2001/XMLSchema#string"
+    >A part-of relation between document parts.</dct:description>
+    <rdfs:subPropertyOf rdf:resource="http://purl.org/dc/terms/isPartOf"/>
+    <rdfs:range rdf:resource="http://purl.org/ontology/bibo/Document"/>
+    <rdfs:domain rdf:resource="http://purl.org/ontology/bibo/DocumentPart"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#FunctionalProperty"/>
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AnnotationProperty"/>
+  </owl:TransitiveProperty>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#seeAlso"/>
+  <owl:AnnotationProperty rdf:about="http://purl.org/viso/bibo-extension/synonymLabel">
+    <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2004/02/skos/core#altLabel"/>
+  </owl:AnnotationProperty>
+  <owl:AnnotationProperty rdf:about="http://www.w3.org/2000/01/rdf-schema#comment"/>
+  <foaf:Image rdf:about="http://purl.org/viso/bibo-extension/Example_Bibo-Annotated_Instance"/>
+</rdf:RDF>
+
+<!-- Created with TopBraid -->

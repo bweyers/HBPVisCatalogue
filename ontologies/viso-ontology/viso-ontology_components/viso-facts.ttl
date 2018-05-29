@@ -1,0 +1,117 @@
+@prefix :  <http://purl.org/viso/facts/> .
+@prefix viso-facts:  <http://purl.org/viso/facts/> .
+@prefix bibo:    <http://purl.org/ontology/bibo/> .
+@prefix bixt:    <http://purl.org/viso/bibo-extension/> .
+@prefix dct:     <http://purl.org/dc/terms/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix swstatus:  <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+@prefix viso-data:  <http://purl.org/viso/data/> .
+@prefix viso-graphic:  <http://purl.org/viso/graphic/> .
+@prefix viso-anno:  <http://purl.org/viso/anno/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+
+
+viso-facts:
+      rdf:type owl:Ontology ;
+      rdfs:comment "This module contains vocabulary to state facts from (empirical) visualisation research, but not the facts themselves. This choice was made, to allow for easy exchange of the fact base. See http://purl.org/viso/facts/empiric/ for our collection of such facts, collected from literature."^^xsd:string ;
+      rdfs:label "Facts module of the Visualisation Ontology (VISO)"@en , "Fakten-Modul der Visualiserungsontologie (VISO)"@de ;
+      dct:creator <http://purl.org/viso/JanPolowinski> , <http://purl.org/viso/MartinVoigt> ;
+      dct:description "The facts module of VISO defines vocabulary for stating facts from (empiric) visualisation research. "^^xsd:string ;
+      owl:imports  viso-anno: , viso-graphic: ;
+      owl:versionInfo "0.5"^^xsd:string ;
+      skos:changeNote "Deleted \"offers_visual_value_set\", since this is does not fit the other terms and is not needed at the moment"^^xsd:string .
+
+viso-facts:Appropriateness
+      rdf:type viso-facts:Graphic_Design_Criterion , owl:NamedIndividual , owl:Thing ;
+      dct:description "A criteria to judge visualizations. Tradeoff between efforts required for creating a visualization and the benefits. It is used in the visualisation model of Van Wijk and calculates the total costs and overall profit of a visualisation."^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string ;
+      skos:related viso-facts:appropriate_to_visualize .
+
+viso-facts:Effectiveness
+      rdf:type viso-facts:Graphic_Design_Criterion , owl:NamedIndividual , owl:Thing ;
+      swstatus:term_status
+              "stable"^^xsd:string ;
+      skos:related viso-facts:has_effectiveness_ranking_value .
+
+viso-facts:Expressiveness
+      rdf:type viso-facts:Graphic_Design_Criterion , owl:NamedIndividual , owl:Thing ;
+      dct:description "Expressiveness criteria identify graphical languages that express the desired information."^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string ;
+      skos:related viso-facts:expresses .
+
+viso-facts:Graphic_Design_Criterion
+      rdf:type owl:Class ;
+      rdfs:label "Graphic Design Criterion"@en ;
+      rdfs:subClassOf viso-graphic:Graphic_Thing ;
+      dct:description "Rankings can be done for graphic design criteria such as effectiveness and expressiveness."^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-facts:appropriate_to_visualize
+      rdf:type owl:ObjectProperty ;
+      rdfs:domain viso-graphic:GraphicRelation ;
+      rdfs:subPropertyOf viso-facts:expresses ;
+      dct:description """States that a visual means is not only expressive enough to encode some data classification type (such as ordinal data), but that is also appropriate/acceptable/suitable to encode it. The appropriateness criteria and the facts given in this data set are based on the the Figure \"Fig. 3-26\" in: Jörg Engelhardt, von, „The Language of Graphics“ (Institute for Logic, Language & Computation, University of Amsterdam., 2002). This is in turns based on a figure from MacEachren (p. 272) in: A. M MacEachren, How maps work (Guilford Press New York, 1995).
+"""^^xsd:string ;
+      skos:related viso-facts:not_appropriate_to_visualize .
+      
+viso-facts:expresses
+      rdf:type owl:ObjectProperty ;
+      rdfs:domain viso-graphic:GraphicRelation ;
+      dct:description "The expressiveness criteria and the facts given in this data set are based on the the Figure \"Figure 25 - Expressiveness of Retinal Techniques\" (p. 130) from Jock Mackinlay in „Automating the design of graphical presentations of relational information“, ACM Trans. Graph. 5, Nr. 2 (1986): 110-141 ."^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string ;
+      skos:example "Visual means \"A\" expresses \"Nominal Data\" means that \"A\" can express nominal data. It does not state something on how well it is suited for this purpose or how effective it is."^^xsd:string ;
+      skos:related viso-facts:appropriate_to_visualize , viso-facts:has_effectiveness_ranking_value , viso-facts:not_appropriate_to_visualize .
+
+viso-facts:has_effectiveness_ranking_for_nominal_data
+      rdf:type owl:DatatypeProperty ;
+      rdfs:comment "cf. example of superproperty"^^xsd:string ;
+      rdfs:subPropertyOf viso-facts:has_effectiveness_ranking_value ;
+      dct:description "Assignes an (ordinal) effectiveness value for encoding nominal data to a visual means. A visual means with a higher number is more effective than one with a lower number."^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-facts:has_effectiveness_ranking_for_ordinal_data
+      rdf:type owl:DatatypeProperty ;
+      rdfs:comment "cf. example of superproperty"^^xsd:string ;
+      rdfs:subPropertyOf viso-facts:has_effectiveness_ranking_value ;
+      dct:description "Assignes an (ordinal) effectiveness value for encoding ordinal data to a visual means. A visual means with a higher number is more effective than one with a lower number."^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-facts:has_effectiveness_ranking_for_quantitative_data
+      rdf:type owl:DatatypeProperty ;
+      rdfs:comment "cf. example of superproperty"^^xsd:string ;
+      rdfs:subPropertyOf viso-facts:has_effectiveness_ranking_value ;
+      dct:description "Assignes an (ordinal) effectiveness value for encoding quantitative data to a visual means. A visual means with a higher number is more effective than one with a lower number."^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-facts:has_effectiveness_ranking_value
+      rdf:type owl:DatatypeProperty ;
+      rdfs:comment "Warning: Although the range is float, the ranking value is purely ordinal, i.e. it does not allow statements such as A is 2 times more effective than B. It was therefore also made a subproperty of \"has_ordinal_value\"."^^xsd:string ;
+      rdfs:domain viso-graphic:GraphicRelation ;
+      rdfs:range xsd:float ;
+      rdfs:subPropertyOf viso-data:has_ordinal_value ;
+      dct:description """This property only serves as an \"abstract\" convenience container for the more specific properties that allow assigning effectiveness values to nominal, ordinal and quantitative data. The effectiveness criteria and the facts given in this data set are based on the the Figure \"Fig. 15 -  Ranking of Perceptual Tasks\" (p. 125) from Jock Mackinlay in „Automating the design of graphical presentations of relational information“, ACM Trans. Graph. 5, Nr. 2 (1986): 110-141 .
+"""^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string ;
+      skos:example "If visual means A has an effectiveness value of 4 and visual means B a value of 8, then visual means B is more effective than A for the given kind of data."^^xsd:string .
+
+viso-facts:not_appropriate_to_visualize
+      rdf:type owl:ObjectProperty ;
+      rdfs:domain viso-graphic:GraphicRelation ;
+      skos:related viso-facts:appropriate_to_visualize .
+
+viso-facts:not_expresses
+      rdf:type owl:ObjectProperty ;
+      rdfs:domain viso-graphic:GraphicRelation ;
+      rdfs:subPropertyOf viso-facts:not_appropriate_to_visualize .

@@ -1,0 +1,36 @@
+@prefix dct:     <http://purl.org/dc/terms/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix viso:    <http://purl.org/viso/> .
+@prefix viso-anno:  <http://purl.org/viso/anno/> .
+@prefix viso-activity:  <http://purl.org/viso/activity/> .
+@prefix viso-bibliography:  <http://purl.org/viso/bibliography/> .
+@prefix viso-data:  <http://purl.org/viso/data/> .
+@prefix viso-facts:  <http://purl.org/viso/facts/> .
+@prefix viso-facts-empiric:  <http://purl.org/viso/facts/empiric/> .
+@prefix viso-graphic:  <http://purl.org/viso/graphic/> .
+@prefix viso-system:  <http://purl.org/viso/system/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+viso:
+      rdf:type owl:Ontology ;
+      rdfs:label "Visualisation Ontology (VISO)"@en , "Visualisierungsontologie (VISO)"@de ;
+      dct:creator viso:FabianPrager , viso:JanPolowinski , viso:MartinVoigt ;
+      dct:description """The Visualisation Ontology (VISO) defines concepts and relations from the field of graphics and visualisation. The ontology is split into several modules, each being concerned with a specific field of visualisation. These modules include the graphic module, the data module and the facts module and other modules such as activities and system context modules.  
+
+<img title=\"VISO modules\" src=\"http://www-st.inf.tu-dresden.de/semvis/ontologies/viso/img/viso-modules.png\"/>"""^^xsd:string ;
+      owl:imports viso-activity:, viso-data: , viso-facts: , viso-facts-empiric:,  viso-graphic: , viso-anno: , viso-bibliography: ;
+      owl:versionInfo "1.0"^^xsd:string .
+
+viso:FabianPrager
+      rdf:type dct:Agent ;
+      rdfs:label "Fabian Prager"^^xsd:string .
+
+viso:JanPolowinski
+      rdf:type dct:Agent ;
+      rdfs:label "Jan Polowinski"^^xsd:string .
+
+viso:MartinVoigt
+      rdf:type dct:Agent ;
+      rdfs:label "Martin Voigt"^^xsd:string .

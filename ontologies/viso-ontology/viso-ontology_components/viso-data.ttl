@@ -1,0 +1,360 @@
+@prefix dct:     <http://purl.org/dc/terms/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix owl2xml:  <http://www.w3.org/2006/12/owl2-xml#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix swstatus:  <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+@prefix viso-anno:  <http://purl.org/viso/anno/> .
+@prefix viso-bibliography:  <http://purl.org/viso/bibliography/> .
+@prefix viso-data:  <http://purl.org/viso/data/> .
+@prefix viso-graphic:  <http://purl.org/viso/graphic/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+viso-data:
+      rdf:type owl:Ontology ;
+      rdfs:label "Data module of the Visualisation Ontology (VISO)"@en , "Datenmodul der Visualisierungsontologie (VISO)"@de ;
+      dct:creator <http://purl.org/viso/JanPolowinski> , <http://purl.org/viso/MartinVoigt> ;
+      dct:description "The data module of VISO describes characteristics of data, as far as needed for visualization purposes."@en ;
+      owl:versionInfo "1.0"^^xsd:string ;
+      owl:imports viso-anno: , viso-bibliography: ;
+      .
+
+viso-data:Characteristic
+      rdf:type owl:Class ;
+      rdfs:label "Characteristic" ;
+      rdfs:subClassOf viso-data:Value_Role .
+
+viso-data:Continuous_Variable
+      rdf:type owl:Class ;
+      rdfs:label "Continuous Variable" ;
+      rdfs:subClassOf viso-data:Variable_Role ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:DAG
+      rdf:type owl:Class ;
+      rdfs:label "Directed Acyclic Graph (DAG)"^^xsd:string ;
+      rdfs:subClassOf viso-data:Graph ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Data
+      rdf:type owl:Class ;
+      rdfs:label "Data" ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Data_Object
+      rdf:type owl:Class ;
+      rdfs:label "Data Object" ;
+      .
+
+viso-data:Data_Schema
+      rdf:type owl:Class ;
+      rdfs:label "Data Schema" ;
+      dct:description "Prescribes a data structure. Data schema is similar to data structure, however a data structure may exist without a schema that prescribes it."^^xsd:string .
+
+viso-data:Data_Structure
+      rdf:type owl:Class ;
+      rdfs:label "Data Structure" ;
+      rdfs:seeAlso "Data Model"^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Data_Variable
+      rdf:type owl:Class ;
+      rdfs:label "Data Variable" ;
+      dct:description "In contrast to a relation that may exist also without measuring something, a data variable stands for a variable in a measurement."^^xsd:string .
+
+viso-data:Dependent_Variable
+      rdf:type owl:Class ;
+      rdfs:label "Dependent Variable" ;
+      rdfs:subClassOf viso-data:Variable_Role ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Dimension
+      rdf:type owl:Class ;
+      rdfs:label "Dimension" ;
+      rdfs:subClassOf viso-data:Variable_Role ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Discrete_Variable
+      rdf:type owl:Class ;
+      rdfs:label "Discrete Variable" ;
+      rdfs:subClassOf viso-data:Variable_Role ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Domain
+      rdf:type owl:Class ;
+      rdfs:label "Domain" ;
+      dct:description "A topic area of real life."^^xsd:string .
+
+viso-data:Geographical_Data
+      rdf:type owl:Class ;
+      rdfs:label "Geographical Data" ;
+      rdfs:subClassOf viso-data:Spatial_Data .
+
+viso-data:Graph
+      rdf:type owl:Class ;
+      rdfs:label "Graph" ;
+      rdfs:subClassOf viso-data:Linked_Data_Structure ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Independent_Variable
+      rdf:type owl:Class ;
+      rdfs:label "Independent Variable" ;
+      rdfs:subClassOf viso-data:Variable_Role ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Interval_Scale_of_Measurement
+      rdf:type owl:Class ;
+      rdfs:label "Interval Scale of Measurement" ;
+      rdfs:subClassOf viso-data:Quantitative_Scale_of_Measurement ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Linked_Data_Structure
+      rdf:type owl:Class ;
+      dct:description "We distinguish linked data structures from other structures such as tabular structures.";
+      rdfs:label "Linked Data Structure" ;
+      rdfs:subClassOf viso-data:Data_Structure ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:List
+      rdf:type owl:Class ;
+      rdfs:label "List" ;
+      rdfs:subClassOf viso-data:Tree ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Meta_Data
+      rdf:type owl:Class ;
+      rdfs:label "Meta Data" ;
+      rdfs:subClassOf viso-data:Data ;
+      owl:disjointWith viso-data:Physical_Data , viso-data:Raw_Data .
+
+viso-data:Multidimensional_Data
+      rdf:type owl:Class ;
+      rdfs:label "Multidimensional Data" ;
+      rdfs:subClassOf viso-data:Structured_Data .
+
+viso-data:Multivariate_Data
+      rdf:type owl:Class ;
+      rdfs:label "Multivariate Data" ;
+      rdfs:subClassOf viso-data:Structured_Data .
+
+viso-data:Nominal_Scale_of_Measurement
+      rdf:type owl:Class ;
+      rdfs:label "Nominal Scale of Measurement" ;
+      rdfs:subClassOf viso-data:Scale_of_Measurement ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:One-Dimensional_Data
+      rdf:type owl:Class ;
+      rdfs:label "One-Dimensional Data" ;
+      rdfs:subClassOf viso-data:Data ;
+      .
+
+viso-data:Ordinal_Scale_of_Measurement
+      rdf:type owl:Class ;
+      rdfs:label "Ordinal Scale of Measurement" ;
+      rdfs:subClassOf viso-data:Scale_of_Measurement ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Physical_Data
+      rdf:type owl:Class ;
+      rdfs:label "Physical Data" ;
+      rdfs:subClassOf viso-data:Data ;
+      #owl:disjointWith viso-data:Semantic_Data ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Polyarchy
+      rdf:type owl:Class ;
+      rdfs:label "Polyarchy" ;
+      rdfs:subClassOf viso-data:Graph .
+
+viso-data:Quantitative_Scale_of_Measurement
+      rdf:type owl:Class ;
+      rdfs:label "Quantitative Scale of Measurement" ;
+      rdfs:subClassOf viso-data:Scale_of_Measurement ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Ratio_Scale_of_Measurement
+      rdf:type owl:Class ;
+      rdfs:label "Ratio Scale of Measurement" ;
+      rdfs:subClassOf viso-data:Quantitative_Scale_of_Measurement ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Raw_Data
+      rdf:type owl:Class ;
+      rdfs:label "Raw Data" ;
+      rdfs:subClassOf viso-data:Data .
+
+viso-data:Reference
+      rdf:type owl:Class ;
+      rdfs:label "Reference" ;
+      rdfs:subClassOf viso-data:Value_Role .
+
+viso-data:Relation
+      rdf:type owl:Class ;
+      rdfs:label "Relation" ;
+      .
+      
+viso-data:Scale_of_Measurement
+      rdf:type owl:Class ;
+      rdfs:label "Scale of Measurement" ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Spatial_Data
+      rdf:type owl:Class ;
+      rdfs:label "Spatial Data" ;
+      rdfs:subClassOf viso-data:Physical_Data ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Structured_Data
+      rdf:type owl:Class ;
+      rdfs:label "Structured Data" ;
+      rdfs:subClassOf viso-data:Data ;
+      owl:disjointWith viso-data:Unstructured_Data .
+
+viso-data:Tabular_Data_Structure
+      rdf:type owl:Class ;
+      rdfs:label "Tabular Data Structure" ;
+      rdfs:subClassOf viso-data:Data_Structure .
+
+viso-data:Temporal_Data
+      rdf:type owl:Class ;
+      rdfs:label "Temporal Data" ;
+      rdfs:subClassOf viso-data:Physical_Data ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Tree
+      rdf:type owl:Class ;
+      rdfs:label "Tree" ;
+      rdfs:subClassOf viso-data:DAG ;
+      rdfs:subClassOf
+              [ rdf:type owl:Restriction ;
+                owl:hasValue "true"^^xsd:boolean ;
+                owl:onProperty viso-data:planar
+              ] ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:Triples
+      rdf:type owl:Class ;
+      rdfs:label "Triples" ;
+      rdfs:subClassOf viso-data:Data_Structure ;
+      dct:description "Subject, Predicat, Object Structures such as RDF."^^xsd:string .
+
+viso-data:Unstructured_Data
+      rdf:type owl:Class ;
+      rdfs:label "Unstructured Data" ;
+      rdfs:subClassOf viso-data:Data .
+
+viso-data:Value_Role
+      rdf:type owl:Class ;
+      rdfs:label "Value Role" .
+
+viso-data:Variable_Role
+      rdf:type owl:Class ;
+      rdfs:label "Variable Role" ;
+      rdfs:subClassOf viso-graphic:Role .
+
+viso-data:has_fractional_value
+      rdf:type owl:DatatypeProperty ;
+      rdfs:label "has fractional value"^^xsd:string ;
+      dct:description "Assigns a ratio value between 0 and 1." ;
+      rdfs:seeAlso viso-data:has_ordinal_value ;
+      rdfs:subPropertyOf viso-data:has_ratio_value ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:has_interval_value
+      rdf:type owl:DatatypeProperty , owl:FunctionalProperty ;
+      dct:description "Assigns an interval value." ;
+      rdfs:label "has interval value"^^xsd:string ;
+      rdfs:seeAlso viso-data:has_ordinal_value ;
+      rdfs:subPropertyOf viso-data:has_quantitative_value ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:has_nominal_value
+      rdf:type rdf:Property .
+
+viso-data:has_numeral_value
+      rdf:type owl:DatatypeProperty , owl:FunctionalProperty ;
+      rdfs:comment "This property should be used to assign numeral values to individuals or strings that actually are nominal and thereby put them on an ordinal or quantitative scale.  The assignment of ordinal values is an alternative to placing the resources in an (ordered) list."^^xsd:string ;
+      rdfs:label "has numeral value"^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string ;
+      skos:example "Assign \"1\" to \"small\", \"2\" to \"medium\" and \"3\" to big. This creates an ordinal scale. By using subproperties, it can be further defined, if even more than an ordinal scale applies (interval, ratio)."^^xsd:string .
+
+viso-data:has_ordinal_value
+      rdf:type owl:DatatypeProperty , owl:FunctionalProperty ;
+      dct:description """Assigns an ordinal value.
+
+Alternatively to the definition of a new order relation between ObjectProperty values and connecting them by this means, a numeral value can be attached, which is able to provide the ordinal information and additionally also quantitative (interval, ratio) information.""" ;
+      rdfs:label "has ordinal value"^^xsd:string ;
+      viso-data:has_scale_of_measurement
+              viso-data:Ordinal_Scale_of_Measurement ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:has_quantitative_value
+      rdf:type owl:DatatypeProperty , owl:FunctionalProperty ;
+      rdfs:label "has quantitative value"^^xsd:string ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:has_ratio_value
+      rdf:type owl:DatatypeProperty , owl:FunctionalProperty ;
+      dct:description "Assigns a ratio value." ;
+      rdfs:label "has ratio value"^^xsd:string ;
+      rdfs:seeAlso viso-data:has_ordinal_value ;
+      rdfs:subPropertyOf viso-data:has_interval_value ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+              
+viso-data:heterogeneous
+      rdf:type owl:DatatypeProperty ;
+      rdfs:label "heterogeneous"^^xsd:string ;
+      dct:description "Heterogeneous means that various data structures and distributed sources may exist. The opposite is homegeneous."^^xsd:string ;
+      rdfs:domain viso-data:Data ;
+      rdfs:range xsd:boolean .
+
+viso-data:is_weighted
+      rdf:type owl:DatatypeProperty ;
+      rdfs:label "weighted"^^xsd:string ;
+      rdfs:domain viso-data:Relation ;
+      rdfs:range xsd:boolean .
+      
+viso-data:planar
+      rdf:type owl:DatatypeProperty , owl:FunctionalProperty ;
+      rdfs:label "planar"^^xsd:string ;
+      rdfs:range xsd:boolean ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+
+viso-data:sparse
+      rdf:type owl:DatatypeProperty ;
+      rdfs:label "sparse"^^xsd:string ;
+      dct:description "A data set is sparse with respect to a type of relation if only a few items take part in relationships of that type. A data set could be called sparse in general when this is true for many of its relation types."^^xsd:string ;
+      rdfs:domain viso-data:Data , viso-data:Relation ;
+      rdfs:range xsd:boolean ;
+      swstatus:term_status
+    	    "stable"^^xsd:string .

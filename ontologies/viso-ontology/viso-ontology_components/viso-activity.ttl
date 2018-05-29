@@ -1,0 +1,51 @@
+@prefix :  <http://purl.org/viso/activity/> .
+@prefix viso-activity:  <http://purl.org/viso/activity/> .
+@prefix dct:     <http://purl.org/dc/terms/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix owl2xml:  <http://www.w3.org/2006/12/owl2-xml#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix swstatus:  <http://www.w3.org/2003/06/sw-vocab-status/ns#> .
+@prefix viso-anno:  <http://purl.org/viso/anno/> .
+@prefix viso-bibliography:  <http://purl.org/viso/bibliography/> .
+@prefix viso-data:  <http://purl.org/viso/data/> .
+@prefix viso-graphic:  <http://purl.org/viso/graphic/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+viso-activity:
+      rdf:type owl:Ontology ;
+      rdfs:label "Activity module of the Visualisation Ontology (VISO)"@en , "Aktivitäts-Modul der Visualisierungsontologie (VISO)"@de ;
+      dct:creator <http://purl.org/viso/JanPolowinski> , <http://purl.org/viso/MartinVoigt> ;
+      dct:description "The activity module of VISO decribes tasks, actions an methods related to the visualisation process."@en ;
+      owl:imports viso-graphic: , viso-anno: , viso-bibliography: ;
+      owl:versionInfo "Work in Progress"^^xsd:string .
+
+### WIP - COPYING STATEMENTS FROM THE LEGAY ONTOLOGY TO THIS MODULE HAS TO BE COMPLETED ###
+
+viso-activity:Extraction_and_Comparison
+      rdf:type owl:Class ;
+      rdfs:label "Extraction and Comparison" ;
+      rdfs:subClassOf viso-activity:Interactive_Technique .
+              
+viso-activity:Geometric_Zoom
+      rdf:type owl:Class ;
+      rdfs:label "Geometric Zoom" ;
+      rdfs:subClassOf viso-activity:Interactive_Technique ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+              
+              
+viso-activity:Interactive_Technique
+      rdf:type owl:Class ;
+      rdfs:label "Interactive Technique" ;
+      rdfs:subClassOf viso-activity:Visualisation_Technique ;
+      swstatus:term_status
+              "stable"^^xsd:string .
+              
+viso-activity:Semantic_Zoom
+      rdf:type owl:Class ;
+      rdfs:label "Semantic Zoom" ;
+      rdfs:subClassOf viso-activity:Interactive_Technique ;
+      swstatus:term_status
+              "stable"^^xsd:string .

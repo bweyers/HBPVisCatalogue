@@ -1,0 +1,165 @@
+@prefix :        <http://purl.org/viso/facts/empiric/> .
+@prefix dct:     <http://purl.org/dc/terms/> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix viso-data:  <http://purl.org/viso/data/> .
+@prefix viso-facts:  <http://purl.org/viso/facts/> .
+@prefix viso-graphic:  <http://purl.org/viso/graphic/> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+:     rdf:type owl:Ontology ;
+      rdfs:label "Empirical facts module of the Visualisation Ontology (VISO)"@en , "Empirische-Fakten-Modul der Visualisierungsontologie (VISO)"@de ;
+      dct:creator <http://purl.org/viso/JanPolowinski> , <http://purl.org/viso/MartinVoigt> ;
+      dct:description """This extension to VISO/facts contains statements based on empirically found facts from experiments from the work of Mackinlay, MacEachren, Cleveland and McGill.  <em>The statements contained in this module are not shown by the LODE ontology documentation software!</em>
+      
+      Since, at the moment, not every statement is assigned to a publication (what could be done by reification), here a list that shows which statement is from which publication:
+
+Expressiveness: cf. property \"expresses\"
+Effectiveness: cf. property \"has_effectiveness_ranking_value\"
+Appropriateness: cf. property \"appropriate_to_visualize\" 
+"""^^xsd:string ;
+      owl:imports viso-facts: ;
+      owl:versionInfo "1.0"^^xsd:string .
+
+viso-graphic:area
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "20"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "30"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "90"^^xsd:float .
+
+viso-graphic:color_hsl_hue
+      viso-facts:appropriate_to_visualize
+              viso-data:Nominal_Data ;
+      viso-facts:expresses
+              viso-data:Nominal_Data , viso-data:Ordinal_Data ;
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "120"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "100"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "50"^^xsd:float ;
+      viso-facts:not_appropriate_to_visualize
+              viso-data:Ordinal_Data , viso-data:Quantitative_Data ;
+      viso-facts:not_expresses
+              viso-data:Quantitative_Data .
+
+viso-graphic:color_hsl_lightness
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "80"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "120"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "70"^^xsd:float .
+
+viso-graphic:color_hsl_saturation
+      viso-facts:appropriate_to_visualize
+              viso-data:Ordinal_Data ;
+      viso-facts:expresses
+              viso-data:Nominal_Data , viso-data:Ordinal_Data , viso-data:Quantitative_Data ;
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "70"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "110"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "60"^^xsd:float ;
+      viso-facts:not_appropriate_to_visualize
+              viso-data:Nominal_Data , viso-data:Quantitative_Data .
+
+viso-graphic:contains
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "90"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "70"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "20"^^xsd:float .
+
+viso-graphic:length
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "50"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "60"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "120"^^xsd:float .
+
+viso-graphic:linked_to
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "100"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "80"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "30"^^xsd:float .
+
+viso-graphic:orientation_degrees
+      viso-facts:appropriate_to_visualize
+              viso-data:Ordinal_Data ;
+      viso-facts:expresses
+              viso-data:Nominal_Data ;
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "30"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "40"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "100"^^xsd:float ;
+      viso-facts:not_appropriate_to_visualize
+              viso-data:Nominal_Data , viso-data:Quantitative_Data ;
+      viso-facts:not_expresses
+              viso-data:Ordinal_Data , viso-data:Quantitative_Data .
+
+viso-graphic:position
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "130"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "130"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "130"^^xsd:float .
+
+viso-graphic:shape_named
+      viso-facts:appropriate_to_visualize
+              viso-data:Nominal_Data ;
+      viso-facts:expresses
+              viso-data:Nominal_Data ;
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "60"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "10"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "10"^^xsd:float ;
+      viso-facts:not_appropriate_to_visualize
+              viso-data:Ordinal_Data , viso-data:Quantitative_Data ;
+      viso-facts:not_expresses
+              viso-data:Ordinal_Data , viso-data:Quantitative_Data .
+
+viso-graphic:size_named
+      viso-facts:appropriate_to_visualize
+              viso-data:Ordinal_Data , viso-data:Quantitative_Data ;
+      viso-facts:expresses
+              viso-data:Nominal_Data , viso-data:Ordinal_Data , viso-data:Quantitative_Data ;
+      viso-facts:not_appropriate_to_visualize
+              viso-data:Nominal_Data .
+
+viso-graphic:texture_shape_named
+      viso-facts:appropriate_to_visualize
+              viso-data:Ordinal_Data ;
+      viso-facts:expresses
+              viso-data:Nominal_Data , viso-data:Ordinal_Data ;
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "110"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "90"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "40"^^xsd:float ;
+      viso-facts:not_appropriate_to_visualize
+              viso-data:Nominal_Data , viso-data:Quantitative_Data ;
+      viso-facts:not_expresses
+              viso-data:Quantitative_Data .
+
+viso-graphic:volume
+      viso-facts:has_effectiveness_ranking_for_nominal_data
+              "10"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_ordinal_data
+              "20"^^xsd:float ;
+      viso-facts:has_effectiveness_ranking_for_quantitative_data
+              "80"^^xsd:float .
