@@ -10,4 +10,14 @@
     <tag>Tracing</tag>
     <tag>Neurons</tag>
   </software>
+
+  <software>
+    <label>Simple Neurite Tracery</label>
+    <category>Plugin</category>
+    <homepage>http://imagej.net/Simple_Neurite_Tracer</homepage>
+    <maintainer>Tiago Ferreira</maintainer>
+    <maintainer>Curtis Rueden</maintainer>
+    <tag>Tracing</tag>
+    <tag>Neurons</tag>
+  </software>
 </catalogue>
