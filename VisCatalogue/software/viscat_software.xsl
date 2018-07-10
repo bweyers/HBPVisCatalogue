@@ -46,6 +46,14 @@
     <xsl:text disable-output-escaping="yes">
         &lt;rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/swo/SWO_0000001"/></xsl:text>
     
+    <!-- Homepage -->
+    <xsl:if test="homepage">
+      <xsl:text disable-output-escaping="yes">
+        &lt;obo:IAO_0000119 rdf:datatype="&amp;xsd:string"></xsl:text>
+      <xsl:value-of select="homepage"/>
+      <xsl:text disable-output-escaping="yes">&lt;/obo:IAO_0000119&gt;</xsl:text>
+    </xsl:if>
+    
     <!-- Software close -->
     <xsl:text disable-output-escaping="yes">
     &lt;/owl:Class>
