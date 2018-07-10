@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href='viscat_software.xsl'?>
 <catalogue>
-    <software>
-        <title>Simple Neurite Tracker</title>
-        <category>Plugin</category>
-        <tags>
-            <tag>Tracing</tag>
-            <tag>Neurons</tag>
-        </tags>
-        <maintainer>Tiago Ferreira, Curtis Rueden</maintainer>
-        <homepage>http://imagej.net/Simple_Neurite_Tracer</homepage>
-    </software>
+  <software>
+    <label>Simple Neurite Tracer</label>
+    <category>Plugin</category>
+    <homepage>http://imagej.net/Simple_Neurite_Tracer</homepage>
+    <maintainer>Tiago Ferreira</maintainer>
+    <maintainer>Curtis Rueden</maintainer>
+    <tag>Tracing</tag>
+    <tag>Neurons</tag>
+  </software>
 </catalogue>
