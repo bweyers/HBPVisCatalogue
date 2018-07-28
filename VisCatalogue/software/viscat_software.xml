@@ -1,23 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href='viscat_software.xsl'?>
 <catalogue>
-  <software>
-    <label>Simple Neurite Tracer</label>
-    <category>Plugin</category>
-    <homepage>http://imagej.net/Simple_Neurite_Tracer</homepage>
-    <maintainer>Tiago Ferreira</maintainer>
-    <maintainer>Curtis Rueden</maintainer>
-    <tag>Tracing</tag>
-    <tag>Neurons</tag>
-  </software>
+    <software>
+        <label>Simple Neurite Tracer</label>
+        <platform>Java</platform>
+        <category>Plugin</category>
+        <framework>ImageJ</framework>
+        <homepage>http://imagej.net/Simple_Neurite_Tracer</homepage>
+        <license>GPLv3</license>
+        <source>https://github.com/fiji/Simple_Neurite_Tracer/releases/tag/Simple_Neurite_Tracer-3.1.3</source>
+        <maintainer>Tiago Ferreira</maintainer>
+        <maintainer>Curtis Rueden</maintainer>
+        <tag>Image Processing</tag>
+        <tag>Tracing</tag>
+        <tag>Neurons</tag>
+        <input>SWC</input>
+        <output>SWC</output>
+        <output>CSV</output>
+        <output>traces</output>
+        <rendering>ImageJ 3D Viewer</rendering>
+    </software>
 
-  <software>
-    <label>Simple Neurite Tracery</label>
-    <category>Plugin</category>
-    <homepage>http://imagej.net/Simple_Neurite_Tracer</homepage>
-    <maintainer>Tiago Ferreira</maintainer>
-    <maintainer>Curtis Rueden</maintainer>
-    <tag>Tracing</tag>
-    <tag>Neurons</tag>
-  </software>
+    <software>
+        <label>FilamentTracer</label>
+        <platform>Windows</platform>
+        <platform>Mac</platform>
+        <category>Module</category>
+        <framework>Imaris</framework>
+        <homepage>http://www.bitplane.com/imaris/filamenttracer</homepage>
+        <license>Proprietary commercial software license</license>
+        <maintainer>Bitplane</maintainer>
+        <tag>Image Processing</tag>
+        <tag>Tracing</tag>
+        <tag>Neurons</tag>
+        <output>CSV</output>
+        <rendering>Imaris 3D Viewer</rendering>
+    </software>
+
+    <software>
+        <label>Vaa3D</label>
+        <platform>Windows</platform>
+        <platform>Mac</platform>
+        <platform>Linux</platform>
+        <category>Application</category>
+        <homepage>http://www.alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/</homepage>
+        <license>MIT license</license>
+        <source>https://github.com/Vaa3D</source>
+        <maintainer>Konrad Rokicki</maintainer>
+        <tag>Image Processing</tag>
+        <tag>Image Visualization</tag>
+        <tag>Big image data</tag>
+        <rendering>Vaa3D 3D Viewer</rendering>
+    </software>
+
+    <software>
+        <label>Neurolucida</label>
+        <platform>Windows</platform>
+        <category>Application</category>
+        <homepage>http://www.mbfbioscience.com/neurolucida</homepage>
+        <license>Proprietary commercial software license</license>
+        <maintainer>MBF Bioscience</maintainer>
+        <tag>Image Processing</tag>
+        <tag>Tracing</tag>
+        <tag>Neurons</tag>
+    </software>
+
+    <software>
+        <label>VIOLA</label>
+        <platform>JavaScript</platform>
+        <category>Application</category>
+        <homepage>https://github.com/HBPVIS/VIOLA</homepage>
+        <license>GPLv2</license>
+        <source>https://github.com/HBPVIS/VIOLA</source>
+        <maintainer>Johanna Senk</maintainer>
+        <maintainer>Benjamin Weyers</maintainer>
+        <maintainer>Espen Hagen</maintainer>
+        <tag>Image Visualization</tag>
+        <tag>Neurons</tag>
+    </software>
 </catalogue>
