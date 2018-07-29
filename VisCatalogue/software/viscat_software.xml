@@ -2,6 +2,37 @@
 <?xml-stylesheet href='viscat_software.xsl'?>
 <catalogue>
     <software>
+        <label>ImageJ</label>
+        <platform>Java</platform>
+        <category>Application</category>
+        <homepage>http://imagej.net/Welcome</homepage>
+        <license>Public Domain</license>
+        <source>https://github.com/imagej/imagej1</source>
+        <maintainer>Wayne Rasband</maintainer>
+        <maintainer>Curtis Rueden</maintainer>
+        <tag>Image Processing</tag>
+        <tag>Medical Imaging</tag>
+        <input>TIFF</input>
+        <input>GIF</input>
+        <input>JPEG</input>
+        <input>PNG</input>
+        <input>DICOM</input>
+        <input>BMP</input>
+        <input>PGM</input>
+        <input>FITS</input>
+        <output>TIFF</output>
+        <output>GIF</output>
+        <output>JPEG</output>
+        <output>PNG</output>
+        <output>BMP</output>
+        <output>FITS</output>
+        <output>AVI</output>
+        <output>LUT</output>
+        <output>Raw Data</output>
+        <rendering>ImageJ 3D Viewer</rendering>
+    </software>
+
+    <software>
         <label>Simple Neurite Tracer</label>
         <platform>Java</platform>
         <category>Plugin</category>
