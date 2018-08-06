@@ -55,7 +55,7 @@
     <software>
         <label>FilamentTracer</label>
         <platform>Windows</platform>
-        <platform>Mac</platform>
+        <platform>macOS</platform>
         <category>Module</category>
         <framework>Imaris</framework>
         <homepage>http://www.bitplane.com/imaris/filamenttracer</homepage>
@@ -92,6 +92,7 @@
         <license>Proprietary commercial software license</license>
         <maintainer>MBF Bioscience</maintainer>
         <tag>Image Processing</tag>
+	<tag>Medical Visualization</tag>
         <tag>Tracing</tag>
         <tag>Neurons</tag>
     </software>
@@ -107,6 +108,108 @@
         <maintainer>Benjamin Weyers</maintainer>
         <maintainer>Espen Hagen</maintainer>
         <tag>Image Visualization</tag>
+	<tag>Medical Visualization</tag>
         <tag>Neurons</tag>
+    </software>
+
+    <software>
+        <label>Visualization Toolkit</label>
+        <platform>Windows</platform>
+	<platform>Linux</platform>
+	<platform>macOS</platform>
+        <category>Application</category>
+	<category>Library</category>
+        <homepage>https://www.vtk.org</homepage>
+        <license>3-Clause BSD</license>
+        <source>https://gitlab.kitware.com/vtk/vtk</source>
+        <maintainer>Kitware Inc.</maintainer>
+	<datelatestpublished>2017-12-22</datelatestpublished>
+        <tag>Image Visualization</tag>
+	<tag>Scientific Visualization</tag>
+        <input>3D Studio</input>
+        <input>AVS "UCD" format</input>
+        <input>Movie BYU</input>
+        <input>Open Inventor 2.0</input>
+        <input>CAD STL</input>
+        <input>Fluent GAMIT ASCII</input>
+	<input>Unigraphics Facet Files</input>
+	<input>Marching Cubes</input>
+	<input>VTK Structured Grid</input>
+	<input>VTK Poly Data</input>
+	<input>PLOT3D</input>
+	<input>OBJ</input>
+	<input>Particle</input>
+	<input>PDB</input>
+	<input>PLY</input>
+	<input>Gaussian</input>
+	<input>Facet</input>
+	<input>XYZ</input>
+	<input>Ensight</input>
+	<input>DICOM</intput>
+        <output>Movie BYU</output>
+        <output>Renderman</output>
+        <output>Open Inventor 2.0</output>
+        <output>CAD STL</output>
+        <output>Marching Cubes</output>
+        <output>Wavefront OBJ</output>
+        <output>VRML 2.0</output>
+        <output>VTK Structured Grid</output>
+        <output>VTK Poly Data</output>
+	<output>CGM</output>
+	<output>PLY</output>
+	<output>Facet</output>
+        <rendering>VTK 3D Renderer</rendering>
+    </software>
+
+    <software>
+        <label>3DSlicer</label>
+        <platform>Windows</platform>
+	<platform>macOS</platform>
+	<platform>Linux</platform>
+	<language>C++</language>
+	<language>Python</language>
+        <category>Application</category>
+        <homepage>https://www.slicer.org</homepage>
+        <license>BSD</license>
+        <source>github.com/Slicer/Slicer</source>
+        <maintainer>The Slicer Community</maintainer>
+	<datelatestpublished>2017-12-27</datelatestpublished>
+        <tag>Image Processing</tag>
+        <tag>Scientific Visualization</tag>
+	<tag>Medical Visualization</tag>
+        <input>DICOM</input>
+        <input>NRRD</input>
+        <input>MetalImage</input>
+        <input>VTK</input>
+        <input>Analyze</input>
+        <input>NifTi</input>
+        <input>BMP</input>
+        <input>BioRad</input>
+	<input>Brains2</input>
+	<input>GIPL</input>
+	<input>JPEG</input>
+	<input>LSM</input>
+	<input>PNG</input>
+	<input>Stimulate</input>
+	<input>TIFF</input>
+	<input>MGH-NMR</input>
+	<input>MRC</input>
+        <output>NRRD</output>
+        <output>MetalImage</output>
+        <output>VTK</output>
+        <output>Analyze</output>
+        <output>NifTi</output>
+        <output>MP</output>
+        <output>BioRad</output>
+	<output>Brains2</output>
+	<output>GIPL</output>
+	<output>JPEG</output>
+	<output>LSM</output>
+	<output>PNG</output>
+	<output>Stimulate</output>
+	<output>TIFF</output>
+	<output>GH-NMR</output>
+	<output>MRC</output>
+        <rendering>3DSlicer 3D Renderer</rendering>
     </software>
 </catalogue>
