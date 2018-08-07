@@ -3,7 +3,7 @@ HBP Semantic Vis Tool Catalogue
 [What is the cataloque]
 [Motivation]
 
-![Alt text](material/img/viscat_structure.jpg?raw=true)
+![Alt text](material/img/viscat_structure_2.jpg?raw=true)
 
 # Used Ontolgies
 
