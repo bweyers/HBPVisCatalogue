@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>Register new software to the catalogue</h3>
+
+<p>Name: <input type="text" id="softwareName"></p>
+
+<button type="Submit" onclick="SubmitAction()">Submit</button>
+
+<script>
+function SubmitAction() {
+    var xhttp = new XMLHttpRequest();
+    var result = "<root><software><name name=\"" + 
+    document.getElementById("softwareName").value + "\"/></software></root>";
+
+   	var query3 = "<commands><open name='wabits2'/><add path='embedded.xml'>" +
+    result + "</add><close/></commands>";
+
+    xhttp.onload = function() {
+        console.log("onload");
+    }
+
+ 
+   xhttp.onreadystatechange = function() {
+        console.log(xhttp.readyState);
+        console.log(xhttp.responseXML);
+        console.log(xhttp.responseText); 
+    };
+       
+    xhttp.open("POST", "http://localhost:8984/rest/wabits2", true);
+
+    xhttp.send(query3);
+}
+
+function UserAction() {
+    var xhttp = new XMLHttpRequest();
+
+    var result = "<root><software><name name=\"" + document.getElementById("softwareName").value + "\"/></software></root>";
+    var result2 = "<root>embedded</root>";
+	var query = "<rest:query xmlns:rest=\"http://localhost:8984/rest\">"
++"<rest:text>insert node " + result + "into root</rest:text>" +
+"</rest:query>"; 
+   // xhttp.open();
+
+   	var query3 = "<commands><open name='wabits2'/><add path='embedded.xml'>" + result + "</add><close/></commands>";
+
+   var query2 = "<rest:query xmlns:rest=\"http://localhost:8984/rest/wabits\"><rest:text><![CDATA[ (//software/name)[position() <= 5] ]]></rest:text></rest:query>"
+
+    xhttp.onload = function() {
+        console.log("onload");
+    }
+
+   xhttp.onreadystatechange = function() {
+        console.log(xhttp.readyState);
+        console.log(xhttp.responseXML);
+        console.log(xhttp.responseText); 
+    };
+
+    xhttp.open("POST", "http://localhost:8984/rest/wabits2", true);
+
+    xhttp.send(query3);
+
+//
+}
+</script>
+</body>
+</html>
