@@ -5,8 +5,9 @@
 <h3>Register new software to the catalogue</h3>
 <pre>
 <p>Name:       <input type="text" id="softwareName"></p>
-<p>Platform:   <input type="text" id="softwarePlatform"></p>
+<p>Platform:   <input type="text" id="softwarePlatformAdd"><button type="Submit" onclick="AddPlatformAction()">Add</button><ul id="softwarePlatform"></ul></p>
 <p>Category:   <input type="text" id="softwareCategory"></p>
+<p>Framework:   <input type="text" id="softwareFramework"></p>
 <p>Homepage:   <input type="text" id="softwareHomepage"></p>
 <p>Source:     <input type="text" id="softwareSource"></p>
 <p>License:    <input type="text" id="softwareLicense"></p>
@@ -20,6 +21,12 @@
 <button type="Submit" onclick="SubmitAction()">Submit</button>
 
 <script>
+
+function AddPlatformAction() {
+    document.getElementById('softwarePlatform').innerHTML += '<li>' 
+    + document.getElementById('softwarePlatformAdd').value + '</li>'; 
+}
+
 function AddInputAction() {
     document.getElementById('softwareInput').innerHTML += '<li>' 
     + document.getElementById('softwareInputAdd').value + '</li>'; 
@@ -48,13 +55,45 @@ function SubmitAction() {
     var xhttp = new XMLHttpRequest();
 
     var result = "<root><software>"
-    + "<name name=\"" + document.getElementById("softwareName").value + "\"/>"
-    + "<category>" + document.getElementById("softwareCategory").value + "</category>"
-    + "<homepage>" + document.getElementById("softwareHomepage").value + "</homepage>"
-    + "<license>" + document.getElementById("softwareLicense").value + "</license>"
-    + "</software></root>";
+    + "<name name=\"" + document.getElementById("softwareName").value + "\"/>";
 
-   	var query3 = "<commands><open name='wabits2'/><add path='embedded.xml'>" +
+    var listitems =  document.getElementById("softwarePlatform").getElementsByTagName("li");
+    for(var i = 0; i < listitems.length; i++)
+    {
+        result += "<platform>" + listitems[i].innerHTML + "</platform>";
+    }
+
+    result += "<category>" + document.getElementById("softwareCategory").value + "</category>"
+    + "<framework>" + document.getElementById("softwareFramework").value + "</framework>"
+    + "<homepage>" + document.getElementById("softwareHomepage").value + "</homepage>"
+    + "<source>" + document.getElementById("softwareSource").value + "</source>"
+    + "<license>" + document.getElementById("softwareLicense").value + "</license>";
+
+    var listitems =  document.getElementById("softwareMaintainer").getElementsByTagName("li");
+    for(var i = 0; i < listitems.length; i++)
+    {
+        result += "<maintainer>" + listitems[i].innerHTML + "</maintainer>";
+    }
+    var listitems =  document.getElementById("softwareTag").getElementsByTagName("li");
+    for(var i = 0; i < listitems.length; i++)
+    {
+        result += "<tag>" + listitems[i].innerHTML + "</tag>";
+    }
+    var listitems =  document.getElementById("softwareInput").getElementsByTagName("li");
+    for(var i = 0; i < listitems.length; i++)
+    {
+        result += "<input>" + listitems[i].innerHTML + "</input>";
+    }
+    var listitems =  document.getElementById("softwareOutput").getElementsByTagName("li");
+    for(var i = 0; i < listitems.length; i++)
+    {
+        result += "<output>" + listitems[i].innerHTML + "</output>";
+    }
+
+    result += "</software></root>";
+
+
+   	var query3 = "<commands><open name='wabits2'/><add path='software_" + document.getElementById("softwareName").value + ".xml'>" +
     result + "</add><close/></commands>";
 
     xhttp.onload = function() {
