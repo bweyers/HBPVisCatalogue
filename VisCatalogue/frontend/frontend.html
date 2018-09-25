@@ -3,12 +3,46 @@
 <body>
 
 <h3>Register new software to the catalogue</h3>
+<pre>
+<p>Name:       <input type="text" id="softwareName"></p>
+<p>Platform:   <input type="text" id="softwarePlatform"></p>
+<p>Category:   <input type="text" id="softwareCategory"></p>
+<p>Homepage:   <input type="text" id="softwareHomepage"></p>
+<p>Source:     <input type="text" id="softwareSource"></p>
+<p>Maintainer: <input type="text" id="softwareMaintainerAdd"><button type="Submit" onclick="AddMaintainerAction()">Add</button><ul id="softwareMaintainer"></ul></p>
+<p>Tag:        <input type="text" id="softwareTagAdd"><button type="Submit" onclick="AddTagAction()">Add</button><ul id="softwareTag"></ul></p>
+<p>Input:      <input type="text" id="softwareInputAdd"><button type="Submit" onclick="AddInputAction()">Add</button><ul id="softwareInput"></ul></p>
+<p>Output:     <input type="text" id="softwareOutputAdd"><button type="Submit" onclick="AddOutputAction()">Add</button><ul id="softwareOutput"></ul></p>
+</pre>
 
-<p>Name: <input type="text" id="softwareName"></p>
 
 <button type="Submit" onclick="SubmitAction()">Submit</button>
 
 <script>
+function AddInputAction() {
+    document.getElementById('softwareInput').innerHTML += '<li>' 
+    + document.getElementById('softwareInputAdd').value + '</li>'; 
+
+}
+
+function AddOutputAction() {
+    document.getElementById('softwareOutput').innerHTML += '<li>' 
+    + document.getElementById('softwareOutputAdd').value + '</li>'; 
+
+}
+
+function AddMaintainerAction() {
+    document.getElementById('softwareMaintainer').innerHTML += '<li>' 
+    + document.getElementById('softwareMaintainerAdd').value + '</li>'; 
+
+}
+
+function AddTagAction() {
+    document.getElementById('softwareTag').innerHTML += '<li>' 
+    + document.getElementById('softwareTagAdd').value + '</li>'; 
+
+}
+
 function SubmitAction() {
     var xhttp = new XMLHttpRequest();
     var result = "<root><software><name name=\"" + 
