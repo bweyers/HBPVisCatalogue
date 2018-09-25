@@ -9,6 +9,7 @@
 <p>Category:   <input type="text" id="softwareCategory"></p>
 <p>Homepage:   <input type="text" id="softwareHomepage"></p>
 <p>Source:     <input type="text" id="softwareSource"></p>
+<p>License:    <input type="text" id="softwareLicense"></p>
 <p>Maintainer: <input type="text" id="softwareMaintainerAdd"><button type="Submit" onclick="AddMaintainerAction()">Add</button><ul id="softwareMaintainer"></ul></p>
 <p>Tag:        <input type="text" id="softwareTagAdd"><button type="Submit" onclick="AddTagAction()">Add</button><ul id="softwareTag"></ul></p>
 <p>Input:      <input type="text" id="softwareInputAdd"><button type="Submit" onclick="AddInputAction()">Add</button><ul id="softwareInput"></ul></p>
@@ -45,8 +46,13 @@ function AddTagAction() {
 
 function SubmitAction() {
     var xhttp = new XMLHttpRequest();
-    var result = "<root><software><name name=\"" + 
-    document.getElementById("softwareName").value + "\"/></software></root>";
+
+    var result = "<root><software>"
+    + "<name name=\"" + document.getElementById("softwareName").value + "\"/>"
+    + "<category>" + document.getElementById("softwareCategory").value + "</category>"
+    + "<homepage>" + document.getElementById("softwareHomepage").value + "</homepage>"
+    + "<license>" + document.getElementById("softwareLicense").value + "</license>"
+    + "</software></root>";
 
    	var query3 = "<commands><open name='wabits2'/><add path='embedded.xml'>" +
     result + "</add><close/></commands>";
@@ -70,7 +76,12 @@ function SubmitAction() {
 function UserAction() {
     var xhttp = new XMLHttpRequest();
 
-    var result = "<root><software><name name=\"" + document.getElementById("softwareName").value + "\"/></software></root>";
+    var result = "<root><software>"
+    + "<name name=\"" + document.getElementById("softwareName").value + "\"/>"
+    + "<category name =\"" + document.getElementById("softwareCategory").value + "\">"
+    + "<homepage>" + document.getElementById("softwareHomepage").value + "</hompage>"
+    + "<license>" + document.getElementById("softwareLicense").value + "</license>"
+    + "</software></root>";
     var result2 = "<root>embedded</root>";
 	var query = "<rest:query xmlns:rest=\"http://localhost:8984/rest\">"
 +"<rest:text>insert node " + result + "into root</rest:text>" +
