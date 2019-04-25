@@ -1,0 +1,33 @@
+<root>
+  <software>
+    <name name="VIOLA"/>
+    <description><b><a href="https://github.com/HBPVIS/VIOLA">VIOLA</a></b> (Visualization Of Layer Activity) is an interactive, web-based tool to visualize activity data in multiple 2D layers such as the simulation output of neuronal networks with 2D geometry.
+<p/><p/>
+A usage example demonstrates the visualization of spike data resulting from a NEST simulation of a spatially structured point-neuron network with excitatory and inhibitory neuron populations and an external stimulus.</description>
+    <HBP>External</HBP>
+    <release>November 2018</release>
+    <platform>Windows</platform>
+    <platform>Linux</platform>
+    <platform>MacOS</platform>
+    <category>Application</category>
+    <homepage>http://hbpvis.github.io/VIOLA/</homepage>
+    <source>https://github.com/HBPVIS/VIOLA</source>
+    <license>GPLv2</license>
+    <maintainer>Johanna Senk</maintainer>
+    <maintainer>Benjamin Weyers</maintainer>
+    <maintainer>Espen Hagen</maintainer>
+    <deployment>Web</deployment>
+    <display>Desktop</display>
+    <tag>Image Visualization</tag>
+    <tag>Medical Visualization</tag>
+    <tag>Neurons</tag>
+    <input>JSON</input>
+    <input>GDF</input>
+    <input>DAT</input>
+    <input>LFP</input>
+    <abstract>Statistic</abstract>
+    <d2>Raster</d2>
+    <usage>Interactive Analysis</usage>
+    <usage>Presentation</usage>
+  </software>
+</root>

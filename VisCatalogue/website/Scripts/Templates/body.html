@@ -1,0 +1,900 @@
+<html lang="en-US"><!--<![endif]-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Application | TaxonomiesHBP Software Categories | High Performance Analytics &amp; Computing Platform –
+        Guidebook</title>
+    <link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://hbp-hpc-platform.fz-juelich.de/xmlrpc.php">
+    <!--[if lt IE 9]>
+    <script src="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/twentythirteen/js/html5.js"></script>
+    <![endif]-->
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//s.w.org">
+    <link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
+    <link rel="alternate" type="application/rss+xml"
+          title="High Performance Analytics &amp; Computing Platform – Guidebook » Feed"
+          href="https://hbp-hpc-platform.fz-juelich.de/?feed=rss2">
+    <link rel="alternate" type="application/rss+xml"
+          title="High Performance Analytics &amp; Computing Platform – Guidebook » Comments Feed"
+          href="https://hbp-hpc-platform.fz-juelich.de/?feed=comments-rss2">
+    <link rel="alternate" type="text/calendar"
+          title="High Performance Analytics &amp; Computing Platform – Guidebook » iCal Feed"
+          href="https://hbp-hpc-platform.fz-juelich.de?post_type=tribe_events&amp;ical=1">
+    <link rel="alternate" type="application/rss+xml"
+          title="High Performance Analytics &amp; Computing Platform – Guidebook » Application HBP Software Category Feed"
+          href="https://hbp-hpc-platform.fz-juelich.de/?feed=rss2&amp;hbp_software_cat=application-2">
+    <script type="text/javascript">
+        window._wpemojiSettings = {
+            "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/72x72\/",
+            "ext": ".png",
+            "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/11.2.0\/svg\/",
+            "svgExt": ".svg",
+            "source": {"concatemoji": "https:\/\/hbp-hpc-platform.fz-juelich.de\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.1.1"}
+        };
+        !function (a, b, c) {
+            function d(a, b) {
+                var c = String.fromCharCode;
+                l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, a), 0, 0);
+                var d = k.toDataURL();
+                l.clearRect(0, 0, k.width, k.height), l.fillText(c.apply(this, b), 0, 0);
+                var e = k.toDataURL();
+                return d === e
+            }
+
+            function e(a) {
+                var b;
+                if (!l || !l.fillText) return !1;
+                switch (l.textBaseline = "top", l.font = "600 32px Arial", a) {
+                    case"flag":
+                        return !(b = d([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819])) && (b = d([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]), !b);
+                    case"emoji":
+                        return b = d([55358, 56760, 9792, 65039], [55358, 56760, 8203, 9792, 65039]), !b
+                }
+                return !1
+            }
+
+            function f(a) {
+                var c = b.createElement("script");
+                c.src = a, c.defer = c.type = "text/javascript", b.getElementsByTagName("head")[0].appendChild(c)
+            }
+
+            var g, h, i, j, k = b.createElement("canvas"), l = k.getContext && k.getContext("2d");
+            for (j = Array("flag", "emoji"), c.supports = {
+                everything: !0,
+                everythingExceptFlag: !0
+            }, i = 0; i < j.length; i++) c.supports[j[i]] = e(j[i]), c.supports.everything = c.supports.everything && c.supports[j[i]], "flag" !== j[i] && (c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && c.supports[j[i]]);
+            c.supports.everythingExceptFlag = c.supports.everythingExceptFlag && !c.supports.flag, c.DOMReady = !1, c.readyCallback = function () {
+                c.DOMReady = !0
+            }, c.supports.everything || (h = function () {
+                c.readyCallback()
+            }, b.addEventListener ? (b.addEventListener("DOMContentLoaded", h, !1), a.addEventListener("load", h, !1)) : (a.attachEvent("onload", h), b.attachEvent("onreadystatechange", function () {
+                "complete" === b.readyState && c.readyCallback()
+            })), g = c.source || {}, g.concatemoji ? f(g.concatemoji) : g.wpemoji && g.twemoji && (f(g.twemoji), f(g.wpemoji)))
+        }(window, document, window._wpemojiSettings);
+    </script>
+    <script src="https://hbp-hpc-platform.fz-juelich.de/wp-includes/js/wp-emoji-release.min.js?ver=5.1.1"
+            type="text/javascript" defer=""></script>
+    <style type="text/css">
+        img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
+    </style>
+    <link rel="stylesheet" id="wp-block-library-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-includes/css/dist/block-library/style.min.css?ver=5.1.1"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="wp-block-library-theme-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-includes/css/dist/block-library/theme.min.css?ver=5.1.1"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="contact-form-7-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.1"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="searchandfilter-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/search-filter/style.css?ver=1" type="text/css"
+          media="all">
+    <link rel="stylesheet" id="vegas-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/vegas-fullscreen-background-slider/methods/../css/jquery.vegas.css"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="mb.YTPlayer_css-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/wpmbytplayer/css/mb.YTPlayer.css?ver=3.2.5"
+          type="text/css" media="screen">
+    <link rel="stylesheet" id="parent-style-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/twentythirteen/style.css?ver=5.1.1"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="child-style-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/hbp-hpc/style.css?ver=5.1.1" type="text/css"
+          media="all">
+    <link rel="stylesheet" id="font-awesome-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/hbp-hpc/fonts/font-awesome/css/font-awesome.css?ver=5.1.1"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="twentythirteen-fonts-css"
+          href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&amp;subset=latin%2Clatin-ext"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="genericons-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/twentythirteen/genericons/genericons.css?ver=3.03"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="twentythirteen-style-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/hbp-hpc/style.css?ver=2013-07-18"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="twentythirteen-block-style-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/twentythirteen/css/blocks.css?ver=2018-12-30"
+          type="text/css" media="all">
+    <!--[if lt IE 9]>
+    <link rel='stylesheet' id='twentythirteen-ie-css'
+          href='https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/twentythirteen/css/ie.css?ver=2013-07-18'
+          type='text/css' media='all'/>
+    <![endif]-->
+    <link rel="stylesheet" id="msl-main-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.5.3"
+          type="text/css" media="all">
+    <link rel="stylesheet" id="msl-custom-css"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-content/uploads/master-slider/custom.css?ver=2.8"
+          type="text/css" media="all">
+    <script type="text/javascript"
+            src="https://hbp-hpc-platform.fz-juelich.de/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+    <script type="text/javascript"
+            src="https://hbp-hpc-platform.fz-juelich.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+    <link rel="https://api.w.org/" href="https://hbp-hpc-platform.fz-juelich.de/index.php?rest_route=/">
+    <link rel="EditURI" type="application/rsd+xml" title="RSD"
+          href="https://hbp-hpc-platform.fz-juelich.de/xmlrpc.php?rsd">
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml"
+          href="https://hbp-hpc-platform.fz-juelich.de/wp-includes/wlwmanifest.xml">
+    <meta name="generator" content="WordPress 5.1.1">
+    <script>var ms_grabbing_curosr = 'https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur',
+        ms_grab_curosr = 'https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
+    <meta name="generator" content="MasterSlider 3.5.3 - Responsive Touch Image Slider | avt.li/msf">
+    <!-- Analytics by WP-Statistics v12.6.2 - https://wp-statistics.com/ -->
+    <script>jQuery(function () {
+        var a = null;
+        setInterval(function () {
+            jQuery(".YTPOverlay").each(function () {
+                var b = jQuery(this);
+                jQuery("[class*=ytp_wm_]", b).remove();
+                a = "ytp_wm_" + Math.floor(1E5 * Math.random());
+                var c = jQuery("<img/>").attr("src", "data:image/png;base64,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");
+                ytp_wm = jQuery("<div/>").addClass(a).html(c);
+                c.attr("style", "filter:none!important;-webkit-transform:none!important;transform:none!important;padding:0!important;margin:0!important;height:100%!important; width:auto!important;display:block!important;visibility:visible!important;top:0!important;right:0!important;opacity:1!important;position:absolute!important;margin:auto!important;z-index:10000!important;");
+                ytp_wm.attr("style", "filter:none!important;-webkit-transform:none!important;transform:none!important;padding:0!important;margin:0!important;display:block!important;position:absolute!important;top:0!important;bottom:0!important;right:0!important;margin:auto!important;z-index:10000!important;width:100%!important;height:100%!important;max-height:220px!important;");
+                b.prepend(ytp_wm)
+            })
+        }, 5E3)
+    });</script>
+    <meta name="tec-api-version" content="v1">
+    <meta name="tec-api-origin" content="https://hbp-hpc-platform.fz-juelich.de">
+    <link rel="https://theeventscalendar.com/"
+          href="https://hbp-hpc-platform.fz-juelich.de/index.php?rest_route=/tribe/events/v1/">
+    <!-- Styles cached and displayed inline for speed. Generated by http://stylesplugin.com -->
+    <style type="text/css" id="styles-plugin-css">
+        .styles .searchform [type=search] {
+            font-size: 19px;
+            font-family: Helvetica, Arial, sans-serif
+        }
+
+        .styles #page .site-info a {
+            font-size: 10px
+        }
+    </style>
+</head>
+
+<body class="archive tax-hbp_software_cat term-application-2 term-64 wp-embed-responsive _masterslider _ms_version_3.5.3 tribe-js styles single-author sidebar">
+<div id="page" class="hfeed site">
+    <header id="masthead" class="site-header" role="banner">
+        <a class="home-link" href="https://hbp-hpc-platform.fz-juelich.de/"
+           title="High Performance Analytics &amp; Computing Platform – Guidebook" rel="home">
+            <h1 class="site-title">High Performance Analytics &amp; Computing Platform – Guidebook</h1>
+            <h2 class="site-description">Infos and documentation of the HBP's HPAC Platform</h2>
+        </a>
+
+        <div id="navbar" class="navbar">
+            <nav id="site-navigation" class="navigation main-navigation" role="navigation">
+                <button class="menu-toggle">Menu</button>
+                <a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+                <div class="menu-test-container">
+                    <ul id="primary-menu" class="nav-menu">
+                        <li id="menu-item-7"
+                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7">
+                            <a href="https://hbp-hpc-platform.fz-juelich.de">Home</a></li>
+                        <li id="menu-item-1118"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1118"><a
+                                href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1114">News</a></li>
+                        <li id="menu-item-1786"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1786">
+                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1783">Achievements</a>
+                            <ul class="sub-menu">
+                                <li id="menu-item-1790"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1790"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1787">Simulation
+                                    technology</a></li>
+                                <li id="menu-item-1799"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1799"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1795">Data-intensive
+                                    supercomputing technology</a></li>
+                                <li id="menu-item-1834"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1834"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1800">Interactive
+                                    visualisation and visual data analysis</a></li>
+                                <li id="menu-item-1839"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1839"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1836">Dynamic resource
+                                    management</a></li>
+                                <li id="menu-item-1843"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1843"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1841">HPAC Platform v2</a>
+                                </li>
+                                <li id="menu-item-800"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-800">
+                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=781">User Projects</a>
+                                    <ul class="sub-menu">
+                                        <li id="menu-item-803"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=787">Simulation
+                                                &amp; analytics workflow: NEST – Elephant – SpiNNaker</a></li>
+                                        <li id="menu-item-1231"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1229">Simulation:
+                                                Circuit simulation with Neuron</a></li>
+                                        <li id="menu-item-1235"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1235">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1233">Simulation:
+                                                Interactive neurorobotics simulation</a></li>
+                                        <li id="menu-item-801"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=797">Data analysis:
+                                                Texture analysis in high-resolution images</a></li>
+                                        <li id="menu-item-1240"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1240">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1237">Data
+                                                analytics: Characterising disease pathways using machine learning</a>
+                                        </li>
+                                        <li id="menu-item-802"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=794">Image
+                                                processing: 3D-PLI workflow</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li id="menu-item-28"
+                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-28">
+                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=26">Application Software</a>
+                            <ul class="sub-menu">
+                                <li id="menu-item-29"
+                                    class="menu-item menu-item-type-taxonomy menu-item-object-hbp_software_cat current-menu-item menu-item-29">
+                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?hbp_software_cat=application-2"
+                                       aria-current="page">Application</a></li>
+                                <li id="menu-item-31"
+                                    class="menu-item menu-item-type-taxonomy menu-item-object-hbp_software_cat menu-item-31">
+                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?hbp_software_cat=programming-models-libraries-and-toolkits">Programming
+                                        models, libraries and toolkits</a></li>
+                                <li id="menu-item-30"
+                                    class="menu-item menu-item-type-taxonomy menu-item-object-hbp_software_cat menu-item-30">
+                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?hbp_software_cat=data-management">Data
+                                        management</a></li>
+                            </ul>
+                        </li>
+                        <li id="menu-item-44"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-44">
+                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=32">Infrastructure</a>
+                            <ul class="sub-menu">
+                                <li id="menu-item-312"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-312">
+                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=309">Supercomputers</a>
+                                    <ul class="sub-menu">
+                                        <li id="menu-item-1034"
+                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1034">
+                                            <a>Supercomputers available</a>
+                                            <ul class="sub-menu">
+                                                <li id="menu-item-1002"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1002">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=933">JURECA</a>
+                                                </li>
+                                                <li id="menu-item-2067"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2067">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1992">JUWELS</a>
+                                                </li>
+                                                <li id="menu-item-1001"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1001">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=940">Piz
+                                                        Daint</a></li>
+                                                <li id="menu-item-1485"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1485">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1481">MareNostrum
+                                                        4</a></li>
+                                                <li id="menu-item-1178"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1178">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1169">MARCONI</a>
+                                                </li>
+                                                <li id="menu-item-1000"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=942">Pico</a>
+                                                </li>
+                                                <li id="menu-item-2270"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2270">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=2212">Irene
+                                                        (Joliot – Curie)</a></li>
+                                            </ul>
+                                        </li>
+                                        <li id="menu-item-1110"
+                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1110">
+                                            <a>PCP pilots</a>
+                                            <ul class="sub-menu">
+                                                <li id="menu-item-1108"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1108">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1073">JURON
+                                                        (IBM-NVIDIA pilot)</a></li>
+                                            </ul>
+                                        </li>
+                                        <li id="menu-item-1179"
+                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1179">
+                                            <a>Old systems</a>
+                                            <ul class="sub-menu">
+                                                <li id="menu-item-1180"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1180">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=45">BlueBrain
+                                                        IV</a></li>
+                                                <li id="menu-item-101"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=49">FERMI</a>
+                                                </li>
+                                                <li id="menu-item-1109"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1109">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1063">JULIA
+                                                        (Cray pilot)</a></li>
+                                                <li id="menu-item-99"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-99">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=34">JUQUEEN</a>
+                                                </li>
+                                                <li id="menu-item-102"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=47">MareNostrum
+                                                        III</a></li>
+                                            </ul>
+                                        </li>
+                                        <li id="menu-item-82"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=68">Access to
+                                                supercomputers</a></li>
+                                        <li id="menu-item-734"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-734">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=732">Working with
+                                                supercomputers</a></li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-706"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-706">
+                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=676">HPC storage</a>
+                                    <ul class="sub-menu">
+                                        <li id="menu-item-1450"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1450">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1448">Storage
+                                                services</a></li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-1328"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1328">
+                                    <a>Other compute resources</a>
+                                    <ul class="sub-menu">
+                                        <li id="menu-item-1329"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1329">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1326">KIT OpenStack
+                                                Deployment</a></li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-94"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=51">Cloud storage</a></li>
+                                <li id="menu-item-93"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=53">Visualisation
+                                    systems</a></li>
+                                <li id="menu-item-91"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=58">Network</a></li>
+                                <li id="menu-item-746"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-746">
+                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=744">Platform
+                                        configuration</a>
+                                    <ul class="sub-menu">
+                                        <li id="menu-item-90"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=60">UNICORE</a>
+                                            <ul class="sub-menu">
+                                                <li id="menu-item-96"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=62">UNICORE
+                                                        installation</a></li>
+                                                <li id="menu-item-95"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=64">UNICORE
+                                                        Portal</a></li>
+                                                <li id="menu-item-1155"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1153">UNICORE
+                                                        REST API</a></li>
+                                                <li id="menu-item-769"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-769">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=767">UNICORE
+                                                        Workflow Engine</a></li>
+                                            </ul>
+                                        </li>
+                                        <li id="menu-item-89"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-89">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=66">User &amp;
+                                                group management</a>
+                                            <ul class="sub-menu">
+                                                <li id="menu-item-448"
+                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-448">
+                                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=446">Naming
+                                                        scheme for users and groups</a></li>
+                                                <li id="menu-item-321"
+                                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-321">
+                                                    <a href="https://trac.version.fz-juelich.de/hbpaccounting">Accounting
+                                                        library</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li id="menu-item-585"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-585">
+                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=583">Training</a>
+                            <ul class="sub-menu">
+                                <li id="menu-item-575"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-575"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?post_type=tribe_events&amp;tribe_event_display=month">Trainings
+                                    &amp; Events</a></li>
+                                <li id="menu-item-543"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-543">
+                                    <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=529">Online training</a>
+                                    <ul class="sub-menu">
+                                        <li id="menu-item-547"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-547">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=531">Software
+                                                development, computing &amp; programming languages</a></li>
+                                        <li id="menu-item-546"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-546">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=534">Parallel
+                                                programming &amp; High Performance Computing</a></li>
+                                        <li id="menu-item-545"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=539">Additional
+                                                training offered by the HPC Platform partners</a></li>
+                                        <li id="menu-item-544"
+                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544">
+                                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=541">PRACE videos
+                                                and tutorials</a></li>
+                                    </ul>
+                                </li>
+                                <li id="menu-item-582"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-582"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=576">SP7 partners’
+                                    courses</a></li>
+                                <li id="menu-item-593"
+                                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-593"><a
+                                        href="https://education.humanbrainproject.eu/">HBP Education Programme</a></li>
+                                <li id="menu-item-590"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-590"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=588">Training request</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li id="menu-item-518"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a
+                                href="https://hbp-hpc-platform.fz-juelich.de/?page_id=491">About us</a></li>
+                        <li id="menu-item-154"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-154">
+                            <a href="https://hbp-hpc-platform.fz-juelich.de/?page_id=152">Contact &amp; Support</a>
+                            <ul class="sub-menu">
+                                <li id="menu-item-2096"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2096"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=2004">Request for
+                                    application performance optimisation and code migration support</a></li>
+                                <li id="menu-item-772"
+                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a
+                                        href="https://hbp-hpc-platform.fz-juelich.de/?page_id=442">Booking request for
+                                    visualization systems</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <form role="search" method="get" class="search-form" action="https://hbp-hpc-platform.fz-juelich.de/">
+                    <label>
+                        <span class="screen-reader-text">Search for:</span>
+                        <input type="search" class="search-field" placeholder="Search …" value="" name="s">
+                    </label>
+                    <input type="submit" class="search-submit" value="Search">
+                </form>
+            </nav><!-- #site-navigation -->
+        </div><!-- #navbar -->
+    </header><!-- #masthead -->
+
+
+    <div id="main" class="site-main">
+
+        <div id="tertiary" class="sidebar-container" role="complementary">
+            <div class="sidebar-inner">
+                <div class="widget-area">
+
+                    <aside id="text-3" class="widget widget_text">
+                        <div class="textwidget" style="margin-left:150px;">
+                            <form action="" method="post" class="searchandfilter">
+                                <div>
+                                    <ul>
+                                        <li><h3 class="archive-title">Categories</h3>
+                                            <input type="reset" value="Reset Filter" style="padding: 5px"
+                                                   onclick="clearFilters()">
+                                            <ul>
+                                                <li class="cat-item cat-item-3">
+                                                    <details>
+                                                        <summary>
+                                                            <label>Usage</label>
+                                                        </summary>
+                                                        <ul class="children">
+
+                                                            <!--{USAGE}-->
+
+                                                        </ul>
+                                                    </details>
+                                                </li>
+                                                <li class="cat-item cat-item-3">
+                                                    <details>
+                                                        <summary>
+                                                            <label>Data Type</label>
+                                                        </summary>
+                                                        <ul class="children">
+
+                                                            <li class="cat-item cat-item-3">
+                                                                <details>
+                                                                    <summary>
+                                                                        <label>Abstract</label>
+                                                                    </summary>
+                                                                    <ul class="children">
+                                                                        <!--{ABSTRACT}-->
+                                                                    </ul>
+                                                                </details>
+                                                            </li>
+
+
+                                                            <li class="cat-item cat-item-3">
+                                                                <details>
+                                                                    <summary>
+                                                                        <label>2D</label>
+                                                                    </summary>
+                                                                    <ul class="children">
+                                                                        <!--{2D}-->
+                                                                    </ul>
+                                                                </details>
+                                                            </li>
+
+
+                                                            <li class="cat-item cat-item-3">
+                                                                <details>
+                                                                    <summary>
+                                                                        <label>3D</label>
+                                                                    </summary>
+                                                                    <ul class="children">
+                                                                        <!--{3D}-->
+                                                                    </ul>
+                                                                </details>
+                                                            </li>
+
+                                                        </ul>
+                                                    </details>
+                                                </li>
+
+                                                <li class="cat-item cat-item-3">
+                                                    <details>
+                                                        <summary>
+                                                            <label>Data Format</label>
+                                                        </summary>
+                                                        <ul class="children">
+
+                                                            <!--{FORMATS}-->
+
+                                                        </ul>
+                                                    </details>
+                                                </li>
+
+                                                <li class="cat-item cat-item-3">
+                                                    <details>
+                                                        <summary>
+                                                            <label>Deployment</label>
+                                                        </summary>
+                                                        <ul class="children">
+
+                                                            <!--{DEPLOYMENTS}-->
+
+                                                        </ul>
+                                                    </details>
+                                                </li>
+
+
+                                                <li class="cat-item cat-item-3">
+                                                    <details>
+                                                        <summary>
+                                                            <label>Display Device</label>
+                                                        </summary>
+                                                        <ul class="children">
+
+                                                            <!--{DISPLAYS}-->
+
+                                                        </ul>
+                                                    </details>
+                                                </li>
+
+
+                                                <li class="cat-item cat-item-3">
+                                                    <details>
+                                                        <summary>
+                                                            <label>HBP</label>
+                                                        </summary>
+                                                        <ul class="children">
+
+                                                            <!--{HBP}-->
+
+                                                        </ul>
+                                                    </details>
+                                                </li>
+
+
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </form>
+                        </div>
+                    </aside>
+                </div>
+            </div>
+
+            <div id="primary" class="content-area">
+                <div id="content" class="site-content" role="main" style="margin-left:150px;">
+
+                    <!--<header class="archive-header">
+                <h1 class="archive-title">Archives</h1>
+
+            </header>--><!-- .archive-header -->
+
+                    <header class="archive-header">
+                        <h1 class="archive-title">Visualization Tools.</h1>
+
+                    </header>
+
+                    <button onclick="topFunction()" id="myBtn" title="Go to top"
+                            style="position: fixed; bottom: 20px; right: 30px">Top
+                    </button>
+
+                    <p>
+                    The visualization of data is key element in data analysis workflows in neuroscience, computing, and brain-related medicine.
+This catalogue of visualization tools provides information and navigation techniques to find the right tool for a designated analysis task. 
+It covers tools developed in and outside of HBP.
+</p>
+For questions and comments, please contact Benjamin Weyers (<a href="mailto:weyers@uni-trier.de">weyers@uni-trier.de</a>).
+</p>
+                                        <p>
+<br/>
+                    The filters presented on the right enable interactive selection of visualization tools by means of the following fields: 
+                    <br/><br/>
+                                  <table style="margin: 0px">
+    <tr>
+        <td><b>Usage:</b></td>
+        <td>Indicates the designated type of usage the tool is developed for, such as interactive analysis or presentation.</td>
+    </tr>
+    <tr>
+        <td><b>Data Type:</b></td>
+        <td>Indicates the type of data, which can be visualized by the tools, such as abstract, 2D or 3D spatial data.</td>
+    </tr>
+    <tr>
+        <td><b>Data Format:</b></td>
+        <td>Indicates the data format the tool supports, such as DICOM or NifTi.</td>
+    </tr>
+    <tr>
+        <td><b>Deployment:</b></td>
+        <td>Indicates, on which type of device the software tool can be deployed, such as HPC or mobile systems.</td>
+    </tr>
+    <tr>
+        <td><b>Display Device:</b></td>
+        <td>Indicates, on which type of device the resulting visualization can be displayed, such as desktop or VR.</td>
+    </tr>
+    <tr>
+        <td><b>HBP:</b></td>
+        <td>Indicates whether the software tool has been developed in HPB or is an external software. </td>
+    </tr>
+
+</table>
+</p>
+                    <br>
+
+
+                    <h4><b>Active Filter:</b></h4>
+                    <div id="filterDIV">&nbsp;</div>
+                    <br/>
+                    <details>
+                        <summary>
+                            <b style="font-size: 15px;">Filtered Software:</b>
+                        </summary>
+                        <br/>
+                        <ul id="softwareDIV"></ul>
+
+                    </details>
+					<hr>
+                    <!--{ARTICLE_LIST}-->
+                </div>
+                <footer id="colophon" class="site-footer" role="contentinfo">
+
+                    <div class="site-info">
+
+                        <p>
+                            <img src="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/hbp-hpc/img/flag_yellow_low.jpg"
+                                 style="float: right; width: 6em; margin-left: 5em; opacity: 0.6;">
+                            This project has received funding from the European Union Seventh Framework Programme
+                            (FP7/2007-2013) under grant agreement no. 604102 (Human Brain Project), and from the
+                            European Union’s Horizon 2020 Framework Programme for Research and Innovation under the
+                            Specific Grant Agreements No. 20270 (Human Brain Project SGA1) and No. 785907 (Human Brain
+                            Project SGA2).
+                        </p>
+                        <a href="http://www.fz-juelich.de/portal/EN/Service/LegalNotice/_node.html"
+                           title="Legal Notice">Legal Notice</a> | <a
+                            href="https://hbp-hpc-platform.fz-juelich.de/?page_id=1974" title="Privacy Policy">Data
+                        protection</a>
+                    </div><!-- .site-info -->
+                </footer><!-- #colophon -->
+            </div><!-- #content -->
+        </div><!-- #primary -->
+
+
+    </div><!-- #main -->
+
+</div><!-- #page -->
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.12.0/lodash.js"></script>
+<script>
+    window.onscroll = function () {
+        scrollFunction()
+    };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("myBtn").style.display = "block";
+        } else {
+            document.getElementById("myBtn").style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    }
+
+    function clearFilters() {
+        document.getElementsByName("filterCheckbox").forEach(cb => {
+            cb.checked = false;
+        });
+        handleClick();
+    }
+
+    function handleClick() {
+        var cbList = [];
+        document.getElementsByName("filterCheckbox").forEach(cb => {
+            if (cb.checked)
+                cbList.push(cb);
+        });
+
+        if (document.getElementById("softwareDIV").innerHTML)
+            document.getElementById("softwareDIV").innerHTML = "";
+
+        if (cbList.length === 0) {
+            document.getElementsByName("software").forEach(value => {
+                value.style.display = "block";
+                document.getElementById("softwareDIV").innerHTML += "<li><a href=\"#" + value.id + "\">" + document.getElementById(value.id).attributes.getNamedItem("software-name").value + "</a></li><br/>"
+            });
+            document.getElementById("filterDIV").innerHTML = "&nbsp;";
+
+            return;
+        }
+
+        document.getElementsByName("software").forEach(value => value.style.display = "none");
+
+        var softwareList = [];
+        var filterList = [];
+        cbList.forEach(cb => {
+            softwareList.push(cb.dataset.software.split(" "));
+            filterList.push(cb.nextSibling.nodeValue);
+        });
+
+        document.getElementById("filterDIV").innerHTML = filterList.join(", ");
+
+        var intersect = _.intersection.apply(_, softwareList);
+        intersect.forEach(s => {
+            document.getElementById(s).style.display = "block";
+            document.getElementById("softwareDIV").innerHTML += "<li><a href=\"#" + s + "\">" + document.getElementById(s).attributes.getNamedItem("software-name").value + "</a></li><br/>"
+        })
+    }
+    scrollFunction();
+    handleClick();
+</script>
+<script>
+    (function (body) {
+        'use strict';
+        body.className = body.className.replace(/\btribe-no-js\b/, 'tribe-js');
+    })(document.body);
+</script>
+<script> /* <![CDATA[ */
+var tribe_l10n_datatables = {
+    "aria": {
+        "sort_ascending": ": activate to sort column ascending",
+        "sort_descending": ": activate to sort column descending"
+    },
+    "length_menu": "Show _MENU_ entries",
+    "empty_table": "No data available in table",
+    "info": "Showing _START_ to _END_ of _TOTAL_ entries",
+    "info_empty": "Showing 0 to 0 of 0 entries",
+    "info_filtered": "(filtered from _MAX_ total entries)",
+    "zero_records": "No matching records found",
+    "search": "Search:",
+    "all_selected_text": "All items on this page were selected. ",
+    "select_all_link": "Select all pages",
+    "clear_selection": "Clear Selection.",
+    "pagination": {"all": "All", "next": "Next", "previous": "Previous"},
+    "select": {"rows": {"0": "", "_": ": Selected %d rows", "1": ": Selected 1 row"}},
+    "datepicker": {
+        "dayNames": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "dayNamesShort": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+        "dayNamesMin": ["S", "M", "T", "W", "T", "F", "S"],
+        "monthNames": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+        "monthNamesShort": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+        "monthNamesMin": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+        "nextText": "Next",
+        "prevText": "Prev",
+        "currentText": "Today",
+        "closeText": "Done",
+        "today": "Today",
+        "clear": "Clear"
+    }
+};
+var tribe_system_info = {
+    "sysinfo_optin_nonce": "114c91ae53",
+    "clipboard_btn_text": "Copy to clipboard",
+    "clipboard_copied_text": "System info copied",
+    "clipboard_fail_text": "Press \"Cmd + C\" to copy"
+};/* ]]> */ </script>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var wpcf7 = {
+        "apiSettings": {
+            "root": "https:\/\/hbp-hpc-platform.fz-juelich.de\/index.php?rest_route=\/contact-form-7\/v1",
+            "namespace": "contact-form-7\/v1"
+        }
+    };
+    /* ]]> */
+</script>
+<script type="text/javascript"
+        src="https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.1"></script>
+<script type="text/javascript"
+        src="https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/vegas-fullscreen-background-slider/methods/../js/jquery.vegas.js"></script>
+<script type="text/javascript"
+        src="https://hbp-hpc-platform.fz-juelich.de/wp-content/plugins/wpmbytplayer/js/jquery.mb.YTPlayer.js?ver=3.2.5"></script>
+<script type="text/javascript"
+        src="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/hbp-hpc/js/scrollspy.js?ver=1.0.0"></script>
+<script type="text/javascript"
+        src="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/hbp-hpc/js/functions.js?ver=1.0.0"></script>
+<script type="text/javascript"
+        src="https://hbp-hpc-platform.fz-juelich.de/wp-content/themes/twentythirteen/js/functions.js?ver=20160717"></script>
+<script type="text/javascript"
+        src="https://hbp-hpc-platform.fz-juelich.de/wp-includes/js/wp-embed.min.js?ver=5.1.1"></script>
+
+
+</body>
+</html>

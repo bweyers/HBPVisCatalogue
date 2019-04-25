@@ -1,0 +1,39 @@
+<root>
+  <software>
+    <name name="Vaa3D"/>
+    <description><b><a href="http://vaa3d.org">Vaa3D</a></b> is an open source 3D/4D/5D image visualization and analysis software
+      for bioimage analysis. It is a cross-platform (Mac, Linux, and Windows) tool for visualizing large-scale (gigabytes, and 64-bit data) image volumes and surface objects.
+      It is also a container of powerful modules/plugins for high dimensional image analysis (cell segmentation, neuron tracing, brain registration, annotation, quantitative measurement and statistics, etc).
+      This makes Vaa3D suitable for various bioimage informatics applications, and a nice platform to develop new 3D image analysis algorithms for high-throughput processing.
+      In short, Vaa3D streamlines the workflow of visualization-assisted analysis.</description>
+    <platform>Windows</platform>
+    <platform>MacOS</platform>
+    <platform>Linux</platform>
+    <HBP>External</HBP>
+    <category>Application</category>
+    <release>March 2019</release>
+    <version>v3.597</version>
+    <homepage>http://vaa3d.org</homepage>
+    <source>https://github.com/Vaa3D</source>
+    <license>MIT license</license>
+    <maintainer>Konrad Rokicki</maintainer>
+    <tag>Image Processing</tag>
+    <tag>Image Visualization</tag>
+    <tag>Big image data</tag>
+    <deployment>Standalone</deployment>
+    <display>Desktop</display>
+    <display>VR</display>
+    <input>TIFF</input>
+    <input>Vaa3D raw</input>
+    <output>TIFF</output>
+    <output>Vaa3D raw</output>
+    <output>APO</output>
+    <output>SWC</output>
+    <d2>Raster</d2>
+    <d3>Raster</d3>
+    <d3>Model</d3>
+    <usage>Interactive Analysis</usage>
+    <usage>Presentation</usage>
+    <usage>Processing</usage>
+  </software>
+</root>

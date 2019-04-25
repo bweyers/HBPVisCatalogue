@@ -1,0 +1,38 @@
+<root>
+  <software>
+    <name name="PLIViewer"/>
+    <description>
+      <p>The <strong><a href="https://devhub.vr.rwth-aachen.de/VR-Group/pli_vis">PLIViewer</a> </strong>is visualization software for 3D-Polarized Light Imaging (3D-PLI), to interactively explore the scalar and vector datasets; it provides additional methods to transform data, thus revealing new insights that are not available in the raw representations. The high resolution provided by 3D-PLI produces massive, terabyte-scale datasets, which makes visualization challenging.</p>
+<p>The PLIViewer tackles this problem by providing functionality to select areas of interests from the dataset, and options for downscaling. It makes it possible to interactively compute and visualize Orientation Distribution Functions (ODFs) and polar plots from the vector field, which reveal mesoscopic and macroscopic scale information from the microscopic dataset without significant loss of detail. The PLIViewer equips the neuroscientist with specialized visualization tools needed to explore 3D-PLI datasets through direct and interactive visualization of the data.</p>
+
+<figure id="attachment_1824" aria-describedby="caption-attachment-1824" style="width: 458px" class="wp-caption alignnone"><a href="https://hbp-hpc-platform.fz-juelich.de/wp-content/uploads/2018/04/Figure8a.png"><img class="size-full wp-image-1824" src="https://hbp-hpc-platform.fz-juelich.de/wp-content/uploads/2018/04/Figure8a.png" alt="" width="458" height="248"/></a><figcaption id="caption-attachment-1824" class="wp-caption-text">The original dataset: Fibre Orientation Maps rendered on top of Retardation map</figcaption></figure>
+<figure id="attachment_1825" aria-describedby="caption-attachment-1825" style="width: 458px" class="wp-caption alignnone"><a href="https://hbp-hpc-platform.fz-juelich.de/wp-content/uploads/2018/04/Figure8b.png"><img class="size-full wp-image-1825" src="https://hbp-hpc-platform.fz-juelich.de/wp-content/uploads/2018/04/Figure8b.png" alt="" width="458" height="248"/></a><figcaption id="caption-attachment-1825" class="wp-caption-text">A full slice from the Fibre Orientation Map of a Vervet Monkey</figcaption></figure>
+<figure id="attachment_1826" aria-describedby="caption-attachment-1826" style="width: 457px" class="wp-caption alignnone"><a href="https://hbp-hpc-platform.fz-juelich.de/wp-content/uploads/2018/04/Figure8c_v2.png"><img class="size-full wp-image-1826" src="https://hbp-hpc-platform.fz-juelich.de/wp-content/uploads/2018/04/Figure8c_v2.png" alt="" width="457" height="248"/></a><figcaption id="caption-attachment-1826" class="wp-caption-text">Orientation Distribution Functions (ODFs) rendered with Streamline Tractography</figcaption></figure>
+<figure id="attachment_1827" aria-describedby="caption-attachment-1827" style="width: 458px" class="wp-caption alignnone"><a href="https://hbp-hpc-platform.fz-juelich.de/wp-content/uploads/2018/04/Figure8d_v2.png"><img class="size-full wp-image-1827" src="https://hbp-hpc-platform.fz-juelich.de/wp-content/uploads/2018/04/Figure8d_v2.png" alt="" width="458" height="248"/></a><figcaption id="caption-attachment-1827" class="wp-caption-text">Close-up view of the ODFs</figcaption></figure>
+    </description>
+    <release>February 2018</release>
+    <docversion>1.1.0</docversion>
+    <platform>Linux</platform>
+    <homepage>https://devhub.vr.rwth-aachen.de/VR-Group/pli_vis</homepage>
+    <source>https://devhub.vr.rwth-aachen.de/VR-Group/pli_vis</source>
+    <license>Public Domain</license>
+    <maintainer>Ali Demiralp<mail>demiralp@gmx.com</mail>
+    </maintainer>
+    <tag>Performance Visualization</tag>
+    <tag>Interactive Visualization And Analysis</tag>
+    <tag>Interactive Visualization</tag>
+    <tag>Medical Imaging</tag>
+    <category>GUI Tool</category>
+	<category>Application</category>
+    <HBP>Internal</HBP>
+    <display>Desktop</display>
+    <deployment>Standalone</deployment>
+    <input>HDF5</input>
+    <d2>Raster</d2>
+    <d3>Raster</d3>
+  <d3>Tensor</d3>
+    <usage>Interactive Analysis</usage>
+    <usage>Presentation</usage>
+    <usage>Processing</usage>
+  </software>
+</root>

@@ -1,0 +1,47 @@
+<root>
+  <software>
+    <name name="FilamentTracer"/>
+    <description><b><a href="http://www.bitplane.com/imaris/filamenttracer">FilamentTracer</a></b> is the most advanced software product for the automatic detection
+      of neurons (dendritic trees, axons and spines), microtubules, and other filament-like structures in 2D, 3D and 4D. When combined with ImarisTrack,
+      detection of temporal changes in length and volume of developing spines and dendrites will help researchers understand alterations caused by
+      developmental and environmental changes.
+      <p/>
+      <ul>
+        <li>Versatile tracing methods</li>
+        <li>Obtain branch length and diameter statistics</li>
+        <li>Manually draw segments with automatic centering</li>
+        <li>Utilize multiple branch selection methods</li>
+        <li>Visualize filaments along with non-filamentous structures</li>
+      </ul>
+    </description>
+    <HBP>External</HBP>
+    <maintainer>
+      Bitplane AG
+      <mail>
+        eusupport@bitplane.com
+      </mail>
+    </maintainer>
+    <platform>Windows</platform>
+    <platform>MacOS</platform>
+    <category>Module</category>
+    <homepage>http://www.bitplane.com/imaris/filamenttracer</homepage>
+    <license>Proprietary commercial software license</license>
+    <deployment>Standalone</deployment>
+    <display>Desktop</display>
+    <requirements>Imaris</requirements>
+    <tag>Image Processing</tag>
+    <tag>Tracing</tag>
+    <tag>Neurons</tag>
+    <input>CSV</input>
+    <output>CSV</output>
+    <abstract>Statistic</abstract>
+    <abstract>Graph</abstract>
+    <d2>Raster</d2>
+    <d2>Vector</d2>
+    <d3>Raster</d3>
+    <d3>Model</d3>
+    <usage>Interactive Analysis</usage>
+    <usage>Presentation</usage>
+    <usage>Processing</usage>
+  </software>
+</root>
