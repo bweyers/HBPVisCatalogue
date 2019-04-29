@@ -1,35 +1,12 @@
 <root>
-  <software>
-    <name name="Neurolucida"/>
-    <description>
-      <b><a href="http://www.mbfbioscience.com/neurolucida">Neurolucida</a></b> is the gold standard for creating and analyzing realistic, meaningful, and quantifiable neuron reconstructions from microscope images. Perform detailed morphometric analyses of neurons, such as quantifying:
-<p/><ul>
-  <li>the number of dendrites, axons, nodes, synapses, and spines</li>
-<li>the length, width, and volume of dendrites and axons</li>
-<li>the area and volume of the soma</li>
-<li>the complexity and extension of neurons</li>
-      </ul>
-    </description>
-    <HBP>External</HBP>
-    <release>2019</release>
-    <version>Neurolucida Version 2019</version>
-    <platform>Windows</platform>
-    <category>Application</category>
-    <homepage>http://www.mbfbioscience.com/neurolucida</homepage>
-    <license>Proprietary commercial software license</license>
-    <maintainer>MBF Bioscience <mail>support@mbfbioscience.com</mail></maintainer>
-    <tag>Image Processing</tag>
-    <tag>Medical Visualization</tag>
-    <tag>Tracing</tag>
-    <tag>Neurons</tag>
-    <output>MP4</output>
-    <deployment>Standalone</deployment>
-    <display>Desktop</display>
-    <abstract>Graph</abstract>
-    <d3>Raster</d3>
-    <d3>Model</d3>
-    <usage>Interactive Analysis</usage>
-    <usage>Presentation</usage>
-    <usage>Processing</usage>
-  </software>
+<software>
+<name name="Neurolucida" nitrc="https://www.nitrc.org/projects/neurolucida" />
+<description> Neurolucida is a powerful tool for creating and analyzing realistic, meaningful, and quantifiable neuron reconstructions from microscope images. Perform detailed morphometric analysis of neurons, such as: the number of dendrites, axons, nodes, synapses, and spines the length, width, and volume of dendrites and axons, area and volume of the soma, and the complexity and extension of neurons. &lt;a href=&quot;http://www.mbfbioscience.com/neurolucida&quot; target=&quot;_new&quot;&gt;http://www.mbfbioscience.com/neurolucida&lt;/a&gt;&lt;br /&gt; &lt;br /&gt;Researchers have reconstructed and analyzed tens of thousands of neurons using Neurolucida, leading to advances in areas of neuroscience including neurodegenerative diseases, neuropathy, memory, and behavior, and advances in research fields such as ophthalmology. </description>
+<release>Sep 15, 2014</release>
+<homepage>http://www.nitrc.org/projects/neurolucida/</homepage>
+<maintainer>MBF Bioscience</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
 </root>

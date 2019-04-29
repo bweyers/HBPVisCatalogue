@@ -1,6 +1,7 @@
 from xml.dom import minidom
 import os
 import re
+import html
 from functools import reduce
 
 INPUT_DIR = "Input"
@@ -143,7 +144,7 @@ def generateArticle(name):
     generateMetaData(xml)
 
     articleHTML = ARTICLE_HTML.replace("<!--{DESCRIPTION}-->",
-                                       xml.getElementsByTagName("description")[0].toxml() if len(
+                                       html.unescape(xml.getElementsByTagName("description")[0].toxml()) if len(
                                            xml.getElementsByTagName("description")) > 0 else "")
     articleHTML = articleHTML.replace("<!--{MAINTAINER_LIST}-->",
                                       generateMaintainer(xml.getElementsByTagName("maintainer")))
@@ -184,7 +185,7 @@ for name in os.listdir(INPUT_DIR):
     articlelist.append(generateArticle(name))
 
 HTML = insertMetaData(BODY_HTML)
-HTML = HTML.replace("<!--{ARTICLE_LIST}-->", "\n<hr>\n".join(articlelist))
+HTML = HTML.replace("<!--{ARTICLE_LIST}-->", "\n<hr>".join(articlelist))
 HTML = re.sub("<!--{.*}-->", "", HTML)
 
 open("index.html", "w+", encoding="utf-8").write(HTML)

@@ -1,69 +1,45 @@
 <root>
-  <software>
-    <name name="3DSlicer"/>
-    <release>January 2019</release>
-    <HBP>External</HBP>
-    <description><b> <a href="https://www.slicer.org">3D Slicer</a></b> is an open source software platform for medical image informatics,
-      image processing, and three-dimensional visualization.
-      Built over two decades through support from the National Institutes of Health and a worldwide developer community,
-      Slicer brings free, powerful cross-platform processing tools to physicians, researchers, and the general public.</description>
-    <platform>Windows</platform>
-    <platform>MacOS</platform>
-    <platform>Linux</platform>
-    <category>Application</category>
-    <deployment>Standalone</deployment>
-    <display>Desktop</display>
-    <homepage>https://www.slicer.org</homepage>
-    <source>https://github.com/Slicer/Slicer</source>
-    <version>4.10.1</version>
-    <license>BSD</license>
-    <maintainer>The Slicer Community</maintainer>
-    <tag>Image Processing</tag>
-    <tag>Scientific Visualization</tag>
-    <tag>Medical Visualization</tag>
-    <requirements>CMake >= 3.13.4</requirements>
-    <requirements>Git >= 1.7.10</requirements>
-    <requirements>SVN</requirements>
-    <requirements>NSIS (optional)</requirements>
-    <requirements>Qt5</requirements>
-    <requirements>Visual Studio</requirements>
-    <input>DICOM</input>
-    <input>NRRD</input>
-    <input>MetalImage</input>
-    <input>VTK</input>
-    <input>Analyze</input>
-    <input>NifTi</input>
-    <input>BMP</input>
-    <input>BioRad</input>
-    <input>Brains2</input>
-    <input>GIPL</input>
-    <input>LSM</input>
-    <input>PNG</input>
-    <input>Stimulate</input>
-    <input>TIFF</input>
-    <input>MGH-NMR</input>
-    <input>MRC</input>
-    <output>NRRD</output>
-    <output>MetalImage</output>
-    <output>VTK</output>
-    <output>Analyze</output>
-    <output>NifTi</output>
-    <output>BMP</output>
-    <output>BioRad</output>
-    <output>Brains2</output>
-    <output>GIPL</output>
-    <output>JPEG</output>
-    <output>LSM</output>
-    <output>PNG</output>
-    <output>Stimulate</output>
-    <output>TIFF</output>
-    <output>GH-NMR</output>
-    <output>MRC</output>
-    <d2>Raster</d2>
-    <d3>Raster</d3>
-    <d3>Model</d3>
-    <usage>Interactive Analysis</usage>
-    <usage>Presentation</usage>
-    <usage>Processing</usage>
-  </software>
+<software>
+<name name="3D Slicer" nitrc="https://www.nitrc.org/projects/slicer" />
+<description> An extensible, cross-platform, totally open research platform for image computing. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=50&amp;screenshot_id=218&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=50&amp;screenshot_id=218&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>3D Slicer License</license>
+<category>Atlas Data</category>
+<category>Algorithm or Reusable Library</category>
+<category>Tensor Metric</category>
+<category>Morphology</category>
+<category>Volume Measurement</category>
+<category>Volumetric Analysis</category>
+<category>Image-to-Image</category>
+<category>Resampling</category>
+<category>Warping</category>
+<category>Tractography</category>
+<category>Visualization</category>
+<category>Platform or Development Environment</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Aug 17, 2007</release>
+<homepage>http://slicer.org</homepage>
+<maintainer>The Slicer Community</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
 </root>
