@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MRBrainS Evaluation Framework / Challenge" nitrc="https://www.nitrc.org/projects/mrbrains" />
+<description> The aim of the MRBrainS online evaluation framework is to compare automatic algorithms that segment gray matter (GM), white matter (WM), and cerebrospinal fluid (CSF) on 3T MRI scans. Participants apply their algorithms to the provided data, after which their results are evaluated and ranked. Full manual segmentations of GM, WM, and CSF are available for all 20 scans and used as the reference standard (trainingset: 5, testset: 15). The evaluated methods are ranked based on their overall performance to segment GM, WM, and CSF and evaluated using three evaluation metrics (Dice, 95th percentile Hausdorff distance, and absolute volume difference). The results are published on the MRBrainS13 website. If you would like to join the MRBrainS challenge, please register a team on the MRBrainS website: &lt;a href=&quot;http://mrbrains13.isi.uu.nl/register.php&quot; target=&quot;_new&quot;&gt;http://mrbrains13.isi.uu.nl/register.php&lt;/a&gt; and sign the confidentiality agreement. You will be granted access to the data and can submit your automatic segmentation results for evaluation. Visit &lt;a href=&quot;http://mrbrains13.isi.uu.nl&quot; target=&quot;_new&quot;&gt;http://mrbrains13.isi.uu.nl&lt;/a&gt;</description>
+<license>MRBrainS license</license>
+<release>Oct 12, 2015</release>
+<homepage>http://mrbrains13.isi.uu.nl/</homepage>
+<maintainer>University Medical Center Utrecht, the Netherlands</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

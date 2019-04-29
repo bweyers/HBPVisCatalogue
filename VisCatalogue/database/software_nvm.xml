@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="NVM" nitrc="https://www.nitrc.org/projects/nvm" />
+<description> NVM is an open-source software tool for locating and measuring neuroanatomy in structural volumetric image data. It is used to draw regions of interest for subsequent fMRI analysis. </description>
+<license>NVM License</license>
+<category>Morphology</category>
+<category>Volumetric Analysis</category>
+<category>Anatomic</category>
+<category>Volumetric Analysis</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>COR</input>
+<output>COR</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Sep 28, 2007</release>
+<homepage>http://neuromorphometrics.com</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

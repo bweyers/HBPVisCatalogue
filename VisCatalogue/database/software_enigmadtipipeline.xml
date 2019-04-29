@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="ENIGMA-DTI pipeline" nitrc="https://www.nitrc.org/projects/enigma_dti" />
+<description> The ENIGMA DTI pipeline provides tools to extract whole-brain average and regional measurements from DTI images including FA, AD, RD and MD. The pipeline has been used successfully across sites worldwide and shown to extract reliable and heritable measures from diffusion imaging. We provide a FA-template created from multiple high resolution datasets to better accommodate registrations to a standard atlas than current existing tools. The ENIGMA-DTI analysis team is continuously working to bridge together pipelines to analyze DTI in reliable ways across multiple datasets and reduce inter-site inhomogeneities and inconsistencies between findings, so stay tuned for more updates and tools. Successful global studies of genetic or disease effects underlying variability in white matter neuroanatomy have been published through ENIGMA and many more are underway. To get involved in any ENIGMA group send us a message -- &lt;a href=&quot;mailto:enigma@ini.usc.edu&quot; target=&quot;_new&quot;&gt;enigma@ini.usc.edu&lt;/a&gt; or support.enigmaDTI@ini.usc.edu. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=981&amp;screenshot_id=948&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=981&amp;screenshot_id=948&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Public Domain</license>
+<release>Oct 12, 2015</release>
+<homepage>http://www.nitrc.org/projects/enigma_dti/</homepage>
+<maintainer>ENIGMA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

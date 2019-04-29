@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="MRI Defacer" nitrc="https://www.nitrc.org/projects/mri_deface" />
+<description> Tool to remove facial features from an MRI structural image for the purpose of de-identification. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=249&amp;screenshot_id=151&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=249&amp;screenshot_id=151&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>FreeSurfer License</license>
+<category>Intensity Operations</category>
+<category>Resampling</category>
+<category>Surface Analysis</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<release>Jul 22, 2009</release>
+<homepage>https://surfer.nmr.mgh.harvard.edu/fswiki/AutomatedDefacingTools</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

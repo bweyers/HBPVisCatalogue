@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="BrainBox" nitrc="https://www.nitrc.org/projects/brainbox" />
+<description> BrainBox is a web application developed by the Group of Applied and Theoretical Neuroanatomy – NAAT – for the Open Neuroimaging Laboratory Project. BrainBox allows you to visualise and segment collaboratively any brain MRI dataset available online. Segmentations are automatically saved and can be downloaded as Nifti files or triangular meshes. Point BrainBox to your own Nifti data, or try data catalogues created by the community. To access BrainBox, go to: &lt;a href=&quot;http://brainbox.pasteur.fr/&quot; target=&quot;_new&quot;&gt;http://brainbox.pasteur.fr/&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1075&amp;screenshot_id=1026&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1075&amp;screenshot_id=1026&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Web Service</category>
+<category>Websites</category>
+<platform>OS Independent</platform>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 16, 2016</release>
+<homepage>http://brainbox.pasteur.fr/</homepage>
+<maintainer>Instut Pasteur</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

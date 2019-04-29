@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="[123I] FP-CIT SPECT brain template in MNI space" nitrc="https://www.nitrc.org/projects/fp_cit_atlas" />
+<description> The FP-CIT SPECT brain template has been created using a fully automatic procedure involving posterization of the source image to three levels: background, brain and striatum. &lt;br /&gt;&lt;br /&gt;We performed a spatial affine registration of these 40 posterized source images to a posterized reference image in the MNI space. The intensity values of the transformed images is normalized linearly, assuming that the histogram of the intensity values follows an alpha-stable distribution. Lastly, we built the [123I]FP-CIT SPECT template by the mean of the transformed and normalized images.&lt;br /&gt;&lt;br /&gt;More info: &lt;br /&gt;&lt;br /&gt;1) Salas-Gonzalez et al. Building a FP-CIT SPECT brain template using a posterization approach. Accepted in Neuroinformatics.&lt;br /&gt;&lt;br /&gt;2) Salas-Gonzalez et al. Linear intensity normalization of FP-CIT SPECT brain images using the alpha-stable distribution. NeuroImage, Volume 65, 2013, pp. 449-455.&lt;br /&gt;&lt;a href=&quot;http://dx.doi.org/10.1016/j.neuroimage.2012.10.005&quot; target=&quot;_new&quot;&gt;http://dx.doi.org/10.1016/j.neuroimage.2...&lt;/a&gt;</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<release>Jan 20, 2015</release>
+<homepage>http://www.nitrc.org/projects/fp_cit_atlas/</homepage>
+<maintainer>University of Granada, Spain.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,40 @@
+<root>
+<software>
+<name name="BioImage Suite" nitrc="https://www.nitrc.org/projects/bioimagesuite" />
+<description> BioImage Suite is a web-based medical image analysis software package with image processing , image registration and visualization capabiliies.&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;https://bioimagesuiteweb.github.io/webapp/&quot; target=&quot;_new&quot;&gt;https://bioimagesuiteweb.github.io/webap...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=51&amp;screenshot_id=1254&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=51&amp;screenshot_id=1254&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Web Resource</category>
+<category>Morphology</category>
+<category>Volumetric Analysis</category>
+<category>Active Contour</category>
+<category>Expectation Minimization</category>
+<category>Intermodal</category>
+<category>Intersubject</category>
+<category>Image-to-Template</category>
+<category>Fiber Tracking</category>
+<category>Animation</category>
+<category>Three Dimensional Display</category>
+<category>Volume Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows NT/2000</platform>
+<platform>BSD</platform>
+<platform>IRIX</platform>
+<platform>Linux</platform>
+<platform>SunOS/Solaris</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 27, 2007</release>
+<homepage>http://bioimagesuite.org</homepage>
+<maintainer>Yale School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

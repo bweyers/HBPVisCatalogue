@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Phenolyer" nitrc="https://www.nitrc.org/projects/phenolyer" />
+<description> Phenolyzer is a software aimed at phenotype/disease specific gene prioritization and gene network visualization. It can be used alone to prioritize genes genome-widely, or from user-specified genomic regions or genes. It can also be used to further prioritize genes after the variant annotation and filtering step from other tools, like ANNOVAR. Phenolyzer has both a command line version and a web version: see &lt;a href=&quot;http://phenolyzer.wglab.org/&quot; target=&quot;_new&quot;&gt;http://phenolyzer.wglab.org/&lt;/a&gt; and &lt;a href=&quot;https://github.com/WGLab/phenolyzer.&quot; target=&quot;_new&quot;&gt;https://github.com/WGLab/phenolyzer.&lt;/a&gt;</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Genomic Analysis</category>
+<release>May 13, 2018</release>
+<homepage>http://www.nitrc.org/projects/phenolyer/</homepage>
+<maintainer>Children's Hospital of Philadelphia</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

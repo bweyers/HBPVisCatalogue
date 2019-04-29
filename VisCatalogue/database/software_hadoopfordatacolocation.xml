@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Hadoop for data colocation" nitrc="https://www.nitrc.org/projects/hadoop_2016" />
+<description> Data colocation via Hadoop and Hbase custom region split policy. </description>
+<license>BSD License</license>
+<release>Jan 19, 2016</release>
+<homepage>http://www.nitrc.org/projects/hadoop_2016/</homepage>
+<maintainer>Vanderbilt University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

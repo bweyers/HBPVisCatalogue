@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="SlicerSALT" nitrc="https://www.nitrc.org/projects/slicersalt" />
+<description> SlicerSALT (Shape AnaLysis Toolbox, SALT) continues the maintenance, expansion, validation and dissemination of the SPHARM-PDM (SPherical HARMonics Point Distributed Models) shape analysis toolbox. It is distributed as a tailor-made lighter version of 3DSlicer.&lt;br /&gt;&lt;br /&gt;SPHARM-PDM is a popular open-source tool that has been used by the biomedical research community to analyze the morphology of anatomical structures. SlicerSALT will maintain the core functionalities of SPHARM-PDM, as well as dramatically extending the toolbox into a general shape analysis toolbox. Novel, robust and validated methodologies will provide support for objects of non-spherical topology, skeletal models, four-dimensional models, and study-specific optimal model correspondence. SALT is being tested three application case scenarios to evaluate the efficacy of the proposed methods. &lt;br /&gt;&lt;br /&gt;SlicerSALT will continue providing excellent documentation, community resources, and user support. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1167&amp;screenshot_id=1105&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1167&amp;screenshot_id=1105&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD/MIT-Style Open Source License</license>
+<release>May 11, 2017</release>
+<homepage>http://salt.slicer.org</homepage>
+<maintainer>Kitware Inc</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

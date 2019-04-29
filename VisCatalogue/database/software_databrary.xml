@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Databrary" nitrc="https://www.nitrc.org/projects/databrary" />
+<description> A video-based data library for behavioral science. </description>
+<license>Creative Commons License</license>
+<release>Nov 13, 2016</release>
+<homepage>http://www.databrary.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

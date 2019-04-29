@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="NIPY Community" nitrc="https://www.nitrc.org/projects/nipy-community" />
+<description> The purpose of NIPY is to make it easier to do better brain imaging research. We believe that neuroscience ideas and analysis ideas develop together. Good ideas come from understanding; understanding comes from clarity, and clarity must come from well-designed teaching materials and well-designed software. The software must be designed as a natural extension of the underlying ideas.&lt;br /&gt;&lt;br /&gt;We aim to build software that is:&lt;br /&gt;&lt;br /&gt; * clearly written&lt;br /&gt; * clearly explained&lt;br /&gt; * a good fit for the underlying ideas&lt;br /&gt; * a natural home for collaboration </description>
+<license>BSD License</license>
+<release>May 5, 2010</release>
+<homepage>http://nipy.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

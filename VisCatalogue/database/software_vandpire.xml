@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="VANDPIRE" nitrc="https://www.nitrc.org/projects/vandpire" />
+<description> VANDPIRE is intuitive and comprehensive software for quantifying cerebral blood flow (CBF) and calculating CBF territories using arterial spin labeling (ASL) MRI data. CBF analysis, particularly CBF territory analysis, is time-consuming and requires advanced knowledge of scripting and up-to-date mathematical models. This toolbox addresses these concerns, and is available on multiple platforms as a graphical user interface.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Features:&lt;br /&gt;- Available on Windows, Mac, and Linux platforms&lt;br /&gt;- Runs from single folder and thus capable of being run online in scanning environment&lt;br /&gt;- Comes with complete help tutorial in HTML format and example data&lt;br /&gt;- Numerous customizable options that are responsive to user input&lt;br /&gt;- Output data formats: Nifti, Dicom&lt;br /&gt;- Includes modifiable motion correction and coregistration options using FSL or Elastix&lt;br /&gt;- Currently tested with Philips Par/Rec and Philips Dicom pseudocontinuous ASL input data; however, support available for other data formats upon request&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Created by Daniel F. Arteaga. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=962&amp;screenshot_id=944&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=962&amp;screenshot_id=944&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>VANDPIRE software license agreement</license>
+<category>Quantification</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Jul 31, 2015</release>
+<homepage>http://www.nitrc.org/projects/vandpire/</homepage>
+<maintainer>Vanderbilt University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

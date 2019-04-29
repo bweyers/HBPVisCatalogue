@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="FSL extensions" nitrc="https://www.nitrc.org/projects/fsl_extensions" />
+<description> FSL extensions is a reference for modifications, extensions, and utilities for the FMRIB Software Library (FSL). </description>
+<release>Oct 2, 2007</release>
+<homepage>http://www.nitrc.org/projects/fsl_extensions/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="HBM Hackathon" nitrc="https://www.nitrc.org/projects/ohbm_hack" />
+<description> Aloha! Registration is now open for the 3rd Annual OHBM Hackathon taking place at the Hawaii Convention Center in Hawaii on the beautiful island of Oahu from June 12-14, 2015.&lt;br /&gt;&lt;br /&gt;During this three day event, the first two days will focus on collaborative and open neuroscience projects in data analysis and methods development. See brainhack.org for examples of previous projects and to submit your project ideas!&lt;br /&gt;&lt;br /&gt;The third and final day of the event will feature a FREE morning course on “Brain Hacking 101” where participants will be introduced to brain imaging as a data science. The afternoon will feature a session freely available to all OHBM attendees on the hackathon project outcomes.&lt;br /&gt;&lt;br /&gt;The spirit of the Hackathon will continue into the OHBM Annual Meeting, June 14-18 in Honolulu through an on-site collaboration space available throughout the conference.&lt;br /&gt;&lt;br /&gt;Dates: June 12-14, 2015&lt;br /&gt;Location: Hawaii Convention Center, Honolulu, HI&lt;br /&gt;OHBM 2015 website&lt;br /&gt;Project website: &lt;a href=&quot;http://www.brainhack.org&quot; target=&quot;_new&quot;&gt;http://www.brainhack.org&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=715&amp;screenshot_id=919&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=715&amp;screenshot_id=919&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Community</category>
+<category>Websites</category>
+<release>May 6, 2013</release>
+<homepage>http://brainhack.org/hackathon-2015/</homepage>
+<maintainer>OHBM</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

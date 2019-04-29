@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="XNBC" nitrc="https://www.nitrc.org/projects/xnbc" />
+<description> XNBC is a full featured application for computer naive neuroscientists. It simulates biological neural networks using graphic tools to edit neurons and networks, to run the simulation and to analyze results. Written in C, it runs on Unix and Windows. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=848&amp;screenshot_id=825&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=848&amp;screenshot_id=825&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Multi-Neuron Modeling</category>
+<category>Event Related Potential</category>
+<category>Animation</category>
+<platform>Windows 95/98/2000</platform>
+<platform>Windows XP</platform>
+<platform>Cygwin</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 28, 2014</release>
+<homepage>http://www.nitrc.org/projects/xnbc/</homepage>
+<maintainer>Université Pierre et Marie Curie</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

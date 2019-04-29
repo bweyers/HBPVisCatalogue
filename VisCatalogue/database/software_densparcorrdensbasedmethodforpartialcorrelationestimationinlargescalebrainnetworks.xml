@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="DensParcorr : Dens-Based Method for Partial Correlation Estimation in Large Scale Brain Networks" nitrc="https://www.nitrc.org/projects/densparcorr_1" />
+<description> DensParcorr is a R package for estimating the direct functional connectivity in large scale brain networks based on partial correlation. Specifically, this package implements the statistical method proposed in Wang et al (2016) which utilized the constrained L1-minimization approach (CLIME) to estimate precision matrix and then applied the Dens-based tuning parameter selection method to help select an appropriate tuning parameter for sparsity control in the network estimation. </description>
+<license>Attribution Non-Commercial</license>
+<release>Oct 31, 2018</release>
+<homepage>http://www.nitrc.org/projects/densparcorr_1/</homepage>
+<maintainer>Emory University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

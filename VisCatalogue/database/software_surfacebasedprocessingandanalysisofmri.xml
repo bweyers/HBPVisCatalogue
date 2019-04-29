@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Surface-based processing and analysis of MRI" nitrc="https://www.nitrc.org/projects/longzhiliangmri" />
+<description> The SPAMRI (surface-based processing &amp;amp; analysis for MRI) aims to provide automatic and friendly-used GUI for analysis of structural MRI, such as cortical thickness analysis. Any questions or suggestions, please concact the author: &lt;a href=&quot;mailto:longzhiliang@swu.edu.cn&quot; target=&quot;_new&quot;&gt;longzhiliang@swu.edu.cn&lt;/a&gt;</description>
+<license>SPAMRI license</license>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<release>Jul 17, 2018</release>
+<homepage>http://www.nitrc.org/projects/longzhiliangmri/</homepage>
+<maintainer>Southwest University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

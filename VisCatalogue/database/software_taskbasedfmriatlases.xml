@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Task-based fMRI atlases" nitrc="https://www.nitrc.org/projects/task_fmri_atlas" />
+<description> The 200 ROI Task-based fMRI atlas and 222 ROI Task-based fMRI atlas are fully labeled, whole brain atlas derived via spatially constrained n-cut parcellation of both task-based and resting-state fMRI data. (James et al, Magn Reson Imaging, in press; PMID 26523655). Atlases is provided in NIFTI format. Anatomic labels are provided in BrainViewer format and comma-delimited text format. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=989&amp;screenshot_id=963&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=989&amp;screenshot_id=963&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<category>Atlas Application</category>
+<category>Anatomic</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 18, 2015</release>
+<homepage>http://www.nitrc.org/projects/task_fmri_atlas/</homepage>
+<maintainer>University of Arkansas for Medical Sciences</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

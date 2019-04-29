@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="MaCH-Admix" nitrc="https://www.nitrc.org/projects/mach-admix" />
+<description> MaCH-Admix is an extension to MaCH for faster and more flexible imputaiton, especially in admixed populations. &lt;br /&gt;&lt;br /&gt;It has incorporated a novel piecewise reference selection method to create reference panels tailored for target individual(s). This reference selection method generates better imputation quality in shorter running time. MaCH-Admix also separates model parameter estimation from imputation. The separation allows users to perform imputation with standard reference panels + pre-calibrated parameters in a data independent fashion. Alternatively, if one works with study-specific reference panels, or isolated target population, one has the option to simultaneously estimate these model parameters while performing imputation. MaCH-Admix has included many other useful options and supports VCF input files. All existing MaCH documentation applies to MaCH-Admix. </description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Imputation</category>
+<release>Feb 13, 2013</release>
+<homepage>http://www.nitrc.org/projects/mach-admix/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

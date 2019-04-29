@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="NetPET: Covariance statistics and network analysis of brain PET imaging studies" nitrc="https://www.nitrc.org/projects/netpet_2018" />
+<description> The analysis of brain structural and functional imaging data using graph theory has increasingly become a popular approach since brain topological representations have proven to be helpful for visualising and understanding anatomical and functional relationships between different cerebral areas.&lt;br /&gt;&lt;br /&gt;NetPET is a tool for graph-based analysis of brain PET studies which exploits population-based covariance matrices. NetPET aims to explore topological tracer kinetics differences in cross-sectional investigations. Simulations, test-retest studies and applications to cross-sectional datasets from three different tracers ([18F]FDG, [18F]FDOPA and [11C]SB217045) and more than 400 PET scans have been used to test the applicability of NetPET in healthy controls and patients. Results showed good reproducibility and general applicability of the methods within the range of experimental settings typical of PET neuroimaging studies. &lt;br /&gt;&lt;br /&gt;NetPET is a Matlab-based software package. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1271&amp;screenshot_id=1192&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1271&amp;screenshot_id=1192&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial</license>
+<release>May 1, 2018</release>
+<homepage>http://www.nitrc.org/projects/netpet_2018/</homepage>
+<maintainer>King's College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

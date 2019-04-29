@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Atlases of amygdala and hippocampus for pediatric populations" nitrc="https://www.nitrc.org/projects/jhucis_pedatlas" />
+<description> The long term goal of Computational Anatomy (CA) is to create algorithmic&lt;br /&gt;tools that aid basic and clinical neuroscientists in the analysis of&lt;br /&gt;variability in anatomical structures at different scales. &lt;br /&gt;The aim is to provide capability for integrating 3D Slicer application and ITK software library with the statistical shape analysis&lt;br /&gt;pipeline and thus enable the wider neuroimaging community to efficiently&lt;br /&gt;analyze anatomical variations in disease. We have constructed anatomical atlases needed for analysis of shape vectors. These atlases were generated from&lt;br /&gt;segmented hippocampal and amygdala structures in acquired populations of&lt;br /&gt;children, adolescents and young adults in neuroimaging studies of major&lt;br /&gt;depression disorder (MDD) at Washington University at St Louis. As a major&lt;br /&gt;public health burden, MDD provides the biological testbed for the pipeline&lt;br /&gt;from which probabilistic atlases will be generated. Software and datasets for statistical shape analysis of anatomical structures are thus provided. </description>
+<license>BIRN Data License</license>
+<release>Oct 14, 2013</release>
+<homepage>http://www.nitrc.org/projects/jhucis_pedatlas/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

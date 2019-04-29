@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="calcFD - Calculate the fractal dimensionality of a 3D structure" nitrc="https://www.nitrc.org/projects/calcfd" />
+<description> A toolbox for MATLAB for calculating the fractal dimensionality of a 3D structure, designed to work with intermediate files from FreeSurfer analysis pipeline, but can also use other volumes. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1179&amp;screenshot_id=1098&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1179&amp;screenshot_id=1098&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License v3</license>
+<release>Jun 3, 2017</release>
+<homepage>https://github.com/cMadan/calcFD</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="BRAINSSurfaceStats" nitrc="https://www.nitrc.org/projects/surfacestat" />
+<description> This program provides a tool for performing a per vertex statistical analysis across a population. The underlying statistical framework uses the R language. </description>
+<license>BSD License</license>
+<release>Nov 21, 2010</release>
+<homepage>http://www.nitrc.org/projects/surfacestat/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

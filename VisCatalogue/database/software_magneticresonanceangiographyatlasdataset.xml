@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Magnetic Resonance Angiography Atlas Dataset" nitrc="https://www.nitrc.org/projects/icbmmra" />
+<description> Characterization of the complex branching architecture of cerebral arteries across a representative sample of the human population is important for diagnosing, analyzing, and predicting pathological states. Brain arterial vasculature can be visualized by magnetic resonance angiography (MRA). However, most MRA studies are limited to qualitative assessments, partial morphometric analyses, individual (or small numbers of) subjects, proprietary datasets, or combinations of the above limitations. Neuroinformatics tools, developed for neuronal arbor analysis, were used to quantify vascular morphology from 3T time-of-flight MRA high-resolution (620 μm isotropic) images collected in 61 healthy volunteers (36/25 F/M, average age=31.2 ± 10.7, range=19-64 years). </description>
+<license>Freeware</license>
+<release>Jan 31, 2017</release>
+<homepage>http://www.nitrc.org/projects/icbmmra/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

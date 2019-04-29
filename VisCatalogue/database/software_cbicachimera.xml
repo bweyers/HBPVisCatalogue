@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: Chimera" nitrc="https://www.nitrc.org/projects/cbica_chimera" />
+<description> CHIMERA is a probabilistic clustering approach that models the pathological process by a combination of multiple regularized transformations from normal control population to the patient population, while controlling the similarity in covariates (e.g. age, gender, height). Therefore, it seeks to identify multiple imaging patterns that relate to disease effects and to better characterize disease heterogeneity. </description>
+<license>SBIA License</license>
+<release>Aug 17, 2017</release>
+<homepage>http://www.nitrc.org/projects/cbica_chimera/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

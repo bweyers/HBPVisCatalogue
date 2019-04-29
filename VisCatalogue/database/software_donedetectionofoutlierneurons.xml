@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="DONE: Detection of Outlier NEurons" nitrc="https://www.nitrc.org/projects/done" />
+<description> This tool was used by Zawadzki et al. (2012), who reported on a morphology-based approach for the automatic identification of outlier neurons and its application to the NeuroMorpho database. For the analysis, each neuron is represented by a feature vector composed of 20 measurements, which are projected into lower dimensional space with PCA. Bivariate kernel density estimation is then used to obtain a probability distribution for cells. Cells with high probabilities are understood as archetypes, while those with the small probabilities are classified as outliers. Further details about the method and its application in other domains can be found in Costa et al. (2009) and Echtermeyer et al. (2011).&lt;br /&gt;&lt;br /&gt;References:&lt;br /&gt;* Costa, Rodrigues, Hilgetag, and Kaiser. Europhysics Letters, 87, 1 (2009)&lt;br /&gt;* Echtermeyer, Costa, Rodrigues, Kaiser. PLoS ONE 6, 9 (2011)&lt;br /&gt;* Zawadzki, Feenders, Viana, Kaiser, and Costa. Neuroinformatics (2012) </description>
+<license>Attribution Non-Commercial</license>
+<release>Apr 2, 2012</release>
+<homepage>http://www.nitrc.org/projects/done/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

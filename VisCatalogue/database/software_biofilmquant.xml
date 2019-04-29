@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="BiofilmQuant" nitrc="https://www.nitrc.org/projects/biofilmquant" />
+<description> A semi-automated software tool for dental plaque biofilm quantification in quantitative light-induced fluorescence (QLF) images. Please cite our paper:&lt;br /&gt;&lt;br /&gt;Mansoor, A.; Patsekin, V.; Scherl, D.; Robinson, J.; Rajwa, B., &amp;quot;A Statistical Modeling Approach to Computer-Aided Quantification of Dental Biofilm,&amp;quot; Biomedical and Health Informatics, IEEE Journal of&lt;br /&gt;URL: &lt;a href=&quot;http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=6758338&amp;amp;isnumber=6363502&quot; target=&quot;_new&quot;&gt;http://ieeexplore.ieee.org/stamp/stamp.j...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=809&amp;screenshot_id=742&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=809&amp;screenshot_id=742&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Volumetric Analysis</category>
+<platform>Windows</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Apr 3, 2014</release>
+<homepage>http://www.nitrc.org/projects/biofilmquant/</homepage>
+<maintainer>Purdue University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

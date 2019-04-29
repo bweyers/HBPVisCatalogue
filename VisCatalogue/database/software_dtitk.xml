@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="DTI-TK" nitrc="https://www.nitrc.org/projects/dtitk" />
+<description> DTI-TK is a spatial normalization &amp;amp; atlas construction toolkit, designed from ground up to support the manipulation of diffusion-tensor images (DTI) with special cares taken to respect the tensorial nature of the data. It implements a state-of-the-art registration algorithm that drives the alignment of white matter (WM) tracts by matching the orientation of the underlying fiber bundle at each voxel. The algorithm has been shown to both improve WM tract alignment and to enhance the power of statistical inference in clinical settings.&lt;br /&gt;&lt;br /&gt;The key features include:&lt;br /&gt;&lt;br /&gt;- NIfTI support for scalar, vector and DTI volumes&lt;br /&gt;&lt;br /&gt;- tool chains for manipulating DTI volumes: resampling, smoothing, warping, registration &amp;amp; visualization&lt;br /&gt;&lt;br /&gt;- pipelines for WM morphometry: spatial normalization &amp;amp; atlas construction for population-based studies&lt;br /&gt;&lt;br /&gt;- built-in cluster-computing support&lt;br /&gt;&lt;br /&gt;- Interoperability with other major DTI tools: AFNI, Camino, DTIStudio &amp;amp; FSL 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=207&amp;screenshot_id=107&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=207&amp;screenshot_id=107&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Atlas Application</category>
+<category>Intersubject</category>
+<category>Image-to-Template</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 18, 2009</release>
+<homepage>http://dti-tk.sourceforge.net</homepage>
+<maintainer>University College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Zebrafish heart segmentation" nitrc="https://www.nitrc.org/projects/zebrafishhearts" />
+<description> The package aims to perform image segmentation of the adult zebrafish cardiac ventricle obtained by light-sheet fluorescent imaging (also known as single plane illumination microscopy). &lt;br /&gt;&lt;br /&gt;Please refer to the following article for the package:&lt;br /&gt;Rene Packard, Kyung In Baek, Tyler Beebe, Nelson Jen, Yichen Ding, Feng Shi, Peng Fei, Bong Jin Kang, Po-Heng Chen, Jonathan Gau, Michael Chen, Jonathan Tang, Yu-Huan Shih, Yonghe Ding, Debiao Li, Xiaolei Xu, and Tzung Hsiai, &amp;quot;Automated Segmentation of Light-Sheet Fluorescent Imaging to Characterize Experimental Doxorubicin-Induced Cardiac Injury and Repair&amp;quot;. Scientific Reports, in press, 2017. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1065&amp;screenshot_id=1010&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1065&amp;screenshot_id=1010&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<category>Algorithm or Reusable Library</category>
+<release>Oct 7, 2016</release>
+<homepage>http://www.nitrc.org/projects/zebrafishhearts/</homepage>
+<maintainer>Cedars Sinai Medical Center &amp; UCLA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="Artifact Detection Tools (ART)" nitrc="https://www.nitrc.org/projects/artifact_detect" />
+<description> Toolbox for post-processing fMRI data. Includes software for comprehensive analysis of sources of artifacts in timeseries data including spiking and motion. Most compatible with SPM processing, but adaptable for FSL as well. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=104&amp;screenshot_id=362&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=104&amp;screenshot_id=362&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<category>Artifact Removal</category>
+<category>Quality Metrics</category>
+<category>Registration</category>
+<category>Motion Analysis</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Apr 30, 2008</release>
+<homepage>http://web.mit.edu/swg/software.htm</homepage>
+<maintainer>MIT</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

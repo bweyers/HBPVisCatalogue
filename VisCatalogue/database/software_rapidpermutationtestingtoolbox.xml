@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Rapid Permutation Testing Toolbox" nitrc="https://www.nitrc.org/projects/rapidpt" />
+<description> RapidPT is an open-source MATLAB toolbox for fast and efficient permutation testing. RapidPT is available as a stand-alone toolbox and can be downloaded here (nitrc) or from its Github page: &lt;a href=&quot;https://github.com/felipegb94/RapidPT.&quot; target=&quot;_new&quot;&gt;https://github.com/felipegb94/RapidPT.&lt;/a&gt; For ease of use, RapidPT has also been integrated into the development version of SnPM. For a description of RapidPT and the usage within SnPM please refer to the documentation page: &lt;a href=&quot;http://felipegb94.github.io/RapidPT/&quot; target=&quot;_new&quot;&gt;http://felipegb94.github.io/RapidPT/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;RapidPT is able to achieve substantial speedups over state of the art permutation testing implementations (e.g. SnPM) without compromising accuracy. For a thorough analysis of the scenarios were RapidPT performs best please refer to the paper:&lt;br /&gt;&lt;br /&gt;Accelerating Permutation Testing in Neuroimaging through Subspace Tracking: A new plugin for SnPM.&lt;br /&gt;F. Gutierrez-Barragan, V.K. Ithapu, C. Hinrichs, C. Maumet, S.C. Johnson, T.E. Nichols, V. Singh.&lt;br /&gt;Neuroimage, 2017. &lt;a href=&quot;https://doi.org/10.1016/j.neuroimage.2017.07.025&quot; target=&quot;_new&quot;&gt;https://doi.org/10.1016/j.neuroimage.201...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1310&amp;screenshot_id=1225&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1310&amp;screenshot_id=1225&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GPL-Style Open Source</license>
+<release>Aug 27, 2018</release>
+<homepage>http://www.nitrc.org/projects/rapidpt/</homepage>
+<maintainer>University of Wisconsin-Madison</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

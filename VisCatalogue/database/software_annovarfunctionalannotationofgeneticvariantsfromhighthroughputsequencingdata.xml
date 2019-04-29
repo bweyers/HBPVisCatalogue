@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="ANNOVAR: Functional annotation of genetic variants from high-throughput sequencing data" nitrc="https://www.nitrc.org/projects/annovar" />
+<description> ANNOVAR is an efficient software tool to utilize update-to-date information to functionally annotate genetic variants detected from diverse genomes (including human genome hg18, hg19, as well as mouse, worm, fly, yeast and many others). </description>
+<license>Freeware</license>
+<category>Next Generation Sequencing</category>
+<category>SNP's &amp; Genes</category>
+<release>Oct 1, 2013</release>
+<homepage>http://annovar.openbioinformatics.org/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

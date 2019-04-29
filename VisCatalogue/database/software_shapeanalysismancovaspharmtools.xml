@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="shapeAnalysisMANCOVA - SPHARM tools" nitrc="https://www.nitrc.org/projects/shape_mancova" />
+<description> shapeAnalysisMANCOVA offers statistical shape analysis based on a parametric boundary description (SPHARM) as the point-based model computing method. The point-based models will be analyzed with the methods here proposed using multivariate analysis of covariance (MANCOVA). Here, the number of variates being tested is the dimensionality of our observations. Each point of these observations is a three dimensional displacement vector from the mean. The number of contrasts is the number of equations involved in the null-hypothesis. In order to encompass varying numbers of variates and contrasts, and to account for independent variables, a matrix computation is performed. This matrix represents the multidimensional aspects of the correlation significance and it can be transformed into a scalar measure by manipulation of its eigenvalues.&lt;br /&gt;&lt;br /&gt;Details of the methods can be found in its Insight Journal publication: &lt;a href=&quot;http://hdl.handle.net/10380/3124&quot; target=&quot;_new&quot;&gt;http://hdl.handle.net/10380/3124&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=294&amp;screenshot_id=201&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=294&amp;screenshot_id=201&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Spherical Harmonics</category>
+<category>Statistical Operation</category>
+<category>Surface Analysis</category>
+<platform>MacOS</platform>
+<platform>POSIX/UNIX-like</platform>
+<release>Nov 16, 2009</release>
+<homepage>http://www.nitrc.org/projects/shape_mancova/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

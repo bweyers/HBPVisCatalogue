@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="POS2SPM" nitrc="https://www.nitrc.org/projects/pos2spm" />
+<description> POS2SPM is a MATLAB-based conversion and formatting tool that can be applied to a number of different probe arrays and channel configurations using either 1 or 2 POS measurement files from an electromagnetic 3D digitizer. This conversion tool outputs the appropriately formatted files necessary to complete spatial registration of functional near-infrared spectroscopy (fNIRS) data with the NIRS-SPM toolbox (SPM5 or SPM8), the SPM-fNIRS toolbox (SPM12), or both. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1022&amp;screenshot_id=972&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1022&amp;screenshot_id=972&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Feb 25, 2016</release>
+<homepage>http://www.nitrc.org/projects/pos2spm/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="MATLAB Tutorial on Diffusion Tensor MRI" nitrc="https://www.nitrc.org/projects/dwmri_in_matlab" />
+<description> This is an on-line tutorial on how to use MATLAB for Diffusion-Weighted MRI processing. The following subjects are covered in this tutorial: Generation of Synthetic Diffusion-Weighted MRI datasets, Diffusion Tensor (DTI) Estimation from DW-MRI, DTI Visualization as a field of ellipsoids, Higher-order Diffusion Tensor Estimation from DW-MRI, Computing of Tensor Orientation Distribution Functions (Tensor ODF), Computing of Fiber Orientations, Higher-order Diffusion Tensor Image Visualization as fields of spherical functions, Multi-fiber reconstruction etc.&lt;br /&gt;&lt;br /&gt;The tutorial contains numerous illustrations, figures and Matlab scripts embedded in the text. The reader/user can automatically generate Matlab script for a self-designed DW-MRI experiment by selecting which steps needs to be followed. The code that corresponds to the selected steps is then appropriately merged in the &amp;quot;Matlab Script Generator&amp;quot;, and the user can easily copy and paste the produced code directly to the Matlab command prompt. </description>
+<release>May 6, 2010</release>
+<homepage>http://www.nitrc.org/projects/dwmri_in_matlab/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

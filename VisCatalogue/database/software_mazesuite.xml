@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MazeSuite" nitrc="https://www.nitrc.org/projects/mazesuite" />
+<description> MazeSuite is a complete set of tools that enables researchers to perform spatial and navigational behavior experiments within interactive, easy to create, and extendable (e.g., multiple rooms) 3D virtual environments. MazeSuite can be used to design/edit adapted 3D environments where subjects’ behavioral performance can be tracked. MazeSuite consists of three main applications; an editing program to create and alter maps (MazeMaker), a visualization/rendering module (MazeWalker), and finally an analysis/mapping tool (MazeAnalyzer). Additionally, MazeSuite has the capabilities of sending signal pulses to physiological recording devices using standard computer ports. MazeSuite, with all 3 applications, is a unique and complete toolset for researchers who want to easily and rapidly deploy interactive 3D environments. For more information and related publications please see &lt;a href=&quot;http://www.mazesuite.com&quot; target=&quot;_new&quot;&gt;http://www.mazesuite.com&lt;/a&gt;</description>
+<license>Non-Commercial Software License Agreement</license>
+<release>Dec 11, 2011</release>
+<homepage>http://www.nitrc.org/projects/mazesuite/</homepage>
+<maintainer>Drexel University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

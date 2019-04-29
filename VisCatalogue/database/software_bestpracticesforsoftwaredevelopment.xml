@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Best Practices for Software Development" nitrc="https://www.nitrc.org/projects/best_practices" />
+<description> &amp;quot;Best Practices for Software Development in the Imaging Community: Users and Developers Unite&amp;quot; is a tutorial that will take place as part of MICCAI 2010 is the 13th International Conference on Medical Image Computing and Computer Assisted Intervention, will be held from September 20-24, 2010 in Beijing, China. See &lt;a href=&quot;http://www.miccai2010.org/&quot; target=&quot;_new&quot;&gt;http://www.miccai2010.org/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;This project will support community outreach and dialog between presenters and audience, both before and after the tutorial session, and is intended to engage the broader community in the deliberations on this important topic. &lt;br /&gt;&lt;br /&gt;&amp;quot;Best Practices&amp;quot; will cover software engineering practices as well end-user installation and support practices. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=360&amp;screenshot_id=283&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=360&amp;screenshot_id=283&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<category>Community</category>
+<category>Websites</category>
+<category>Algorithm or Reusable Library</category>
+<release>Mar 30, 2010</release>
+<homepage>http://www.nitrc.org/projects/best_practices/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

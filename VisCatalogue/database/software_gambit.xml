@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="GAMBIT" nitrc="https://www.nitrc.org/projects/gambit" />
+<description> GAMBIT is an end-to-end application developped at UNC-Chapel Hill allowing Group-wise Automatic Mesh-Based analysis of cortIcal Thickness as well as other surface area measurements. This cross-platform tool can be run within 3D Slicer as an external module, or directly as a command line. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=384&amp;screenshot_id=311&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=384&amp;screenshot_id=311&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Mesh Generation</category>
+<category>Thickness</category>
+<category>Workflow</category>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 10, 2010</release>
+<homepage>http://www.nitrc.org/projects/gambit/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

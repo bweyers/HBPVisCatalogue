@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="CCSeg - Corpus Callosum Segmentation" nitrc="https://www.nitrc.org/projects/ccseg" />
+<description> Corpus Callosum Segmentation Tool&lt;br /&gt;&lt;br /&gt;CCSeg is an open-source C++-based application developed at UNC-Chapel Hill that allows automatic as well as user-interactive segmentation of the Corpus Callosum. Via a Qt-based graphical user interface, CCSeg also performs semi-automatic segmentation.&lt;br /&gt;&lt;br /&gt;Descriptions of methods:&lt;br /&gt;&lt;br /&gt;Media 1997: G. Szekely, A. Kelemen, C. Brechbühler, and G. Gerig, “Segmentation of 2-D and 3-D objects from MRI volume data using constrained elastic deformations of flexible Fourier contour and surface models.,” Med Image Anal, vol. 1, no. 1, pp. 19–34, Mar. 1996.&lt;br /&gt;&lt;br /&gt;recent SPIE article: &lt;a href=&quot;http://www.nitrc.org/docman/view.php/466/1131/SPIE_2012_Vachet_CCSeg.pdf&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/docman/view.php/466...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=466&amp;screenshot_id=345&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=466&amp;screenshot_id=345&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Segmentation</category>
+<category>Shape Analysis</category>
+<release>Mar 23, 2011</release>
+<homepage>http://www.nitrc.org/projects/ccseg/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

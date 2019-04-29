@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="age-ility" nitrc="https://www.nitrc.org/projects/age-ility" />
+<description> This data set consists of 136 subjects of which the following neuroimage data is acquired:&lt;br /&gt;MRI (3T):&lt;br /&gt;- T1 anatomical scan&lt;br /&gt;- DWI scan (two different types of scan paramaters)&lt;br /&gt;- Resting state fMRI&lt;br /&gt;&lt;br /&gt;EEG (64 channels):&lt;br /&gt;- Resting state EEG&lt;br /&gt;&lt;br /&gt;All data have been quality checked. See for more information the following publication:&lt;br /&gt;Karayanidis, F., Keuken, M.C., Wong, S.A., Rennie, J.L., de Hollander, G., Cooper, P.S., Fulham, W.R., Lenroot, R., Parsons, M.W., Philips, N., Michie, P.T., Forstmann, B.U. (2015). The Age-ility Project (Phase 1): Structural and functional imaging and electrophysiological data repository. Neuroimage. </description>
+<license>Attribution Non-Commercial Share Alike</license>
+<release>Jan 22, 2015</release>
+<homepage>http://www.nitrc.org/projects/age-ility/</homepage>
+<maintainer>University of Newcastle</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

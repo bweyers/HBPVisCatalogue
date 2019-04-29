@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="APERTURE" nitrc="https://www.nitrc.org/projects/aperture" />
+<description> APERTURE (Analysis of Patterns in Electrophysiological Recordings Toolbox with Utilities for REsearch) is a MATLAB-based toolbox for analysis of EEG, MEG, and ECoG data. It is designed to organize entire analysis pipelines with large datasets, from preprocessing to hypothesis testing and figure generation. APERTURE allows flexible multivariate analysis of ERPs and oscillatory activity. It also supports mass-univariate analysis with advanced statistical tests. Computations are accelerated using parallel computing supported through the MATLAB distributed computing toolbox. Examination of large, high-dimensional datasets is made simple through data visualization tools, including advanced plotting routines and generation of PDF reports with many figures. APERTURE is designed to be flexible and highly extensible, to allow the user to easily implement new analysis protocols. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Multivariate Analysis</category>
+<category>Spectral Analysis</category>
+<category>Event Related Potential</category>
+<category>Image Display</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<release>May 20, 2014</release>
+<homepage>http://www.nitrc.org/projects/aperture/</homepage>
+<maintainer>Vanderbilt University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Pipeline Neuroimaging VirtualEnvironment" nitrc="https://www.nitrc.org/projects/pnve" />
+<description> The LONI Pipeline Neuroimaging Virtual Environment (PNVE), is a self-contained virtual machine that can be executed on a common laptop or desktop, enabling the Pipeline to run virtually anywhere. Neophytes to the Pipeline can have their own private server running in minutes, software engineers and workflow designers can use the PNVE as a sandbox, and those without access to grid computing facilities can now take full advantage of the Pipeline processing environment.&lt;br /&gt;&lt;br /&gt;PNVE is distributed by the Laboratory of Neuro Imaging (&lt;a href=&quot;http://pipeline.loni.usc.edu/PNVE&quot; target=&quot;_new&quot;&gt;http://pipeline.loni.usc.edu/PNVE&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=366&amp;screenshot_id=415&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=366&amp;screenshot_id=415&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>LONI Software License</license>
+<release>Apr 26, 2010</release>
+<homepage>http://www.nitrc.org/projects/pnve/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="DCP：Diffusion Connectome Pipeline" nitrc="https://www.nitrc.org/projects/dcp" />
+<description> The diffusion connectome pipeline is used for for building DTI networks.Firstly, it provides a friendly graphical user interface, and the users only need to use the mouse to set the parameters which are used in the whole process and click the button with label ‘RUN’. The DCP will process every participant’s data automatically, and generate DTI network of every participant. And the default parameters we provide are currently recognized as classic processing parameters. When the program is running, the user can accurately get which step the program is running through the monitor window. After the program is finished, a folder of quality control is generated, and the registration results of each subject are saved for quality checking. </description>
+<license>DTI connectome pipeline</license>
+<release>Jun 5, 2017</release>
+<homepage>http://www.nitrc.org/projects/dcp/</homepage>
+<maintainer>Beijing Normal University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

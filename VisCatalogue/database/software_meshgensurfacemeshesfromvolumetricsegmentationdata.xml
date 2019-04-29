@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MeshGen - Surface meshes from volumetric segmentation data" nitrc="https://www.nitrc.org/projects/meshgen" />
+<description> MeshGen generates separate mesh files for each label present in the segmentation volume. The generation employs a variant of Constrained Elastic Surface Nets [CESN], which has been modified in order to avoid intersection between neighboring meshes.&lt;br /&gt;Supported input formats:&lt;br /&gt;- NIfTI for segmentation volume, with integer elements (8/16/32 bits, signed/unsigned)&lt;br /&gt;- ITK label file (ITK-Snap compatible, does not contain hierarchy)&lt;br /&gt;- ILF - Integrated Label File (MBAT-compatible, hierarchical)&lt;br /&gt;- Brain-Map XML file (ontology from brain-map.org, hierarchical)&lt;br /&gt;When label hierarchy is available, MeshGen can follow containment relations e.g. eliminates generation of extra inner contours around contained labels. The tool can optionally eliminate contained labels if their colour matches with the colour of their parent, e.g. when rendering or not rendering the meshes using their original colours would make no visual difference. </description>
+<license>Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)</license>
+<release>Dec 13, 2016</release>
+<homepage>http://www.nitrc.org/projects/meshgen/</homepage>
+<maintainer>University of Oslo</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Automated Image Registration (AIR)" nitrc="https://www.nitrc.org/projects/air" />
+<description> The Automated Image Registration (AIR) tool is used for alignment of 3D and 2D images within and across subjects and across imaging modalities. The AIR library can easily incorporate automated image registration into site specific programs adapted to your particular needs.&lt;br /&gt;&lt;br /&gt;AIR is distributed by the Laboratory of Neuro Imaging (&lt;a href=&quot;http://loni.usc.edu/Software/AIR&quot; target=&quot;_new&quot;&gt;http://loni.usc.edu/Software/AIR&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=301&amp;screenshot_id=289&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=301&amp;screenshot_id=289&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 8, 2009</release>
+<homepage>http://www.nitrc.org/projects/air/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

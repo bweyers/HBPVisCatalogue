@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="MRI Dataset for Hippocampus Segmentation" nitrc="https://www.nitrc.org/projects/hippseg_2011" />
+<description> This dataset contains T1-weighted MR images of 50 subjects, 40 of whom are patients with temporal lobe epilepsy and 10 are nonepileptic subjects. Hippocampus labels are provided for 25 subjects for training. The users may submit their segmentation outcomes for the remaining 25 testing images to get a table of segmentation metrics. More information about the dataset may be found from the following reference:&lt;br /&gt;&lt;br /&gt;K. Jafari-Khouzani, K. Elisevich, S. Patel, and H. Soltanian-Zadeh, “Dataset of magnetic resonance images of nonepileptic subjects and temporal lobe epilepsy patients for validation of hippocampal segmentation techniques,” Neuroinformatics, 2011. </description>
+<license>HFH hippocampus segmentation</license>
+<release>Feb 22, 2011</release>
+<homepage>http://www.nitrc.org/projects/hippseg_2011/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

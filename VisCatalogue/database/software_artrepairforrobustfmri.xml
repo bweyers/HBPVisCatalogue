@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="ArtRepair for robust fMRI" nitrc="https://www.nitrc.org/projects/art_repair" />
+<description> ArtRepair is a toolbox for SPM to improve fMRI analysis of high motion pediatric and clinical subjects. The toolbox includes special algorithms for motion adjustment, data repair, and noise filtering, and methods to find outlier subjects in group studies. Visualization tools are included for quality checking the data, including a movie format for viewing all data and all contrast estimates on every voxel of every subject. Methods are included to quantify results into percent signal change. </description>
+<license>Attribution Non-Commercial</license>
+<category>Algorithm or Reusable Library</category>
+<category>Artifact Removal</category>
+<category>Quality Metrics</category>
+<category>Motion Analysis</category>
+<category>Image Display</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 15, 2009</release>
+<homepage>http://cibsr.stanford.edu/tools/human-brain-project/artrepair-software.html</homepage>
+<maintainer>Stanford University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

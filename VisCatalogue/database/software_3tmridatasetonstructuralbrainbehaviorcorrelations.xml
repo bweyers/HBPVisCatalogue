@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="3T MRI data set on structural brain-behavior correlations" nitrc="https://www.nitrc.org/projects/confrep2014" />
+<description> This data-set contains all 3T MRI and behavioural data used in Boekel, W., Wagenmakers, E. J., Belay, L., Verhagen, A.J., Brown, S. D., Forstmann, B. U. (2015) A purely confirmatory replication study of structural brain-behavior correlations. Cortex. and consists of:&lt;br /&gt;&lt;br /&gt;- 36 T1 and DWI images acquired on a 3T MRI scanner&lt;br /&gt;- Behavioral data for 2 computerized tasks, and 3 questionnaires. &lt;br /&gt;&lt;br /&gt;The behavioral data occasionally contains a subset of the 36 subjects, due to questionnaires/computer-tasks not having been completed fully or properly. Subject numbers (e.g. 1244) are matched to MRI subject numbers (e.g. sc1244).&lt;br /&gt;&lt;br /&gt;Note! &lt;br /&gt;A mistake was discovered in the post-processing pipeline of the DWI data. See corrigendum for a description of the error and corrected results:&lt;br /&gt;&lt;br /&gt;Keuken, M.C., Ly, A., Boekel W.E., Wagenmakers, E-J., Belay, L., Verhagen, J.A., Brown, S.D., Forstmann, B.U. (2017). Corrigendum A purely confirmatory replication study of structural brain-behavior correlations. Cortex. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<release>Dec 5, 2014</release>
+<homepage>http://www.nitrc.org/projects/confrep2014/</homepage>
+<maintainer>University of Amsterdam</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

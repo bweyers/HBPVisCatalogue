@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="isc-toolbox: Inter-subject correlation analysis for fMRI in Matlab" nitrc="https://www.nitrc.org/projects/isc-toolbox" />
+<description> This Matlab toolbox performs inter-subject correlation (ISC) based analysis of fMRI data and includes a GUI for the visualization of the resulting thresholded statistical maps. &lt;br /&gt;&lt;br /&gt;The toolbox contains functions to carry out various ISC based analysis such as mean, frequency band, time window and phase synchronization ISC analysis. All analyses can be run from a GUI. Isc-toolbox includes also automated support for Slurm/SGE based grid environments. &lt;br /&gt;&lt;br /&gt;A set of visualization tools - particularly designed for ISC analyses - are integrated to the GUI. Visualization tools contain functionalities to which standard functional neuroimaging packages are difficult to adapt.&lt;br /&gt;&lt;br /&gt;Reference: J.-P. Kauppi, J. Pajula J and J. Tohka (2014). A Versatile Software Package for Inter-subject Correlation Based Analyses of fMRI. Frontiers in Neuroinformatics, 8:2.&lt;br /&gt;&lt;br /&gt;Project in Research Gate: &lt;a href=&quot;https://www.researchgate.net/project/Inter-subject-correlation-based-analysis-of-fMRI&quot; target=&quot;_new&quot;&gt;https://www.researchgate.net/project/Int...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=947&amp;screenshot_id=1258&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=947&amp;screenshot_id=1258&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT/X Consortium License</license>
+<release>Jun 15, 2015</release>
+<homepage>http://www.nitrc.org/projects/isc-toolbox/</homepage>
+<maintainer>Tampere University of Technology</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="ATPP: Automatic Tractography-based Parcellation Pipeline" nitrc="https://www.nitrc.org/projects/atpp" />
+<description> ATPP (Automatic Tractography-based Parcellation Pipeline) is an integrated pipeline named ATPP realizing tractography-based brain parcellation with automatic processing and massive parallel computing. &lt;br /&gt;&lt;br /&gt;ATPP offers a powerful CLI version (&lt;a href=&quot;https://github.com/haililihai/ATPP_CLI&quot; target=&quot;_new&quot;&gt;https://github.com/haililihai/ATPP_CLI&lt;/a&gt;) for parcellating multiple brain regions and a user-friendly GUI version (&lt;a href=&quot;https://github.com/haililihai/ATPP_GUI&quot; target=&quot;_new&quot;&gt;https://github.com/haililihai/ATPP_GUI&lt;/a&gt;) for parcellating a specific brain region. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1099&amp;screenshot_id=1057&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1099&amp;screenshot_id=1057&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License v3</license>
+<release>Jan 9, 2017</release>
+<homepage>http://www.nitrc.org/projects/atpp/</homepage>
+<maintainer>Institute of Automation, Chinese Academy of Sciences</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="SMAC: Spatial Multi-category Angle-based Classifier" nitrc="https://www.nitrc.org/projects/smac" />
+<description> We propose a novel Spatial Multi-category Angle-based Classifier (SMAC) for the efficient identification of biomarkers in the imaging data. The proposed SMAC not only utilizes the spatial structure of high-dimensional imaging data, but also handles both binary and multi-category classification problems. Besides, the SMAC also include the functions to deal with imaging based regression problems, with spatial and sparse penalty available. </description>
+<license>BIAS License</license>
+<release>Jan 12, 2017</release>
+<homepage>http://www.nitrc.org/projects/smac/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

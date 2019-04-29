@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="SINOMO (SIngular NOde MOtifs)" nitrc="https://www.nitrc.org/projects/sinomo" />
+<description> Network nodes can be described by node-motifs--a combination of local network features. Certain node-motifs, such as highly connected nodes or hubs, have been shown to be important components of networks. Costa et al. (2009) have presented a technique to detect and specify more complex compound motifs, which are characterised by multiple features in combination. We described improvements to that method and showed how its parameters can be determined automatically [Echtermeyer et al. 2011]. SIMONO is our implementation of the enhanced workflow, which can be controlled via a graphical user interface or through the command-line for batch processing.&lt;br /&gt;&lt;br /&gt;Documentation is available at:&lt;br /&gt;&lt;a href=&quot;http://www.biological-networks.org/p/sinomo/&quot; target=&quot;_new&quot;&gt;http://www.biological-networks.org/p/sin...&lt;/a&gt;&lt;br /&gt;You can also directly download the Matlab/Octave code following the link below.&lt;br /&gt;&lt;br /&gt;References:&lt;br /&gt;* L. D. F. Costa, F. A. Rodrigues, C. C. Hilgetag, and M. Kaiser, Europhys. Lett., 87, 1, 2009&lt;br /&gt;* C. Echtermeyer, L. Da Fontoura Costa, F. A. Rodrigues, M. Kaiser, PLoS ONE 6, 9, 2011 </description>
+<license>Attribution Non-Commercial</license>
+<release>Jan 28, 2012</release>
+<homepage>https://www.biological-networks.org/pubs/suppl/sinomo/index.html</homepage>
+<maintainer>Newcastle University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

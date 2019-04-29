@@ -1,0 +1,28 @@
+<root>
+<software>
+<name name="SumsDB Database" nitrc="https://www.nitrc.org/projects/sumsdb" />
+<description> SumsDB is a repository of neuroimaging data (surfaces &amp;amp; volumes; structural &amp;amp; functional data), mainly from humans and macaques but also mouse, rat, and great apes. WebCaret is an online visualization tool for viewing SumsDB datasets. Visit the Tool/Resource Home Page for more information. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Database</category>
+<category>Atlas Application</category>
+<category>Database Application</category>
+<category>Registration</category>
+<category>Surface Analysis</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<platform>Linux</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 28, 2008</release>
+<homepage>http://brainvis.wustl.edu/wiki/index.php/Sums:About</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

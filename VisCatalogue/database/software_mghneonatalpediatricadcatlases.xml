@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="MGH Neonatal/Pediatric ADC atlases" nitrc="https://www.nitrc.org/projects/mgh_adcatlases" />
+<description> Existing neonatal/pediatric atlases were mainly on structural MRI. We release here a set of Apparent Diffusion Coefficient (ADC) atlases, on 10 age groups: first 2 weeks of life, the rest of the 1st quarter, the 2nd, 3rd, and 4th quarters of life, year 1-2, 2-3, 3-4, 4-5 and 5-6). Atlases represent the mean geometry/anatomy of the age group, and the mean and standard deviation ADC values at the whole brain, regional (61 regions) and voxel levels. &lt;br /&gt;&lt;br /&gt;The age-specific ADC atlases characterize normative ADC development in 0-6 years of life (in neuroscience) and can provide reference to identify abnormalities (in pediatric neuroradiology).&lt;br /&gt;&lt;br /&gt;Refs:&lt;br /&gt;Y Ou, et al, &amp;quot;Using Clinically-Acquired MRI to Construct Age-Specific ADC Atlases: Quantifying Spatiotemporal ADC Changes from Birth to 6 Years Old&amp;quot;, 38(6): 3052-3068, Human Brain Mapping, (2017).&lt;br /&gt;&lt;br /&gt;S Sotardi, et al, &amp;quot;Using Clinically-Acquired MRI to Construct Age-Specific ADC Atlases: Quantifying Spatiotemporal ADC Changes from Birth to 6 Years Old&amp;quot;, under review. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=929&amp;screenshot_id=925&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=929&amp;screenshot_id=925&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Data License</license>
+<category>Atlas Data</category>
+<category>Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 21, 2015</release>
+<homepage>http://www.nitrc.org/projects/mgh_adcatlases/</homepage>
+<maintainer>Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

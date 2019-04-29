@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="CBICA: COMPARE" nitrc="https://www.nitrc.org/projects/compare" />
+<description> COMPARE :Generic classification tool for 3D images </description>
+<license>SBIA License</license>
+<release>Feb 27, 2011</release>
+<homepage>http://www.nitrc.org/projects/compare/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

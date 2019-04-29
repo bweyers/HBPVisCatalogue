@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Working Memory Trainer" nitrc="https://www.nitrc.org/projects/wmtrainer" />
+<description> This is a stand-alone axecutable under all main Windows OS. It is a program for training the working memory. The WM Trainer looks and behaves a little bit like a video-game and has been specifically conceived for children attending the primary school. However, it can be used purposefully by people of any age, including adult and elderly.&lt;br /&gt;&lt;br /&gt;This application features highest graphic quality, a powerful adaptive engine for the difficulty level, a database of users and statistical tools to evaluate the progress.&lt;br /&gt;&lt;br /&gt;Currently English, French and Italian are supported, but any language can be easily supported. </description>
+<release>May 21, 2012</release>
+<homepage>http://www.nitrc.org/projects/wmtrainer/</homepage>
+<maintainer>GIPSA-lab, Grenoble, FRANCE</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="CIFTI Connectivity File Format" nitrc="https://www.nitrc.org/projects/cifti" />
+<description> CIFTI (Connectivity Informatics Technology Initiative) standardizes file formats for the storage of connectivity data. These formats are developed by the Human Connectome Project and other interested parties.&lt;br /&gt;&lt;br /&gt;The CIFTI-2 specification is in pdf files attached to forum posts, see: &lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.nitrc.org/forum/forum.php?thread_id=4380&amp;amp;forum_id=1955&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/forum/forum.php?thr...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.nitrc.org/forum/forum.php?thread_id=4381&amp;amp;forum_id=1955&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/forum/forum.php?thr...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;The specification of CIFTI-1 is on the MediaWiki link to the left.&lt;br /&gt;&lt;br /&gt;Access the CIFTI discussion forum using the Forums entry in the menu on the left. Subscribe to the discussion forum and you will be informed about issues involving the CIFTI file formats via email. </description>
+<license>BSD License</license>
+<category>File Format</category>
+<category>Algorithm or Reusable Library</category>
+<input>CIFTI</input>
+<output>CIFTI</output>
+<release>Mar 3, 2011</release>
+<homepage>http://www.nitrc.org/projects/cifti/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

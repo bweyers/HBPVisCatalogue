@@ -1,0 +1,52 @@
+<root>
+<software>
+<name name="JIST: Java Image Science Toolkit" nitrc="https://www.nitrc.org/projects/jist" />
+<description> Java Image Science Toolkit (JIST) provides a native Java-based imaging processing environment similar to the ITK/VTK paradigm. Initially developed as an extension to MIPAV (CIT, NIH, Bethesda, MD), the JIST processing infrastructure provides automated GUI generation for application plug-ins, graphical layout tools, and command line interfaces. &lt;br /&gt;&lt;br /&gt;This repository maintains the current multi-institutional JIST development tree and is recommended for public use and extension. To participate in this consortium or seek assistance in integrating JIST modules in your application, please contact us at &lt;a href=&quot;mailto:jist-admin@www.nitrc.org&quot; target=&quot;_new&quot;&gt;jist-admin@www.nitrc.org&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;JIST was originally developed at IACL and MedIC (Johns Hopkins University) and is now also supported by MASI (Vanderbilt University).&lt;br /&gt;&lt;br /&gt;Please use the download nightly build link below to retrieve a currently supported version of JIST. The previous versions are available for archival access. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=228&amp;screenshot_id=173&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=228&amp;screenshot_id=173&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Experimental Control</category>
+<category>Modeling</category>
+<category>Quantification</category>
+<category>Segmentation</category>
+<category>Shape Analysis</category>
+<category>Spatial Transformation</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>OS Independent</platform>
+<platform>BSD</platform>
+<platform>Linux</platform>
+<platform>SunOS/Solaris</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>COR</input>
+<output>COR</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Jun 2, 2009</release>
+<homepage>http://www.nitrc.org/projects/jist/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

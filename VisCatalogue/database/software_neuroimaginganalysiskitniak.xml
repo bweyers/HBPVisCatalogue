@@ -1,0 +1,35 @@
+<root>
+<software>
+<name name="NeuroImaging Analysis Kit (NIAK)" nitrc="https://www.nitrc.org/projects/niak" />
+<description> NIAK is a library of modules and pipelines for fMRI processing with Octave that can run in parallel either locally or in a supercomputing environment. Windows/Mac OSX/Linux are supported, as well as NIFTI and MINC file formats. NIAK currently includes a preprocessing, a functional parcellation and a connectome pipelines. NIAK features powerful pipeline management capabilities, including parallel computing, generation of detailed logs and automatic handling of pipeline failures or updates.&lt;br /&gt;&lt;a href=&quot;http://niak.simexp-lab.org/&quot; target=&quot;_new&quot;&gt;http://niak.simexp-lab.org/&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=411&amp;screenshot_id=288&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=411&amp;screenshot_id=288&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT/X Consortium License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Constrained Region Growing</category>
+<category>Artifact Removal</category>
+<category>Filtering</category>
+<category>Intensity Non-uniformity Correction</category>
+<category>Quality Metrics</category>
+<category>Intermodal</category>
+<category>Intrasubject</category>
+<category>Image-to-Template</category>
+<category>Resampling</category>
+<category>Independent Component Analysis</category>
+<category>Principal Component Analysis</category>
+<category>Linear</category>
+<category>Workflow</category>
+<platform>POSIX/UNIX-like</platform>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<release>Oct 26, 2010</release>
+<homepage>http://niak.simexp-lab.org/</homepage>
+<maintainer>University of Montreal</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

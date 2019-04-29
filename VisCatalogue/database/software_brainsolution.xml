@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="BrainSolution" nitrc="https://www.nitrc.org/projects/brainsolution" />
+<description> BrainSolution is a collection of tools for MRI T1 brain image segmentation in the Windows® environment. It helps construct a complete pipeline with necessary preprocessing and postprocessing procedures besides brainparser, the core program of our fast brain segmentation. The execution of the whole pipeline can be completed in 2 hours with good segmentation results. </description>
+<license>LONI Software License</license>
+<category>Labeling</category>
+<category>Workflow</category>
+<platform>Windows NT/2000</platform>
+<platform>Windows Vista</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Nov 17, 2009</release>
+<homepage>http://www.nitrc.org/projects/brainsolution/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

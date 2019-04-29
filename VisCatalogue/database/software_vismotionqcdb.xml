@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="VisMotionQCDB" nitrc="https://www.nitrc.org/projects/vismotionqcdb" />
+<description> This is a resource to train researchers to visually evaluate the degree of motion artifact present in structural MR images. </description>
+<license>Apache License 2.0</license>
+<release>Nov 14, 2018</release>
+<homepage>http://www.nitrc.org/projects/vismotionqcdb/</homepage>
+<maintainer>UNC School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

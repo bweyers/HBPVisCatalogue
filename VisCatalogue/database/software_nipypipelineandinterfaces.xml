@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="NIPY Pipeline and Interfaces" nitrc="https://www.nitrc.org/projects/nipype" />
+<description> Current neuroimaging software offer users an incredible opportunity to analyze their data in different ways, with different underlying assumptions. However, this has resulted in a heterogeneous collection of specialized applications without transparent interoperability or a uniform operating interface. Nipype, an open-source, community-developed initiative under the umbrella of Nipy, is a Python project that solves these issues by providing a uniform interface to existing neuroimaging software and by facilitating interaction between these packages within a single workflow.&lt;br /&gt;&lt;br /&gt;Nipype provides an environment that encourages interactive exploration of algorithms from different packages (e.g., SPM, FSL), eases the design of workflows within and between packages, and reduces the learning curve necessary to use different packages. Nipype is creating a collaborative platform for neuroimaging software development in a high-level language and addressing limitations of existing pipeline systems. </description>
+<license>BSD License</license>
+<category>Workflow</category>
+<platform>OS Independent</platform>
+<release>Feb 1, 2010</release>
+<homepage>http://nipy.org/nipype/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

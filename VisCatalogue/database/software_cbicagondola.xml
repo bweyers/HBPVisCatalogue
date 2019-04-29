@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: GONDOLA" nitrc="https://www.nitrc.org/projects/gondola" />
+<description> This software implements Generative-Discriminative Basis Learning (GONDOLA). Theoretical ideas are explained in the related papers, but as a brief explanation, GONDOLA provides a generative method to reduce the dimensionality of medical images while using class labels. It produces basis vectors that are useful for classification and also clinically interpretable. When provided with two sets of labeled images as input, the software outputs features in Weka Format (.arff files) and a MATLAB data file (.mat file). The program can also save basis vectors as NIfTI-1 images. Scripts are provided to find and build an optimal classifier using Weka. The software can also be used for semi-supervised cases in which a number of subjects do not have class labels. </description>
+<license>SBIA License</license>
+<release>Feb 17, 2017</release>
+<homepage>http://www.nitrc.org/projects/gondola/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

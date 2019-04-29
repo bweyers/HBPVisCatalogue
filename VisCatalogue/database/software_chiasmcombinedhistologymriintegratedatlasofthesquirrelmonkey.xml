@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="CHIASM - Combined Histology-MRI Integrated Atlas of the Squirrel Monkey" nitrc="https://www.nitrc.org/projects/smatlas" />
+<description> A web-based combined MRI-histology digital atlas of the squirrel monkey brain </description>
+<release>Oct 30, 2017</release>
+<homepage>http://www.nitrc.org/projects/smatlas/</homepage>
+<maintainer>Vanderbilt University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

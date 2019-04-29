@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="Finsler tractography module for Slicer" nitrc="https://www.nitrc.org/projects/finslertract" />
+<description> This module implements the Finsler tractography method with HARDI data described by J. Melonakos et al. From a set of seeding and target points, the paths are estimated as the shortest path taking into account a local, directional dependent cost.&lt;br /&gt;&lt;br /&gt;The output provided is the connectivity map from each voxel in the volume to the seeding points, plus a vector volume with the directions tangent to the fiber bundles at each point. If the Backtracing module within is built, these directions can be traced back to actually compute the fiber bundles (VTK required).&lt;br /&gt;&lt;br /&gt;The software can be built as either a stand-alone or a CLI plugin for 3D Slicer. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=464&amp;screenshot_id=401&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=464&amp;screenshot_id=401&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>3D Slicer License</license>
+<category>Connectivity Analysis</category>
+<category>Diffusion Spectrum</category>
+<category>Q-Ball</category>
+<category>Direction</category>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Mar 15, 2011</release>
+<homepage>http://www.nitrc.org/projects/finslertract/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

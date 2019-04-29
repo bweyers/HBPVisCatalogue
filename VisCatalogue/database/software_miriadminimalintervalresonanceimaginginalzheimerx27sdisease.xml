@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MIRIAD (Minimal Interval Resonance Imaging in Alzheimer&#x27;s Disease)" nitrc="https://www.nitrc.org/projects/miriad" />
+<description> The MIRIAD dataset is a database of volumetric MRI brain-scans of 46 Alzheimer&#x27;s sufferers and 23 healthy elderly people. Many scans were collected of each participant at intervals from 2 weeks to 2 years, the study was designed to investigate the feasibility of using MRI as an outcome measure for clinical trials of Alzheimer&#x27;s treatments. It includes a total of 708 scans and should be of particular interest for work on longitudinal biomarkers and image analysis. The dataset can be found at &lt;a href=&quot;http://miriad.drc.ion.ucl.ac.uk/&quot; target=&quot;_new&quot;&gt;http://miriad.drc.ion.ucl.ac.uk/&lt;/a&gt;</description>
+<license>MIRIAD Data Use Agreement</license>
+<release>Feb 8, 2013</release>
+<homepage>http://miriad.drc.ion.ucl.ac.uk/</homepage>
+<maintainer>UCL Institute of Neurology, UCL, UK</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

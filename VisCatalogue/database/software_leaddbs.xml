@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="LEAD-DBS" nitrc="https://www.nitrc.org/projects/lead-dbs" />
+<description> LEAD-DBS is a MATLAB-toolbox facilitating the:&lt;br /&gt;- reconstruction of deep-brain-stimulation (DBS) electrodes in the human brain on basis of postoperative MRI and/or CT imaging&lt;br /&gt;- visualization of localization results in 2D/3D&lt;br /&gt;- group-analysis of DBS-electrode placement results and their effects on clinical results&lt;br /&gt;- simulation of DBS stimulations (calculation of volume of activated tissue – VAT)&lt;br /&gt;- diffusion tensor imaging (DTI) based connectivity estimates and fiber-tracking from the VAT to other brain regions (connectomic surgery)&lt;br /&gt;&lt;br /&gt;LEAD-DBS builds on SPM8/12, especially regarding warping and segmentation procedures. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=896&amp;screenshot_id=881&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=896&amp;screenshot_id=881&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Atlas Application</category>
+<category>Simulation</category>
+<category>Diffusion MR Fiber Tracking</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>OS Independent</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 30, 2014</release>
+<homepage>http://www.lead-dbs.org</homepage>
+<maintainer>Charité University Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

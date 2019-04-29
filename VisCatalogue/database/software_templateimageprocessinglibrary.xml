@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="Template Image Processing Library" nitrc="https://www.nitrc.org/projects/tipl" />
+<description> Template Image Processing Library (TIPL) is a lightweight C++ template library designed mainly for medical imaging processing. The design paradigm follows generic programming, and the purpose is to provide an &amp;quot;easy-to-use&amp;quot; and also &amp;quot;ready-to-use&amp;quot; library. &lt;br /&gt;&lt;br /&gt;The code is template-based, and only header files are needed to be included to the source code.&lt;br /&gt;&lt;br /&gt;This library provides the following functions:&lt;br /&gt;1.DICOM (r), Analyze(r), Nifti (r/w), and MATLAB MAT V4 (r/w)&lt;br /&gt;2.numerical: add, multiply, gradient.&lt;br /&gt;3.interpolation: linear, gaussian radial basis&lt;br /&gt;3.filters: mean, gaussian, laplacian, sobel, anisotropic diffusion&lt;br /&gt;4.morphological processing: erosion, expansion, opening, closing&lt;br /&gt;5.template-based Fourier transform&lt;br /&gt;6.linear coregistration: rigid body, affine transform, least square fit, mutual information&lt;br /&gt;7.nonlinear coregistration: The Large Deformation Diffeomorphic Metric Mapping (LDDMM) </description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Format Conversion</category>
+<category>Segmentation</category>
+<category>Spatial Transformation</category>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 15, 2010</release>
+<homepage>http://tipl.labsolver.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

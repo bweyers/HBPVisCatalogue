@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="DTI Atlas Builder" nitrc="https://www.nitrc.org/projects/dtiatlasbuilder" />
+<description> This tool creates an Atlas image as an average of several DTI images that will be registered. The registration will be done in two steps :&lt;br /&gt;- Affine Registration with BRAINSFit&lt;br /&gt;- Non Linear Registration with GreedyAtlas&lt;br /&gt;A final step will apply the transformations to the original DTI images so that the final average can be computed.&lt;br /&gt;&lt;br /&gt;The main function writes a python script that will be executed to compute the Atlas.&lt;br /&gt;&lt;br /&gt;By running DTIAtlasBuilder, you will need to fill in informations in a Graphical User Interface, and then compute the Atlas. You can also run the tool in command line (no GUI).&lt;br /&gt;Using the GUI, you will be able to save or load a dataset file or a parameter file.&lt;br /&gt;&lt;br /&gt;The tool needs these other tools to work, so be sure to have these installed on your computer:&lt;br /&gt;- ImageMath&lt;br /&gt;- ResampleDTIlogEuclidean&lt;br /&gt;- CropDTI&lt;br /&gt;- dtiprocess&lt;br /&gt;- BRAINSFit&lt;br /&gt;- GreedyAtlas&lt;br /&gt;- dtiaverage&lt;br /&gt;- DTI-Reg&lt;br /&gt;- unu&lt;br /&gt;- MriWatcher (requires glut library)&lt;br /&gt;&lt;br /&gt;This package is also available as an extension of 3D Slicer (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;) 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=636&amp;screenshot_id=607&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=636&amp;screenshot_id=607&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Application</category>
+<platform>Linux</platform>
+<release>Sep 12, 2012</release>
+<homepage>http://www.nitrc.org/projects/dtiatlasbuilder/</homepage>
+<maintainer>University of North Carolina at Chapel Hill (UNC-CH)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

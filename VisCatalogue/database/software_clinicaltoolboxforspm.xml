@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Clinical Toolbox for SPM" nitrc="https://www.nitrc.org/projects/clinicaltbx" />
+<description> The clinical toolbox is useful for normalizing data from individuals with brain injury and/or modalities popular in the clinical environment (CT), as described by Rorden et al. (2012, PMID: 22440645). The latest version supports either enantiomorphic (PMID: 18023365) or lesion-masked (PMID: 11467921) normalization. It can be either scripted or used with SPM&#x27;s simple graphical interface. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=881&amp;screenshot_id=867&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=881&amp;screenshot_id=867&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>Sep 24, 2014</release>
+<homepage>http://www.nitrc.org/projects/clinicaltbx/</homepage>
+<maintainer>University of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="SPOT3D: Spatial positioning toolbox for head markers using 3D scans" nitrc="https://www.nitrc.org/projects/spot3d" />
+<description> An accurate individual head model is fundamental for a reliable use of high-density electroencephalography (hdEEG) as brain imaging technique. Correct identification of sensor positions over the subject&#x27;s scalp is thus necessary for precisely estimating neural activity. Recent studies suggest the use of colour-enhanced 3D scanner to acquire a three-dimensional point cloud of the whole surface of the subject&#x27;s head.&lt;br /&gt;&lt;br /&gt;Here, we introduce the SPOT3D toolbox, which integrates a graphical user interface (GUI). This software performs alignment of the 3D scan in individual magnetic resonance (MR) space, sensor detection and labelling on the aligned scan, and positioning of facial landmarks. The editing tools accessible through the GUI allow the user to manually perform these processing steps from scratch, or to adjust their outcome after automated processing. User documentation specifies the software requirements and dependencies; sample datasets are also available.&lt;br /&gt;&lt;br /&gt;Contact: &lt;a href=&quot;mailto:gaia.taberna@kuleuven.be&quot; target=&quot;_new&quot;&gt;gaia.taberna@kuleuven.be&lt;/a&gt;</description>
+<release>Mar 29</release>
+<homepage>http://www.nitrc.org/projects/spot3d/</homepage>
+<maintainer>KU Leuven</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

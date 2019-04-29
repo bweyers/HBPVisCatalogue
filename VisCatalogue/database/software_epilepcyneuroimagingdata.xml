@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Epilepcy Neuroimaging Data" nitrc="https://www.nitrc.org/projects/hfhs-tle-proj" />
+<description> The shared image modalities and their relevant clinical information are for 12 TLE patients.&lt;br /&gt;&lt;br /&gt;Please cite the following article if you use the uncertainty Analysis MATLAB code and its relevant image modalities (T1, FLAIR, and DTI):&lt;br /&gt;&lt;br /&gt;Mohammad-Reza Nazem-Zadeh, Kost V Elisevich, Jason M Schwalb, Hassan Bagher-Ebadian, Fariborz Mahmoudi, Hamid Soltanian-Zadeh. Lateralization of Temporal Lobe Epilepsy by Multimodal Multinomial Hippocampal Response-Driven Models. Journal of the neurological sciences, 347 (1), 107-118, 2014. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Please cite the following article if you use T1, FLAIR, and SPECT modalities:&lt;br /&gt;&lt;br /&gt;Mohammad-Reza Nazem-Zadeh, Jason M Schwalb, Kost V Elisevich, Hassan Bagher-Ebadian, Hajar Hamidian, Ali-Reza Akhondi-Asl, Kourosh Jafari-Khouzani, Hamid Soltanian-Zadeh. Lateralization of temporal lobe epilepsy using a novel uncertainty analysis of MR diffusion in hippocampus, cingulum, and fornix, and hippocampal volume and FLAIR intensity. Journal of the neurological sciences, 342 (1), 152-161, 2014. </description>
+<license>Epilepsy Research - Henry Ford Hospital License</license>
+<release>Mar 18, 2016</release>
+<homepage>http://www.nitrc.org/projects/hfhs-tle-proj/</homepage>
+<maintainer>Henry Ford Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

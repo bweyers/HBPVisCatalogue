@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="XCEDE Schema" nitrc="https://www.nitrc.org/projects/qa_procedure" />
+<description> The XML-Based Clinical Experiment Data Exchange Schema provides an extensive metadata hierarchy for describing and documenting research and clinical studies. XCEDE was originally designed in the context of neuroimaging studies and complements the BIRN-HID </description>
+<release>Jun 19, 2008</release>
+<homepage>https://github.com/incf-nidash/XCEDE</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

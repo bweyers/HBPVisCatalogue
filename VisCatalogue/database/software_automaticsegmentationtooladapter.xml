@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Automatic Segmentation Tool Adapter" nitrc="https://www.nitrc.org/projects/segadapter" />
+<description> More and more automatic segmentation tools are publicly available to today&#x27;s researchers. However, when applied by their end-users, these segmentation tools usually can not achieve the performance that the tool developer reported. Discrepancies between the tool developer and its users in manual segmentation protocols and imaging modalities are the main reasons for such inconsistency. &lt;br /&gt;&lt;br /&gt;In this project, we will provide an open source learning-based software that automatically learns how to transfer the output of a host segmentation tool closer to the user&#x27;s manual segmentation using the image data and manual segmentation provided by the user. The motivation of this project is to bridge the gap between the segmentation tool developer and the tool users such that the existing segmentation tools can more effectively serve the community. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Segmentation</category>
+<platform>POSIX/UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 12, 2010</release>
+<homepage>http://www.nitrc.org/projects/segadapter/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

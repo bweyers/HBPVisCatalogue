@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="NTU-DSI-122: A Diffusion Spectrum Imaging Template with High Anatomical Matching to the ICBM-152 Space" nitrc="https://www.nitrc.org/projects/ntu-dsi-122" />
+<description> NTU-DSI-122 is a diffusion spectrum imaging (DSI) template constructed in the standard ICBM-152 space from 122 healthy adults. This template was built through incorporating the macroscopic anatomical information using high-resolution T1-weighted images and the microscopic structural information obtained from DSI datasets, rendering it to achieve a high anatomical matching to the ICBM-152 space. Therefore, this template can serve as a representative DSI dataset for a healthy adult population, and will be of potential value for brain research and clinical applications. This template is released in the original DWI format, so the users have the most freedom to perform their own advanced processing algorithms on NTU-DSI-122. NTU-DSI-122 is distributed under the terms of CC BY-NC-SA 4.0.&lt;br /&gt;&lt;br /&gt;Reference: Hsu Y-C, Lo Y-C, Chen Y-J, Wedeen VJ, Tseng W-YI (2015): NTU-DSI-122: A diffusion spectrum imaging template with high anatomical matching to the ICBM-152 space. Hum Brain Mapp doi: 10.1002/hbm.22860. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=784&amp;screenshot_id=933&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=784&amp;screenshot_id=933&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<category>Atlas Data</category>
+<category>Data</category>
+<category>Diffusion Spectrum</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 25, 2013</release>
+<homepage>http://www.nitrc.org/projects/ntu-dsi-122/</homepage>
+<maintainer>National Taiwan University College of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Local Label Learning (LLL) Segmentation" nitrc="https://www.nitrc.org/projects/lll" />
+<description> Automatic and reliable segmentation of subcortical structures is an important but difficult task in quantitative brain image analysis. Recently, multi-atlas based segmentation methods have attracted great interest due to their competitive performance. While many label fusion strategies have been developed, most of these methods adopt predefined weighting models which were not necessarily optimal. In this paper, we proposed a novel local label learning strategy to estimate the target image’s segmentation label using statistical machine learning techniques. We used a support vector machine (SVM) with a K nearest neighbor (KNN) based training sample selection strategy to learn a classifier for each of the target image voxel based on a training dataset consisting of its neighboring voxels in the atlases. Validation experiments on hippocampus segmentation of 117 MR images demonstrated that our method can produce segmentation results consistently better than state-of-the-art label fusion methods. </description>
+<license>BSD License</license>
+<release>Jul 30, 2012</release>
+<homepage>http://www.nitrc.org/projects/lll/</homepage>
+<maintainer>chinese academy of sciense</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

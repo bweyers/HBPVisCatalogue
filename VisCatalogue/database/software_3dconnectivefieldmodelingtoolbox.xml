@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="3-D Connective Field Modeling Toolbox" nitrc="https://www.nitrc.org/projects/r2r_prf" />
+<description> A framework for both fitting and describing connectivity patterns between regions that is a simple extension from the current population receptive field models in the visual neuroscience literature. This provides a description of the specific nature of connectivity from one region to another. The connectivity from each voxel in a designated seed region to a mapping region is modeled as a 3-dimensional Gaussian, providing location parameters and spread parameters. This allows the direct description of the relative mapping from one region to another. </description>
+<release>Nov 30, 2018</release>
+<homepage>http://www.nitrc.org/projects/r2r_prf/</homepage>
+<maintainer>Stony Brook University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

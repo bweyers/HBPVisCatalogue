@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="BraTumIA (Brain Tumor Image Analysis)" nitrc="https://www.nitrc.org/projects/bratumia" />
+<description> BraTumIA, for Brain Tumor Image Analysis, is a software dedicated to multimodal image analysis of brain tumor studies. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;It performs volumetric segmentation of healthy and tumor tissues by employing multispectral MRI sequences (currently T1, T1-contrast, T2-contrast, and FLAIR). Segmented tissues include Gray Matter (GM), White Matter (WM), Cerebrospinal Fluid (CSF), necrotic core, edema, non-enhancing tumor and enhancing tumor.&lt;br /&gt;&lt;br /&gt;The current version of BraTumIA is designed to work on pre-operative images. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=817&amp;screenshot_id=1196&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=817&amp;screenshot_id=1196&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<release>May 20, 2014</release>
+<homepage>http://mia-software.artorg.unibe.ch/registration/bratumia/requirement.php</homepage>
+<maintainer>University of Bern, University Hospital Bern</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

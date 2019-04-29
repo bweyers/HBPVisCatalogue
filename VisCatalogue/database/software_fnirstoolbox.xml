@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="fNIRS-toolbox" nitrc="https://www.nitrc.org/projects/nirs-toolbox" />
+<description> This toolbox is a set of Matlab based tools for the analysis of functional near-infrared spectroscopy (fNIRS) developed by T. Huppert at the University of Pittsburgh </description>
+<release>Apr 13, 2016</release>
+<homepage>http://www.nitrc.org/projects/nirs-toolbox/</homepage>
+<maintainer>University of Pittsburgh</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

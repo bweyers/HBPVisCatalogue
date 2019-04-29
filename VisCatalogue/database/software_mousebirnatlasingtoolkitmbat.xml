@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="MouseBIRN Atlasing Toolkit (MBAT)" nitrc="https://www.nitrc.org/projects/mbat" />
+<description> MBAT provides a workflow environment bringing together heterogenous, online biological image resources, a user’s image data and biological atlases in a concise, unified and intuitive workspace. The MBAT viewer displays multiple images on a single virtual canvas allowing easy side-by-side comparisons and image compositing. MBAT is written in Java so it is platform independent and is highly extensible through it’s plugin architecture.&lt;br /&gt;&lt;br /&gt;MBAT integrates three distinct workspaces for online search, image alignment (registration) and image display:&lt;br /&gt;&lt;br /&gt;Search Workspace: able to submit a query to multiple databases simultaneously and online literature searches.&lt;br /&gt;&lt;br /&gt;Registration Workspace: performs 2D landmark based registration.&lt;br /&gt;&lt;br /&gt;Viewer Workspace: displays &amp;amp; composites images and image volumes using high performance graphics hardware.&lt;br /&gt;&lt;br /&gt;Atlas Viewer: allows navigation and interrogation of volumetric atlases.&lt;br /&gt;&lt;br /&gt;Hierarchy Editor: create logical groupings of atlas labels. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=86&amp;screenshot_id=245&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=86&amp;screenshot_id=245&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BIRN License</license>
+<category>Information Resource</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 22, 2008</release>
+<homepage>http://mbat.loni.ucla.edu</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

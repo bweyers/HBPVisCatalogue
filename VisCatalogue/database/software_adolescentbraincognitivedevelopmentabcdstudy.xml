@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Adolescent Brain Cognitive Development (ABCD) Study" nitrc="https://www.nitrc.org/projects/abcd_study" />
+<description> The Adolescent Brain Cognitive Development (ABCD) Study is the largest long-term study of brain development and child health in the United States. The ABCD Research Consortium consists of a Coordinating Center, a Data Analysis and Informatics Center, and 21 research sites across the country, which will invite approximately 10,000 children ages 9-10 to join the study. Researchers will track their biological and behavioral development through adolescence into young adulthood.&lt;br /&gt;&lt;br /&gt;This study will determine how childhood experiences (such as sports, videogames, social media, unhealthy sleep patterns, and smoking) interact with each other and with a child’s changing biology to affect brain development and social, behavioral, academic, health, and other outcomes.&lt;br /&gt;&lt;br /&gt;The results of the ABCD Study will provide families; school superintendents, principals, and teachers; health professionals; and policymakers with practical information to promote the health, well-being, and success of children. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1256&amp;screenshot_id=1165&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1256&amp;screenshot_id=1165&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Data Resource</category>
+<platform>OS Independent</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 26, 2018</release>
+<homepage>https://abcdstudy.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

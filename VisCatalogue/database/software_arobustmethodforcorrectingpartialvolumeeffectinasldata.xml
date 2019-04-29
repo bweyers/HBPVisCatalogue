@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="A robust method for correcting partial volume effect in ASL data" nitrc="https://www.nitrc.org/projects/pvc_mlts" />
+<description> Partial volume correction using modified least trimmed squares (PVC-mLTS) is a software toolbox that can be employed to correct partial volume effect for single inversion-time ASL data.&lt;br /&gt;&lt;br /&gt;The software:&lt;br /&gt;(1) Reading and writing images in nifti format;&lt;br /&gt;(2) Implementing Modified least trimmed squares method (mLTS)&lt;br /&gt;(3) Applying mLTS to ASL data for correcting partial volume effect &lt;br /&gt;(3) Computing CBF maps for both GM and WM.&lt;br /&gt;&lt;br /&gt;The method is described in the following paper:&lt;br /&gt;Xiaoyun Liang, Alan Connelly, Fernando Calamante. Improved partial volume correction for single inversion time arterial spin labeling data. Magn Reson Med. 2013 Feb;69(2):531-7. doi: 10.1002/mrm.24279. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1044&amp;screenshot_id=984&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1044&amp;screenshot_id=984&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Apr 25, 2016</release>
+<homepage>http://www.nitrc.org/projects/pvc_mlts/</homepage>
+<maintainer>Florey Institute of Neuroscience and Mental Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

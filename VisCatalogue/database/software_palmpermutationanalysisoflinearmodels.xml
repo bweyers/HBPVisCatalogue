@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="PALM - Permutation Analysis of Linear Models" nitrc="https://www.nitrc.org/projects/palm" />
+<description> PALM — Permutation Analysis of Linear Models — is a tool that allows inference using permutation methods, offering a number of features not available in other analysis software. For complete details, including documentation and User Guide, please visit: &lt;a href=&quot;http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/PALM&quot; target=&quot;_new&quot;&gt;http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/PA...&lt;/a&gt;</description>
+<license>GNU GPL v2</license>
+<release>Jul 5, 2015</release>
+<homepage>http://www.nitrc.org/projects/palm/</homepage>
+<maintainer>University of Oxford</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

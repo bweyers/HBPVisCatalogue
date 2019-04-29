@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="K-space Domain Image Fusion" nitrc="https://www.nitrc.org/projects/kspace_fusion" />
+<description> Matlab code that implements a K-space magnetic resonance image fusion technique. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Feb 9, 2015</release>
+<homepage>http://www.nitrc.org/projects/kspace_fusion/</homepage>
+<maintainer>Computational Radiology Laboratory</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

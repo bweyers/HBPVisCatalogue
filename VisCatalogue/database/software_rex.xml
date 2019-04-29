@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="REX" nitrc="https://www.nitrc.org/projects/rex" />
+<description> REX is a stand-alone MATLAB-based toolkit for the rapid and flexible exploration of ROI response waveforms and other signals from across large fMRI datasets. An alpha-release is currently available for use with an example dataset and tutorial. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Time Domain Analysis</category>
+<category>Visualization</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 5, 2007</release>
+<homepage>http://www.neuroimaging.org.au/nig/rex</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

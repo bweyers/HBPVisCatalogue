@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="Simulated DW-MRI Brain Data Sets for Quantitative Evaluation of Estimated Fiber Orientations" nitrc="https://www.nitrc.org/projects/sim_dwi_brain" />
+<description> This resource provides simulated DW-MRI brain images and quantitative tools for evaluating the performance of diffusion analysis methods in terms of fiber orientation estimation and false-positive/-negative fiber rates, which are of fundamental importance to tractography based studies. The data and tools aim to encourage greater understanding of the fiber estimation abilities of existing methods by use of standardized metrics for evaluation and comparison, and help development of improved diffusion analysis methods.&lt;br /&gt;&lt;br /&gt;DW data was generated using a multi-tensor model at SNRs of 9, 18 and 36, for sets of 20, 30, 40, 60, 90 and 120 gradient directions. For each combination of SNR and gradient direction set, 10 realizations of data are provided. All data is simulated with a diffusion-weighting of b=1000, as is common for clinical acquisitions.&lt;br /&gt;&lt;br /&gt;&amp;gt;&amp;gt; See &amp;quot;Docs&amp;quot; for all documentation and citation information.&lt;br /&gt;&amp;gt;&amp;gt; See &amp;quot;Downloads&amp;quot; for data and quantitative tools.&lt;br /&gt;&lt;br /&gt;&amp;gt;&amp;gt; Published in NeuroImage (Vol 109, April 2015). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=769&amp;screenshot_id=693&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=769&amp;screenshot_id=693&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Data License</license>
+<category>Data</category>
+<category>Test Data</category>
+<category>Algorithm or Reusable Library</category>
+<category>Tractography</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 12, 2013</release>
+<homepage>http://www.nitrc.org/projects/sim_dwi_brain/</homepage>
+<maintainer>University of Southern California (USC)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

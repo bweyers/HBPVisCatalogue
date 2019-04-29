@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="PPMI" nitrc="https://www.nitrc.org/projects/ppmi" />
+<description> PPMI includes a large and comprehensive set of correlated clinical data and biospecimens that is made available to the entire scientific community to help accelerate biomarker verification research. PPMI data and specimens have been collected in a standardized manner under strict protocols developed by the steering committee. The PPMI study dataset includes clinical, biological and imaging data collected at PPMI clinical sites. The data have been aggregated into the PPMI study database, which is managed by the PPMI Bioinformatics Core, the Laboratory of NeuroImaging (LONI) at the University of Southern California.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ppmi-info.org/access-data-specimens/&quot; target=&quot;_new&quot;&gt;http://www.ppmi-info.org/access-data-spe...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=471&amp;screenshot_id=416&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=471&amp;screenshot_id=416&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Atlas Data</category>
+<category>Data</category>
+<category>Database</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC</input>
+<output>MINC</output>
+<release>Mar 28, 2011</release>
+<homepage>http://www.nitrc.org/projects/ppmi/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

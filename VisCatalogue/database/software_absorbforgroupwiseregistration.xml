@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="ABSORB for groupwise registration" nitrc="https://www.nitrc.org/projects/absorb" />
+<description> This software package implements ABSORB: Atlas Building by Self-Organized Registration and Bundling – an algorithm for effective groupwise registration, which has been published as:&lt;br /&gt;&lt;br /&gt;Hongjun Jia, Guorong Wu, Qian Wang, Dinggang Shen, &amp;quot;ABSORB: Atlas Building by Self-Organized Registration and Bundling&amp;quot;, NeuroImage, Vol. 51, No. 3, 1 July 2010, pp. 1057-1070.&lt;br /&gt;&lt;br /&gt;The package is available free to the public for the academic research purpose at &lt;a href=&quot;http://bric.unc.edu/ideagroup/free-softwares/&quot; target=&quot;_new&quot;&gt;http://bric.unc.edu/ideagroup/free-softw...&lt;/a&gt; . &lt;br /&gt;&lt;br /&gt;The required input is a set of 3D MR intensity images (in Analyze format with paired .hdr and .img files) with a text file (.txt) listing all header file (.hdr) names. The output is the set of registered images together with the corresponding dense deformation fields. This software has been tested on Windows XP (32-bit) and Linux (64-bit, kernel version 2.6.18-194.el5).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This software was developed in IDEA group in UNC-Chapel Hill. For more information, please visit our lab at &lt;a href=&quot;http://bric.unc.edu/ideagroup&quot; target=&quot;_new&quot;&gt;http://bric.unc.edu/ideagroup&lt;/a&gt; . 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=397&amp;screenshot_id=281&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=397&amp;screenshot_id=281&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Algorithm or Reusable Library</category>
+<category>Intermodal</category>
+<category>Intersubject</category>
+<category>Intrasubject</category>
+<category>Image-to-Template</category>
+<category>Affine Warp</category>
+<category>Nonlinear Warp</category>
+<platform>Windows 95/98/2000</platform>
+<platform>Windows NT/2000</platform>
+<platform>Windows Vista</platform>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>Microsoft Word Document</input>
+<output>Microsoft Word Document</output>
+<input>PDF - Portable Document Format</input>
+<output>PDF - Portable Document Format</output>
+<release>Jul 27, 2010</release>
+<homepage>http://bric.unc.edu/ideagroup/free-softwares/ABSORB/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

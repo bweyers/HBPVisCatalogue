@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="BrainNet Viewer" nitrc="https://www.nitrc.org/projects/bnv" />
+<description> BrainNet Viewer is a brain network visualization tool, which can help researchers to visualize structural and functional connectivity patterns from different levels in a quick, easy, and flexible way. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=504&amp;screenshot_id=710&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=504&amp;screenshot_id=710&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<release>Jul 7, 2011</release>
+<homepage>http://www.nitrc.org/projects/bnv/</homepage>
+<maintainer>Beijing Normal University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

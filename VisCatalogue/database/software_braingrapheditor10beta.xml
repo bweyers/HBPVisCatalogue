@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="BrainGraph Editor 1.0 Beta" nitrc="https://www.nitrc.org/projects/braingrpheditor" />
+<description> The BrainGraph Editor 1.0 Beta is a JAVA application designed to create taxonomies or hierarchies in order to classify and organize information. </description>
+<license>BIRN License</license>
+<category>Ontology</category>
+<category>Other Information Resource</category>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Feb 22, 2008</release>
+<homepage>http://www.loni.ucla.edu/Software/Software_Detail.jsp?software_id=60</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

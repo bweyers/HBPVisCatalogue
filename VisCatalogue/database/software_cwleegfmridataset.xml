@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CWL EEG fMRI Data Set" nitrc="https://www.nitrc.org/projects/cwleegfmri_data" />
+<description> EEG/fMRI Data from 8 subject doing a simple eyes open/eyes closed task is provided on this webpage.&lt;br /&gt;&lt;br /&gt;The EEG/fMRI data are six files for each subject, with two basic factors: recording during Helium pump On and Helium pump Off, and recording during MRI scanning and without MRI scanning. In addition &#x27;outside&#x27; EEG data is provided, before as well as after the MRI session.&lt;br /&gt;&lt;br /&gt;There are 30 EEG channels, 1 EOG channel, 1 ECG channel, as well as 6 CWL signals. A tool to use the CWL signals for regression of artifacts can be found here: &lt;a href=&quot;https://www.nitrc.org/projects/cwl_eeg_fmri/&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/projects/cwl_eeg_f...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;See also the “Eyes Open – Eyes Closed” EEG/fMRI data set including dedicated “Carbon Wire Loop” motion detection channels paper linked here: &lt;a href=&quot;http://www.sciencedirect.com/science/article/pii/S2352340916301056&quot; target=&quot;_new&quot;&gt;http://www.sciencedirect.com/science/art...&lt;/a&gt;</description>
+<license>MIT</license>
+<release>Mar 31, 2016</release>
+<homepage>http://www.nitrc.org/projects/cwleegfmri_data/</homepage>
+<maintainer>CANLAB</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

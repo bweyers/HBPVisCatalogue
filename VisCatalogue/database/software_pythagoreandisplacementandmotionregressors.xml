@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Pythagorean Displacement and Motion Regressors" nitrc="https://www.nitrc.org/projects/pythagoras" />
+<description> This Matlab script uses the Pythagorean Theorem to calculate head motion and position, while preserving degrees of freedom. The motion parameters output by SPM (rp*.txt) estimate head position relative to the first volume in 3D translation and 3D rotation, which are often entered as a nuisance regressor during individual-level statistics. Regressing the total displacement and relative position can potentially explain more variance in voxel-level BOLD signals that is related to head movement during an fMRI experiment. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<release>Feb 27, 2013</release>
+<homepage>http://www.nitrc.org/projects/pythagoras/</homepage>
+<maintainer>Medical University of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

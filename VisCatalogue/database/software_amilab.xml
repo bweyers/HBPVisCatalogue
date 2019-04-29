@@ -1,0 +1,45 @@
+<root>
+<software>
+<name name="AMILab" nitrc="https://www.nitrc.org/projects/amilab" />
+<description> AMILab is an opensource software for image analysis, processing and visualization. It provides convenient visualization tools for 2D and 3D images and it is highly extensible through its own scripting language. At visualization level, AMILab includes a 2D/3D image viewer, a 3D polygon viewer based on OpenGL, a 2D Curve viewer to visualize 2D curves, histograms and color/opacity transfer functions, and a GPU-enabled raycasting script for Volume Rendering based on VTK. The software includes an automatic C++ wrapping system which permits fast development of new visualization tools and image processing algorithms. This wrapping system currently wraps about 200 classes from wxwidgets library and about 100 classes from VTK. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=543&amp;screenshot_id=455&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=543&amp;screenshot_id=455&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Format Conversion</category>
+<category>Active Contour</category>
+<category>Intensity Contour</category>
+<category>Medial Axis</category>
+<category>Artifact Removal</category>
+<category>Filtering</category>
+<category>Fourier Transform</category>
+<category>Quality Metrics</category>
+<category>Spline Interpolation</category>
+<category>Motion Analysis</category>
+<category>Animation</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Dec 6, 2011</release>
+<homepage>http://amilab.org</homepage>
+<maintainer>University of Las Palmas de Gran Canaria</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

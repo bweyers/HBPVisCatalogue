@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="fMRIPrep" nitrc="https://www.nitrc.org/projects/fmriprep" />
+<description> fMRIPrep is a functional magnetic resonance imaging (fMRI) data preprocessing pipeline that is designed to provide an easily accessible, state-of-the-art interface that is robust to variations in scan acquisition protocols and that requires minimal user input while providing easily interpretable and comprehensive error and output reporting. It performs basic processing steps (coregistration, normalization, unwarping, noise component extraction, segmentation, skull-stripping etc.) providing outputs that can be easily submitted to a variety of group-level analyses, including task-based or resting-state fMRI, graph theory measures, surface or volume-based statistics, etc. </description>
+<license>BSD/MIT-Style Open Source License</license>
+<input>BIDS (Brain Imaging Data Structure)</input>
+<output>BIDS (Brain Imaging Data Structure)</output>
+<release>Dec 21, 2018</release>
+<homepage>http://fmriprep.org</homepage>
+<maintainer>Stanford University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

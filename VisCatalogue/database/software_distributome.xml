@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Distributome" nitrc="https://www.nitrc.org/projects/distributome" />
+<description> The Distributome Project is an open-source, open content-development project for exploring, discovering, navigating, learning, and computational utilization of diverse probability distributions. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=409&amp;screenshot_id=681&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=409&amp;screenshot_id=681&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Oct 14, 2010</release>
+<homepage>http://www.nitrc.org/projects/distributome/</homepage>
+<maintainer>University of Michigan</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="LONI Debabeler" nitrc="https://www.nitrc.org/projects/debabeler" />
+<description> The LONI Debabeler manages the conversion of imaging data from one file format and convention to another. It consists of a GUI to visually program the translations, and a data translation engine to read, sort and translate the input files. </description>
+<license>LONI Software License</license>
+<category>Workflow</category>
+<category>Other Software Resource</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 19, 2007</release>
+<homepage>http://www.loni.ucla.edu/Software/Software_Detail.jsp?software_id=11</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: PHI Estimator" nitrc="https://www.nitrc.org/projects/phiestimator" />
+<description> The Peritumoral Heterogeneity Index (PHI) Estimator is a lightweight tool built towards the following goals:&lt;br /&gt;Perform quantitative pattern analysis of the spatial heterogeneity of peritumoral perfusion imaging dynamics, retrieved from Dynamic Susceptibility Contrast Magnetic Resonance Imaging (DSC-MRI) data. &lt;br /&gt;Evaluate the imaging biomarker of the Epidermal Growth Factor Receptor variant III (EGFRvIII) mutation status, in individual patients diagnosed with Glioblastoma. After v1.0.0, this will get updated in the CaPTk project as &amp;quot;EGFRvIII Surrogate Index&amp;quot;. </description>
+<license>SBIA License</license>
+<release>Feb 21, 2017</release>
+<homepage>http://www.nitrc.org/projects/phiestimator/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

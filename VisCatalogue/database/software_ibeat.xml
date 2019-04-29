@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="iBEAT" nitrc="https://www.nitrc.org/projects/ibeat" />
+<description> iBEAT (Infant Brain Extraction and Analysis Toolbox, previously called LIBRA) is a toolbox with graphical user interfaces for processing infant brain MR images. Longitudinal (or single-time-point) multimodality (including T1, T2, and FA) (or single-modality) data can be processed using the toolbox. Main functions of the software (step by step) include image preprocessing, brain extraction, tissue segmentation and brain labeling. The software is developed by the IDEA group at the University of North Carolina at Chapel Hill, directed by Dr. Dinggang Shen(&lt;a href=&quot;mailto:dinggang_shen@med.unc.edu&quot; target=&quot;_new&quot;&gt;dinggang_shen@med.unc.edu&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;Linux operating system (64 bit) is required. A workstation or server with memory &amp;gt; 8G is recommended for processing many images simultaneously. The graphical user interfaces and overall framework of the software are implemented in MATLAB. The image processing functions are implemented with the combination of C/C++, MATLAB, Perl and Shell languages. Parallelization technologies are used in the software to speed up image processing. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=574&amp;screenshot_id=471&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=574&amp;screenshot_id=471&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>iBEAT</license>
+<category>Atlas Data</category>
+<category>Atlas Application</category>
+<category>Segmentation</category>
+<category>Registration</category>
+<category>Warping</category>
+<category>Image Display</category>
+<release>Feb 9, 2012</release>
+<homepage>http://www.nitrc.org/projects/ibeat/</homepage>
+<maintainer>University of North Carolina - Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

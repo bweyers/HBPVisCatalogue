@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="BioMesh3D" nitrc="https://www.nitrc.org/projects/biomesh3d" />
+<description> BioMesh3D is a free, easy to use program for generating quality meshes for use in biological simulations. It is included when downloading SCIRun v4.6. </description>
+<license>MIT/X Consortium License</license>
+<release>Mar 29, 2010</release>
+<homepage>http://www.nitrc.org/projects/biomesh3d/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

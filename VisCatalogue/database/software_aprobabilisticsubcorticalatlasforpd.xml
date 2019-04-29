@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="A probabilistic subcortical atlas for PD" nitrc="https://www.nitrc.org/projects/atag_pd" />
+<description> This atlas takes advantage of ultra-high resolution 7T MRI to provide unprecedented levels of detail on structures of the basal ganglia in-vivo. The atlas includes a disease-specific probability map of the subthalamic Nucleus based on Parkinson&#x27;s Disease patients.&lt;br /&gt;&lt;br /&gt;When using these masks please cite: Anneke Alkemade, Gilles de Hollander, Max C Keuken, Andreas Schäfer, Derek VM Ott, Johannes Schwarz, David Weise, Sonja A Kotz, Birte U Forstmann (2017). Comparison of T2* and QSM contrasts in Parkinson’s disease to visualize the STN with MRI. PLOS one </description>
+<license>Attribution Non-Commercial Share Alike</license>
+<release>Mar 17, 2016</release>
+<homepage>http://www.nitrc.org/projects/atag_pd/</homepage>
+<maintainer>UvA / MPI CBS</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

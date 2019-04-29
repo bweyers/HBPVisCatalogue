@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Atlasing of the basal ganglia" nitrc="https://www.nitrc.org/projects/atag" />
+<description> This atlas takes advantage of ultra-high resolution 7T MRI to provide unprecedented levels of detail on structures of the basal ganglia in-vivo. The ATAG atlas includes probability maps of the striatum, GPe, GPi, red nucleus, substantia nigra, subthalamic Nucleus(STh) and the PAG. The atlas has been created on 30 young (M:24.2), 14 middle-aged (M: 52.5), and 10 elderly (M: 69.6) participants.&lt;br /&gt;&lt;br /&gt;Separately a STh atlas was created based on 13 young (M:24.38), 8 middle-aged (M:50.67), and 9 elderly participants (M:72.33).&lt;br /&gt;&lt;br /&gt;You can find more details about the creation of these maps in the following papers:&lt;br /&gt;&lt;br /&gt;ATAG young atlas: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/24650599&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/24650...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;ATAG middle aged, elderly: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/28168364&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/28168...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;STh young: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/22227131&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/22227...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;STh Middle-aged &amp;amp; Elderly: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/23486960&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/23486...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Participating institutions are the Max Planck Institute for Human Cognitive and Brain Sciences, Germany, and the University of Amsterdam, the Netherlands. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=653&amp;screenshot_id=741&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=653&amp;screenshot_id=741&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<release>Oct 2, 2012</release>
+<homepage>http://www.nitrc.org/projects/atag/</homepage>
+<maintainer>University of Amsterdam</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

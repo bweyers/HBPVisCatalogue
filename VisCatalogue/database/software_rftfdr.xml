@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="RFT_FDR" nitrc="https://www.nitrc.org/projects/rft_fdr" />
+<description> So far there is a lack for Random Field Theory(RFT)-based multiple comparison correction for surfaces generated in Freesurfer software package. This set of Matlab-based functions can be used for that purpose. They are based on Worsley’s SurfStat toolbox. You also need to have installed Freesurfer software package and included the Freesurfer’s matlab subdirectory in the Matlab’s search path.&lt;br /&gt;&lt;br /&gt;In addition, this tool implements the RFT-FDR hierarchical correction that can be used for optimizing the amount of smoothing in cortical thickness analyses (Neuroimage 52, 158-171). </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<category>Modeling</category>
+<category>Statistical Operation</category>
+<category>Thickness</category>
+<category>Surface Rendering</category>
+<platform>OS Independent</platform>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<release>Jan 17, 2011</release>
+<homepage>http://www.nitrc.org/projects/rft_fdr/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

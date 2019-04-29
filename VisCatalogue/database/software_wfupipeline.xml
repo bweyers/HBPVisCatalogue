@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="WFU_Pipeline" nitrc="https://www.nitrc.org/projects/wfu_pipeline" />
+<description> The WFU SPM5 Pipeline is a fully automated method for the processing of fMRI data using SPM. It is fully automated from the point of data acquisition at the MRI scanner. It incorporates tools for automated data transfer, archiving, real-time SPM5 batch script generation with distributed grid processing, automated error-recovery procedures, full data-provenance, email notifications, optional conversion back to DICOM (Digital Imaging and Communications in Medicine), and picture archiving and communications systems (PACS) insertion. The architecture allows for an infinite number of easily definable analyses that are fully automated from the point of acquisition. </description>
+<license>WFU ANSIR License</license>
+<category>Workflow</category>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 10, 2009</release>
+<homepage>http://www.nitrc.org/projects/wfu_pipeline/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

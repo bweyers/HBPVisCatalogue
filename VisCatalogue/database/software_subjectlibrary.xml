@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Subject Library" nitrc="https://www.nitrc.org/projects/subjectlibrary" />
+<description> UC Davis IDeA Lab Applications for Management Of Neuroimaging Data -- &lt;br /&gt;&lt;br /&gt;A collection of tools used for processing and organizing MRI data. The Dicom Importer allows you to to view, assemble, and organize dicom files. Subject Library is a filesystem-based search and reporting tool that can be configured to work with many different organization schemes. This package also contains a python library that can be used to write scripts for custom tasks. </description>
+<category>Algorithm or Reusable Library</category>
+<category>Database Application</category>
+<category>Workflow</category>
+<category>Other Software Resource</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Aug 19, 2009</release>
+<homepage>http://idealab.ucdavis.edu/software/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

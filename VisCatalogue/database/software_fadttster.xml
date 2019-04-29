@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="FADTTSter" nitrc="https://www.nitrc.org/projects/fadttster" />
+<description> FADTTSter is a user-friendly version of FADTTS directed to users without advanced coding skills. FADTTS is Matlab (MathWorks Inc, MA, USA) based and needs Matlab coding knowledge to operate. FADTTSter was created to overcome this issue and make the statistical analysis accessible to any non-technical researcher. FADTTSter is a command line based module as well as an GUI based tool. Not only is FADTTSter practical but it enables any investigator to perform DTI analysis efficiently. &lt;br /&gt;&lt;br /&gt;In addition, FADTTSter performs fiber profile QC as well as customized plotting of the FADTTS output&lt;br /&gt;&lt;br /&gt;This tool can be divided in two main parts, each one working independently: a) Profile QC and Matlab script generation and matlab run for FADTTS, b) Statistical data plotting for FADTTS output. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1068&amp;screenshot_id=1011&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1068&amp;screenshot_id=1011&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>3D Slicer License</license>
+<release>Oct 13, 2016</release>
+<homepage>http://www.nitrc.org/projects/fadttster/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

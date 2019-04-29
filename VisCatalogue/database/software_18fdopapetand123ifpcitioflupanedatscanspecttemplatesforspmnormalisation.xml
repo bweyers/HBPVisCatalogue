@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="18F-DOPA PET and 123I-FP-CIT (Ioflupane - DaTSCAN) SPECT templates for SPM normalisation." nitrc="https://www.nitrc.org/projects/spmtemplates" />
+<description> The 18F-DOPA and 123I-FP-CIT (Ioflupane/DaTSCAN) templates are intended for use as templates for SPM automated normalisation. Created for SPM8 but SPM12 compatible. Available in NifTI file format. &lt;br /&gt;&lt;br /&gt;The updated templates are symmetrical and adjusted to MNI-space templates from 12 (18F-DOPA) and 30 controls without evidence of nigrostriatal degeneration (123I-FP-CIT). &lt;br /&gt;&lt;br /&gt;Authors: F.J García-Gómez, I Huertas, JA Lojo, D García-Solís.&lt;br /&gt;Contact: &lt;a href=&quot;mailto:javier191185@gmail.com&quot; target=&quot;_new&quot;&gt;javier191185@gmail.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Terms of use:&lt;br /&gt;These images are intended for free use by the neuroimaging community. However, we do ask that you please cite the following references in any publications which make use of these images:&lt;br /&gt;- García-Gómez FJ, et al. Elaboration of the SPM template for the standardization of SPECT images with 123I-Ioflupane. Rev Esp Med Nucl Imagen Mol. 2013;32:350-6.&lt;br /&gt;- García-Gómez FJ, et al. Elaboración de una plantilla de SPM para la normalización de imágenes de PET con 18F-DOPA. Imagen Diagn. 2018; 9(1):23−25. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=797&amp;screenshot_id=723&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=797&amp;screenshot_id=723&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<release>Feb 14, 2014</release>
+<homepage>http://www.nitrc.org/projects/spmtemplates/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

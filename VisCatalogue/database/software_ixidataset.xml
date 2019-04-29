@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="IXI Dataset" nitrc="https://www.nitrc.org/projects/ixi_dataset" />
+<description> The IXI Dataset is a collection of nearly 600 MR images from normal, healthy subjects. The MR image acquisition protocol for each subject includes T1, T2 and PD-weighted images, MRA images, and diffusion-weighted images (15 directions). The data was collected at three different hospitals in London using 1.5T and 3T scanners. </description>
+<category>Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 23, 2015</release>
+<homepage>http://biomedic.doc.ic.ac.uk/brain-development/index.php?n=Main.Datasets</homepage>
+<maintainer>Imperial College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

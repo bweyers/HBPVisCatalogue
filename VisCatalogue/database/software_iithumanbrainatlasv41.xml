@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="IIT Human Brain Atlas (v.4.1)" nitrc="https://www.nitrc.org/projects/iit" />
+<description> The IIT Human Brain Atlas (v.4.1) contains anatomical, DTI, HARDI templates, probabilistic gray matter labels, probabilistic connectivity-based white matter labels, and major fiber-bundles of the adult human brain in ICBM-152 space. Artifact-free MRI data from 72 subjects were used in the development of the atlas. All diffusion MRI data collection was conducted using Turboprop, and spatial normalization was accomplished in a population-based fashion. If you use components of the atlas, please reference: Zhang S, Arfanakis K. Evaluation of standardized and study-specific diffusion tensor imaging templates of the adult human brain: Template characteristics, spatial normalization accuracy, and detection of small inter-group FA differences. Neuroimage 2018;172:40-50.&lt;br /&gt;&lt;br /&gt;- A description of the contents of the atlas can be found in &amp;quot;Downloads&amp;quot;.&lt;br /&gt;- Information on HOW TO use the atlas can be found in &amp;quot;Docs&amp;quot;.&lt;br /&gt;- Post questions or experiences with the atlas on the &amp;quot;Forums&amp;quot;.&lt;br /&gt;&lt;br /&gt;Version 4.1 was uploaded on 10/15/15. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=432&amp;screenshot_id=639&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=432&amp;screenshot_id=639&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>IIT Human Brain Template License</license>
+<category>Atlas Data</category>
+<release>Dec 20, 2010</release>
+<homepage>http://www.iit.edu/~mri/Home.html</homepage>
+<maintainer>Illinois Institute of Technology</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

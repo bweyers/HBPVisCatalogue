@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Draw3D and Meshinator" nitrc="https://www.nitrc.org/projects/draw3d" />
+<description> Draw3D is a 3D rendering tool written entirely in VTK-TCL script. It is intended for fast command line rendering and visual inspection of datasets commonly found in medical imaging. It also allows the generation of images for reports or videos. As it is based on pure VTK, it can render whatever VTK can render, and runs wherever VTK can run. &lt;br /&gt;&lt;br /&gt;Meshinator is a simpler tool that uses VTKs isosurface functions to generate meshes from volumetric data.&lt;br /&gt;&lt;br /&gt;Please see the wiki for documentation 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=469&amp;screenshot_id=341&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=469&amp;screenshot_id=341&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Visualization</category>
+<release>Mar 27, 2011</release>
+<homepage>http://www.nitrc.org/projects/draw3d/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

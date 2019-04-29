@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="CUDA accelerated spherical model M/EEG" nitrc="https://www.nitrc.org/projects/cuda_sphere_fwd" />
+<description> CUDA-SPHERE-FWD-MEEG is a CUDA C based toolkit which provides a GPU based implementation of the spherical model forward solution for the 306 channel Elekta Neuromag MEG system and the EEG. The 1-Sphere forward solution for the MEG and the 4-Sphere forward solution for the EEG is implemented in CUDA C and an accelerated solution is obtained using the NVIDIA GPU when the solution is calculated for a large number of dipoles (on the order of 15000 and above) and sensor location. Speedup by a factor of 22 and 32 is obtained for the EEG and MEG solution respectively when compared to the fastest CPU implementation available in the public domain. The complete source code and pre-compiled binaries are also made available via an open source license (GPL Version 3). A CUDA enabled NVIDIA graphics card is required to use the software. </description>
+<license>GNU General Public License (GPL)</license>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<release>Feb 10, 2012</release>
+<homepage>http://www.nitrc.org/projects/cuda_sphere_fwd/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Combining a patch-based approach with a non-rigid registration-based label fusion method for the hippocampal segmentation" nitrc="https://www.nitrc.org/projects/lf_patches" />
+<description> We propose a patch-based labeling method, which cooperates&lt;br /&gt;with a label fusion using non-rigid registrations. We present&lt;br /&gt;a novel patch-based label fusion method, whose selected patches and their weights are calculated from a combination of similarity measures between patches using intensity-based distances and labeling-based distances, where a previous labeling of the target image is inferred by a label fusion method using non-rigid registrations. We compare several label fusion methods on publicly available MR images of human brains for segmenting the hippocampus. </description>
+<release>Jun 1, 2015</release>
+<homepage>http://www.nitrc.org/projects/lf_patches/</homepage>
+<maintainer>Technical University of Madrid (Spain)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

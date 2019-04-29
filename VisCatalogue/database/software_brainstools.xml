@@ -1,0 +1,40 @@
+<root>
+<software>
+<name name="BRAINSTools" nitrc="https://www.nitrc.org/projects/brains" />
+<description> DO NOT USE THIS PAGE -- GOTO --&amp;gt; &lt;a href=&quot;https://github.com/BRAINSia/BRAINSTools&quot; target=&quot;_new&quot;&gt;https://github.com/BRAINSia/BRAINSTools&lt;/a&gt;&lt;br /&gt;DO NOT USE THIS PAGE&lt;br /&gt;DO NOT USE THIS PAGE&lt;br /&gt;&lt;br /&gt;NOTE: All active development of BRAINS is now being stored in a Git repository at github.com. Please go to&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/BRAINSia/BRAINSTools&quot; target=&quot;_new&quot;&gt;https://github.com/BRAINSia/BRAINSTools&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;The BRAINS (Brain Research: Analysis of Images, Networks, and Systems) image analysis software has been developed to study the brain thus providing a better understand of psychiatric and neurological disorders. </description>
+<license>BRAINS License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Mesh Generation</category>
+<category>Model Generation</category>
+<category>Tensor Metric</category>
+<category>KMeans</category>
+<category>Neural Network</category>
+<category>Intermodal</category>
+<category>Intersubject</category>
+<category>Resampling</category>
+<category>Diffusion MR Fiber Tracking</category>
+<category>Image Display</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Nov 1, 2007</release>
+<homepage>https://github.com/BRAINSia</homepage>
+<maintainer>University of Iowa</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Non redundant connectivity (NRC) maps" nitrc="https://www.nitrc.org/projects/nrcon" />
+<description> Non-Redundant Connectivity (NRC) maps are summary maps of functional connectivity levels in the brain, estimated from fMRI datasets. They are similar to weighted Global Brain Connectivity (GBC) maps (Cole et al. 2010). However, NRC is based on estimates of multiple correlations instead of bivariate correlations as in GBC, allowing the exploration of the multivariate nature of brain connectivity. To avoid dimensionality problems it applies the method of Supervised Principal Components (Bair et al. 2006).&lt;br /&gt;&lt;br /&gt;To run a NRC analysis you can use nrcon, a 64 bit linux executable that can be downloaded from &lt;a href=&quot;http://www.neuroimagen.es/webs/nrcon/&quot; target=&quot;_new&quot;&gt;http://www.neuroimagen.es/webs/nrcon/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;nrcon also calculates GBC and Degree Centrality (DC) images. A full description of the method is available in:&lt;br /&gt;&lt;br /&gt;Non redundant functional brain connectivity in schizophrenia.&lt;br /&gt;R. Salvador, R. Landín-Romero, M. Anguera, E. J. Canales-Rodríguez, J. Radua, A. Guerrero-Pedraza, S. Sarró, T. Maristany, P.J. McKenna, E. Pomarol-Clotet.&lt;br /&gt;Brain Imaging Behav. 2016 Mar 21 </description>
+<license>Freeware</license>
+<release>Apr 18, 2016</release>
+<homepage>http://www.nitrc.org/projects/nrcon/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

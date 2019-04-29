@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Stark Cross-Sectional Aging" nitrc="https://www.nitrc.org/projects/stark_aging" />
+<description> NOTE -Some, but not all of the data are are live. More will be added as time and disk space allow.&lt;br /&gt;&lt;br /&gt;Behavioral and imaging data from ~120 participants aged 18-89. Data were collected as part of a grant to use high-resolution imaging and advanced behavioral tasks to understand how aging affects the hippocampus and how this is related to age-related cognitive decline. The full dataset includes:&lt;br /&gt;- Traditional neuropsycholgical measures&lt;br /&gt;- Hippocampal-specific behavioral measures&lt;br /&gt;- Whole-brain DTI&lt;br /&gt;- High-resolution DTI of the medial temporal lobes&lt;br /&gt;- Structural MRI including segmentation of grey/white/CSF, of cortical regions (Freesurfer) and of hippocampal subfields </description>
+<license>Attribution Non-Commercial Share Alike</license>
+<category>Data</category>
+<release>Nov 18, 2013</release>
+<homepage>http://www.nitrc.org/projects/stark_aging/</homepage>
+<maintainer>University of California Irvine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

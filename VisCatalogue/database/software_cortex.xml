@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="cortex" nitrc="https://www.nitrc.org/projects/cortex" />
+<description> This software package contains functions that will help researchers plan how many subjects per group need to be included in an MRI-based cortical thickness study to ensure a thickness difference is detected. The package requires cortical thickness mapping and co-registration to be carried out using Freesurfer. The power analyses are implemented in the R software package. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Thickness</category>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<release>Apr 12, 2012</release>
+<homepage>http://brain.org.au/software/cortex/power</homepage>
+<maintainer>Florey Neuroscience Institutes</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

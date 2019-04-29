@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="TurboFIRE" nitrc="https://www.nitrc.org/projects/turbofire" />
+<description> Real-time task-based and resting-state fMRI analysis software </description>
+<license>Commerical Software</license>
+<category>Connectivity Analysis</category>
+<category>Experimental Control</category>
+<category>Artifact Removal</category>
+<category>Quality Metrics</category>
+<category>Intramodal</category>
+<category>Intrasubject</category>
+<category>Linear</category>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 27, 2017</release>
+<homepage>http://www.neurinsight.com/</homepage>
+<maintainer>NeurInsight LLC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

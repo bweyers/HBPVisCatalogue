@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="nitime" nitrc="https://www.nitrc.org/projects/nitime" />
+<description> Nitime is a library for time-series analysis of data from neuroscience experiments.&lt;br /&gt;&lt;br /&gt;It contains a core of numerical algorithms for time-series analysis both in the time and spectral domains, a set of container objects to represent time-series, and auxiliary objects that expose a high level interface to the numerical machinery and make common analysis tasks easy to express with compact and semantically clear code. </description>
+<license>BSD License</license>
+<release>May 6, 2010</release>
+<homepage>http://nipy.org/nitime/</homepage>
+<maintainer>NIPY</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

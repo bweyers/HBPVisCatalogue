@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="MNE - Minimum Norm Current Estimates" nitrc="https://www.nitrc.org/projects/mne" />
+<description> The MNE software has been developed to compute cortically-constrained L2 minimum-norm current estimates and associated dynamic statistical parametric maps from MEG and EEG data, optionally constrained by fMRI. This software includes MEG and EEG preprocessing tools, interactive and batch-mode modules for the forward and inverse calculations, as well as various data conditioning and data conversion utilities.&lt;br /&gt;&lt;br /&gt;This is a subproject of the Center for Functional Neuroimaging Techniques (&lt;a href=&quot;http://www.nitrc.org/projects/cfnt/&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/projects/cfnt/&lt;/a&gt;) 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=168&amp;screenshot_id=614&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=168&amp;screenshot_id=614&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MGH CSRL License</license>
+<category>Forward - Inverse</category>
+<category>Temporal Transformation</category>
+<category>Time Domain Analysis</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 20, 2008</release>
+<homepage>http://www.martinos.org/mne/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

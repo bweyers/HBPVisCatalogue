@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="MisterI" nitrc="https://www.nitrc.org/projects/misteri" />
+<description> MisterI (Mr. I) is a powerful and modular medical image viewer/editor. It should be particularly useful to Undergraduates, Postdocs and Researchers in Medical Imaging to visualize data and to easily make attractive figures (for papers or presentations). It will also in a near future offer a number of advanced algorithms for medical image processing. Look at the video to get an idea ! &lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.benoitscherrer.com/MisterI/videos.html&quot; target=&quot;_new&quot;&gt;http://www.benoitscherrer.com/MisterI/vi...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=714&amp;screenshot_id=703&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=714&amp;screenshot_id=703&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Cardware</license>
+<category>Visualization</category>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>May 2, 2013</release>
+<homepage>http://www.nitrc.org/projects/misteri/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="resting-state fMRI of patients with pre-eclampsia and healthy pregnant women" nitrc="https://www.nitrc.org/projects/fmri_pe_2012" />
+<description> resting-state fMRI data of patients with pre-eclapmsia and healthy pregnant women. </description>
+<license>Wakayama_PE_study</license>
+<release>Jun 7, 2018</release>
+<homepage>http://www.nitrc.org/projects/fmri_pe_2012/</homepage>
+<maintainer>Wakayama Medical University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

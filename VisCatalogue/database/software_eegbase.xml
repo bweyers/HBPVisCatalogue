@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="EEGBase" nitrc="https://www.nitrc.org/projects/eegbase" />
+<description> EEGBase portal enables community researchers to store, update, download and search data and metadata from EEG/ERP experiments </description>
+<license>Apache License 2.0</license>
+<release>Jan 5, 2017</release>
+<homepage>http://www.nitrc.org/projects/eegbase/</homepage>
+<maintainer>University of West Bohemia</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

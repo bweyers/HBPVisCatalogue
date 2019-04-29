@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="NITRC GForge Extensions" nitrc="https://www.nitrc.org/projects/nitrcext" />
+<description> This project contains custom extensions to the GForge collaborative environment used to create NITRC. These features include: MediaWiki integration, ratings and reviews, Nutch Web crawling integration, improved project searching, BBCode extensions, and front and project summary page re-design. See our Release Notes page for specifics: &lt;a href=&quot;http://www.nitrc.org/plugins/mwiki/index.php/nitrc:NITRC_Release_Notes&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/plugins/mwiki/index...&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<release>Jul 6, 2010</release>
+<homepage>http://www.nitrc.org/projects/nitrcext/</homepage>
+<maintainer>Turner Consulting Group</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

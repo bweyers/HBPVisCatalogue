@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Simulated Diffusion-Weighted Datasets" nitrc="https://www.nitrc.org/projects/diffusionsim" />
+<description> Simulated datasets generated using the framework described in the paper &#x27;Realistic simulation of artefacts in diffusion MRI for validating post-processing correction techniques&#x27;. These can be used to validate your postprocessing correction techniques.&lt;br /&gt;&lt;br /&gt;Data containing susceptibility artefacts from the paper &#x27;Quantitative assessment of the susceptibility artefact and its interaction with motion in diffusion MRI&#x27; is now also available for download.&lt;br /&gt;&lt;br /&gt;Code to simulate your own datasets can be found at:&lt;br /&gt;&lt;a href=&quot;https://github.com/marksgraham/DW-POSSUM&quot; target=&quot;_new&quot;&gt;https://github.com/marksgraham/DW-POSSUM&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Available files:&lt;br /&gt;-SimulationFiles.zip contains DWI data with eddy-current and motion artefacts&lt;br /&gt;-Susceptibility datasets (static) contains DWIs with the susceptibility artefact&lt;br /&gt;-Susceptibility datasets (dynamic) contains data with the susceptibility artefact and motion (NB motion affects the susceptibility field)&lt;br /&gt;-Susceptibility datasets (other) contains a mask, T2-weighted images and a field-map for the static susceptibility data. </description>
+<license>Public Domain</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jan 12, 2016</release>
+<homepage>http://www.nitrc.org/projects/diffusionsim/</homepage>
+<maintainer>UCL</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

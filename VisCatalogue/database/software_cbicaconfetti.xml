@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="CBICA: Confetti" nitrc="https://www.nitrc.org/projects/cbica_confetti" />
+<description> Confetti is a method for automated identification of white matter tracts of interest in a consistent and comparable manner over a large group of subjects without drawing the inclusion and exclusion regions of interest (ROI), facilitating an easy correspondence between different subjects, as well as providing a representation that is robust to edema, mass effect, and tract infiltration.&lt;br /&gt;Confetti includes three main steps: (1) Connectivity signature generation for fibers, (2) Clustering of fibers using a mixture of multinomials (MNs) clustering method and Expectation-Maximization (EM) optimization framework, (3) Extraction of predefined white matter tracts. </description>
+<license>CBICA License</license>
+<category>Connectivity Analysis</category>
+<release>Sep 25, 2017</release>
+<homepage>http://www.nitrc.org/projects/cbica_confetti/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

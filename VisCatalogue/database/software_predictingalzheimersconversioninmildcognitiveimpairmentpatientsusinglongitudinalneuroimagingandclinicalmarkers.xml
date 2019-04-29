@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Predicting Alzheimer’s conversion in mild cognitive impairment patients using longitudinal neuroimaging and clinical markers" nitrc="https://www.nitrc.org/projects/predict_mci2ad" />
+<description> Patients with mild cognitive impairment (MCI) have a high risk for conversion to Alzheimer’s disease (AD). Selecting a set of relevant markers from multimodal data to predict conversion from MCI to AD has become a challenging task.&lt;br /&gt;The aim of this project is to quantify the impact of longitudinal predictive models with single- or multisource data for predicting MCI-to-AD conversion and identifying a very small subset of features that are highly predictive of conversion. We developed predictive models of MCI-to-AD progression that combine magnetic resonance imaging (MRI)-based markers (cortical thickness and volume of subcortical structures) with neuropsychological tests. A set of longitudinal features potentially discriminating between&lt;br /&gt;MCI subjects who convert to AD and those who remain stable over a period of 3 years was obtained. The proposed approach was developed, trained and evaluated using the&lt;br /&gt;Alzheimer’s Disease Neuroimaging Initiative (ADNI) dataset </description>
+<license>Non-Commercial Software License Agreement</license>
+<release>Nov 3, 2018</release>
+<homepage>http://www.nitrc.org/projects/predict_mci2ad/</homepage>
+<maintainer>Universidad Politécnica de Madrid</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

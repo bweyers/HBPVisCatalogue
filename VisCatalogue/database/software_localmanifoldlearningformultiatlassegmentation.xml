@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Local Manifold Learning for Multi-atlas segmentation" nitrc="https://www.nitrc.org/projects/mllf" />
+<description> LMLMS(Local Manifold Learning for Multi-atlas segmentation) employs manifold learning to determine spatially local weights for label fusion in a low-dimensional coordinate space. It&#x27;s based on paper &amp;quot;Local manifold learning for multiatlas segmentation: application to hippocampal segmentation in healthy population and Alzheimer&#x27;s disease&amp;quot; </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Jan 22, 2016</release>
+<homepage>http://www.nitrc.org/projects/mllf/</homepage>
+<maintainer>Beihang University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

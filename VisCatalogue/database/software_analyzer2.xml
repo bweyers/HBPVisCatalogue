@@ -1,0 +1,39 @@
+<root>
+<software>
+<name name="Analyzer 2" nitrc="https://www.nitrc.org/projects/bva" />
+<description> Since 1997, BrainVision Analyzer has made its way into thousands of research labs, helping scientists to manage their daily work of analyzing various neurophysiological data. &lt;br /&gt;&lt;br /&gt;Thanks to its ease of use, the handling of an amazing number of powerful features is just a snap. The editable History Tree® lets you organize, explore and trace evaluation steps. &lt;br /&gt;&lt;br /&gt;Automated analysis with drag &amp;amp; drop functions speeds up recurring tasks. &lt;br /&gt;&lt;br /&gt;Various data format readers recognize files from different EEG manufacturers automatically and guarantee compatibility &amp;amp; exchangeability with other research labs. &lt;br /&gt;&lt;br /&gt;Analyzer includes all necessary pre-processing functions, enhanced time-frequency analysis options, ICA, LORETA, MRI correction and a direct interface to MATLAB®. &lt;br /&gt;&lt;br /&gt;Various views create unlimited output possibilities to publish your results. &lt;br /&gt;&lt;br /&gt;PLEASE NOTE: Running Analyzer requires a dongle that has to be purchased through Brain Products or one of its distributors (&lt;a href=&quot;http://www.brainproducts.com/distributors.php&quot; target=&quot;_new&quot;&gt;http://www.brainproducts.com/distributor...&lt;/a&gt;). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=570&amp;screenshot_id=1199&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=570&amp;screenshot_id=1199&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>Connectivity Analysis</category>
+<category>Source Separation Analysis</category>
+<category>Artifact Removal</category>
+<category>Wavelet Transformation</category>
+<category>Independent Component Analysis</category>
+<category>Temporal Transformation</category>
+<category>Event Related Potential</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Workflow</category>
+<platform>Windows</platform>
+<input>ASCII</input>
+<output>ASCII</output>
+<input>Brain Vision Analyzer Data Exchange Format</input>
+<output>Brain Vision Analyzer Data Exchange Format</output>
+<input>CNT</input>
+<output>CNT</output>
+<input>EDF/BDF/GDF</input>
+<output>EDF/BDF/GDF</output>
+<input>EGI</input>
+<output>EGI</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Feb 6, 2012</release>
+<homepage>https://www.brainproducts.com</homepage>
+<maintainer>Brain Products GmbH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

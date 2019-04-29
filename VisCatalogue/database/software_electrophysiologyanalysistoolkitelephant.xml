@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Electrophysiology Analysis Toolkit (Elephant)" nitrc="https://www.nitrc.org/projects/elephant" />
+<description> The Electrophysiology Analysis Toolkit (Elephant) is an open-source library for the analysis of electrophysiological data in the Python programming language. The focus of Elephant is on generic analysis functions for spike train data and time series recordings from electrodes, such as local field potentials (LFP) or intracellular voltages. In addition to providing a common platform for analysis code from different laboratories, the Elephant project aims to provide a consistent and homogeneous analysis framework built on a modular foundation. Elephant is built on the Neo data object model for electrophysiological data. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1237&amp;screenshot_id=1152&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1237&amp;screenshot_id=1152&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<release>Nov 21, 2017</release>
+<homepage>http://www.python-elephant.org/</homepage>
+<maintainer>NeuralEnsemble community</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

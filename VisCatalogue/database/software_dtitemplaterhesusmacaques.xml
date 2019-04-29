@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="DTI-TEMPLATE-RHESUS-MACAQUES" nitrc="https://www.nitrc.org/projects/rmdtitemplate" />
+<description> Diffusion Tensor Imaging (DTI) studies of non-human primates (NHP) are becoming increasingly common. Recently, many DTI analysis methodologies have been developed for human brain studies; however, few are directly applicable to NHP. A prerequisite for most statistical DTI analyses to localize WM differences across populations is to spatially normalize the individual scans to a representative template. Here, we report the development of a population-specific DTI template for young adolescent Rhesus Macaque (Macaca mulatta) monkeys using 271 high-quality scans. Using such a large number of animals in generating a template allows it to account for variability in the species. Our DTI template is based on the largest number of animals ever used in generating a computational brain template. It is anticipated that our DTI template will help facilitate voxel-based and tract specific WM analyses in non-human primate species, which in turn may increase our understanding of brain function, development, and evolution. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=429&amp;screenshot_id=337&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=429&amp;screenshot_id=337&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>DTI-TK license</license>
+<release>Dec 4, 2010</release>
+<homepage>http://www.nitrc.org/projects/rmdtitemplate/</homepage>
+<maintainer>University of Wisconsin-Madison</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: PREDICT" nitrc="https://www.nitrc.org/projects/atrophysim" />
+<description> In our approach to simulate brain tissue atrophy, we adapt the strategy delineated by the well-known Occam&#x27;&#x27;s razor: solution to problems must be as simple as possible, but not simpler. In the case of brain tissue atrophy, in the absence of a priori knowledge of precisely how a specific medical condition causes tissue loss and in which pattern, the only information available is that the apparent volume of the tissue is reduced. We therefore proceed to find a deformation that corresponds to a reduction of tissue volume in a specified region of the brain. Specifically, given a prescribed level of tissue volume after atrophy over an image, we solve for a warping deformation that produces the desired volumetric changes using an energy minimization approach. The advantages of the method is that it is automated, easily generalizable to other instances of spatially varying volumetric change, and can readily be modified to incorporate a priori knowledge in the form of a statistical atlas of tissue loss. </description>
+<license>SBIA License</license>
+<release>Feb 21, 2017</release>
+<homepage>http://www.nitrc.org/projects/atrophysim/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

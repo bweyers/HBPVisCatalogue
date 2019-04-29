@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="caGWAS" nitrc="https://www.nitrc.org/projects/cagwas" />
+<description> Cancer Genome-Wide Association Studies (caGWAS) allows researchers to integrate, query, report, and analyze significant associations between genetic variations and disease, drug response or other clinical outcomes. SNP array technologies make it possible to genotype hundreds of thousands of single nucleotide polymorphisms (SNPs) simultaneously, enabling whole genome association studies. Within the Clinical Genomic Object Model (CGOM), the caIntegrator team created a domain model for Whole Genome Association Study Analysis. CGOM-caGWAS is a semantically annotated domain model that captures associations between Study, Study Participant, Disease, SNP Association Analysis, SNP Population Frequency and SNP annotations. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=709&amp;screenshot_id=643&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=709&amp;screenshot_id=643&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Genetic Association</category>
+<release>Apr 25, 2013</release>
+<homepage>http://wiki.nci.nih.gov/display/caGWAS/caGWAS</homepage>
+<maintainer>National Cancer Informatics Program</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

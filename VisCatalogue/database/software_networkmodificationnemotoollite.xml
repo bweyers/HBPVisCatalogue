@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Network Modification (NeMo) Tool Lite" nitrc="https://www.nitrc.org/projects/brainnet_2013" />
+<description> The NeMo Tool is the first that associates localized white matter (WM) lesions with&lt;br /&gt;disruptions in gray matter connectivity as a step toward understanding the lesions’ functional&lt;br /&gt;implications. A Tractogram Reference Set (TRS), i.e. collections of white matter fibers, is&lt;br /&gt;constructed from 73 normal healthy individuals and coregistered to a common space (MNI). The&lt;br /&gt;NeMo Tool uses the TRS to assess structural network disruption due to a particular WM lesion&lt;br /&gt;mask on a region and network-wise level. This tool is an easy way for researchers and clinicians&lt;br /&gt;to investigate changes in the structural brain network without having to perform tractography on&lt;br /&gt;their own normal data or on diseased/injured brains where the results may not represent the&lt;br /&gt;underlying physiology. </description>
+<license>GNU General Public License (GPL)</license>
+<release>May 28, 2013</release>
+<homepage>http://www.nitrc.org/projects/brainnet_2013/</homepage>
+<maintainer>Weill Cornell Medical College</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

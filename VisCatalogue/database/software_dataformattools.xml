@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Data Format Tools" nitrc="https://www.nitrc.org/projects/dft" />
+<description> DFT is a loose collection of programs and configuration options that intend to make working with data more transparent to formats.&lt;br /&gt;&lt;br /&gt;Currently available is a basic specification for NIfTI-1 for the UNIX file command and proof of concept code for the concept of treating data as an abstract concept and instantiating physical instances on demand. </description>
+<license>BSD License</license>
+<category>Format Conversion</category>
+<category>Visualization</category>
+<category>Other Software Resource</category>
+<platform>MacOS</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 30, 2011</release>
+<homepage>http://www.nitrc.org/projects/dft/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

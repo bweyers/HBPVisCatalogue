@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Temporal-lobe.com" nitrc="https://www.nitrc.org/projects/connectivity" />
+<description> Existing knowledge of hippocampal - parahippocampal connections was integrated into an interactive diagram in which any connection can be turned on or off at the level of cortical layers.&lt;br /&gt;&lt;br /&gt;Project Goals:&lt;br /&gt;* To provide an overview of all known anatomical projections of the rat hippocampal - parahippocampal network.&lt;br /&gt;* To provide a graphical interface with which users can turn on or off any connections at regional level down to the level of cortical layers.&lt;br /&gt;* To make it easy to find references for a particular projection. &lt;br /&gt;&lt;br /&gt;Download the diagram for free at &lt;a href=&quot;http://www.temporal-lobe.com.&quot; target=&quot;_new&quot;&gt;http://www.temporal-lobe.com.&lt;/a&gt;</description>
+<license>Creative Commons License</license>
+<release>Jul 29, 2010</release>
+<homepage>http://www.nitrc.org/projects/connectivity/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

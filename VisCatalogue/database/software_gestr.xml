@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="GesTr" nitrc="https://www.nitrc.org/projects/gestr" />
+<description> GesTr is a cross platform, open source gesture tracking program. You launch it from the web, and use it to streamline the way you communicate with the computer. It allows for a more natural method of issuing commands than with keyboard shortcuts or GUI buttons.&lt;br /&gt;&lt;br /&gt;GesTr supports simple XML files to customize recognized gestures and their corresponding actions.&lt;br /&gt;&lt;br /&gt;GesTr also has experimental support for the Wii Remote used with an infrared pen as an alternative input device. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Aug 6, 2010</release>
+<homepage>http://www.nitrc.org/projects/gestr/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

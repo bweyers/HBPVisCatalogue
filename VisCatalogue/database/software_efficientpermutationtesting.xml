@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Efficient Permutation Testing" nitrc="https://www.nitrc.org/projects/efficient_pt" />
+<description> Matlab implementation for efficient permutation testing (&lt;a href=&quot;http://pages.cs.wisc.edu/~vamsi/pt_fast.html&quot; target=&quot;_new&quot;&gt;http://pages.cs.wisc.edu/~vamsi/pt_fast....&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;Permutation testing is a non parametric procedure to estimate the distribution of max null statistic. However it computationally very expensive, particularly in neuroimaging and biostatistics studies where dimensionality of data is on the order of millions. We proposed an efficient procedure to estimate this max null using matrix completion. A speed up of atleast 50 times is achieved while estimating the max null upto a high degree of accuracy. For complete details please refer to the project website (link above).&lt;br /&gt;&lt;br /&gt;Please cite the following paper upon usage of the tool. &lt;br /&gt;C. Hinrichs, V. K. Ithapu, Q. Sun, V. Singh, S. C. Johnson, Speeding up Permutation Testing in Neuroimaging, Neural Information Processing Systems (NIPS), 2013 </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<release>Jan 16, 2014</release>
+<homepage>http://pages.cs.wisc.edu/~vamsi/pt_fast.html</homepage>
+<maintainer>University of Wisconsin Madison</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

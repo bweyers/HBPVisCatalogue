@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="GLIRT" nitrc="https://www.nitrc.org/projects/glirt" />
+<description> GLIRT (Groupwise and Longitudinal Image Registration Toolbox) provides solutions for both groupwise registration and longitudinal registration, which are the necessary steps for many brain-related applications.&lt;br /&gt;&lt;br /&gt;Specifically, groupwise registration is important for unbiased analysis of a large set of MR brain images. Therefore, in this software package, we have included two of our recently-developed groupwise registration algorithms: 1) Improved unbiased groupwise registration guided with the sharp group-mean image, and 2) Hierarchical feature-based groupwise registration with implicit template (Groupwise-HAMMER for short). &lt;br /&gt;&lt;br /&gt;On the other hand, we also included our recently-developed groupwise longitudinal registration algorithm that aligns not only the longitudinal image sequence for each subject, but also align all longitudinal image sequences of all subjects to the common space simultaneously. &lt;br /&gt;&lt;br /&gt;This software package was developed in the IDEA group at UNC-Chapel Hill ( &lt;a href=&quot;http://bric.unc.edu/ideagroup&quot; target=&quot;_new&quot;&gt;http://bric.unc.edu/ideagroup&lt;/a&gt; ). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=474&amp;screenshot_id=351&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=474&amp;screenshot_id=351&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<category>Intersubject</category>
+<category>Motion Analysis</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Apr 2, 2011</release>
+<homepage>http://www.nitrc.org/projects/glirt/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

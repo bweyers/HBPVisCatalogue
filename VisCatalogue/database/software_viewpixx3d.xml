@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="VIEWPixx /3D" nitrc="https://www.nitrc.org/projects/replacement_crt" />
+<description> The VIEWPixx /3D is a complete display toolbox which has been developed specifically to replace CRTs in vision science labs. The VIEWPixx /3D incorporates industrial LCD glass, and a controller which has been custom designed to support vision research. Our innovative LED backlight design features superior display uniformity, and a wide color gamut exceeding that of any CRT. In addition, it includes an array of peripherals which often need to be synchronized (with microsecond precision) to video during an experiment, including a stereo audio stimulator, a button box port for precise reaction-time measurement, triggers for electrophysiology equipment, and even a complete analog I/O subsystem. It is perfectly suited for presentation of dynamic stimuli, it features 1920 x 1080 resolution, 10-bit intensity on each colour and true 120Hz refresh rate. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=731&amp;screenshot_id=655&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=731&amp;screenshot_id=655&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Response Monitoring</category>
+<category>Stimulus Presentation</category>
+<category>Physiological Recording</category>
+<category>Physiological Stimulation</category>
+<release>Jun 20, 2013</release>
+<homepage>http://vpixx.com/products/viewpixx-3d/</homepage>
+<maintainer>VPixx Technologies</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

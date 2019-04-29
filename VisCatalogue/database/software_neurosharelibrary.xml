@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="NeuroshareLibrary" nitrc="https://www.nitrc.org/projects/nslib_v1_3_1" />
+<description> This is MATLAB library to create Neuroshare data format.&lt;br /&gt;You can convert your own data into Neuroshare format file. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=488&amp;screenshot_id=500&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=488&amp;screenshot_id=500&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Format Conversion</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 5, 2011</release>
+<homepage>http://www.cns.atr.jp/dni/en/downloads/tools-for-brain-behavior-data-sharing/</homepage>
+<maintainer>Computational Neuroscience Labs</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

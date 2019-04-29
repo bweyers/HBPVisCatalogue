@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Subject Order-Independent Group ICA" nitrc="https://www.nitrc.org/projects/cogicat" />
+<description> While the traditional temporally concatenated Group ICA (TC-GICA) adopting three steps of PCA reduction, it could result in inconsistent and variable components when different subject orders were used, both for the group- and individual-level results. Such instability can further cause instable and thus unreliable statistical results. Subject Order-Independent Group ICA (SOI-GICA) aims to fix this problem by producing stable and reliable GICA results. For details please see the paper &amp;quot;Subject Order-Independent Group ICA (SOI-GICA) for Functional MRI Data Analysis&amp;quot; (Zhang et al., 2010, NeuroImage)(&lt;a href=&quot;http://dx.doi.org/10.1016/j.neuroimage.2010.03.039&quot; target=&quot;_new&quot;&gt;http://dx.doi.org/10.1016/j.neuroimage.2...&lt;/a&gt;). MICA is the toolbox inplemented SOI-GICA for convenience of usage. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Independent Component Analysis</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 2, 2009</release>
+<homepage>http://www.nitrc.org/projects/cogicat/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

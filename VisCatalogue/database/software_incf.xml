@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="INCF" nitrc="https://www.nitrc.org/projects/incf" />
+<description> The INCF is a professional organization devoted to advancing the field of neuroinformatics. One of its aims is to develop an international neuroinformatics infrastructure, which promotes the sharing of data and computing resources to the international research community. A second objective of INCF is to help develop scalable, portable, and extensible applications that can be used by neuroscience laboratories worldwide. </description>
+<category>Database</category>
+<category>Community</category>
+<category>Web Service</category>
+<category>Websites</category>
+<platform>OS Independent</platform>
+<release>Nov 6, 2008</release>
+<homepage>https://www.incf.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Unbiased, Deformable Spatiotemporal Atlas of the Fetal Brain" nitrc="https://www.nitrc.org/projects/crl_fetal_atlas" />
+<description> The CRL has developed a mathematical framework for the generation of an unbiased, deformable spatiotemporal atlas of the fetal brain from magnetic resonance imaging (MRI) of normal fetuses scanned prenatally. &lt;br /&gt;&lt;br /&gt;Our atlas serves to capture the inter-subject anatomic variability of the fetal brain over the fetal brain growth period and is currently available between 27 weeks gestational age to 35 weeks. The atlas has been constructed following an unbiased minimum distance template estimation approach which utilizes symmetric diffeomorphic deformation and the cross-correlation (CC) similarity metric integrated with kernel regression in age. &lt;br /&gt;&lt;br /&gt;Visit &lt;a href=&quot;http://crl.med.harvard.edu/research/fetal_brain_atlas/&quot; target=&quot;_new&quot;&gt;http://crl.med.harvard.edu/research/feta...&lt;/a&gt; for more information. </description>
+<license>Open Software License 3.0</license>
+<release>Jul 16, 2014</release>
+<homepage>http://www.nitrc.org/projects/crl_fetal_atlas/</homepage>
+<maintainer>Computational Radiology Laboratory</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="In vivo MEMRI-based Rat Brain Atlas" nitrc="https://www.nitrc.org/projects/memriratbrains" />
+<description> In vivo MEMRI-based Rat Brain Atlas provides a reference MEMRI data of Wistar rat brain and corresponding 40 structure labels. Using the reference MRI and the atlas data users can perform regional specific MRI parametric and volumetric analysis. </description>
+<license>Free For Non-Commercial Use Only</license>
+<release>Sep 29, 2015</release>
+<homepage>http://www.nitrc.org/projects/memriratbrains/</homepage>
+<maintainer>University of Nebraska Medical Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Solar Eclipse Imaging Genetics tools" nitrc="https://www.nitrc.org/projects/se_linux" />
+<description> We are developing software tools optimized for performing univariate and multivariate imaging genetics analyses while providing practical correction strategies for multiple testing.&lt;br /&gt;&lt;br /&gt;Official beta SOLAR Eclipse Version 8.3.X, adds multiple developments. This includes: Empirical pedigree from plink files, fast heritability (FPHI) and GWAS (NINGA) updates for CPU/GPU computing, more accurate p-value approximation for fast inference, polyclass_normalize function for multi-site homogenization and mega-analysis. &lt;br /&gt;&lt;br /&gt;Upcoming implements: CPU/GPU-based voxel-wise GWA using new HDF5 file format and cluster based statistical inference based on permutations.&lt;br /&gt;&lt;br /&gt;Source codes are distributed as a tarball or at github.com/kochunov/solar-eclipse&lt;br /&gt;&lt;br /&gt;The changes are described at &lt;a href=&quot;http://solar-eclipse-genetics.org/&quot; target=&quot;_new&quot;&gt;http://solar-eclipse-genetics.org/&lt;/a&gt;</description>
+<license>GPL-Style Open Source</license>
+<category>Genetic Association</category>
+<platform>MacOS</platform>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 29, 2011</release>
+<homepage>http://solar-eclipse-genetics.org</homepage>
+<maintainer>University of Maryland and Texas Biomedical Foundation</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

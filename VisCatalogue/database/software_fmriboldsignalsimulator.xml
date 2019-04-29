@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="fMRI BOLD Signal Simulator" nitrc="https://www.nitrc.org/projects/fmriboldsim2016" />
+<description> This library provides simulation tools for highly realistic resting state fMRI BOLD signal based on the scientific findings in a PhD dissertation. This library is intended to be used in scientific research, primarily in Neuroscience. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>Nov 17, 2016</release>
+<homepage>http://www.nitrc.org/projects/fmriboldsim2016/</homepage>
+<maintainer>University of Arkansas at Little Rock</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

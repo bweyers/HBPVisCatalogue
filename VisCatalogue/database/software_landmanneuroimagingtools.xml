@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Landman NeuroImaging Tools" nitrc="https://www.nitrc.org/projects/landman" />
+<description> Project to provide long-term hosting and release for small tools related to medical image analysis. Source repository contains highly experimental code intended for collaborative development. However, any interested parties are welcome to browse/reuse code. Stable/evolved projects will be moved to independent projects. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Statistical Operation</category>
+<release>Feb 6, 2009</release>
+<homepage>http://www.nitrc.org/projects/landman/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

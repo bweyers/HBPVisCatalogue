@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="PICASSO skull stripping tool" nitrc="https://www.nitrc.org/projects/picasso" />
+<description> The Personalized Congregation of Algorithms for Skull Stripping Optimization (PICASSO) tool is a general skull stripping for T1-weighted brain MRIs &lt;br /&gt;(a) in multiple imaging sites; &lt;br /&gt;(b) by scanners of various vendors (GE/Siemens/Philips); &lt;br /&gt;(c) by scanners of various magnetic field strengths (1.0T/1.5T/3T/7T); &lt;br /&gt;(d) by various T1-weighted pulse sequences (MPRAGE, SPGR, etc); &lt;br /&gt;(e) with various fields-of-view (even containing neck and shoulders);&lt;br /&gt;(f) from subjects of various ages (infants, pediatrics, young adults, elderly adults); &lt;br /&gt;(g) from subjects of different health conditions (normative, dementia, tumor-bearing); &lt;br /&gt;(h) with various image resolutions (from 1x1x1mm to 1.5x1.5x6mm); and &lt;br /&gt;(i) with various image contrasts (high or low SNRs).&lt;br /&gt;&lt;br /&gt;The PICASSO tool runs in the unix command line. It is compatible with a single linux/mac computer, or preferably with high-performance parallel clusters (PBS or SGE).&lt;br /&gt;&lt;br /&gt;Publication pending. </description>
+<license>BSD License</license>
+<release>May 29, 2015</release>
+<homepage>http://www.nitrc.org/projects/picasso/</homepage>
+<maintainer>Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

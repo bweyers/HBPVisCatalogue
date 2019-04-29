@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="VAMCA Cortical Meta-analysis Toolbox" nitrc="https://www.nitrc.org/projects/vamca" />
+<description> VAMCA: Visualization And Meta-analysis on Cortical Anatomy is a stand-alone, open source human cortical meta-analysis and visualization toolbox for MatLab. It projects stereotaxic coordinates to a mean cortical surface by using an anatomical database of 60 young adults to provide multiple mappings of normalized cortical surfaces into MNI space. VAMCA performs the following analyses:&lt;br /&gt;&lt;br /&gt;1) Multi-Fiducial Projection Mapping: Map stereotaxic 3D coordinates to the normalized cortical location for each of 60 database subjects.&lt;br /&gt;2) Computing Centroid Locations for groups of foci both on a mean cortical surface and in MNI space.&lt;br /&gt;3) Comparing Two Groups of Foci for differences in location (surface or 3D) of their group centroids and computing the groups&#x27; overlap extent using permutation tests.&lt;br /&gt;4) Detecting Significant Densities of Foci or Density Differences of Two Groups within anatomical ROIs on a mean cortical surface by using Monte Carlo analyses. Coordinate weights allow fixed or random effects type analyses. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=234&amp;screenshot_id=142&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=234&amp;screenshot_id=142&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution</license>
+<category>Database Application</category>
+<category>Visualization</category>
+<platform>Windows 95/98/2000</platform>
+<platform>Windows NT/2000</platform>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<release>Jun 18, 2009</release>
+<homepage>http://www.ebire.org/hcnlab/software/vamca.html</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="The Brain Coactivation Map" nitrc="https://www.nitrc.org/projects/cmap" />
+<description> The Brain Coactivation Map describes all the coactivation networks in the human brain based on the meta-analysis of more than 5,400 neuroimaging articles (from NeuroSynth) containing more than 16,000 individual experiments. It also provides a list of the MeSH tags that more closely match the structure of each network.&lt;br /&gt;You can use our viewer CoactivationMap (&lt;a href=&quot;https://github.com/r03ert0/CoactivationMap.app&quot; target=&quot;_new&quot;&gt;https://github.com/r03ert0/CoactivationM...&lt;/a&gt;) to interactively browse the map, or our command line cmtool (&lt;a href=&quot;https://github.com/r03ert0/cmtool&quot; target=&quot;_new&quot;&gt;https://github.com/r03ert0/cmtool&lt;/a&gt;) to query the map from a shell. </description>
+<license>Attribution Non-Commercial Share Alike</license>
+<platform>OS Independent</platform>
+<release>Oct 31, 2013</release>
+<homepage>http://www.nitrc.org/projects/cmap/</homepage>
+<maintainer>Institut Pasteur</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

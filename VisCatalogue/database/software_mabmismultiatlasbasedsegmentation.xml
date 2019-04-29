@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="MABMIS: Multi-Atlas Based Segmentation" nitrc="https://www.nitrc.org/projects/mabmis" />
+<description> This software package implements MABMIS: Multi-Atlas-Based Multi-Image Segmentation – an algorithm for accurate and consistent segmentation/labeling on a group of images. </description>
+<release>Apr 28, 2011</release>
+<homepage>http://www.nitrc.org/projects/mabmis/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

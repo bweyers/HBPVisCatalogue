@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="BEaST segmentation library" nitrc="https://www.nitrc.org/projects/beast-library" />
+<description> Library of anatomical priors for BEaST &lt;a href=&quot;http://www.bic.mni.mcgill.ca/ServicesSoftwareAdvancedImageProcessingTools/BEaST&quot; target=&quot;_new&quot;&gt;http://www.bic.mni.mcgill.ca/ServicesSof...&lt;/a&gt;</description>
+<license>BIC-MNI Louis Collins</license>
+<release>Dec 13, 2013</release>
+<homepage>http://www.nitrc.org/projects/beast-library/</homepage>
+<maintainer>Montreal Neurological Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

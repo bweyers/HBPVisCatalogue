@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Efficient Longitudinal Upload of Depression in the Elderly (ELUDE)" nitrc="https://www.nitrc.org/projects/elude" />
+<description> The ELUDE dataset is a longitudinal study of late-life depression at Duke University. There are 281 depressed subjects and 154 controls included. An MR scan of each subject was obtained every 2 years for up to 8 years (total of 1093 scans). Clinical assessments occurred more frequently and consists of a battery of psychiatric tests including several depression-specific tests. </description>
+<license>BIRN Data License</license>
+<release>Jun 27, 2014</release>
+<homepage>http://www.nitrc.org/projects/elude/</homepage>
+<maintainer>Duke University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

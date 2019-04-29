@@ -1,0 +1,34 @@
+<root>
+<software>
+<name name="DRAMMS Deformable Image Registration Toolbox" nitrc="https://www.nitrc.org/projects/dramms" />
+<description> DRAMMS is for 2D, 3D, 3.5D, 4D and population-wise deformable image registration. Typical applications include,&lt;br /&gt;&lt;br /&gt;-- Cross-subject registration;&lt;br /&gt;&lt;br /&gt;-- Single- or Multi-site data;&lt;br /&gt;&lt;br /&gt;-- Single- or Multi-modal registration; &lt;br /&gt;&lt;br /&gt;-- Longitudinal registration for quantifying changes;&lt;br /&gt;&lt;br /&gt;-- Registration under missing correspondences.&lt;br /&gt;&lt;br /&gt;-- Group-wise registration for unbiased atlas construction.&lt;br /&gt;&lt;br /&gt;DRAMMS runs in command line in UNIX/Mac OS, It accepts Nifti/ANALYZE/MetaImage image formats. It is fully-automatic --- takes two input images, and generates a registered image and (optionally) the deformation field; no user initialization or interaction is needed.&lt;br /&gt;&lt;br /&gt;More information (installation, tutorial, manual, demonstration, FAQ, etc) can be found at &lt;a href=&quot;http://www.rad.upenn.edu/sbia/software/dramms/&quot; target=&quot;_new&quot;&gt;http://www.rad.upenn.edu/sbia/software/d...&lt;/a&gt; .&lt;br /&gt;&lt;br /&gt;4d-dramms: &lt;a href=&quot;https://www.nitrc.org/projects/dramms4d/&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/projects/dramms4d/&lt;/a&gt;&lt;br /&gt;group-wise dramms: &lt;a href=&quot;https://www.nitrc.org/projects/popdramms/&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/projects/popdramms...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=647&amp;screenshot_id=686&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=647&amp;screenshot_id=686&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Atlas Application</category>
+<category>Segmentation</category>
+<category>Shape Analysis</category>
+<category>Registration</category>
+<category>Warping</category>
+<category>Motion Analysis</category>
+<platform>MacOS</platform>
+<platform>BSD</platform>
+<platform>Cygwin</platform>
+<platform>IRIX</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<platform>SunOS/Solaris</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 25, 2012</release>
+<homepage>http://www.cbica.upenn.edu/sbia/software/dramms</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

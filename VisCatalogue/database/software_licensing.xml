@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="Licensing" nitrc="https://www.nitrc.org/projects/licensing" />
+<description> Licensing issues in software and data.&lt;br /&gt;&lt;br /&gt;All are invited to participate or join the project and contribute. </description>
+<release>Jul 7, 2011</release>
+<homepage>http://www.nitrc.org/projects/licensing/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

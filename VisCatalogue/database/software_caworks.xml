@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="CAWorks" nitrc="https://www.nitrc.org/projects/caworks" />
+<description> Current enhancements to CAWorks have focused on interactive support for landmarking of subcortical structures. Specific plugins are available for landmark placement of the hippocampus, amygdala and entorhinal cortex regions. After landmarking is completed, CAWorks facilitates submission for automated segmentation processing. CAWorks is being used by the Biomarkers for Older Controls At Risk for Dementia (BIOCARD), Resource for Quantitative Functional MRI: TRD4, Validation of Structural/Functional MRI Localization and Biomedical Informatics Research Network (BIRN) projects.&lt;br /&gt;&lt;br /&gt;CAWorks has been further enhanced with a browser plugin module for the Extensible Neuroimaging Archive Toolkit (XNAT). The XNAT software facilitates the storage and management of neuroimaging and associated data. The XNAT browser enables the retrieval of medical image data from XNAT for analysis in CAWorks and the storage of CAWorks analysis results in XNAT. </description>
+<license>BIRN License</license>
+<category>Three Dimensional Display</category>
+<release>Oct 21, 2013</release>
+<homepage>http://www.cis.jhu.edu/software/caworks/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="brainCOLOR: human brain anatomical labeling protocols and colormaps" nitrc="https://www.nitrc.org/projects/neurolabels" />
+<description> This resource was created to host descriptions of protocols, definitions, and &amp;quot;rules of thumb&amp;quot; for the reliable identification and localization of human brain anatomy and discussions of best practices in brain labeling. The projects related to this resource are on &lt;a href=&quot;http://binarybottle.github.io/braincolor&quot; target=&quot;_new&quot;&gt;http://binarybottle.github.io/braincolor&lt;/a&gt; and &lt;a href=&quot;https://www.synapse.org/Synapse:syn3207269/wiki/160639&quot; target=&quot;_new&quot;&gt;https://www.synapse.org/Synapse:syn32072...&lt;/a&gt;</description>
+<license>Attribution</license>
+<category>Knowledge Environment</category>
+<release>Sep 14, 2009</release>
+<homepage>http://binarybottle.github.io/braincolor/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

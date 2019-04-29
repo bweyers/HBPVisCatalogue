@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="GSA-SNP" nitrc="https://www.nitrc.org/projects/gsa-snp" />
+<description> A tool for the gene-set (or pathway) analysis of a genome-wide association study result. It accepts a genome-wide list of SNPs and their association P-values. It summarizes the SNP P-values into nearby genes. The gene-by-gene summary results are then further summarized by gene-sets such as Gene Ontology, KEGG pathways, or user-created gene-sets. Various standardization and statistical tests can be performed and the resulting gene-sets that pass a significance level after multiple-testing correction are reported. The tool is written in Java and is available as a standalone version. It has been published as &amp;quot;Nam, D., Kim, J., Kim, S. Y. &amp;amp; Kim, S. GSA-SNP: a general approach for gene set analysis of polymorphisms. Nucleic Acids Res. 38 (Suppl. 2), W749–W754 (2010). </description>
+<release>May 28, 2013</release>
+<homepage>http://sourceforge.net/projects/gsa-snp/</homepage>
+<maintainer>Soongsil University, Seoul, Korea</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

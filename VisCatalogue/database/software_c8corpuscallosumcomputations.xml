@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="C8: Corpus Callosum Computations" nitrc="https://www.nitrc.org/projects/c8c8" />
+<description> C8 is a small, stand-alone MatLab toolbox that measures sagittal cross-section thickness and area of the human corpus callosum from high-resolution T1 in vivo MR images. C8 takes as input affine normalized white matter segmentations derived from high-resolution (in-plane) T1 images and outputs both regional callosal thicknesses in three different formats and geometrically-defined regional areas in three different configurations. It is a small package that is easily configurable and modifiable and it measures callosa at the rate of several per minute. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=484&amp;screenshot_id=355&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=484&amp;screenshot_id=355&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution</license>
+<release>May 3, 2011</release>
+<homepage>http://www.nitrc.org/projects/c8c8/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

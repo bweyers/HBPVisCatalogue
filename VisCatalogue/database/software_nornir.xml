@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Nornir" nitrc="https://www.nitrc.org/projects/nornir" />
+<description> Nornir’s takes large sets of overlapping images in 2D and produces registered (a.k.a. aligned) 2D mosaics and 3D volumes of any size and scale. Registered slices may be exported as a single large images or viewed/annoted with our Viking viewer.&lt;br /&gt;&lt;br /&gt;Nornir has been used successfully on transmission electron microscopy, scanning electron microscopy images, and light microscopy images. Nornir supports interleaving different imaging methods into the same volume. Support for SerialEM, Objective Imaging, and Digital Micrograph (DM4) raw data is available. Adding formats is not complicated and the author will consider requests.&lt;br /&gt;&lt;br /&gt;Nornir runs on fairly humble hardware for the task. A 32-core 64GB Xeon system built a ~60 TB 250um diameter 2.12nm/pixel volume from roughly 1400 slices. Nornir works incrementally, only updating data that has changed.&lt;br /&gt;&lt;br /&gt;Installation is fairly simple and primarily uses Python&#x27;s PIP installer.&lt;br /&gt; &lt;br /&gt;For further information: &lt;a href=&quot;http://nornir.github.io/&quot; target=&quot;_new&quot;&gt;http://nornir.github.io/&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1307&amp;screenshot_id=1223&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1307&amp;screenshot_id=1223&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<category>Image-to-Image</category>
+<platform>OS Independent</platform>
+<release>Aug 20, 2018</release>
+<homepage>http://nornir.github.io/</homepage>
+<maintainer>University of Utah</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

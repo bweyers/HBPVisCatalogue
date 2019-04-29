@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Laplace Beltrami Filter on QuadEdge Meshes" nitrc="https://www.nitrc.org/projects/laplacebeltrami" />
+<description> The purpose of this filter is to use the Laplace-Beltrami operator to determine surface harmonics in terms&lt;br /&gt;of PointData at each vertex. In the same way that a sound signal can be approximately characterized by a&lt;br /&gt;combination of its most significant frequency components, so can a surface be expressed as a combination&lt;br /&gt;of its surface harmonics. This filter determines the requested N most significant harmonics. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<release>Nov 4, 2013</release>
+<homepage>http://www.nitrc.org/projects/laplacebeltrami/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

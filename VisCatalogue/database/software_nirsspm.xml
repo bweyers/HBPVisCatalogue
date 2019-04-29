@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="NIRS-SPM" nitrc="https://www.nitrc.org/projects/nirs_spm" />
+<description> NIRS-SPM is a SPM and MATLAB-based software package for statistical analysis of near-infrared spectroscopy (NIRS) signals, developed at the Bio Imaging Signal Processing (BISP) lab. at KAIST in Korea. Based on the general linear model (GLM), and Sun&#x27;s tube formula / Lipschitz-Killing curvature (LKC) based expected Euler characteristics, NIRS-SPM not only provides activation maps of oxy-, deoxy-, and total-hemoglobin, but also allows for super-resolution activation localization. Additional features, including a wavelet-minimum description length detrending algorithm and cerebral metabolic rate of oxygen (CMRO2) estimation without hypercapnia, were implemented in the NIRS-SPM software package. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Jul 10, 2012</release>
+<homepage>http://bisp.kaist.ac.kr/NIRS-SPM</homepage>
+<maintainer>Korea Advanced Institute of Science and Technology (KAIST)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

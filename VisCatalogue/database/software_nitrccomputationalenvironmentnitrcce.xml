@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="NITRC Computational Environment (NITRC-CE)" nitrc="https://www.nitrc.org/projects/nitrc_es" />
+<description> NITRC Computational Environment (NITRC-CE) is an on-demand, cloud based computational virtual machine pre-installed with popular neuroimaging tools. We have leveraged NeuroDebian as well as manually added in a variety of popular software tools. NITRC-CE is available to use on your own infrastructure or via commercial cloud providers including Amazon and Microsoft. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=664&amp;screenshot_id=1122&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=664&amp;screenshot_id=1122&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Data</category>
+<category>Database</category>
+<category>Platform or Development Environment</category>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 19, 2012</release>
+<homepage>http://www.nitrc.org/projects/nitrc_es/</homepage>
+<maintainer>Neuroimaging Tools and Resources Collaboratory</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

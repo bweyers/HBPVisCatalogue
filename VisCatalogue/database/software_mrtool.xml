@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="MRTool" nitrc="https://www.nitrc.org/projects/mrtool" />
+<description> MRTool is a comprehensive collection of analysis tools for MR brain imaging data. MRTool has been developed by Dr. Marco Ganzetti in the context of his doctoral degree in 2016. MRTool runs on Apple computers and PCs, it is very easy to install and only requires SPM12. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1117&amp;screenshot_id=1195&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1117&amp;screenshot_id=1195&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 15, 2017</release>
+<homepage>http://www.nitrc.org/projects/mrtool/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Journals" nitrc="https://www.nitrc.org/projects/journals" />
+<description> If you are seeking journals addressing functional and structural neuroimaging topics, this is the right place to start. </description>
+<category>Journal</category>
+<platform>OS Independent</platform>
+<release>Mar 24, 2009</release>
+<homepage>http://www.nitrc.org/projects/journals/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="C-PAC" nitrc="https://www.nitrc.org/projects/cpac" />
+<description> The Configurable Pipeline for the Analysis of Connectomes (C-PAC) is a configurable, open-source, Nipype-based, automated processing pipeline for resting state functional MRI (R-fMRI) data, for use by both novice and expert users. C-PAC was designed to bring the power, flexibility and elegance of the Nipype platform to users in a plug and play fashion—without requiring the ability to program. Using an easy to read, text-editable configuration file, C-PAC can rapidly orchestrate automated R-fMRI processing procedures, including:&lt;br /&gt;- quality assurance measurements&lt;br /&gt;- image preprocessing based upon user specified preferences&lt;br /&gt;- generation of functional connectivity maps (e.g., correlation analyses)&lt;br /&gt;- customizable extraction of time-series data&lt;br /&gt;- generation of local R-fMRI metrics (e.g., regional homogeneity, voxel-matched homotopic connectivity, fALFF/ALFF)&lt;br /&gt;&lt;br /&gt;C-PAC makes it possible to use a single configuration file to launch a factorial number of pipelines differing with respect to specific processing steps. </description>
+<license>MIT/X Consortium License</license>
+<category>Connectivity Analysis</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 14, 2012</release>
+<homepage>http://fcp-indi.github.io</homepage>
+<maintainer>Child Mind Institute, Nathan Kline Institute, NYU Langone Medical Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

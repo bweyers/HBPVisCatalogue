@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Wisconsin Cortical Thickness Analysis (CTA) Toolbox" nitrc="https://www.nitrc.org/projects/cta_toolbox" />
+<description> Wisconsin CTA toolbox is a Matlab tool to perform statistical analysis on cortical thickness signals on brain surfaces obtained from Freesurfer. In particular, this tool is useful for multi-resolutional analysis of such cortical thickness signals and detecting group differences. We find that compared to standard analysis, this method is much more sensitive in detecting such differences. It is based on the Spectral Graph Wavelet Transform (SGWT) toolbox (&lt;a href=&quot;http://wiki.epfl.ch/sgwt&quot; target=&quot;_new&quot;&gt;http://wiki.epfl.ch/sgwt&lt;/a&gt;), and provides plug and play methods for deriving Wavelet Multiscale Descriptor (WMD), cortical thickness smoothing using SGWT, Multivariate General Linear Model (MGLM), False Discovery Rate (FDR) and so on.&lt;br /&gt;&lt;br /&gt;Won Hwa Kim (&lt;a href=&quot;http://pages.cs.wisc.edu/~wonhwa&quot; target=&quot;_new&quot;&gt;http://pages.cs.wisc.edu/~wonhwa&lt;/a&gt;) </description>
+<license>GNU General Public License (GPL)</license>
+<category>Thickness</category>
+<release>Mar 13, 2014</release>
+<homepage>http://pages.cs.wisc.edu/~wonhwa/CTA_toolbox</homepage>
+<maintainer>University of Wisconsin - Madison</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

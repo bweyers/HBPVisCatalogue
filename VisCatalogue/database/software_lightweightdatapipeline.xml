@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Lightweight Data Pipeline" nitrc="https://www.nitrc.org/projects/lwdp" />
+<description> This is a lightweight framework for setting up dependency-driven processing pipelines. The tool is essentially a configurable shell script (sh/bash), which can be included in other scripts and primarily provides a small number of utility functions for dependency checking and NFS-safe file locking for cluster processing.&lt;br /&gt;&lt;br /&gt;While the framework is not very powerful (deliberately so), it is extremely simple and easy to apply. There is no need to provide any command wrappers. An existing processing script (or sequence of shell commands) can be turned into a data-driven, cluster-safe pipeline by adding just a few extra lines of shell code. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<platform>POSIX/UNIX-like</platform>
+<release>Nov 8, 2013</release>
+<homepage>http://www.nitrc.org/projects/lwdp/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

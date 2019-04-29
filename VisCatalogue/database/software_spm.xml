@@ -1,0 +1,31 @@
+<root>
+<software>
+<name name="SPM" nitrc="https://www.nitrc.org/projects/spm" />
+<description> The SPM software package has been designed for the analysis of brain imaging data sequences. The sequences can be a series of images from different cohorts, or time-series from the same subject. The current release is designed for the analysis of fMRI, PET, SPECT, EEG and MEG. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Forward - Inverse</category>
+<category>Segmentation</category>
+<category>Spatial Transformation</category>
+<category>Statistical Operation</category>
+<category>Haemodynamic Response</category>
+<category>Time Domain Analysis</category>
+<category>Three Dimensional Display</category>
+<category>Rendering</category>
+<category>Workflow</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 7, 2007</release>
+<homepage>http://www.fil.ion.ucl.ac.uk/spm/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

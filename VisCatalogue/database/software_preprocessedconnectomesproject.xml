@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Preprocessed Connectomes Project" nitrc="https://www.nitrc.org/projects/pcp" />
+<description> Initiative to systematically preprocess neuroimaging data from open sharing repositories and to share the derivatives. Initiated in 2011 with the ADHD-200 Preprocessed initative, the PCP has grown to include the Beijing Enhanced DTI dataset and ABIDE. To enable the comparison of different preprocessing choices and to accomodate different opinions about the best preprocessings strategies, most of the data is preprocessed using a variety of tools and parameters.&lt;br /&gt;&lt;br /&gt;Data is currently hosted in an Amazon Web Services Public S3 Bucket and at NITRC. More information about downloading the data and about the various preprocessing pipelines and strategies employed can be found on the Datasets page. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=827&amp;screenshot_id=1170&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=827&amp;screenshot_id=1170&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<release>Jun 6, 2014</release>
+<homepage>http://preprocessed-connectomes-project.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Cloud Reproducibility Challenge" nitrc="https://www.nitrc.org/projects/cloudrepro" />
+<description> The use of standardizable computing environments offers a promise for enhancing the reproducibility of neuroimaging computational workflows. In this hackathon project we seek to develop a reproducibility assessment framework for testing and validating similar workflows run under different conditions. For a given workflow, which can be run on a local computer system, as a virtual machine, or in a cloud computing environment, we want to assess the potential variances introduced in workflow results as a function of the operating environment. This framework can then be extended to assessment of variations due to additional factors, such as software versioning, workflow parameters, and input data. The end result of this project would be a stand alone application that details the reproducibility of workflow/result pair in the context of the various execution variables.&lt;br /&gt;&lt;br /&gt;This project hopes to leverage the NITRC-CE, nipype, testkraut, and existing shared data/shared results. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=946&amp;screenshot_id=931&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=946&amp;screenshot_id=931&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<release>Jun 12, 2015</release>
+<homepage>http://www.nitrc.org/projects/cloudrepro/</homepage>
+<maintainer>OHBM 2015 Hackathon Project</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

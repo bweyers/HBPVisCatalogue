@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="NYU CSC TestRetest" nitrc="https://www.nitrc.org/projects/nyu_trt" />
+<description> The NYU CSC TestRetest resource includes EPI-images of 25 participants gathered during rest as well as anonymized anatomical images of the same participants. &lt;br /&gt;&lt;br /&gt;The resting-state fMRI images were collected on several occasions: &lt;br /&gt;1. the first resting-state scan in a scan session&lt;br /&gt;2. 5-11 months after the first resting-state scan&lt;br /&gt;3. about 30 (&amp;lt; 45) minutes after 2.&lt;br /&gt;&lt;br /&gt;Each scan occasion is released as a new version release of the resource. Make sure to check all releases to get all files.&lt;br /&gt;&lt;br /&gt;Data use is unrestricted, but users should reference our original publications and NITRC (see Documentations).&lt;br /&gt;&lt;br /&gt;***Caution: Participants here are part of the NewYork_a contribution to the 1000 Functional Connectomes Project. DO NOT combine datasets.&lt;br /&gt;&lt;br /&gt;Acquisition was funded by Stavros S. Niarchos Foundation, the Leon Lowenstein Foundation, NARSAD (The Mental Health Research Association) grants to F.Xavier Castellanos; and Linda and Richard Schaps, Jill and Bob Smith, and the Taubman Foundation gifts to F.Xavier Castellanos. </description>
+<license>Attribution</license>
+<category>Data</category>
+<category>Test Data</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 18, 2009</release>
+<homepage>http://www.nitrc.org/projects/nyu_trt/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

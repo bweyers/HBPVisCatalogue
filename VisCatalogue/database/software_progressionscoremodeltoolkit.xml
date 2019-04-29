@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Progression Score Model Toolkit" nitrc="https://www.nitrc.org/projects/progscore" />
+<description> Progression Score Model Toolkit is a Matlab-based cross-platform statistical software that allows for the characterization of the temporal trajectories of voxelwise imaging measures from longitudinal data. The method can be applied to a variety of images including PET radiotracer binding maps, thickness maps, functional connectivity in fMRI maps, FA/MD maps, and determinant of Jacobian maps.&lt;br /&gt;&lt;br /&gt;The toolkit provides code for visualization of the estimated trajectories as a movie. The method also computes a summary score for each scan that indicates its position along the estimated trajectories. These summary scores can be used to explore associations with external variables such as genetic factors, disease risk scores, etc.&lt;br /&gt;&lt;br /&gt;Please cite:&lt;br /&gt;Murat Bilgel, Jerry L. Prince, Dean F. Wong, Susan M. Resnick, Bruno M. Jedynak, &amp;quot;A multivariate nonlinear mixed effects model for longitudinal image analysis: Application to amyloid imaging&amp;quot;, NeuroImage (2016), DOI: 10.1016/j.neuroimage.2016.04.001. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Apr 1, 2016</release>
+<homepage>http://www.nitrc.org/projects/progscore/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="NeuroMorpho.Org" nitrc="https://www.nitrc.org/projects/neuromorpho_org" />
+<description> NeuroMorpho.Org is a centrally curated inventory of digitally reconstructed neurons associated with peer-reviewed publications. It contains contributions from over 100 laboratories worldwide and is continuously updated as new morphological reconstructions are collected, published, and shared. To date, NeuroMorpho.Org is the largest collection of publicly accessible 3D neuronal reconstructions and associated metadata.&lt;br /&gt;&lt;br /&gt;The goal of NeuroMorpho.Org is to provide dense coverage of available reconstruction data for the neuroscience community. Data sharing through NeuroMorpho.Org enables the full and continuing research potential of existing digital reconstruction data. </description>
+<license>Freeware</license>
+<release>Sep 15, 2014</release>
+<homepage>http://www.nitrc.org/projects/neuromorpho_org/</homepage>
+<maintainer>George Mason University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,37 @@
+<root>
+<software>
+<name name="BrainVISA" nitrc="https://www.nitrc.org/projects/brainvisa" />
+<description> BrainVISA is a modular an customizable software platform built to host heterogeneous tools dedicated to neuroimaging research. Many toolboxes have already been developped for BrainVISA (T1 MRI, sulcal identification and morphometry, cortical surface analysis, diffusion imaging and tractography, fMRI, nuclear imaging, EEG and MEG, TMS, histology and autoradiography, etc.). &lt;br /&gt;&lt;br /&gt;BrainVISA main features are:&lt;br /&gt;- Harmonization of communications between different software. For instance, BrainVISA toolboxes are using home-made software but also third-party software such as FreeSurfer, FSL, SPM, nipy, R-project, Matlab, etc.&lt;br /&gt;- Ontology-based data organization allowing database sharing and automation of mass of data analysis.&lt;br /&gt;- Fusion and interactive visualization of multimodal data (using Anatomist software).&lt;br /&gt;- Automatic generation of graphical user interfaces.&lt;br /&gt;- Workflow monitoring and data quality checking.&lt;br /&gt;- Full customization possible.&lt;br /&gt;- Runs on Linux, Mac and Windows. </description>
+<license>CeCill v2</license>
+<category>Database</category>
+<category>Tensor Metric</category>
+<category>Morphology</category>
+<category>Quantitative Shape Analysis</category>
+<category>Segmentation</category>
+<category>Spatial Transformation</category>
+<category>Surface Analysis</category>
+<category>Diffusion MR Fiber Tracking</category>
+<category>Visualization</category>
+<category>Platform or Development Environment</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Apr 6, 2009</release>
+<homepage>http://brainvisa.info</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

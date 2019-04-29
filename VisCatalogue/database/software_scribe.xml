@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="Scribe" nitrc="https://www.nitrc.org/projects/scribe" />
+<description> Scribe encodes papers to populate the BrainMap Database </description>
+<release>Sep 5, 2007</release>
+<homepage>http://www.nitrc.org/projects/scribe/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

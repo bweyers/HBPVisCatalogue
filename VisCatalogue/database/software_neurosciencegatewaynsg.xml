@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Neuroscience Gateway (NSG)" nitrc="https://www.nitrc.org/projects/nsg" />
+<description> * Administratively Listed Project *&lt;br /&gt;The Neuroscience Gateway (NSG) portal facilitates access and use of National Science Foundation (NSF) High Performance Computing (HPC) resources by neuroscientists. It will offer free computer time to neuroscientists acquired via the supercomputer time allocation process managed by the Extreme Science and Engineering Discovery Environment (XSEDE) Resource Allocation Committee (XRAC). The portal provides access to the popular computational neuroscience tools installed on various HPC resources. It also provides a community mailing list for neuroscientists to collaborate and share ideas.&lt;br /&gt;&lt;br /&gt;* NOTE *&lt;br /&gt;This project is administratively added to NITRC for completeness; use with caution. &lt;br /&gt;The information was set from public content on 02-OCT-2017, and is not maintained.&lt;br /&gt;If you are (or know) an appropriate administrator, contact &lt;a href=&quot;mailto:nitrc_info@nitrc.org&quot; target=&quot;_new&quot;&gt;nitrc_info@nitrc.org&lt;/a&gt;. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1224&amp;screenshot_id=1143&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1224&amp;screenshot_id=1143&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<release>Oct 17, 2017</release>
+<homepage>https://www.nsgportal.org/index.html</homepage>
+<maintainer>UCSD, Yale University, University College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="NICE-SIGN" nitrc="https://www.nitrc.org/projects/nicesign" />
+<description> NICE-SIGN is a nice sign of bias field correction (nonuniformity) in medical images. This tool is fast and efficient. Technical details can be found at &lt;a href=&quot;http://zheng.vision.googlepages.com/biasCorrection_miccai09_Zheng.pdf&quot; target=&quot;_new&quot;&gt;http://zheng.vision.googlepages.com/bias...&lt;/a&gt;</description>
+<release>Jul 24, 2009</release>
+<homepage>http://www.nitrc.org/projects/nicesign/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

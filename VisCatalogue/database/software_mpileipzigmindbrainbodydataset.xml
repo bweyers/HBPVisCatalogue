@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="MPI-Leipzig Mind-Brain-Body Dataset" nitrc="https://www.nitrc.org/projects/mpilmbb" />
+<description> The participants included in this dataset participated in one or two protocols. Each of these protocols included structural and resting-state fMRI data acquisition, as well as an extensive battery of behavioural tests. </description>
+<release>Jun 22, 2017</release>
+<homepage>http://www.nitrc.org/projects/mpilmbb/</homepage>
+<maintainer>Max Planck Institute for Human Cognitive and Brain Sciences</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

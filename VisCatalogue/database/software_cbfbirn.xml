@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="CBFBIRN" nitrc="https://www.nitrc.org/projects/cbfbirn" />
+<description> The Cerebral Blood Flow Biomedical Informatics Research Network (CBFBIRN) (&lt;a href=&quot;https://cbfbirn.ucsd.edu&quot; target=&quot;_new&quot;&gt;https://cbfbirn.ucsd.edu&lt;/a&gt;) provides a web based central repository for individual and group analysis of Arterial Spin Labeling (ASL) data sets and ASL pulse sequences developed at CMFRI UCSD for MRI researchers. &lt;br /&gt;&lt;br /&gt;This resource currently hosts more 1300 ASL data sets from 22 projects and consists of mainly two main tools&lt;br /&gt;1) The Cerebral Blood Flow Database and Analysis Pipeline (CBFDAP) is a web enabled data and workflow management system extended from the HID codebase on NITRC specialized for Arterial Spin Labeling data management and analysis (including group analysis) in a centralized manner.&lt;br /&gt;2) Pulse Sequence Distribution System (PSDS) for managing dissamination of ASL pulse sequences developed at the UCSD CFMRI.&lt;br /&gt;&lt;br /&gt;This resource also includes web and video tutorials for end users. </description>
+<license>BIRN License</license>
+<platform>OS Independent</platform>
+<release>Aug 26, 2013</release>
+<homepage>http://cbfbirn.ucsd.edu/</homepage>
+<maintainer>UCSD</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

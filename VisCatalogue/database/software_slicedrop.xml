@@ -1,0 +1,29 @@
+<root>
+<software>
+<name name="Slice:Drop" nitrc="https://www.nitrc.org/projects/slicedrop" />
+<description>&lt;a href=&quot;http://slicedrop.com&quot; target=&quot;_new&quot;&gt;http://slicedrop.com&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Slice:Drop is a viewer for medical imaging data. It supports a variety of scientific file formats out-of-the-box (see &lt;a href=&quot;https://github.com/xtk/X/wiki/X:Fileformats&quot; target=&quot;_new&quot;&gt;https://github.com/xtk/X/wiki/X:Fileform...&lt;/a&gt; for a complete list).&lt;br /&gt;&lt;br /&gt;We think that the best way to render your files is without any necessary conversions. Just drop&#x27;em on a website and they are ready to render.&lt;br /&gt;&lt;br /&gt;Getting started: Just drag&#x27;n&#x27;drop some medical imaging files on this website or try one of the four examples in the right corner. Then, play with the panels on the left and click, drag and rotate the 3d content.&lt;br /&gt;&lt;br /&gt;Slice:Drop uses WebGL and HTML5 Canvas to render the data in 2D and 3D. We use our own open-source toolkit to perform the rendering, called XTK ( &lt;a href=&quot;http://goxtk.com&quot; target=&quot;_new&quot;&gt;http://goxtk.com&lt;/a&gt; ). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=635&amp;screenshot_id=555&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=635&amp;screenshot_id=555&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT/X Consortium License</license>
+<platform>OS Independent</platform>
+<input>ASCII</input>
+<output>ASCII</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Sep 11, 2012</release>
+<homepage>http://slicedrop.com</homepage>
+<maintainer>Boston Children's Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

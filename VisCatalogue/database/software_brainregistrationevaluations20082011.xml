@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Brain registration evaluations (2008-2011)" nitrc="https://www.nitrc.org/projects/reg_evals" />
+<description> This project contains four human brain MR image registration evaluation projects from 2008 to 2011, including the largest ever conducted. They are accessible via Synapse: &lt;a href=&quot;https://www.synapse.org/#!Synapse:syn3207152/wiki/160605&quot; target=&quot;_new&quot;&gt;https://www.synapse.org/#!Synapse:syn320...&lt;/a&gt;</description>
+<license>Apache License 2.0</license>
+<category>Information Resource</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 2, 2016</release>
+<homepage>http://www.nitrc.org/projects/reg_evals/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="ITools Resourceome" nitrc="https://www.nitrc.org/projects/itools" />
+<description> iTools is an infrastructure for managing of diverse computational biology resources - data, software tools and web-services. The iTools design, implementation and meta-data content reflect the broad NCBC needs and expertise (www.NCBCs.org).&lt;br /&gt;&lt;br /&gt;iTools is distributed by the Laboratory of Neuro Imaging (&lt;a href=&quot;http://www.loni.usc.edu/Software/iTools&quot; target=&quot;_new&quot;&gt;http://www.loni.usc.edu/Software/iTools&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=126&amp;screenshot_id=410&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=126&amp;screenshot_id=410&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Experiment Control</category>
+<category>Data Model</category>
+<category>Data Resource</category>
+<category>Ontology</category>
+<category>Other Information Resource</category>
+<category>Web Resource</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 24, 2008</release>
+<homepage>http://cms.loni.usc.edu/iTools/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

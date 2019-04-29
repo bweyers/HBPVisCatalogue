@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Individual morphological connectivity using wavelet transform" nitrc="https://www.nitrc.org/projects/mcwt" />
+<description> The goal of this research is to build novel morphological connectivity in the single subject level based on anatomical MRI. To this end, we developed a package to compute individual morphological connectivity using wavelet transform. The packge included preprocessing of anatomical MRI, VBM, wavelet transform of 3D MRI datasets, and morphological connectivity computation. In addition, we also planned to release the prepocessed features of individual morphological connectivity. </description>
+<license>Public Domain</license>
+<release>Apr 24, 2018</release>
+<homepage>http://www.nitrc.org/projects/mcwt/</homepage>
+<maintainer>Hangzhou Dianzi University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="CBRAIN" nitrc="https://www.nitrc.org/projects/cbrain" />
+<description> CBRAIN is a flexible software platform with a small footprint and minimal requirements. CBRAIN was created to allow the integration the often extremely heterogeneous research HPC facilities across Canada and the World. Moreover, the platform&#x27;s goal was not limited to deploying national and international distributed data and compute grids for neuroimaging sites, CBRAIN is an online collaborative web platform from which users transparently control their data, compute and results, including various forms of 2D and 3D data visualisation, regardless of where these resources and data are. &lt;br /&gt;&lt;br /&gt;CBRAIN is currently deployed on 6 Compute Canada HPC clusters, one German HPC cluster and 3 clusters local to McGill University Campus, totaling more than 80,000 potential CPU cores.&lt;br /&gt;&lt;br /&gt;Visit us at: &lt;a href=&quot;http://cbrain.mcgill.ca&quot; target=&quot;_new&quot;&gt;http://cbrain.mcgill.ca&lt;/a&gt;&lt;br /&gt;CBRAIN code is now available on GuitHub: &lt;a href=&quot;https://github.com/aces/cbrain&quot; target=&quot;_new&quot;&gt;https://github.com/aces/cbrain&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=486&amp;screenshot_id=356&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=486&amp;screenshot_id=356&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Web Application - Free to use</license>
+<release>May 16, 2011</release>
+<homepage>http://cbrain.mcgill.ca/</homepage>
+<maintainer>McGill University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

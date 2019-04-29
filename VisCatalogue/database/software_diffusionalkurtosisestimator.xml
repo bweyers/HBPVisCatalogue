@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="Diffusional Kurtosis Estimator" nitrc="https://www.nitrc.org/projects/dke" />
+<description> Diffusional Kurtosis Estimator (DKE) is a software tool for post-processing diffusional kurtosis imaging (DKI) datasets that includes a suite of command-line programs along with a graphical user interface (GUI). DKE supports 32-, 64-bit Windows and linux. DKE generates a set of kurtosis (axial, mean, radial, KFA, MKT) parametric maps with a given set of diffusion weighted images acquired from a valid DKI protocol. Diffusivity (axial, mean, radial) and fractional anisotropy maps using either DKI or diffusion tensor imaging signal models are also calculated in the processing. DKE features include: DICOM, NIfTI and Bruker format support, interactive (GUI) as well as batch mode (command-line) processing, and rigid-body motion correction. DKE implements the methods described in the following paper: Tabesh A, Jensen JH, Ardekani BA, and Helpern JA. Estimation of tensors and tensor-derived measures in diffusional kurtosis imaging. Mag Reson Med. 2011 Mar;65(3):823-36. &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/21337412&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/21337...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=652&amp;screenshot_id=568&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=652&amp;screenshot_id=568&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>DKE License</license>
+<category>Super Tensor</category>
+<category>Quantification</category>
+<platform>Windows Vista</platform>
+<platform>Windows XP</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 27, 2012</release>
+<homepage>http://musc.edu/cbi/dki</homepage>
+<maintainer>Medical University of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

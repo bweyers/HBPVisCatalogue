@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="NIRx NIRS Neuroimaging" nitrc="https://www.nitrc.org/projects/nirx" />
+<description> NIRx Medical Technologies, LLC* is a leader in providing integrated solutions for NIRS neuroimaging. &lt;br /&gt;&lt;br /&gt;*Click on the company logo to see more images. &lt;br /&gt;&lt;br /&gt;We provide custom technology solutions to the investigative community for a wide range of near-infrared spectroscopy imaging applications. While many of our systems are in the field of neuroscience (infants to adults), they are also used for investigation of breast cancer, peripheral vascular disease and the study of small animals.&lt;br /&gt;&lt;br /&gt;Email: &lt;a href=&quot;mailto:info@nirx.net&quot; target=&quot;_new&quot;&gt;info@nirx.net&lt;/a&gt;&lt;br /&gt;Web: &lt;a href=&quot;http://www.nirx.net&quot; target=&quot;_new&quot;&gt;http://www.nirx.net&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;NIRx is closely associated with The Optical Tomography Group (OTG) of SUNY: Downstate Medical Center. For more information on The OTG, visit:&lt;br /&gt;&lt;br /&gt;NITRC page: &lt;a href=&quot;http://www.nitrc.org/projects/fnirs_downstate&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/projects/fnirs_down...&lt;/a&gt;&lt;br /&gt;Homepage: &lt;a href=&quot;http://otg.downstate.edu/publications.htm&quot; target=&quot;_new&quot;&gt;http://otg.downstate.edu/publications.ht...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=497&amp;screenshot_id=805&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=497&amp;screenshot_id=805&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commerical License:NIRx</license>
+<category>NIRS/FNIR</category>
+<category>Tomography</category>
+<release>Jun 30, 2011</release>
+<homepage>http://www.nirx.net</homepage>
+<maintainer>NIRx Medical Technologies, LLC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

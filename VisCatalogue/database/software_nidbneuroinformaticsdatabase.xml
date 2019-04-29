@@ -1,0 +1,48 @@
+<root>
+<software>
+<name name="NIDB - Neuroinformatics Database" nitrc="https://www.nitrc.org/projects/nidb" />
+<description> NIDB is a powerful, easy to install neuroimaging database designed to allow simple importing, searching, and sharing of imaging data. NIDB associates any modality imaging or other binary data (MR, CT, US, EEG, etc) with a subject through any number of imaging studies or projects. Data is kept at your site, controlled by you, to be shared with other sites whenever you want. NIDB also provides automated pipelining with importing of results back into NIDB which can be searched along with imaging meta data. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=646&amp;screenshot_id=562&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=646&amp;screenshot_id=562&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Database Application</category>
+<platform>Linux</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>ASCII</input>
+<output>ASCII</output>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>cff (Connectome File Format)</input>
+<output>cff (Connectome File Format)</output>
+<input>CIFTI</input>
+<output>CIFTI</output>
+<input>COR</input>
+<output>COR</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>EEG Formats</input>
+<output>EEG Formats</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>Interfile</input>
+<output>Interfile</output>
+<input>MEG Formats</input>
+<output>MEG Formats</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>Microsoft Word Document</input>
+<output>Microsoft Word Document</output>
+<input>MINC</input>
+<output>MINC</output>
+<release>Sep 24, 2012</release>
+<homepage>http://github.com/gbook/nidb</homepage>
+<maintainer>Hartford Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

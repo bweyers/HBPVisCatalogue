@@ -1,0 +1,33 @@
+<root>
+<software>
+<name name="NeuroLens" nitrc="https://www.nitrc.org/projects/nldo" />
+<description> NeuroLens is an integrated environment for the analysis and visualization of functional neuroimages. </description>
+<license>MGH CSRL License</license>
+<category>Image-to-Image</category>
+<category>Multivariate Analysis</category>
+<category>Linear</category>
+<category>Temporal Convolution - Deconvolution</category>
+<category>Three Dimensional Display</category>
+<category>Surface Rendering</category>
+<platform>MacOS</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>COR</input>
+<output>COR</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Sep 18, 2007</release>
+<homepage>http://www.neurolens.org/NeuroLens/Home.html</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

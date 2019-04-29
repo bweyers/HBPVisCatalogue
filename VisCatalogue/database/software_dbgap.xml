@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="dbGaP" nitrc="https://www.nitrc.org/projects/dbgap" />
+<description> The database of Genotypes and Phenotypes (dbGaP) was developed to archive and distribute the results of studies that have investigated the interaction of genotype and phenotype. </description>
+<category>Data</category>
+<category>SNP's &amp; Genes</category>
+<release>Oct 7, 2015</release>
+<homepage>http://www.nitrc.org/projects/dbgap/</homepage>
+<maintainer>NIH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

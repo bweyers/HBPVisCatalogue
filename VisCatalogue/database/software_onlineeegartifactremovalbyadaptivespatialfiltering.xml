@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Online EEG artifact removal by adaptive spatial filtering" nitrc="https://www.nitrc.org/projects/ica_reg" />
+<description> The performance of electroencephalography (EEG) data depends on the effective attenuation of artifacts that are mixed in the recordings. To address this problem, we have developed a novel online EEG artifact removal method for online applications, which combines Independent Component Analysis (ICA) and regression (REG) analysis. ICA-REG method relies on the availability of a calibration dataset of limited duration for the initialization of a spatial filter using ICA. Online artifact removal is implemented by dynamically adjusting the spatial filter in the actual experiment, based on linear regression.&lt;br /&gt;&lt;br /&gt;This software can be used to do a pseudo-online artifact removal (necessary for the validations in your project), or a real-time filtering, or to filter the whole signal offline.&lt;br /&gt;&lt;br /&gt;For support: &lt;a href=&quot;mailto:roberto.guarnieri@kuleuven.be&quot; target=&quot;_new&quot;&gt;roberto.guarnieri@kuleuven.be&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;To cite this software: &lt;a href=&quot;http://iopscience.iop.org/article/10.1088/1741-2552/aacfdf&quot; target=&quot;_new&quot;&gt;http://iopscience.iop.org/article/10.108...&lt;/a&gt;&lt;br /&gt;Roberto Guarnieri et al 2018 J. Neural Eng. 15 056009 </description>
+<release>Sep 28, 2018</release>
+<homepage>http://www.nitrc.org/projects/ica_reg/</homepage>
+<maintainer>KU Leuven</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

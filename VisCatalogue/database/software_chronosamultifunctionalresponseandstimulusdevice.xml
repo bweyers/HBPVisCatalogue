@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Chronos: A Multifunctional Response and Stimulus Device" nitrc="https://www.nitrc.org/projects/chronos" />
+<description> Chronos allows the accurate collection and verification of tactile, auditory, visual, and analog responses along with the precise source of audio and generic analog output timing. Chronos features millisecond accuracy and consistent sound output latencies across machines. Chronos includes 16 digital inputs and 16 digital outputs, eliminating the need for a parallel port. The Photo Sensor accessory (included) can be used on CRT, LCD, and projection displays to detect stimulus onset events, refreshes, and measure rise and fall times. All responses collected are synchronous to the E-Prime® time domain. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1171&amp;screenshot_id=1079&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1171&amp;screenshot_id=1079&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>May 22, 2017</release>
+<homepage>https://pstnet.com/products/chronos/</homepage>
+<maintainer>Psychology Software Tools, Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

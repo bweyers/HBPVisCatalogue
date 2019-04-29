@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="The role of V6 in the interaction between dorsal and ventral streams in near and far space processing" nitrc="https://www.nitrc.org/projects/visuospatial" />
+<description> Using functional MRI, aimming at investigated the neural interface which integrated information between the dorsal and the ventral streams. The results showed that the parietal-occipital junction (POJ) and bilateral superior occipital gyrus (SOG) showed relative increased activity when responded to a target presented in near space than in far space, which was independent of the retinotopic or perceived size of the target. Furthermore, the POJ showed enhanced functional connectivity with both the dorsal and ventral streams during far space processing irrespective of the target size, supporting the role of the POJ as an interface between the two streams. In contrast, the SOG showed enhanced functional connectivity only with the ventral stream if retinotopic sizes of the targets in near and far space were matched, which suggested the functional dissociation between the POJ and SOG. </description>
+<license>spatial attention in 3D license</license>
+<release>Oct 28, 2015</release>
+<homepage>http://www.nitrc.org/projects/visuospatial/</homepage>
+<maintainer>South China Normal University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="dbSNP" nitrc="https://www.nitrc.org/projects/dbsnp" />
+<description> The Single Nucleotide Polymorphism Database (dbSNP) is a free public archive for genetic variation within and across different species developed and hosted by the National Center for Biotechnology Information (NCBI) in collaboration with the National Human Genome Research Institute (NHGRI). </description>
+<category>Other Web Resource</category>
+<category>SNP's &amp; Genes</category>
+<release>Oct 7, 2015</release>
+<homepage>http://www.nitrc.org/projects/dbsnp/</homepage>
+<maintainer>NIH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

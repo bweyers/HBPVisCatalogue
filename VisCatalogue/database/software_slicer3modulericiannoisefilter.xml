@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Slicer3 Module Rician noise filter" nitrc="https://www.nitrc.org/projects/dtiricianrem" />
+<description> Two Slicer3 modules removing rician noise in diffusion tensor MRI </description>
+<license>GNU General Public License (GPL)</license>
+<category>Application</category>
+<platform>Linux</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 15, 2007</release>
+<homepage>http://www.nitrc.org/projects/dtiricianrem/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

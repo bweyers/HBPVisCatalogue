@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="C-MIND Database" nitrc="https://www.nitrc.org/projects/cmind_2014" />
+<description> The CMIND database contains brain imaging data collected on 3T MRI scanners from over 200 normally developing healthy children from birth to 18 years. There is also longitudinal data collected from a sub-group of children ages 0-3 and 7-9 years who returned scans for three consecutive years. The imaging data stored in the C-MIND database are DTI, HARDI, 3DT1W, 3DT2W, concurrent ASL-BOLD scans during two language tasks (Stories &amp;amp; Sentence-Picture Matching), Resting State fMRI and Baseline ASL scans. The database also hosts extensive age-appropriate behavioral measures for all the subjects. The data and their behavioral measures can be downloaded from a public database (&lt;a href=&quot;https://cmind.research.cchmc.org/&quot; target=&quot;_new&quot;&gt;https://cmind.research.cchmc.org/&lt;/a&gt;). Registration to this website is available and the information can be found in the opening page (&lt;a href=&quot;https://cmind.research.cchmc.org/auth/consent&quot; target=&quot;_new&quot;&gt;https://cmind.research.cchmc.org/auth/co...&lt;/a&gt;). A tool using python was developed to process the data and templates of various age ranges are available at bitbucket ((&lt;a href=&quot;https://bitbucket.org/grlee77/cmind-py&quot; target=&quot;_new&quot;&gt;https://bitbucket.org/grlee77/cmind-py&lt;/a&gt;). </description>
+<release>Aug 11, 2014</release>
+<homepage>http://www.nitrc.org/projects/cmind_2014/</homepage>
+<maintainer>Cincinnati Children's Hospital Medical Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

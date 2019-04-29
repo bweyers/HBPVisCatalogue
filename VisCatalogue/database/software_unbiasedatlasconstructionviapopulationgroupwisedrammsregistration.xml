@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Unbiased Atlas Construction via Population (group-wise) DRAMMS Registration" nitrc="https://www.nitrc.org/projects/popdramms" />
+<description> Unbiased atlas construction by group-wise dramms registration. &lt;br /&gt;&lt;br /&gt;Can be used to construct a normal atlas from either a normal population or an abnormal population. &lt;br /&gt;&lt;br /&gt;The tool will find a virtual space that represents the mean geometry, mean anatomy and voxel-wise mean intensity of the input population (hence unbiased). &lt;br /&gt;&lt;br /&gt;If the input images are from an abnormality-bearing population, the above happens to normal regions only, and will create an unbiased normal-appearing atlas. The software can either take as input the manually annotated abnormality masks, or automatically detect and exclude abnormalities from atlas construction. </description>
+<license>BSD License</license>
+<release>Oct 3, 2015</release>
+<homepage>http://www.nitrc.org/projects/popdramms/</homepage>
+<maintainer>MGH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

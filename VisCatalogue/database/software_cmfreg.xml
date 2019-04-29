@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CMFreg" nitrc="https://www.nitrc.org/projects/cmfreg" />
+<description> We have developed a sequence of fully automated voxel-wise rigid registration that utilizes stable structures of reference for assessment of craniofacial changes overtime.The major strengths of this method are that registration does not depend on the precision of the 3D surface models and that a “stable structure of reference” can be used without the simple “best fit” of all surfaces. </description>
+<license>3D Slicer License</license>
+<release>Sep 29, 2011</release>
+<homepage>http://www.nitrc.org/projects/cmfreg/</homepage>
+<maintainer>University of North Carolina at Chapel Hill - University of Michigan</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

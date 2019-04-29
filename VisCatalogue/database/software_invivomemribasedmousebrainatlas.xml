@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="In vivo MEMRI-based Mouse Brain Atlas" nitrc="https://www.nitrc.org/projects/memribrainatlas" />
+<description> In vivo MEMRI-based Mouse Brain Atlas provides a reference MEMRI data of NSG mouse brain and corresponding 41 structure labels. Using the reference MRI and the atlas, data users can perform regional specific MRI parametric and volumetric analysis. </description>
+<license>Attribution Non-Commercial</license>
+<release>Jun 3, 2015</release>
+<homepage>http://www.nitrc.org/projects/memribrainatlas/</homepage>
+<maintainer>University of Nebraska Medical Center, Omaha</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

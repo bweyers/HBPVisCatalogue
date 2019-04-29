@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Nutil - Neuroimaging utilities" nitrc="https://www.nitrc.org/projects/nutil" />
+<description> Nutil aims to both simplify and streamline the mechanism of pre-and-post processing 2D brain image data. Nutil is developed as a stand-alone application that runs on all operating systems with a minimalistic user interface requiring little-to-no experience to execute. The user specifies the entire pipeline of pre-and post processing operations through a well-documented Excel template, and then feeds this document through Nutil. Pre-processing operations include conversion of images from JPEG/PNG format to tiled TIFF format, 2D transformations of extremely large tiled TIFF files (rotation, flipping and scaling), in addition to renaming, copying and downsizing. Post-processing is based on analysis of segmented images in the context of brain regions defined by a 3D reference atlase, such as the Allen Mouse Brain reference atlas or the Waxholm Space Atlas of the Sprague Dawley rat brain. All functions operate in batch mode, and operate in parallel on multiple CPUs. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<release>Apr 24</release>
+<homepage>http://www.nitrc.org/projects/nutil/</homepage>
+<maintainer>University of Oslo</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

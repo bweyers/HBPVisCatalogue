@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Group Sparse Canonical Correlation Analysis" nitrc="https://www.nitrc.org/projects/gscca_2013" />
+<description> Group sparse Canonical Correlation Analysis is a method designed to study the mutual relationship between two different types of data. </description>
+<license>BioMed Central Ltd</license>
+<release>Mar 13, 2017</release>
+<homepage>http://www.nitrc.org/projects/gscca_2013/</homepage>
+<maintainer>NSF and NIH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

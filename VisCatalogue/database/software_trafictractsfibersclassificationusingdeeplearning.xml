@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="TRAFIC - Tracts Fibers Classification Using Deep Learning" nitrc="https://www.nitrc.org/projects/trafic" />
+<description> We present TRAFIC, a fully automated tool for the labeling and classification of brain fiber tracts. TRAFIC classifies new fibers using a neural network trained using shape features computed from previously traced and manually corrected fiber tracts. It is independent from a DTI Atlas as it is applied to already traced fibers. This work is motivated by medical applications where the process of extracting fibers from a DTI atlas, or classifying fibers manually is time consuming and requires knowledge about brain anatomy. With this new approach we were able to classify traced fiber tracts obtaining encouraging results. In this report we will present in detail the methods used and the results achieved with our approach. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1325&amp;screenshot_id=1252&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1325&amp;screenshot_id=1252&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Atlas Application</category>
+<category>Diffusion Application</category>
+<category>Neural Network</category>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>OS Independent</platform>
+<release>Oct 22, 2018</release>
+<homepage>http://www.nitrc.org/projects/trafic/</homepage>
+<maintainer>University of North Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="SpineSegmentation module for 3DSlicer" nitrc="https://www.nitrc.org/projects/sylvainproject" />
+<description> 3D Slicer module for automated segmentation of the spine. This is an implementation of a novel model-based segmentation algorithm. This work was presented at the NA-MIC Week in Salt Lake City, Jan 2010. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=244&amp;screenshot_id=217&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=244&amp;screenshot_id=217&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>3D Slicer License</license>
+<release>Jul 3, 2009</release>
+<homepage>http://wiki.na-mic.org/Wiki/index.php/2010_Winter_Project_Week_Spine_Segmentation_Module_in_Slicer3</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

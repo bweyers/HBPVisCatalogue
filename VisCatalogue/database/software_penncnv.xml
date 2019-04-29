@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="PennCNV" nitrc="https://www.nitrc.org/projects/penncnv" />
+<description> PennCNV is a free software tool for Copy Number Variation (CNV) detection from SNP genotyping arrays. Currently it can handle signal intensity data from Illumina and Affymetrix arrays. With appropriate preparation of file format, it can also handle other types of SNP arrays and oligonucleotide arrays.&lt;br /&gt;&lt;br /&gt;PennCNV implements a hidden Markov model (HMM) that integrates multiple sources of information to infer CNV calls for individual genotyped samples. It differs form segmentation-based algorithm in that it considered SNP allelic ratio distribution as well as other factors, in addition to signal intensity alone. In addition, PennCNV can optionally utilize family information to generate family-based CNV calls by several different algorithms. Furthermore, PennCNV can generate CNV calls given a specific set of candidate CNV regions, through a validation-calling algorithm. </description>
+<license>Public Domain</license>
+<release>Mar 18, 2013</release>
+<homepage>http://www.nitrc.org/projects/penncnv/</homepage>
+<maintainer>USC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

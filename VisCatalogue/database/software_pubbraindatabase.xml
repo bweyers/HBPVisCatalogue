@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="PubBrain Database" nitrc="https://www.nitrc.org/projects/pubbrain" />
+<description> PubBrain is a literature search and visualization tool that allows end users to enter any PubMed query and see that query rendered as a heatmap illustrating which regions of interest are most commonly mentioned within the search results. </description>
+<release>Jul 30, 2008</release>
+<homepage>http://www.pubbrain.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

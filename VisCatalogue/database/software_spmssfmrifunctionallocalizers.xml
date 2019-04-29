@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="SPM_SS - fMRI functional localizers" nitrc="https://www.nitrc.org/projects/spm_ss" />
+<description> This spm-toolbox performs ROI-level and voxel-level between-subjects analyses of functional MRI data, restricting the analyses to those areas identified using subject-specific functional localizers. &lt;br /&gt;&lt;br /&gt;Methods: The toolbox implements ROI-level and voxel-level analyses, and it implements an automatic cross-validation procedure when the localizers are not orthogonal to the effects-of-interest. ROI-level analyses allow manually defined parcels of interest, as well as automatically-defined ones (GcSS procedure, Fedorenko et al. 2010). General linear model second-level analyses are implemented, including ReML and OLS estimation of population level effects. Hypothesis testing includes standard univariate tests as well as multivariate tests for mixed within- and between-subject designs (T, F, and Wilks&#x27; lambda statistics) &lt;br /&gt;&lt;br /&gt;This toolbox requires Matlab and SPM5/SPM8.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://web.mit.edu/evelina9/www/funcloc.html&quot; target=&quot;_new&quot;&gt;http://web.mit.edu/evelina9/www/funcloc....&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=415&amp;screenshot_id=290&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=415&amp;screenshot_id=290&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT/X Consortium License</license>
+<category>Modeling</category>
+<category>Linear</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 6, 2010</release>
+<homepage>http://web.mit.edu/evelina9/www/funcloc.html</homepage>
+<maintainer>MIT</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

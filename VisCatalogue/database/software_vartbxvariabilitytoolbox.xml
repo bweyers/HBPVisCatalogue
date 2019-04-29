@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="VarTbx – Variability Toolbox" nitrc="https://www.nitrc.org/projects/vartbx" />
+<description> VarTbx measures within-voxel time series variability in fMRI data. The VarTbx structure is intended to be similar to a standard SPM first-level analysis. You can then proceed to pass those first-level, variability-based images to a level-2 SPM analysis in order to model group effects of interest. However, the first-level NIFTI output files could also be used within other statistics programs of your choice (e.g., FSL, AFNI, PLS).&lt;br /&gt;&lt;br /&gt;VarTbx currently supports modeling block designs with a boxcar model, and computes temporal variability using measures such as: detrended variance (VAR), detrended standard deviation (SD), mean squared successive difference (MSSD), and SQRT(MSSD). We plan to add additional modeling approaches and variability measures in future releases. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Time Domain Analysis</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jan 16, 2015</release>
+<homepage>http://www.nitrc.org/projects/vartbx/</homepage>
+<maintainer>Max Planck Institute for Human Development</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

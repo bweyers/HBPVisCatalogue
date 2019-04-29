@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="GenGen" nitrc="https://www.nitrc.org/projects/gengen" />
+<description> GenGen is a suite of free software tools to facilitate the analysis of high-throughput genomics data sets. The package is currently a work-in-progress and infrequently updated. </description>
+<license>Freeware</license>
+<category>Pathways &amp; Networks</category>
+<category>SNP's &amp; Genes</category>
+<release>Oct 1, 2013</release>
+<homepage>https://github.com/WGLab/GenGen</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

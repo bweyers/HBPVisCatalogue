@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="PESTICA &amp; SLOMOCO: physio and motion correction tools" nitrc="https://www.nitrc.org/projects/pestica" />
+<description> Physiologic and motion noise are major problems in BOLD imaging. Physiologic EStimation by Temporal ICA or PESTICA is an MRI-based pulse and respiration monitor. SLice-Oriented MOtion COrrection, or SLOMOCO, is a slice-oriented motion correction for 6DOF motion of every slice. These tools are retrospective and work for ASL, multiband and 7T data.&lt;br /&gt;&lt;br /&gt;PESTICA detects the pulse and the breathing cycles _from the data itself_, equivalent to a parallel monitored pulse signal and a respiratory chest-bellows signal. One can use parallel monitored or PESTICA-monitored pulse and respiration for correction using the model-based corrections RETROICOR or IRF-RETROICOR.&lt;br /&gt;&lt;br /&gt;The other half of PESTICA is an adaptive physiologic noise removal tool (Impulse Response Function or IRF-RETROICOR) that zooms in on noise with only 6 regressors, getting all the noise that 5th order RETROICOR gets (using 20 regressors). These tools will allow you to correct your data for physiologic noise with what you currently have. </description>
+<license>Attribution Non-Commercial</license>
+<category>Physiological Recording</category>
+<category>Algorithm or Reusable Library</category>
+<category>Independent Component Analysis</category>
+<category>Multivariate Analysis</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Apr 8, 2010</release>
+<homepage>http://www.nitrc.org/projects/pestica/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

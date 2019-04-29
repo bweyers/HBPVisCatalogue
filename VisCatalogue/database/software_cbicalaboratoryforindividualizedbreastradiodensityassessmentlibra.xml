@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="CBICA: Laboratory for Individualized Breast Radiodensity Assessment (LIBRA)" nitrc="https://www.nitrc.org/projects/cbica_libra" />
+<description> The Laboratory for Individualized Breast Radiodensity Assessment (LIBRA) is a fully-automatic breast density estimation solution based on a published algorithm that works on either raw (i.e., “FOR PROCESSING”) or vendor post-processed (i.e., “FOR PRESENTATION”) digital mammography images from two vendors: GE Healthcare and Hologic. LIBRA has been applied to over 70,000 screening exams and is being increasingly utilized in larger studies.&lt;br /&gt;&lt;br /&gt;LIBRA has two modes of operations:&lt;br /&gt;&lt;br /&gt;1. An easy-to-use interactive mode with Graphical-User-Interface where the user is prompted to select either a single DICOM image or a folder of DICOM images, an output folder for the results, and whether they wish to save intermediate files.&lt;br /&gt;2. A command-line interface amenable to batch processing and scripting, where the user can explicitly define the input and output paths.&lt;br /&gt;&lt;br /&gt;For more info click Homepage in the left panel. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1011&amp;screenshot_id=1017&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1011&amp;screenshot_id=1017&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>SBIA License</license>
+<release>Jan 22, 2016</release>
+<homepage>https://www.nitrc.org/projects/cbica_libra/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

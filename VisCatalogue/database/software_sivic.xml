@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="SIVIC" nitrc="https://www.nitrc.org/projects/svk" />
+<description> SIVIC is an open-source, standards-based software framework and application suite for processing and visualization of DICOM MR Spectroscopy data. Through the use of DICOM, SIVIC aims to facilitate the application of MRS in medical imaging studies. Additional project information, binary downloads, documentations and tutorials are available at (&lt;a href=&quot;https://sourceforge.net/projects/sivic/&quot; target=&quot;_new&quot;&gt;https://sourceforge.net/projects/sivic/&lt;/a&gt;). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1064&amp;screenshot_id=1009&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1064&amp;screenshot_id=1009&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<release>Sep 29, 2016</release>
+<homepage>http://www.nitrc.org/projects/svk/</homepage>
+<maintainer>University of California, San Francisco</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

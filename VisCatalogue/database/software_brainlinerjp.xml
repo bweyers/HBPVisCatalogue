@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="BrainLiner.jp" nitrc="https://www.nitrc.org/projects/brainliner" />
+<description>&lt;a href=&quot;http://brainliner.jp/&quot; target=&quot;_new&quot;&gt;http://brainliner.jp/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;A web portal for sharing neurophysiological and behavioral data. Users can search for existing data or login with their Google, Facebook, or Twitter account and upload new data.&lt;br /&gt;&lt;br /&gt;Our main focus is on supporting brain-machine interface research, so we encourage users to not just provide recordings of brain activity data, but also information about stimuli, etc., so that statistical relationships can be found between stimuli and/or subject behavior and brain activity.&lt;br /&gt;&lt;br /&gt;Data on the site is freely available using mostly either CC-BY or CC-0 Creative Commons licenses, though some custom licenses also exist.&lt;br /&gt;&lt;br /&gt;We also have a page at &lt;a href=&quot;https://www.facebook.com/brainliner&quot; target=&quot;_new&quot;&gt;https://www.facebook.com/brainliner&lt;/a&gt; where you can contact us 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=594&amp;screenshot_id=499&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=594&amp;screenshot_id=499&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<release>Apr 3, 2012</release>
+<homepage>http://www.nitrc.org/projects/brainliner/</homepage>
+<maintainer>ATR</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

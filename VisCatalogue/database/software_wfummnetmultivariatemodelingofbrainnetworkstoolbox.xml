@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="WFU_MMNET - Multivariate Modeling of Brain Networks Toolbox" nitrc="https://www.nitrc.org/projects/wfu_mmnet" />
+<description> This toolbox provides a framework for multivariate modeling of brain networks. It allows assessing brain network differences between study populations as well as assessing the effects of phenotypic variabls such as aging, task performance, and disease states on the density and strength of connections in global and local brain networks while controlling for confounding variables. A variety of neuroimaging data such as fMRI, EEG, and DTI can be analyzed with this toolbox. The toolbox has been developed in MATLAB with a graphical user interface but uses SAS, R, or Python (depending on software availability) to perform the statistical modeling. &lt;br /&gt;We have made all efforts to avoid errors but users are strongly urged to post the bugs or suggested improvements on the provided forum. </description>
+<license>Attribution</license>
+<release>Aug 20, 2018</release>
+<homepage>http://www.nitrc.org/projects/wfu_mmnet/</homepage>
+<maintainer>Virginia Tech - Wake Forest School of Biomedical Engineering and Sciences</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

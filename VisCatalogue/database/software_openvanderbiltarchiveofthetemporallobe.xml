@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Open Vanderbilt Archive of the Temporal Lobe" nitrc="https://www.nitrc.org/projects/oval" />
+<description> The Open Vanderbilt Archive of the Temporal Lobe is a tool for automated segmentation of the temporal lobe. </description>
+<license>Creative Commons License</license>
+<release>Sep 20, 2017</release>
+<homepage>http://www.nitrc.org/projects/oval/</homepage>
+<maintainer>Vanderbilt University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

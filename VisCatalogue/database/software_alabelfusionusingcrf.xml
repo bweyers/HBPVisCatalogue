@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="A label fusion using CRF" nitrc="https://www.nitrc.org/projects/lf_crf" />
+<description> We present a label fusion method based on minimizing an energy function by using graph-cut techniques. We use a conditional random field (CRF) model that allow us to incorporate shape, appearance and context information efficiently. This model is characterized by a pseudo Boolean function defined on unary, pairwise and higher order potentials. To evaluate the performance and the robustness of the proposed label fusion method, we employ two available database of T1-weighted (T1W) magnetic resonance (MR) images of human brains. We compare our approach with other label fusion methods in the hippocampal automatic segmentation from T1W-MR images. </description>
+<release>Jan 8, 2015</release>
+<homepage>http://www.nitrc.org/projects/lf_crf/</homepage>
+<maintainer>Applied Bioengineering Group</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="ToolConnect" nitrc="https://www.nitrc.org/projects/toolconnect" />
+<description> ToolConnect is an open source software for the functional connectivity analysis of in vitro neural networks. In the current version, ToolConnect implements correlation- (cross-correlation, partial-correlation) and information theory (joint entropy, transfer entropy) based algorithms, as well as useful and practical add-ons to visualize functional connectivity graphs and extract some topological features derived from graph theory. </description>
+<release>May 10, 2017</release>
+<homepage>http://www.nitrc.org/projects/toolconnect/</homepage>
+<maintainer>DIBRIS</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="Diffusion MRI Tool" nitrc="https://www.nitrc.org/projects/dmritool" />
+<description> DMRITool is a free and open source toolbox for diffusion MRI data processing. It is written in C++ with Matlab interface. You can also use the released mex executables in matlab.&lt;br /&gt;&lt;br /&gt;DMRITool website: &lt;br /&gt;&lt;a href=&quot;https://diffusionmritool.github.io/&quot; target=&quot;_new&quot;&gt;https://diffusionmritool.github.io/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Latest source code: &lt;br /&gt;&lt;a href=&quot;https://github.com/DiffusionMRITool/dmritool&quot; target=&quot;_new&quot;&gt;https://github.com/DiffusionMRITool/dmri...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Mailing list:&lt;br /&gt;&lt;a href=&quot;http://www.nitrc.org/mailman/listinfo/dmritool-discussion&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/mailman/listinfo/dm...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;DMRITool is currently supported in SQITS at NIH&lt;br /&gt;&lt;a href=&quot;https://science.nichd.nih.gov/confluence/display/sqits/Home&quot; target=&quot;_new&quot;&gt;https://science.nichd.nih.gov/confluence...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;With DMRITool, you can: &lt;br /&gt;&lt;br /&gt;* perform reconstruction/estimation of diffusion data, including diffusion weighted signal, ensemble average propagator (EAP), diffusion orientation distribution function (dODF), and some meaningful scalar maps, etc.&lt;br /&gt;* generate spherically uniform sampling schemes for single or multiple shells.&lt;br /&gt;* perform diffusion MRI data simulation. &lt;br /&gt;* visualize spherical function field (e.g. dODF field, EAP profile field) </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Image Reconstruction</category>
+<category>Modeling</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Mar 8, 2015</release>
+<homepage>http://www.nitrc.org/projects/dmritool/</homepage>
+<maintainer>NIH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

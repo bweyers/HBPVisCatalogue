@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="Virtual Brain Generator" nitrc="https://www.nitrc.org/projects/virtualbraingen" />
+<description> MATLAB code to reverse-engineer neural networks (Virtual Brains) whose dynamics reproduce large-scale activity patterns of real brains observed with EEG and MEG in health and disease. The model of the virtual brain was originally presented in:&lt;br /&gt;&lt;br /&gt;G. Karl Steinke and Roberto F. Galán (2011). Brain rhythms reveal a hierarchical network organization. PLoS Computational Biology, 7(10): e1002207. &lt;br /&gt;Key words: EEG, neural complexity, inverse-eigenvalue problem, network oscillations, brain connectivity.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002207&quot; target=&quot;_new&quot;&gt;http://journals.plos.org/ploscompbiol/ar...&lt;/a&gt;</description>
+<release>Aug 13, 2018</release>
+<homepage>https://case.edu/med/galanlab/software.html</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

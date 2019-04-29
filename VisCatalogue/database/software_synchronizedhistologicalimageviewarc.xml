@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Synchronized Histological Image View Arc" nitrc="https://www.nitrc.org/projects/shiva" />
+<description> The Synchronized Histological Image Viewing Architecture (&lt;a href=&quot;http://www.loni.usc.edu/Software/SHIVA&quot; target=&quot;_new&quot;&gt;http://www.loni.usc.edu/Software/SHIVA&lt;/a&gt;) is a Java-based visualization and analysis application. SHIVA can process 2D and 3D image files and provides convenient methods for users to overlay multiple datasets.&lt;br /&gt;&lt;br /&gt;SHIVA is distributed by the Laboratory of Neuro Imaging (&lt;a href=&quot;http://www.loni.usc.edu/Software/SHIVA&quot; target=&quot;_new&quot;&gt;http://www.loni.usc.edu/Software/SHIVA&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=303&amp;screenshot_id=420&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=303&amp;screenshot_id=420&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 8, 2009</release>
+<homepage>http://www.nitrc.org/projects/shiva/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

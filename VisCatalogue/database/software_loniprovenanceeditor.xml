@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="LONI Provenance Editor" nitrc="https://www.nitrc.org/projects/provenance" />
+<description> The LONI Provenance Editor (&lt;a href=&quot;http://www.loni.usc.edu/Software/ProvenanceEditor&quot; target=&quot;_new&quot;&gt;http://www.loni.usc.edu/Software/Provena...&lt;/a&gt;) is a self-contained, platform-independent application that automatically extracts the provenance information from an image header (such as a DICOM image) and generates a data provenance XML file with that information.&lt;br /&gt;&lt;br /&gt;Provenance Editor is distributed by the Laboratory of Neuro Imaging (&lt;a href=&quot;http://www.LONI.usc.edu/Software/ProvenanceEditor&quot; target=&quot;_new&quot;&gt;http://www.LONI.usc.edu/Software/Provena...&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=305&amp;screenshot_id=412&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=305&amp;screenshot_id=412&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>LONI Software License</license>
+<release>Dec 8, 2009</release>
+<homepage>http://www.nitrc.org/projects/provenance/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

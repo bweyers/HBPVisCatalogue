@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Neural ElectroMagnetic Ontologies" nitrc="https://www.nitrc.org/projects/nemo" />
+<description> Neural ElectroMagnetic Ontologies (NEMO) is an NIH funded project that aims to create EEG and MEG ontologies and ontology based tools. Project documentation can be accessed on the NEMO website:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://aimlab.cs.uoregon.edu/NEMO/web/&quot; target=&quot;_new&quot;&gt;http://aimlab.cs.uoregon.edu/NEMO/web/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Project resources (ontologies, database, portal, and pattern analysis tools) can be downloaded from Sourceforge:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://sourceforge.net/projects/nemoontologies/&quot; target=&quot;_new&quot;&gt;https://sourceforge.net/projects/nemoont...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;These resources will be used to support representation, classification, and meta-analysis of brain electromagnetic data. The three pillars of NEMO are: DATA, ONTOLOGY, and DATABASE. NEMO data consist of raw EEG, averaged EEG (ERPs), and ERP data analysis results. NEMO ontologies include concepts related to ERP data (including spatial and temporal features of ERP patterns), data provenance, and the cognitive and linguistic paradigms that were used to collect the data. The NEMO database is a large repository that stores NEMO consortium data, data analysis results, and data provenance. </description>
+<license>NEMO License</license>
+<category>Ontology</category>
+<release>May 10, 2009</release>
+<homepage>http://www.nitrc.org/projects/nemo/</homepage>
+<maintainer>University of Oregon</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

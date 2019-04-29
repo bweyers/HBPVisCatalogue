@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Fiber-tracking based on Finsler distance" nitrc="https://www.nitrc.org/projects/finslerbacktr" />
+<description> This software is currently provided as a sub-project in the Finsler-tractography module: &lt;a href=&quot;http://www.nitrc.org/projects/finslertract&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/projects/finslertra...&lt;/a&gt;</description>
+<license>3D Slicer License</license>
+<category>Diffusion MR Fiber Tracking</category>
+<release>Jun 23, 2011</release>
+<homepage>http://www.nitrc.org/projects/finslerbacktr/</homepage>
+<maintainer>Brigham and Woman's Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

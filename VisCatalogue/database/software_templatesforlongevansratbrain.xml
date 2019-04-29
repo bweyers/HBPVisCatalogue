@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Templates for Long-Evans Rat Brain" nitrc="https://www.nitrc.org/projects/tpm_rat" />
+<description> The average signal intensity, stereotaxic templates and TPMs of rat brain are intended for SPM normalization and segmentation (including skull-stripping) of rat head MRI data. Ex-vivo T2WI (an isotropic resolution of 118μm) of Long Evans (n=4, male, 8wo) rat head were acquired and DARTEL in SPM8 was used for the creation of templates and TPMs. The bounding box (a three dimensional space) of templates encompassed the followings x, y, z dimensions (-18,18; -20, 7; -14, 6) and the origin was (0, 0, 0) in mm. The horizontal slice (z=0) passed through bregma and lambda (the flat-skull position) and the coronal slice (y=0) lay perpendicular to the horizontal plane and passes through the bregma, and the sagittal slice (x=0) was located at the median sagittal plane. The locations of bregma and lambda were determined from the image contrasts of T2WI and CT data.&lt;br /&gt;&lt;br /&gt;Authors: Keigo Hikishima, Susumu Setogawa, Hiroshi Mizuma, Yilong Cui, Kazuto Kobayashi, Hirotaka Onoe&lt;br /&gt;&lt;br /&gt;Contact person: &lt;a href=&quot;mailto:keigo.hikishima@oist.jp&quot; target=&quot;_new&quot;&gt;keigo.hikishima@oist.jp&lt;/a&gt;</description>
+<license>Attribution Share Alike</license>
+<category>Atlas Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 8, 2018</release>
+<homepage>http://www.nitrc.org/projects/tpm_rat/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

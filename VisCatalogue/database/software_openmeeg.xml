@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="OpenMEEG" nitrc="https://www.nitrc.org/projects/openmeeg" />
+<description> A C++ package for low-frequency bio-electromagnetism &lt;br /&gt;solving forward problems in the field of EEG and MEG with very high accuracy. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=514&amp;screenshot_id=496&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=514&amp;screenshot_id=496&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>CeCill v2</license>
+<category>Algorithm or Reusable Library</category>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<release>Jul 25, 2011</release>
+<homepage>http://openmeeg.gforge.inria.fr</homepage>
+<maintainer>INRIA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

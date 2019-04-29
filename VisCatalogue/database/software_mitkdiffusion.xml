@@ -1,0 +1,36 @@
+<root>
+<software>
+<name name="MITK Diffusion" nitrc="https://www.nitrc.org/projects/mitk-diffusion" />
+<description> The MITK Diffusion application offers a selection of image analysis algorithms for the processing of diffusion-weighted MR images. It encompasses the research of the Division [https://www.dkfz.de/en/mic/index.php Medical Image Computing] at the German Cancer Research Center (dkfz).&lt;br /&gt;&lt;br /&gt;Features &amp;amp; Highlights &lt;br /&gt;- Support for most established image formats, such as DICOM, NIFTI, and NRRD&lt;br /&gt;- Tensor and Q-ball reconstruction&lt;br /&gt;- Intravoxel Incoherent Motion (IVIM) analysis&lt;br /&gt;- Fiber tractography and fiber processing&lt;br /&gt;-- Global tractography&lt;br /&gt;-- Interactive peak, ODF and tensor streamline tractography&lt;br /&gt;-- Machine learning based tractography&lt;br /&gt;- Brain network statistics and visualization (connectomics)&lt;br /&gt;- Fiberfox: simulation of diffusion-weighted MR images&lt;br /&gt;- Command line tools for most functionalities 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=615&amp;screenshot_id=538&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=615&amp;screenshot_id=538&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD/MIT-Style Open Source License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Connectivity Analysis</category>
+<category>Image Reconstruction</category>
+<category>Modeling</category>
+<category>Quantification</category>
+<category>Segmentation</category>
+<category>Fiber Tracking</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>OS Independent</platform>
+<platform>Linux</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 3, 2012</release>
+<homepage>http://mitk.org/wiki/DiffusionImaging</homepage>
+<maintainer>Division of Medical Image Computing</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

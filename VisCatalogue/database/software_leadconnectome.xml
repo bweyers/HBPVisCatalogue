@@ -1,0 +1,29 @@
+<root>
+<software>
+<name name="Lead-Connectome" nitrc="https://www.nitrc.org/projects/lead-connectome" />
+<description> Lead-Connectome is a fully equipped structural-functional connectome processing toolbox. It features several modern fiber-tracking algorithms that support single- and multishell (~DSI) data and state-of-the art nonlinear deformation algorithms. It operates in the Matlab development environment and is part of the Lead Neuroimaging Suite. As such, it seamlessly integrates with the Lead-DBS toolbox. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1058&amp;screenshot_id=1004&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1058&amp;screenshot_id=1004&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Connectivity Analysis</category>
+<category>Fiber Tracking</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>OS Independent</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 11, 2016</release>
+<homepage>http://www.nitrc.org/projects/lead-connectome/</homepage>
+<maintainer>Charité University Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

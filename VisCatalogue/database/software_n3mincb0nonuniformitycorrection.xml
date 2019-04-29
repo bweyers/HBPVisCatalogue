@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="N3 - MINC B0 nonuniformity correction" nitrc="https://www.nitrc.org/projects/nu_correct" />
+<description> nu_correct implements a novel approach to correcting for intensity non-uniformity in MR data that achieves high performance without requiring supervision. By making relatively few assumptions about the data, the method can be applied at an early stage in an automated data analysis, before a tissue intensity or geometric model is available. Described as Non-parametric Non-uniform intensity Normalization (N3), the method is independent of pulse sequence and insensitive to pathological data that might otherwise violate model assumptions. To eliminate the dependence of the field estimate on anatomy, an iterative approach is employed to estimate both the multiplicative bias field and the distribution of the true tissue intensities. Preprocessing of MR data using N3 has been shown to substantially improve the accuracy of anatomical analysis techniques such as tissue classification and cortical surface extraction. </description>
+<license>MINC Licence (BSD'ish)</license>
+<release>Oct 22, 2008</release>
+<homepage>http://www.nitrc.org/projects/nu_correct/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

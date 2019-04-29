@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Emory-UNC Developmental Macaque Structural and DTI Atlases" nitrc="https://www.nitrc.org/projects/macaque_atlas" />
+<description> This is a set of cross-sectional structural atlases as well as cross-sectional and longitudinal DTI atlases of a cohort of 40 rhesus macaques scanned longitudinally at ages 2 weeks, 3 months, 6 months, 12 months, and 18 months. </description>
+<license>Attribution Share Alike</license>
+<release>Nov 17, 2015</release>
+<homepage>http://www.nitrc.org/projects/macaque_atlas/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

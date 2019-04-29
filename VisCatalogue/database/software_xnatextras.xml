@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="XNAT Extras" nitrc="https://www.nitrc.org/projects/xnat_extras" />
+<description> User contributions for XNAT. </description>
+<category>Database Application</category>
+<platform>POSIX/UNIX-like</platform>
+<release>Sep 8, 2011</release>
+<homepage>http://www.xnat.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Spatially Constrained Parcellation" nitrc="https://www.nitrc.org/projects/cluster_roi" />
+<description> Source code and parcellations now available! Go to &lt;a href=&quot;http://ccraddock.github.io/cluster_roi/&quot; target=&quot;_new&quot;&gt;http://ccraddock.github.io/cluster_roi/&lt;/a&gt; for more information.&lt;br /&gt;&lt;br /&gt;Spatially constrained parcellation is a set of tools for deriving ROI atlases by whole brain clustering of task or resting state data. In addition to the tools, this resource also contains several atlases derived by parcellating publicly available resting state fMRI datasets. The initial release will include python scripts and ROI atlases developed to perform the analyses described in Craddock et. al., A whole brain fMRI atlas generated via spatially constrained spectral clustering, which is currently in revision in Human Brain Mapping. &lt;br /&gt;&lt;br /&gt;The scripts provide all of the tools necessary to derive an ROI atlases using spatially constrained Ncut spectral clustering. The scripts require python, numpy and scipy to run. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=427&amp;screenshot_id=392&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=427&amp;screenshot_id=392&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<release>Nov 30, 2010</release>
+<homepage>http://www.nitrc.org/projects/cluster_roi/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

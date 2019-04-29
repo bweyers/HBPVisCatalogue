@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="fNIRS Data Analysis Environment" nitrc="https://www.nitrc.org/projects/fnirs_downstate" />
+<description> Our resource is a data analysis environment for diffuse optical tomography (DOT) functional neuroimaging data. Developed to process data from steady-state time-series measurements, it allows for maximal flexibility in the number and positions of optodes. The central component is an application called NAVI. Features include:&lt;br /&gt;1. An electronic ledger (records metadata for all data transformations).&lt;br /&gt;2. Data conditioning (e.g., frequency-filtering, selection of data on the basis of signal-to-noise ratio.)&lt;br /&gt;3. 2D or 3D image formation and display.&lt;br /&gt;4. Interpretation: atlas-based mapping; automated anatomical labeling; GLM; data-driven methods (e.g., PCA, ICA); model-based (e.g., dynamic causal modeling) and data-driven (e.g., correlation) connectivity analysis.&lt;br /&gt; Another important component is the Brain Model Generator, which includes FEM meshes for all parts of the head accessible to DOT measurements. The user can input the numbers of optodes, and manually specify their locations or input tracking-system data. </description>
+<release>Sep 27, 2012</release>
+<homepage>http://www.nitrc.org/projects/fnirs_downstate/</homepage>
+<maintainer>SUNY Downstate Medical Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

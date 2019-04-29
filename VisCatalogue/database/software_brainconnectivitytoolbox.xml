@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Brain Connectivity Toolbox" nitrc="https://www.nitrc.org/projects/bct" />
+<description> The Brain Connectivity Toolbox (brain-connectivity-toolbox.net) is a MATLAB toolbox for complex-network (graph) analysis of structural and functional brain-connectivity data sets. Several people have contributed to the toolbox and users are welcome to contribute new functions with due acknowledgement.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;All efforts have been made to avoid errors, but users are strongly urged to independently verify the accuracy and suitability of individual toolbox functions. Please report bugs or substantial improvements to Olaf Sporns or to Mika Rubinov. </description>
+<category>Statistical Operation</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 30, 2009</release>
+<homepage>http://www.brain-connectivity-toolbox.net/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

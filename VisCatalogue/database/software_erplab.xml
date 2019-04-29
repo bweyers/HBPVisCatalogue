@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="ERPLAB" nitrc="https://www.nitrc.org/projects/erplab" />
+<description> ERPLAB Toolbox is a set of open source, freely available Matlab routines for analyzing ERP data. It is tightly integrated with the EEGLAB Toolbox. ERPLAB routines can be accessed from the Matlab command window and from Matlab scripts in addition to being accessed from the EEGLAB GUI. Consequently, ERPLAB provides the ease of learning of a GUI-based system but also provides the power and flexibility of a scripted system.The development of ERPLAB Toolbox is being coordinated by Steve Luck and Javier Lopez-Calderon at the UC-Davis Center for Mind &amp;amp; Brain, with financial support from NIMH. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=541&amp;screenshot_id=631&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=541&amp;screenshot_id=631&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>ANOVA</category>
+<category>Event Related Potential</category>
+<release>Dec 2, 2011</release>
+<homepage>http://www.nitrc.org/projects/erplab/</homepage>
+<maintainer>University of California, Davis</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

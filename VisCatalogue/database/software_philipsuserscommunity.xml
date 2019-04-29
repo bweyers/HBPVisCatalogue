@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Philips Users Community" nitrc="https://www.nitrc.org/projects/philips_users" />
+<description> This communnity project is to help support the efforts of investigators using Philips Healthcare systems. This clearingsite helps users find forums, mailinglists, etc. that support this community. If you have suggestions for inclusion, let the project admin know! </description>
+<category>Community</category>
+<platform>OS Independent</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Jun 16, 2013</release>
+<homepage>http://www.nitrc.org/projects/philips_users/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

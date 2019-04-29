@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="NeuroPub Visualizer" nitrc="https://www.nitrc.org/projects/neuropub" />
+<description> NeuroPub is a NIfTI visualisation tool for the iPad. You can use it to store all your statistical images from your fMRI/VBM/TBSS studies and visualise them in 2D and 3D. Use NeuroPub as a library for your statistical images. You can download the app for free from the App Store! </description>
+<license>Freeware</license>
+<release>Dec 2, 2010</release>
+<homepage>http://www.nitrc.org/projects/neuropub/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

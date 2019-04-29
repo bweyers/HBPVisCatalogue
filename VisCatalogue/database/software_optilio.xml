@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Optil.io" nitrc="https://www.nitrc.org/projects/optilio" />
+<description> OPTIL.io (&lt;a href=&quot;http://www.optil.io&quot; target=&quot;_new&quot;&gt;http://www.optil.io&lt;/a&gt;) is the online platform that can be used to organize programming challenges. It is dedicated to optimization challenges. However, it can be adapted to other problem types. Optil.io receives algorithmic solutions of optimization problems in the form of source code from the crowd of contestants, compiles it, executes in a homogeneous run-time environment and objectively evaluates using the set of test cases. Problems that are solved can be provided by external scientists or companies. Solutions can be submitted in many programming languages, and they are then carefully assessed taking into account resource limitations set for the run-time environment, such as CPU time or virtual memory. Each participant can continuously observe how his solution is being compared to others and improve it further. The platform is free for scientific and educational, non-commercial use. </description>
+<license>Free For Non-Commercial Use Only</license>
+<release>Feb 26, 2018</release>
+<homepage>http://www.nitrc.org/projects/optilio/</homepage>
+<maintainer>Poznan University of Technology</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

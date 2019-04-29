@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="R-package for adaptive fMRI analysis" nitrc="https://www.nitrc.org/projects/rfmri" />
+<description> The package fmri provides fMRI analysis with R using structural adaptive smoothing methods. They allow smoothing especially at low SNR avoiding the apparent blurring of non-adapative smoothing and thus without reducing the effective spatial resolution. </description>
+<license>GNU General Public License (GPL)</license>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 12, 2009</release>
+<homepage>http://www.nitrc.org/projects/rfmri/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

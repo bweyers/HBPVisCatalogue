@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="VectorValuedHistogramNormalizer" nitrc="https://www.nitrc.org/projects/vvhistomatch" />
+<description> Implement the methods defined in &lt;a href=&quot;http://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2006/Jaeger06-ANM.pdf&quot; target=&quot;_new&quot;&gt;http://www5.informatik.uni-erlangen.de/F...&lt;/a&gt; as and ITK filter. </description>
+<release>Jun 29, 2008</release>
+<homepage>http://www.nitrc.org/projects/vvhistomatch/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

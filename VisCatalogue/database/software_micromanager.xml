@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Micro-Manager" nitrc="https://www.nitrc.org/projects/micromanager" />
+<description> Micro-Manager (&lt;a href=&quot;http://micro-manager.org&quot; target=&quot;_new&quot;&gt;http://micro-manager.org&lt;/a&gt;) operates motorized light microscopes and associated equipment. It runs as a plugin in ImageJ, works with virtually all scientific grade microscope equipment, and has a simple interface towards routine image acquisition strategies such as time-lapse, z- stacks, multi-channel, and multi-position acquisition. In addition, it uses a device abstraction layer available from various programming environments (such a C, Java, Python, Matlab and LabView), facilitating development of novel approaches to image acquisition. </description>
+<license>Mixed: BSD and LGPL</license>
+<release>Feb 5, 2012</release>
+<homepage>http://www.nitrc.org/projects/micromanager/</homepage>
+<maintainer>UCSF</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

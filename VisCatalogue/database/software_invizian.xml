@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="INVIZIAN" nitrc="https://www.nitrc.org/projects/invizian" />
+<description> Fly through and interact with hundreds of human brains to compare structural differences or carefully inspect individual specimens. Introducing the “Informatics Visualization in Neuroimaging (INVIZIAN©)” Project (&lt;a href=&quot;http://invizian.loni.usc.edu&quot; target=&quot;_new&quot;&gt;http://invizian.loni.usc.edu&lt;/a&gt;), a 21st century visualization environment that enables you, via your computer, to display and interact with hundreds of neuroimaging data sets at once —bringing together brain image data from some of the world’s best neuroscience research teams. INVIZIAN© empowers both researchers and students of neuroscience to explore and understand the human brain using a simple yet powerful user interface for neuroimaging data exploration and discovery. See a beautiful example of a cloud of individual brains tumbling around in the INVIZIAN© interface in Vimeo (&lt;a href=&quot;http://vimeo.com/67984681&quot; target=&quot;_new&quot;&gt;http://vimeo.com/67984681&lt;/a&gt;). Visit often to see how we are making continuing progress to make Invizian© even more amazing. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=567&amp;screenshot_id=464&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=567&amp;screenshot_id=464&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>LONI Software License</license>
+<release>Jan 28, 2012</release>
+<homepage>http://invizian.loni.usc.edu</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

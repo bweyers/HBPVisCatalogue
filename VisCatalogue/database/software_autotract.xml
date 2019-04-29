@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="AutoTract" nitrc="https://www.nitrc.org/projects/autotract" />
+<description> AutoTract is an automatic tractography tool featuring advanced processing tools to clean tracts after the initial tractography. It uses the Slicer TractographyLabelMapSeeding, with tracts from a reference DTI atlas as label maps. &lt;br /&gt;&lt;br /&gt;The 3 main steps of the tool are:&lt;br /&gt;-Registration between the DTI image that we want to tract and the reference DTI atlas.&lt;br /&gt;-Tractography of the DTI image using the TractographyLabelMapSeeding Slicer module.&lt;br /&gt;-Process of each tract individually to clean and remove any unwanted fiber.&lt;br /&gt;&lt;br /&gt;The processing includes (for each tract): &lt;br /&gt;-cutting every fiber ends that are in the gray matter (cutting them until the fiber ends is in the white matter), based on a white matter mask created by the tool.&lt;br /&gt;-ensuring every fiber is not in the CSF (removes them from the tract otherwise)&lt;br /&gt;-several image comparisons with the reference tracts (such as fiber length matching, use of a distance map to ensure that the tract is close to the reference tract, and potentially to be added later on, shape comparison). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=948&amp;screenshot_id=935&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=948&amp;screenshot_id=935&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Jun 16, 2015</release>
+<homepage>http://www.nitrc.org/projects/autotract/</homepage>
+<maintainer>University of North Carolina at Chapel Hill (UNC-CH)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

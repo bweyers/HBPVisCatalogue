@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Using Make for Neuroimaging Workflow: Manual and Examples" nitrc="https://www.nitrc.org/projects/makepipelines" />
+<description> Make Pipelines is a set of examples of neuroimaging workflows, implemented using the popular UNIX utility &amp;quot;make&amp;quot;, documented in an extensive manual. These examples span structural MRI processing, fMRI processing (resting and task), diffusion tensor imaging, quantitative perfusion imaging, and reporting of fMRI results.&lt;br /&gt;&lt;br /&gt;See documentation link for related paper and manual. </description>
+<license>Creative Commons License</license>
+<category>Workflow</category>
+<category>Platform or Development Environment</category>
+<platform>Linux</platform>
+<release>Aug 21, 2015</release>
+<homepage>http://www.nitrc.org/projects/makepipelines/</homepage>
+<maintainer>University of Washington</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

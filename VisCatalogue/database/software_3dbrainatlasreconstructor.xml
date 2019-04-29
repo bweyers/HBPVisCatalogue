@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="3d Brain Atlas Reconstructor" nitrc="https://www.nitrc.org/projects/bar3d" />
+<description> 3d Brain Atlas Reconstructor (3dBAR, &lt;a href=&quot;http://www.3dbar.org&quot; target=&quot;_new&quot;&gt;http://www.3dbar.org&lt;/a&gt;) is a software package for reconstructing three-dimensional models of brain structures from 2-D delineations using a customizable and reproducible workflow.&lt;br /&gt;&lt;br /&gt;3dBAR also works as an on-line service (&lt;a href=&quot;http://service.3dbar.org&quot; target=&quot;_new&quot;&gt;http://service.3dbar.org&lt;/a&gt;) offering a variety of functions for the hosted datasets: &lt;br /&gt;&lt;br /&gt; - downloading reconstructions of desired brain structures in predefined quality levels in various supported formats as well as created using customizable settings,&lt;br /&gt; - previewing models as bitmap thumbnails and (for webGL enabled browsers) interactive manipulation (zooming, rotating, etc.) of the structures,&lt;br /&gt; - downloading slides from available datasets as SVG drawings.&lt;br /&gt;&lt;br /&gt;3dBAR service can also be used by other websites or applications to enhance their functionality.&lt;br /&gt;&lt;br /&gt;Check &lt;a href=&quot;http://www.3dbar.org&quot; target=&quot;_new&quot;&gt;http://www.3dbar.org&lt;/a&gt; for detailed description of the software and the latest releases. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Web Service</category>
+<category>Algorithm or Reusable Library</category>
+<category>Atlas Application</category>
+<category>Three Dimensional Display</category>
+<category>Workflow</category>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<input>VRML</input>
+<output>VRML</output>
+<release>Sep 29, 2011</release>
+<homepage>http://3dbar.org</homepage>
+<maintainer>Nencki Institute of Experimental Biology</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

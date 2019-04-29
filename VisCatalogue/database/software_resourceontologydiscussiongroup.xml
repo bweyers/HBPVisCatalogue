@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Resource Ontology Discussion Group" nitrc="https://www.nitrc.org/projects/ontology" />
+<description> This project will discuss, debate, develop and deploy ontological practices for the fMRI community. </description>
+<category>Ontology</category>
+<category>Community</category>
+<release>Jan 12, 2007</release>
+<homepage>http://www.nitrc.org/projects/ontology/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

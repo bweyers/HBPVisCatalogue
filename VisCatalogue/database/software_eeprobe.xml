@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="EEProbe" nitrc="https://www.nitrc.org/projects/eeprobe" />
+<description> EEProbe is a complete software package for the study of event-related brain activity with high-resolution EEG/MEG. This package has been designed to suit the high standards of neuroscience research. The software has been developed originally at the Max Planck Institute for Cognitive Neuroscience in Leipzig, Germany, and is available for other institutions through ANT Neuro B.V., The Netherlands, enhanced with the EEProbe Databrowser.&lt;br /&gt;&lt;br /&gt;ERP investigations, both in psychophysiology research and clinical applications require a multitude of processing steps. Analysis of large data sets is made efficient through advanced scripting possibilities. &lt;br /&gt;&lt;br /&gt;All different aspects of data handling are efficiently available in the EEProbe Databrowser. Alternatively, external data can be imported from a multitude of formats.&lt;br /&gt;&lt;br /&gt;Processing in EEProbe makes use of open file formats (see LIBEEP) and is designed to integrate with ASA for advanced source analysis.&lt;br /&gt;&lt;br /&gt;EEProbe is available for Linux and Mac OS X. &lt;a href=&quot;http://www.ant-neuro.com&quot; target=&quot;_new&quot;&gt;http://www.ant-neuro.com&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=555&amp;screenshot_id=632&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=555&amp;screenshot_id=632&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>Event Related Potential</category>
+<release>Dec 23, 2011</release>
+<homepage>http://www.nitrc.org/projects/eeprobe/</homepage>
+<maintainer>ANT Neuro B.V.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

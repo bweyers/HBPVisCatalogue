@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="VIEWPixx" nitrc="https://www.nitrc.org/projects/crt_replacement" />
+<description> The VIEWPixx is a complete display toolbox which has been conceived specifically to replace CRTs in vision science labs. The VIEWPixx features high-performance industrial LCD glass, and a panel controller which has been custom designed to support vision research.Our innovative LED backlight design features superior display uniformity, and a wide color gamut exceeding that of any CRT. In addition, it includes an array of peripherals which often need to be synchronized to video during an experiment, including a stereo audio stimulator, a button box port for precise reaction-time measurement, triggers for electrophysiology equipment, and even a complete analog I/O subsystem. Because we implemented the video controller and peripheral control on the same circuit board, you can now successfully synchronize all of your subject I/O to video refresh with microsecond precision. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=593&amp;screenshot_id=495&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=593&amp;screenshot_id=495&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License: VPixx</license>
+<category>Response Monitoring</category>
+<category>Stimulus Presentation</category>
+<category>Physiological Recording</category>
+<category>Physiological Stimulation</category>
+<release>Apr 3, 2012</release>
+<homepage>http://vpixx.com/our-products/crt-replacement/</homepage>
+<maintainer>VPixx Technologies</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="MRI denoising" nitrc="https://www.nitrc.org/projects/mri-denoising" />
+<description> The Matlab package MRIdenoisingPackage contains five denoising filters and a noise estimation method for 3D MRI. The package includes nonlocal means, Oracle DCT and locally adaptive NLM methods.&lt;br /&gt;Based on image redundancy and/or sparsity, the proposed filters provide efficient denoising while preserving fine structures. The package is compiled for Linux (64 bits), Windows (64 bits) and MAC (64bits). The proposed GUI enables the processing of several .nii files in 2-clicks to make easier the processing of large database. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=806&amp;screenshot_id=738&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=806&amp;screenshot_id=738&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 18, 2014</release>
+<homepage>http://www.nitrc.org/projects/mri-denoising/</homepage>
+<maintainer>Bordeaux University, Universidad Politécnica de Valencia</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

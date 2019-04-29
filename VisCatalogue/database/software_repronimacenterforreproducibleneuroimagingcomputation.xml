@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="ReproNim: A Center for Reproducible Neuroimaging Computation" nitrc="https://www.nitrc.org/projects/repronim" />
+<description> ReproNim seeks to implement a shift in the way neuroimaging research is performed and reported. Through the development and implementation of technology that supports a comprehensive set of data management, analysis and utilization frameworks in support of both basic research and clinical activities, our overarching goal is to improve the reproducibility of neuroimaging science and extend the value of our national investment in neuroimaging research. Reproducibility is critical because the current literature is fraught with published results that are due to mistakes; or turn out to be false positive (contributed to by the lack of statistical power). More importantly, given the current publication system, it is exceedingly difficult to discern between false positive and true positive finding as data is hard to aggregate, and exact methods are hard to replicate. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1084&amp;screenshot_id=1042&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1084&amp;screenshot_id=1042&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<category>Data Model</category>
+<category>Community</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<release>Dec 7, 2016</release>
+<homepage>http://repronim.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Web Game for Collaborative Labeling" nitrc="https://www.nitrc.org/projects/webmill" />
+<description> Statistical atlases of regional brain anatomy have proven to be extremely useful in characterizing the relationship between the structure and function of the human nervous system. Typically, an expert human rater manually examines each slice of a three-dimensional volume. This approach can be exceptionally time and resource intensive, so cost severely limits the clinical studies where subject-specific labeling is feasible. Methods for improved efficiency and reliability of manual labeling would be of immense benefit for clinical investigation into morphological correlates of brain function. The goal of the proposed work is to enable an alternative to expert raters for medical image labeling through statistical analysis of the collaborative efforts of many, minimally-trained raters. The proposed research investigates extension of established practices for volumetric labeling and web- based collaboration to create an innovative infrastructure for labeling. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=242&amp;screenshot_id=187&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=242&amp;screenshot_id=187&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Jun 30, 2009</release>
+<homepage>http://www.nitrc.org/projects/webmill/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

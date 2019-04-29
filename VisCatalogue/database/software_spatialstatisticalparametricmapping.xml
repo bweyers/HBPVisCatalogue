@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Spatial Statistical Parametric Mapping" nitrc="https://www.nitrc.org/projects/sspm" />
+<description> SSPM represents Spatial Statistical Parametric Mapping.This package includes two tools presently: MAGEE and FADTTS. &lt;br /&gt;MAGEE represents the Multiscale Adaptive Generalized Estimating Equation. It was developed specifically for analyzing multivariate neuroimaging data in 3-dimensional volume (or on 2-dimensional surface) from longitudinal neuroimaging studies. &lt;br /&gt;FADTTS represents Functional Analysis of Diffusion Tensor Tract Statistics. The aim of this tool is to implement a functional analysis pipeline, for delineating the structure of the variability of multiple diffusion properties along major white matter fiber bundles and their association with a set of covariates of interest, in various diffusion tensor imaging studies. </description>
+<license>NIH Data Access Policy</license>
+<release>Mar 26, 2013</release>
+<homepage>http://www.nitrc.org/projects/sspm/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

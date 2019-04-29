@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Tissue Thickness Estimation via Minimum Line Integrals" nitrc="https://www.nitrc.org/projects/thickness" />
+<description> This open-source toolbox contains Matlab codes for the estimation of tissue (such as cortical) thickness from soft segmentation of 3D medical images, using minimum line integrals as described by Aganj et al (HBM 2009). A short tutorial is included in EXAMPLE.m. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1202&amp;screenshot_id=1121&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1202&amp;screenshot_id=1121&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Algorithm or Reusable Library</category>
+<category>Volumetric Analysis</category>
+<category>Medial Axis</category>
+<category>Thickness</category>
+<platform>OS Independent</platform>
+<release>Aug 10, 2017</release>
+<homepage>http://www.nitrc.org/projects/thickness</homepage>
+<maintainer>University of Minnesota, and Harvard Medical School / MGH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

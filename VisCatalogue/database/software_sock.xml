@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="SOCK" nitrc="https://www.nitrc.org/projects/sock" />
+<description> SOCK (Spatially Organized Component Klassifikator) is a software toolbox that can automatically identify many of the artifact components that are often present in independent component analysis (ICA) of functional MRI (fMRI). The method:&lt;br /&gt;• Does not require temporal information about the fMRI paradigm.&lt;br /&gt;• Does not require the user to train the algorithm.&lt;br /&gt;• Requires only the EPI images (additional acquisition of anatomical images is not required).&lt;br /&gt;• Is able to identify a high proportion of artifact-related ICs without removing components that are likely to be of neuronal origin.&lt;br /&gt;• Can be applied to resting-state fMRI.&lt;br /&gt;• Is automated, requiring minimal or no human intervention.&lt;br /&gt;&lt;br /&gt;The method is described in the following paper:&lt;br /&gt; Bhaganagarapu K, Jackson GD, Abbott DF. &lt;br /&gt; An automated method for identifying artifact in &lt;br /&gt; Independent Component Analysis of resting-state fMRI. &lt;br /&gt; Frontiers in Human Neuroscience 7(343):1-16 (2013). &lt;br /&gt; &lt;a href=&quot;http://dx.doi.org/10.3389/fnhum.2013.00343&quot; target=&quot;_new&quot;&gt;http://dx.doi.org/10.3389/fnhum.2013.003...&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<category>Application</category>
+<release>Jul 15, 2013</release>
+<homepage>http://www.nitrc.org/projects/sock/</homepage>
+<maintainer>Florey Institute of Neuroscience and Mental Health, Melbourne, Australia</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="SLIC: a whole brain parcellation toolbox" nitrc="https://www.nitrc.org/projects/slic" />
+<description> The SLIC toolbox contains five whole brain parcellation approaches that operates on resting-state fMRI data. Three of them are reproduced from the Ncut-based approaches in (Craddock et al., 2012, HBM) and (Shen et al., 2013, Neuroimage). The remaining two are the mean SLIC and two-level SLIC approaches that integrate Ncut and SLIC. &lt;br /&gt;&lt;br /&gt;The release includes a demo which reproduces the experiments in the paper (&lt;a href=&quot;https://doi.org/10.3389/fnhum.2016.00659&quot; target=&quot;_new&quot;&gt;https://doi.org/10.3389/fnhum.2016.00659&lt;/a&gt;), and atlases generated based on 190 subjects from the Beijing_Zang dataset. Matlab scripts, a set of test data and some instructions are included in the release. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1030&amp;screenshot_id=1043&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1030&amp;screenshot_id=1043&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Atlas Data</category>
+<category>Test Data</category>
+<category>Atlas Application</category>
+<category>Quality Metrics</category>
+<category>Volumetric Analysis</category>
+<category>Two Dimensional Display</category>
+<release>Apr 1, 2016</release>
+<homepage>http://www.nitrc.org/projects/slic/</homepage>
+<maintainer>Southeast University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

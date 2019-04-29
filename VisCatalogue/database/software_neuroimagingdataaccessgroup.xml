@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Neuroimaging Data Access Group" nitrc="https://www.nitrc.org/projects/nidag" />
+<description> The NeuroImaging Data Access Group (NIDAG) is an informal working group, dedicated to improving access to neuroimaging results in a free and open-access manner. Our current project involves the creation of a comprehensive database of neuroimaging results searchable based on standardized coordinates. Once complete, this will allow anyone to find all of the articles that report a coordinate, or set of coordinates, easily and without cost. Eventually, we hope to expand this database to include not only coordinates, but statistical parametric maps as well. Formation of such a database will increase the likelihood of relevant papers being found and cited, and also be a very useful tool for those interested in meta-analysis, and hopefully clarify structure-function relationships.&lt;br /&gt;&lt;br /&gt;Please visit our website (nidag.org) and sign up to join our mailing list. We are interested in hearing from people who might be willing to contribute to our projects, particularly those with programming experience. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=398&amp;screenshot_id=298&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=398&amp;screenshot_id=298&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>NIDAG</license>
+<category>Community</category>
+<release>Jul 27, 2010</release>
+<homepage>http://www.nidag.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

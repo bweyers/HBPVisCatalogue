@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Create DWI Atlas" nitrc="https://www.nitrc.org/projects/createdwiatlas" />
+<description> This package is a set of three slicer modules which together are able to compute a DWI Atlas given a set of DWI&#x27;s. The modules included are:&lt;br /&gt;&lt;br /&gt;1) A Groupwise Registration module -&amp;gt; compute&#x27;s a deformation field for each DWI, using, for example, FA maps as input&lt;br /&gt;2) Warp DWI module -&amp;gt; used to warp each DWI using the deformation from (1)&lt;br /&gt;3) DWI Averager -&amp;gt; used to average the set of warped DWI&#x27;s producing the final DWI Atlas </description>
+<license>3D Slicer License</license>
+<release>Oct 25, 2011</release>
+<homepage>http://www.nitrc.org/projects/createdwiatlas/</homepage>
+<maintainer>Psychiatry Neuroimaging Laboratory</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

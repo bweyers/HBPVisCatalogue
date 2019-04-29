@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Diffusion MRI - In-vivo and Phantom Data" nitrc="https://www.nitrc.org/projects/diffusion-data" />
+<description> This projects is an open-data initiative for the distributation of common datasets for the evaluation and validation of diffusion MRI processing methods. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=627&amp;screenshot_id=571&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=627&amp;screenshot_id=571&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD/MIT-Style Open Source License</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Jul 19, 2012</release>
+<homepage>http://www.dkfz.de/en/medphysrad/projectgroups/dwi/DTI_projects.html#inhalt3</homepage>
+<maintainer>German Cancer Research Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

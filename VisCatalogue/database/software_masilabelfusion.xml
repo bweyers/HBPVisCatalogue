@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="MASI Label Fusion" nitrc="https://www.nitrc.org/projects/masi-fusion" />
+<description> This collection of tools is maintained by the Medical-image Analysis and Statistical Interpretation (MASI) group at Vanderbilt University.&lt;br /&gt;&lt;br /&gt;The purpose of this tool is to provide a unified framework for testing and applying statistical and voting label fusion techniques. The project will include implementations of several different voting techniques including majority vote, weighted voting, and regionally weighted voting. Additionally, multiple statistical fusion methods will be included, notably, STAPLE, Spatial STAPLE, STAPLER and COLLATE.&lt;br /&gt;&lt;br /&gt;In addition to the fusion algorithms, code for running specialized simulations and various tools and utilities to test the efficacy of the algorithms will be provided. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Mar 10, 2011</release>
+<homepage>http://www.nitrc.org/projects/masi-fusion/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="NC-IGT Fast Imaging Library" nitrc="https://www.nitrc.org/projects/igt_fil" />
+<description> This software provides algorithms for the reconstruction of raw MR data. In&lt;br /&gt;particular, it supports the reconstruction of accelerated data acquisitions&lt;br /&gt;where k-space is subsampled and the Fourier domain encoding is complemented&lt;br /&gt;by temporal encoding, spatial encoding, or and/or a constrained&lt;br /&gt;reconstruction. This library of functions provides a number of&lt;br /&gt;reconstruction algorithms that accurately employ advanced MR imaging methods&lt;br /&gt;including: UNFOLD; parallel imaging methods such as SENSE and GRAPPA;&lt;br /&gt;Homodyne processing of partial-Fourier data, and gradient field&lt;br /&gt;inhomogeneity correction (gradwarp); EPI Nyquist Ghost correction and&lt;br /&gt;ramp-sampling gridding. The target audience is research groups who may be&lt;br /&gt;interested in exploring or employing advanced MR reconstruction techniques,&lt;br /&gt;but don&#x27;t have the necessary expertise in-house.&lt;br /&gt;&lt;br /&gt;Inquires may be directed to: ncigt-imaging-toolkit -at- bwh.harvard.edu </description>
+<license>NC-ICT Fast Imaging Library Contribution and Software License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Image Reconstruction</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 17, 2009</release>
+<homepage>http://ncigt.org/fast-imaging-library</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

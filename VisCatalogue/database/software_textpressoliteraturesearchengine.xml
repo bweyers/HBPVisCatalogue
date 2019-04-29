@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Textpresso - literature search engine" nitrc="https://www.nitrc.org/projects/textpresso-2-0" />
+<description> Textpresso is a text-mining system for scientific literature. Textpresso&#x27;s two major elements are (1) access to full text, so that entire articles can be searched, and (2) introduction of categories of biological concepts and classes that relate two objects (e.g., association, regulation, etc.) or describe one (e.g., methods, etc). A search engine enables the user to search for one or a combination of these categories and/or keywords within an entire literature.&lt;br /&gt;Textpresso is useful as a search engine for researchers as well as a curation tool. It was developed as a part of WormBase and is used extensively by C. elegans curators. Textpresso has currently been implemented for 17 different literatures, among them Neuroscience, and can readily be extended to other corpora of text.&lt;br /&gt;Textpresso can be used online (&lt;a href=&quot;http://www.textpresso.org&quot; target=&quot;_new&quot;&gt;http://www.textpresso.org&lt;/a&gt;), but also installed&lt;br /&gt;locally via a downloadable software package (&lt;a href=&quot;http://www.textpresso.org/downloads.html&quot; target=&quot;_new&quot;&gt;http://www.textpresso.org/downloads.html&lt;/a&gt;) </description>
+<license>Textpresso License</license>
+<category>Bibliographic Resource</category>
+<category>Knowledge Environment</category>
+<category>Web Service</category>
+<category>Websites</category>
+<category>Database Application</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>PDF - Portable Document Format</input>
+<output>PDF - Portable Document Format</output>
+<release>Oct 31, 2008</release>
+<homepage>http://www.nitrc.org/projects/textpresso-2-0/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

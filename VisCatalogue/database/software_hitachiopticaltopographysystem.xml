@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Hitachi Optical Topography System" nitrc="https://www.nitrc.org/projects/hitachimedical" />
+<description> Hitachi Medical Corporation is a leader in fNIRS neuroimaging with more than 10 years of experience. We provide researchers and clinicians with sophisticated All-in-One solutions in the field of neuroscience. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=495&amp;screenshot_id=378&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=495&amp;screenshot_id=378&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License: Hitachi</license>
+<category>NIRS/FNIR</category>
+<category>Scanner</category>
+<release>Jun 30, 2011</release>
+<homepage>http://www.hitachi-medical.co.jp/english/</homepage>
+<maintainer>Hitachi Medical Corporation</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

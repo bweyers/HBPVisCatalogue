@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Ogles - OpenGL/OIV Stereotactic Tool" nitrc="https://www.nitrc.org/projects/ogles" />
+<description> Ogles2 is an interactive slice and volume visualization and analysis tool based on Open Inventor/Coin3D. Ogles2 allows for reproducing the work flow of frame based stereotactic neurosurgery.&lt;br /&gt;Ogles2 main focus is to combine slice derived volume data with surface meshes in the context of stereotactic neurosurgery. It allows for transformation of 3D brain atlas data to individual brain configurations and to estimate the effects of electrical fields of deep brain stimulation (DBS) electrodes. </description>
+<license>GNU General Public License (GPL)</license>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 9, 2016</release>
+<homepage>http://ogles.sourceforge.net/Ogles/ogles2-doc/index.html</homepage>
+<maintainer>Functional Neurosurgery Group</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

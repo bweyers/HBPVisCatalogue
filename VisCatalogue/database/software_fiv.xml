@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="FIV" nitrc="https://www.nitrc.org/projects/fiv" />
+<description> The Functional Image Viewer, also known as FIV, is a tool for visualizing functional and anatomic MRI data. </description>
+<license>BSD License</license>
+<category>Image Display</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Other OS</platform>
+<platform>Linux</platform>
+<platform>SunOS/Solaris</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 20, 2007</release>
+<homepage>http://nrg.wustl.edu/projects/fiv</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

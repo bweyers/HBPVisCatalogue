@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="NIPY File IO" nitrc="https://www.nitrc.org/projects/nibabel" />
+<description> NiBabel is a Python package for reading and writing a variety of medical and neuroimaging file formats. This includes: ANALYZE (plain, SPM99, SPM2), NIfTI1, as well as MINC. NiBabel is the successor of PyNIfTI. </description>
+<license>BSD License</license>
+<release>May 6, 2010</release>
+<homepage>http://nipy.org/nibabel/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="ASHS: Automatic Segmentation of Hippocampal Subfields" nitrc="https://www.nitrc.org/projects/ashs" />
+<description> ASHS is a software package for automatic segmentation of hippocampal subfields in MRI scans. ASHS requires a T1-weighted scan and an oblique coronal T2-weighted scan with high in-plane resolution. ASHS will automatically label main hippocampal subfields and medial temporal lobe subregions. ASHS is easy to train for other brain segmentation applications as well.&lt;br /&gt;&lt;br /&gt;For details, see the ASHS documentation: &lt;a href=&quot;https://sites.google.com/site/hipposubfields&quot; target=&quot;_new&quot;&gt;https://sites.google.com/site/hipposubfi...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=370&amp;screenshot_id=256&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=370&amp;screenshot_id=256&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 5, 2010</release>
+<homepage>http://sites.google.com/site/hipposubfields/</homepage>
+<maintainer>University of Pennsylvania Perelman School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="brainhack2014" nitrc="https://www.nitrc.org/projects/brainhack2014" />
+<description> brainhack.org seeks to provide a forum for collaborative projects in the field of brain science.&lt;br /&gt;&lt;br /&gt;We invite everyone to submit projects, either existing ones that you want to see featured or new ones that you want launch and work on in a collaborative, open way.&lt;br /&gt;&lt;br /&gt;brainhack.org is an effort of the Neuro Bureau, neuro-collaboration in action. </description>
+<category>Other</category>
+<release>Jun 5, 2014</release>
+<homepage>http://brainhack.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

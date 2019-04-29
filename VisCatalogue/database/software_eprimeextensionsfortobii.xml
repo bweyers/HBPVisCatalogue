@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="E-Prime Extensions for Tobii" nitrc="https://www.nitrc.org/projects/eprime_tobii" />
+<description> E-Prime® Extensions for Tobii combines the power of E-Prime with easy to use Tobii eye trackers. The E-Prime® Extensions for Tobii includes the script necessary to integrate E-Prime with Tobii eye tracking technology. E-Studio’s graphical design interface allows users to drag and drop eye tracking functionality into existing E-Prime® experiments or to easily create new E-Prime® eye tracking experiments.&lt;br /&gt;Supports multiple types of studies: Diagnostic and Interactive&lt;br /&gt;Face perception and recognition&lt;br /&gt;Infant studies&lt;br /&gt;Reading (sliding window)&lt;br /&gt;Attention patterns and behavior&lt;br /&gt;Visual search&lt;br /&gt;Scene recognition&lt;br /&gt;No head restraint necessary&lt;br /&gt;Seamless E-Prime® integration 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1173&amp;screenshot_id=1088&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1173&amp;screenshot_id=1088&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>May 23, 2017</release>
+<homepage>https://pstnet.com/products/e-prime-extensions-for-tobii/</homepage>
+<maintainer>Psychology Software Tools, Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

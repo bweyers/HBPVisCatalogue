@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="ASL_spm8" nitrc="https://www.nitrc.org/projects/asl_spm8" />
+<description> Quick ASL Wrapper for preprocessing ASL Data and computing blood flow measurements using UPenn ASL toolbox. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Sep 12, 2012</release>
+<homepage>http://www.nitrc.org/projects/asl_spm8/</homepage>
+<maintainer>MGH/HMS</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Quantification of Structural Brain Connectivity via a Conductance Model" nitrc="https://www.nitrc.org/projects/conductance" />
+<description> This toolbox computes the structural connectivity of the brain (connectome) from diffusion-weighted MRI, using a conductance-based mathematical model introduced by Frau-Pascual et al (NeuroImage, 2019). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1335&amp;screenshot_id=1245&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1335&amp;screenshot_id=1245&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>FreeSurfer License</license>
+<category>Connectivity Analysis</category>
+<category>Diffusion Application</category>
+<category>Modeling</category>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>OS Independent</platform>
+<release>Nov 15, 2018</release>
+<homepage>http://www.nitrc.org/projects/conductance</homepage>
+<maintainer>Massachusetts General Hospital / Harvard Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

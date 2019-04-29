@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Longitudinal Multiple Sclerosis Lesion Imaging Archive" nitrc="https://www.nitrc.org/projects/longitudinal_ms" />
+<description> Longitudinal Multiple Sclerosis (MS) Lesion Imaging Archive provides Training data consisting of longitudinal images from 5 patients and Testing data from 14 patients.&lt;br /&gt;&lt;br /&gt;Each longitudinal dataset includes T1-w, T2-w, PD-w, and T2-w FLAIR MRI with 3-5 time points acquired on a 3T MR scanner. With the multiple time points, this&lt;br /&gt;constitutes 82 individual data sets. To minimize the dependency of the results on registration performance and brain extraction, all images are already rigidly co-registered to the baseline T1-w image with automatically computed skull stripping masks. Unprocessed data is also included. The Training data also contains manual segmentations of the MS lesions from two different raters for each of the time points provided.&lt;br /&gt;&lt;br /&gt;The main page regarding the challenge is &lt;a href=&quot;http://www.iacl.jhu.edu/MSChallenge&quot; target=&quot;_new&quot;&gt;http://www.iacl.jhu.edu/MSChallenge&lt;/a&gt; and the data is available from the Smart Stats Website: &lt;a href=&quot;https://smart-stats-tools.org/node/26&quot; target=&quot;_new&quot;&gt;https://smart-stats-tools.org/node/26&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=886&amp;screenshot_id=880&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=886&amp;screenshot_id=880&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial No Derivatives</license>
+<release>Sep 30, 2014</release>
+<homepage>http://www.nitrc.org/projects/longitudinal_ms/</homepage>
+<maintainer>Henry M. Jackson Foundation for the Advancement of Military Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

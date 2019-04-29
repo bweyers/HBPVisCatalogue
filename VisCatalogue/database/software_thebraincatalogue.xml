@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="The Brain Catalogue" nitrc="https://www.nitrc.org/projects/braincatalogue" />
+<description> Our aim is to celebrate the diversity of the vertebrate brain by making high quality data, open and freely available to everyone. Do you have data that you would like to share? Do not hesitate to contact us!&lt;br /&gt;&lt;br /&gt;The Brain Catalogue is developed by Florencia Grisanti (Taxidermy Workshop of the Natural History Museum in Paris) and Roberto Toro (Neuroscience Department of the Institut Pasteur). Many of our specimens come from the Vertebrate Brain Collection of the Jardin des Plantes, curated by Marc Herbin, and are scanned at the Institut du Cerveau et de la Moelle (ICM) by Mathieu Santin and Alexandra Petiet, from the CENIR laboratory, with financial and methodological support kindly provided by Olivier Colliot, head of the Cogimage team at the ICM. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<release>May 21, 2013</release>
+<homepage>http://braincatalogue.org/</homepage>
+<maintainer>Institut Pasteur</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

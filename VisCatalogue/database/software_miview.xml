@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="MIView" nitrc="https://www.nitrc.org/projects/miview" />
+<description> MIview is an OpenGL based medical image viewer that contains useful tools such as a DICOM anonymizer and format conversion utility. MIView can read DICOM, Analyze/Nifti, and raster images, and can write Analyze/Nifti and raster images. </description>
+<release>Feb 25, 2008</release>
+<homepage>http://www.nitrc.org/projects/miview/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

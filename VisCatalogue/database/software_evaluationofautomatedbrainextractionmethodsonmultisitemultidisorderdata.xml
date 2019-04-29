@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Evaluation of automated brain extraction methods on multi-site multi-disorder data" nitrc="https://www.nitrc.org/projects/brain_extracts" />
+<description> This project was the largest evaluation ever conducted of automated brain extraction methods. The code, data, and results are accessible via Synapse: &lt;a href=&quot;https://www.synapse.org/#!Synapse:syn3207674/wiki/160612&quot; target=&quot;_new&quot;&gt;https://www.synapse.org/#!Synapse:syn320...&lt;/a&gt;</description>
+<license>Apache License 2.0</license>
+<category>Information Resource</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 2, 2016</release>
+<homepage>http://www.nitrc.org/projects/brain_extracts/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

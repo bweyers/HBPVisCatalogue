@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="ERP PCA Toolkit" nitrc="https://www.nitrc.org/projects/erppcatoolkit" />
+<description> This Matlab toolkit is a general purpose tool for editing, visualizing, and analyzing EEG data (both ERP and spectral) whose most recent version has been downloaded over 1000 times. Its three chief highlights are: 1) an optimized automatic artifact correction function that includes ICA correction for eye blinks and saccades. 2) Extensive support for easily conducting PCA and ICA through all stages of the procedure, including inspection of reconstituted waveforms and batch ANOVAs. 3) Implementation of robust ANOVAs, including McCarthy-Wood vector test. It has a graphical user interface for point and click usage and comes with an extensive illustrated tutorial. A description of the toolkit was published in Dien (2010) in Journal of Neuroscience Methods. It relies on both internal functions as well as borrowed functions from both EEGlab and FieldTrip. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=616&amp;screenshot_id=908&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=616&amp;screenshot_id=908&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Principal Component Analysis</category>
+<category>Event Related Potential</category>
+<release>Jul 8, 2012</release>
+<homepage>http://sourceforge.net/projects/erppcatoolkit/files/</homepage>
+<maintainer>University of Maryland</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

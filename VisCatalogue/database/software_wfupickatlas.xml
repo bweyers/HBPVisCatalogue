@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="WFU_PickAtlas" nitrc="https://www.nitrc.org/projects/wfu_pickatlas" />
+<description> WFU_PickAtlas provides a method for generating ROI masks based on the Talairach Daemon database. The atlases include Brodmann area, Lobar, Hemisphere, Anatomic Label and Tissue Type. </description>
+<license>WFU ANSIR License</license>
+<category>Atlas Application</category>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Aug 7, 2007</release>
+<homepage>http://fmri.wfubmc.edu/software/PickAtlas</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

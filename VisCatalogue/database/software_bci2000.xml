@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="BCI2000" nitrc="https://www.nitrc.org/projects/bci2000" />
+<description> BCI2000 is a general-purpose system for brain-computer interface (BCI) research. It can also be used for data acquisition, stimulus presentation, and brain monitoring applications. The mission of the BCI2000 project is to facilitate research and applications in these areas. Our vision is that BCI2000 will become a widely used software tool for diverse areas of real-time biosignal processing. The BCI2000 system is available for free for non-profit research and educational purposes. We have provided it to over 3000 users around the world.&lt;br /&gt;BCI2000 development has been sponsored by a NIH (NIBIB/NINDS) Bioengineering Research Partnership, a NIH (NIBIB) R01 grant, and a NIH (NIBIB) Center grant. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=888&amp;screenshot_id=872&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=888&amp;screenshot_id=872&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU GPL v2</license>
+<category>Artifact Removal</category>
+<category>Spatial Convolution - Deconvolution</category>
+<category>Fourier Time-domain Analysis</category>
+<category>Spectral Analysis</category>
+<category>Event Related Potential</category>
+<category>Animation</category>
+<release>Oct 7, 2014</release>
+<homepage>http://www.nitrc.org/projects/bci2000/</homepage>
+<maintainer>Wadsworth Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Rodent Cortical Thickness Analysis" nitrc="https://www.nitrc.org/projects/rodentthickness" />
+<description> RodentThickness is an automatic cortical thickness measurement tool for rat brains.&lt;br /&gt;&lt;br /&gt;The pipeline consists of four steps: preprocessing to create binary mask and label map, thickness measurement which produces laplacian field and thickness map in order, run particle correspondence followed by statistical analysis resulting in mean thickness color map and t-test result.&lt;br /&gt;&lt;br /&gt;By running RodentThickness, you will need to fill in informations in a Graphical User Interface, and then compute. You can also run the tool in command line without using the GUI.&lt;br /&gt;Using the GUI, you will be able to save or load a dataset file or a configuration file.&lt;br /&gt;&lt;br /&gt;The tool needs these other tools to work, so be sure to have these installed on your computer:&lt;br /&gt;&lt;br /&gt; ImageMath&lt;br /&gt; measureThicknessFilter&lt;br /&gt; GenParaMeshCLP&lt;br /&gt; ParaToSPHARMMeshCLP&lt;br /&gt; ShapeWorksRun&lt;br /&gt; ShapeWorksGroom&lt;br /&gt; SegPostProcessCLP&lt;br /&gt; BinaryToDistanceMap&lt;br /&gt; MeshPointsIntensitysampling </description>
+<license>GNU General Public License (GPL)</license>
+<release>Feb 26, 2013</release>
+<homepage>http://www.nitrc.org/projects/rodentthickness/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

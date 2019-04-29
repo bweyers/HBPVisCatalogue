@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Automatic Registration Toolbox" nitrc="https://www.nitrc.org/projects/art" />
+<description> ATRA software for fully automated, fast, reliable, unbiased and inverse-consistent registration of within-subject multiple T1-weighted structural MRI brain volumes.&lt;br /&gt;&lt;br /&gt;ART `acpcdetect&#x27; program for automatic detection of the AC and PC landmarks and the mid-sagittal plane on 3D structural MRI scans.&lt;br /&gt;&lt;br /&gt;ART `brainwash&#x27; program for automatic multi-atlas skull-stripping of 3D structural MRI scans.&lt;br /&gt;&lt;br /&gt;ART `3dwarper&#x27; program of non-linear inter-subject registration of 3D structural MRI scans.&lt;br /&gt;&lt;br /&gt;Software (art2) for linear rigid-body intra-subject inter-modality (MRI-PET) image registration.&lt;br /&gt;&lt;br /&gt;Data resource: The ART projects makes available corpus callosum segmentations of 316 normal subjects from the OASIS cross-sectional database&lt;br /&gt;&lt;br /&gt;ART `yuki&#x27; program for fast, robust, and fully automatic segmentation of the corpus callosum on 3D structural MRI scans.&lt;br /&gt;&lt;br /&gt;ART &#x27;kaiba&#x27; program: estimates the hippocampal parenchymal fraction (HPF) from 3D T1W MRI. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=90&amp;screenshot_id=398&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=90&amp;screenshot_id=398&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Segmentation</category>
+<category>Registration</category>
+<category>Nonlinear Warp</category>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 6, 2008</release>
+<homepage>http://www.nitrc.org/projects/art/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

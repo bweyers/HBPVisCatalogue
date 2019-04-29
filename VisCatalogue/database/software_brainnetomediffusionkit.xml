@@ -1,0 +1,29 @@
+<root>
+<software>
+<name name="Brainnetome DiffusionKit" nitrc="https://www.nitrc.org/projects/diffusionkit" />
+<description> This page is no longer maintained and please visit &lt;a href=&quot;http://diffusion.brainnetome.org&quot; target=&quot;_new&quot;&gt;http://diffusion.brainnetome.org&lt;/a&gt; . 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1040&amp;screenshot_id=982&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1040&amp;screenshot_id=982&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<category>Diffusion MR Fiber Tracking</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Apr 17, 2016</release>
+<homepage>http://diffusion.brainnetome.org</homepage>
+<maintainer>CASIA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

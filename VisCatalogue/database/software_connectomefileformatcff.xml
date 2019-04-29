@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Connectome File Format (CFF)" nitrc="https://www.nitrc.org/projects/cff" />
+<description> The Connectome File Format (CFF) is a container format for multi-modal neuroimaging data. It comprises connectome objects of type: CMetadata, CNetwork, CVolume, CSurface, CTrack, CScript, CData, CTimeseries, CImagestack. The Python library cfflib provides read/write functionality. </description>
+<license>BSD License</license>
+<category>File Format</category>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<input>PDF - Portable Document Format</input>
+<output>PDF - Portable Document Format</output>
+<release>Mar 4, 2011</release>
+<homepage>http://www.connectomics.org/cfflib/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

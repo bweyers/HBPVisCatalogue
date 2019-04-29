@@ -1,0 +1,29 @@
+<root>
+<software>
+<name name="Brainsight" nitrc="https://www.nitrc.org/projects/brainsight" />
+<description> Neuronavigation system for use in human cognitive neuroscience (TMS, EEG, NIRS) and for non-human neurosurgical applications. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=499&amp;screenshot_id=374&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=499&amp;screenshot_id=374&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Comercial Licence: Rogue Research Inc.</license>
+<category>EEG</category>
+<category>NIRS/FNIR</category>
+<category>Surface Rendering</category>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Jun 30, 2011</release>
+<homepage>http://www.rogue-research.com</homepage>
+<maintainer>Rogue Research Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="peak_nii" nitrc="https://www.nitrc.org/projects/peak_nii" />
+<description> peak_nii: Statistical image clustering, peak detection and data extraction.&lt;br /&gt;The Peak_nii toolbox was developed to allow the user to have flexibility of clustering their data. Based on your threshold, it will cluster your data and find the peaks within each cluster. Additionally, it has been combined with a data extraction tool that allows one to extract the data from all the scans of the analysis from all the clusters, along with several other extraction options, with a single command. </description>
+<license>Personal License</license>
+<release>Jan 22, 2012</release>
+<homepage>http://www.nitrc.org/projects/peak_nii/</homepage>
+<maintainer>Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

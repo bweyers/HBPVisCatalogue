@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="4D (Spatio-Temporal) DRAMMS Registration" nitrc="https://www.nitrc.org/projects/dramms4d" />
+<description> 4D (3D+time, or spatial-temporal) consistent deformable registration build on top of 3D pair-wise DRAMMS registration.&lt;br /&gt;&lt;br /&gt;- to quantify tumor changes in multiple visits;&lt;br /&gt;- to quantify voxel-wise neuro-development or structural growth. </description>
+<license>BSD License</license>
+<release>Oct 8, 2015</release>
+<homepage>http://www.nitrc.org/projects/dramms4d/</homepage>
+<maintainer>Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

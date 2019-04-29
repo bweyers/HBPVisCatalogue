@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Connectopy Toolkits" nitrc="https://www.nitrc.org/projects/connectopytool" />
+<description> While the topographic organization of brain pathways, i.e., connectopy, as a general principle has been known for a long time, it has yet to be quantitatively studied with in vivo neuroimaging. Using connectome imaging data, we have developed several novel algorithms to quantitively model the connectopy in human brains. These algorithms can be used to reconstruct topography-preserving pathways in visual, auditory, somatosensory, cortical-striatal, and fiber pathways in other brain networks. They can also improve the robustness of functional independent component analysis with regularization from topography-preserving fiber tracts. In this ConnectopyToolkits, we will publicly release the software tools for connectopy modeling. </description>
+<license>MOCA License</license>
+<category>Tractography</category>
+<release>Mar 24, 2018</release>
+<homepage>http://www.nitrc.org/projects/connectopytool/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

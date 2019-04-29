@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="MINC Example files" nitrc="https://www.nitrc.org/projects/minc_ex" />
+<description> This is a reference MINC set of files. It currently includes human head images only of standard modalities.&lt;br /&gt;&lt;br /&gt;The goal is to build a well curated collection of files that demonstrate the capabilities of MINC </description>
+<license>MINC Licence (BSD'ish)</license>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<release>Sep 5, 2013</release>
+<homepage>http://www.nitrc.org/projects/minc_ex/</homepage>
+<maintainer>University of Queensland</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

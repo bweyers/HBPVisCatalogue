@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="WFU_BPM" nitrc="https://www.nitrc.org/projects/wfu_bpm" />
+<description> The WFU Biological Parametric Mapping (WFU_BPM) toolbox performs SPM analysis with voxel-wise imaging covariates. </description>
+<license>WFU ANSIR License</license>
+<category>Statistical Operation</category>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 7, 2007</release>
+<homepage>http://fmri.wfubmc.edu/cms/software#BPM</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

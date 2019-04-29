@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="dtiBrainScope" nitrc="https://www.nitrc.org/projects/brainscope" />
+<description> This is a software package for processing diffusion tensor imaging data. The following functions are included: &lt;br /&gt;1.Converting imaging data in DICOME format to ANALYZE format&lt;br /&gt;2.Extracting binary brain mask for quick scalp-removing&lt;br /&gt;3.Correcting eddy-current induced distortion&lt;br /&gt;4.Optimized tensor estimation based on noisy diffusion-weighted imaging (DWI) data&lt;br /&gt;5.Scalp removal using a brain mask image&lt;br /&gt;6.Corregistering imaging data and generating deformation field for mapping images from individual spaces to a template or target space&lt;br /&gt;7.Spatial Normalization and Warping DTI &lt;br /&gt;8.Fiber tracking&lt;br /&gt;9.Clustering fiber tracts&lt;br /&gt;10.Identifying brain ventricles and generating binary masks for the baseline and DW imaging data&lt;br /&gt;11.Deriving diffusion anisotropy indices (DAIs) and principal directions (PD) and the corresponding color-coded PD-map. </description>
+<license>dtiBrainScope</license>
+<release>Aug 30, 2010</release>
+<homepage>http://www.columbia.edu/~dx2103/brainimagescope.html</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

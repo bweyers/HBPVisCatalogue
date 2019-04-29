@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Pydicom" nitrc="https://www.nitrc.org/projects/pydicom" />
+<description> pydicom is a pure python package for working with DICOM files. It was made for inspecting and modifying DICOM data in an easy &amp;quot;pythonic&amp;quot; way. The modifications can be written again to a new file. As a pure python package, it should run anywhere python runs without any other requirements. </description>
+<license>MIT/X Consortium License</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>Apr 21, 2011</release>
+<homepage>https://github.com/pydicom/pydicom</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

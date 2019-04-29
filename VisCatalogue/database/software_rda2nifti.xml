@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="rda2nifti" nitrc="https://www.nitrc.org/projects/rda2nifti" />
+<description> rda2nifti - useful MATLAB script for conversion from Siemens RDA file to NIFTI mask&lt;br /&gt;Dependencies: NIfTI_tools by Jimmy Sheen, MATLAB&lt;br /&gt;Credits to the author of read_rda102 function which has been already included in the ZIP file. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=991&amp;screenshot_id=961&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=991&amp;screenshot_id=961&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 1, 2015</release>
+<homepage>http://www.nitrc.org/projects/rda2nifti/</homepage>
+<maintainer>Nencki Institute of Experimental Biology</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

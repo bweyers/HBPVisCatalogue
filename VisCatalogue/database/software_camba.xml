@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="CamBA" nitrc="https://www.nitrc.org/projects/camba" />
+<description> Software respository containing pipelines of chained modules and GUI for batch processing. Current pipelines include fMRI analysis, statistical testing based on randomisation methods and fractal spectral analysis. Pipelines are continually being added. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Image-to-Template</category>
+<category>Affine Warp</category>
+<category>Wavelet Transformation</category>
+<category>Regression</category>
+<category>Spectral Analysis</category>
+<category>Time Domain Analysis</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 18, 2007</release>
+<homepage>http://www-bmu.psychiatry.cam.ac.uk/software</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

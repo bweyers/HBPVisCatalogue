@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="7T Probabilistic atlas of Subthalamic Nucleus for Use with 3T MRI" nitrc="https://www.nitrc.org/projects/stn7t3t" />
+<description> 7T Probabilistic Atlas of STN for use with clinical 3T MRI </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<release>Apr 18, 2017</release>
+<homepage>http://www.nitrc.org/projects/stn7t3t/</homepage>
+<maintainer>Washington University in St Louis</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

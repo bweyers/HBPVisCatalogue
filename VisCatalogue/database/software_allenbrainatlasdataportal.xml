@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Allen Brain Atlas: Data Portal" nitrc="https://www.nitrc.org/projects/abaportal" />
+<description> The Allen Institute aims to answer some of the biggest questions in neuroscience and accelerate research worldwide through public releases of new data, knowledge and tools. Beginning with our Allen Mouse Brain Atlas—a molecular map showing where all genes are expressed in all regions of the mouse brain—the Allen Institute has produced a collection of open science resources that give users a powerful way to explore gene expression data, neural connections, single cell characterization and neuroanatomy. All of our resources are openly accessible via the Allen Brain Atlas data portal at brain-map.org.&lt;br /&gt;&lt;br /&gt;Resources include: ALLEN BRAIN OBSERVATORY, CELL TYPES DATABASE, MOUSE BRAIN CONNECTIVITY ATLAS, HUMAN BRAIN ATLAS, BRAINSPAN ATLAS OF THE DEVELOPING HUMAN BRAIN, MOUSE BRAIN ATLAS, DEVELOPING MOUSE BRAIN ATLAS, NIH BLUEPRINT NON-HUMAN PRIMATE (NHP) ATLAS, AGING, DEMENTIA AND TBI STUDY, IVY GLIOBLASTOMA ATLAS PROJECT, SPINAL CORD ATLAS, BRAIN ATLAS API and SOFTWARE DEVELOPMENT KIT. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1240&amp;screenshot_id=1153&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1240&amp;screenshot_id=1153&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Atlas Data</category>
+<category>Data</category>
+<category>Database</category>
+<category>Web Service</category>
+<platform>OS Independent</platform>
+<release>Dec 8, 2017</release>
+<homepage>http://www.brain-map.org/</homepage>
+<maintainer>Allen Institute for Brain Science</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="QuickNII - Serial section aligner to volumetric atlases" nitrc="https://www.nitrc.org/projects/quicknii" />
+<description> QuickNII is a tool for user guided affine registration (anchoring) of 2D experimental image data, typically high resolution microscopic images, to 3D atlas reference space, facilitating data integration through standardized coordinate systems.&lt;br /&gt;&lt;br /&gt;Key features:&lt;br /&gt;- generate user defined cut planes through the atlas templates, matching the orientation of the cut plane of the 2D experimental image data, as a first step towards anchoring of images to the relevant atlas template&lt;br /&gt;- propagate spatial transformations across series of sections following anchoring of selected images&lt;br /&gt;&lt;br /&gt;Multi-modality atlasing datasets provided with QuickNII:&lt;br /&gt;- Waxholm Space Atlas of the Sprague Dawley rat brain, version 2 (T2* MRI, DTI, and delineations at 39 μm resolution)&lt;br /&gt;- Allen Mouse Brain Atlas reference atlas, CCFv3 (SST average template, grayscale Nissl volume reconstruction and delineations from 2015 at 25 μm resolution)&lt;br /&gt;&lt;br /&gt;(Downloads, Documents and MediaWiki have content)&lt;br /&gt;Temporary reference: &lt;a href=&quot;https://doi.org/10.3389/fnana.2018.00082&quot; target=&quot;_new&quot;&gt;https://doi.org/10.3389/fnana.2018.00082&lt;/a&gt;</description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<release>Dec 4, 2018</release>
+<homepage>http://www.nitrc.org/projects/quicknii/</homepage>
+<maintainer>University of Oslo</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="studyforrest" nitrc="https://www.nitrc.org/projects/studyforrest" />
+<description> We provide extensive functional brain imaging data from natural stimulation, a rich set of auxiliary data, (such as structural brain scans, measurements of physiological, and technical confounds), as well as stimulus annotations. &lt;a href=&quot;http://studyforrest.org&quot; target=&quot;_new&quot;&gt;http://studyforrest.org&lt;/a&gt;</description>
+<license>MIT/X Consortium License</license>
+<category>Data</category>
+<release>Jun 12, 2014</release>
+<homepage>http://studyforrest.org</homepage>
+<maintainer>Magdeburg University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

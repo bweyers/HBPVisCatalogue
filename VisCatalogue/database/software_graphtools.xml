@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Graphtools" nitrc="https://www.nitrc.org/projects/graphtools" />
+<description> Graphtools is a set of MATLAB scripts for analysis of networks derived from neuroimaging data. Some of these scripts are entirely original, while some are adapted (or just copied) from the Brain Connectivity Toolbox (&lt;a href=&quot;https://sites.google.com/a/brain-connectivity-toolbox.net/bct&quot; target=&quot;_new&quot;&gt;https://sites.google.com/a/brain-connect...&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;The source code is available via git:&lt;br /&gt;&lt;br /&gt;git clone &lt;a href=&quot;ssh://{user}@www.nitrc.org/home/groups/graphtools/git&quot; target=&quot;_new&quot;&gt;ssh://{user}@www.nitrc.org/home/groups/g...&lt;/a&gt;</description>
+<license>BSD License</license>
+<release>Mar 30, 2012</release>
+<homepage>http://www.nitrc.org/projects/graphtools/</homepage>
+<maintainer>Washington University School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

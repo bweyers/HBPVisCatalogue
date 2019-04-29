@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="3dsvm" nitrc="https://www.nitrc.org/projects/afni_3dsvm" />
+<description> 3dsvm is a command-line program and plugin for AFNI (&lt;a href=&quot;http://www.nitrc.org/projects/afni/&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/projects/afni/&lt;/a&gt;), built around SVM-Light (&lt;a href=&quot;http://svmlight.joachims.org/&quot; target=&quot;_new&quot;&gt;http://svmlight.joachims.org/&lt;/a&gt;). It performs support vector machine (SVM) analysis on fMRI data and runs on Unix+X11+Motif systems, including SGI, Solaris, Linux, and Mac OS X. </description>
+<license>GPL-Style Open Source</license>
+<platform>POSIX/UNIX-like</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 12, 2013</release>
+<homepage>http://www.nitrc.org/projects/afni_3dsvm/</homepage>
+<maintainer>Virginia Tech</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

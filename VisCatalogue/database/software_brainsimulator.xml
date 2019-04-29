@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="brainSimulator" nitrc="https://www.nitrc.org/projects/brainsimulator" />
+<description> brainSimulator is a brain image synthesis toolkit written in python, intended to generate a new image set that share characteristics with an original one. The system focuses on nuclear imaging modalities such as PET or SPECT brain images. It analyses the dataset by applying PCA to the original dataset, and then model the distribution of samples in the projected eigenbrain space using a Probability Density Function (PDF) estimator. Once the model has been built, anyone can generate new coordinates on the eigenbrain space belonging to the same class, which can be then projected back to the image space. </description>
+<license>GNU General Public License v3</license>
+<release>Nov 21, 2017</release>
+<homepage>http://www.nitrc.org/projects/brainsimulator/</homepage>
+<maintainer>SIPBA Research Group, University of Granada</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="DCMTK - DICOM Toolkit" nitrc="https://www.nitrc.org/projects/dcmtk" />
+<description> DCMTK is a collection of libraries and applications implementing large parts the DICOM standard. It includes software for examining, constructing and converting DICOM image files, handling offline media, sending and receiving images over a network connection, as well as demonstrative image storage and worklist servers. DCMTK is is written in a mixture of ANSI C and C++. It comes in complete source code and is made available as &amp;quot;open source&amp;quot; software.&lt;br /&gt;&lt;br /&gt;DCMTK has been used at numerous DICOM demonstrations to provide central, vendor-independent image storage and worklist servers (CTNs - Central Test Nodes). It is used by hospitals and companies all over the world for a wide variety of purposes ranging from being a tool for product testing to being a building block for research projects, prototypes and commercial products.&lt;br /&gt;&lt;br /&gt;The DCMTK software can be compiled under Windows and a wide range of Unix operating systems. All necessary configuration scripts and project makefiles are supplied. </description>
+<license>DCMTK Copyright</license>
+<category>File Format</category>
+<category>Algorithm or Reusable Library</category>
+<category>Format Conversion</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<platform>SunOS/Solaris</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>Jul 27, 2018</release>
+<homepage>https://dicom.offis.de/dcmtk.php.en</homepage>
+<maintainer>OFFIS Computer Science Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

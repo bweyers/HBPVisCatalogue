@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Hyperion: MRI Digital Projection System" nitrc="https://www.nitrc.org/projects/projector" />
+<description> Visual presentation is central to almost all fMRI experiments. Previous fMRI display technologies involve compromises on image quality and presentation speed. LCD technology is slow, with low contrast images and imprecise analog VGA. These may be acceptable for tenth of a second resolution displays where image quality and repeatability can be overlooked, but we are pleased to announce these compromises are no longer necessary. The Hyperion MRI Digital Projection System features a native resolution of 1920 x 1080 (1080p) and synchronized image frame rate with continuous monitoring for optimum presentation and timing of fMRI experiments. The system uses Digital Light Processing® (DLP) technology that provides microsecond pixel rise times, outstanding contrast with all-digital fiber optic control that allows you to project crystal clear, sharp images. The Hyperion MRI Digital Projection System has been validated for use in 1.5T, 3T, and 7T MRI environments. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=307&amp;screenshot_id=206&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=307&amp;screenshot_id=206&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Stimulus Presentation</category>
+<release>Dec 9, 2009</release>
+<homepage>https://pstnet.com/products/hyperion/</homepage>
+<maintainer>Psychology Software Tools, Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

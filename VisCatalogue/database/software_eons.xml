@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="EONS" nitrc="https://www.nitrc.org/projects/eons" />
+<description> EONS (Elementary objects of the Nervous System) is the perfect modeling platform to study the dynamic interactions between synaptic elements in a friendly manner. There are no complicated equations to write: all the elementary models are predefined using state of the art models! &lt;br /&gt;EONS consists of a graphical modeling platform containing the major elements that comprise a glutamatergic synapse (both pre- and post-synaptically). These elements parameters as well as the underlying synaptic geometry can be modified. &lt;br /&gt;&lt;br /&gt;EONS is a parametric model of a generic glutamatergic synapse that takes into account pre-synaptic mechanisms, such as calcium buffering and diffusion, neurotransmitter release, diffusion and uptake in the cleft, and postsynaptic elements, such as ionotropic AMPA and NMDA receptors, their distribution and synaptic geometry, as well as metabotropic glutamate receptors. </description>
+<license>Free For Non-Commercial Use Only</license>
+<platform>MacOS</platform>
+<platform>Windows XP</platform>
+<platform>Other OS</platform>
+<release>Jul 23, 2013</release>
+<homepage>http://synapticmodeling.com</homepage>
+<maintainer>USC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

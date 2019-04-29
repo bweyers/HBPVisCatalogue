@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MIAS Registration Toolkit" nitrc="https://www.nitrc.org/projects/mias" />
+<description> MIAS toolkit provides the following libraries and functions on linux platform:&lt;br /&gt;&lt;br /&gt;1. Multi-resolution registration of MR images include T1, multimodality, and DTI images.&lt;br /&gt;&lt;br /&gt;2. The registration model is B-spline, and users can custermize their own image similarity measures by writing a plugin function and recompile the program. </description>
+<license>MIAS license</license>
+<release>May 2, 2013</release>
+<homepage>http://www.nitrc.org/projects/mias/</homepage>
+<maintainer>Houston Methodist Research Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

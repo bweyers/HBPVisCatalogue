@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="Segmentation Validation Engine" nitrc="https://www.nitrc.org/projects/sve" />
+<description> The Segmentation Validation Engine (SVE) provides an automated online framework for performing validation studies of skull-stripping methods. Registered users may download 40 T1 MRI volumes, skull-strip them with the algorithm of their choice, and upload their segmentation results to the SVE website (&lt;a href=&quot;http://sve.bmap.ucla.edu&quot; target=&quot;_new&quot;&gt;http://sve.bmap.ucla.edu&lt;/a&gt;), hosted at the UCLA Brain Mapping Center (&lt;a href=&quot;http://www.bmap.ucla.edu&quot; target=&quot;_new&quot;&gt;http://www.bmap.ucla.edu&lt;/a&gt;). The server will then compare the 40 skull-stripped results against a set of manually generated brain masks. The server computes a series of measures for the uploaded data, including Jaccard and Dice measures, and produces images of the spatial location of segmentation errors relative to a common space. Results are archived on the server, and the measures are viewable by visitors to the site. Details on the methodology can be found in:&lt;br /&gt;&lt;br /&gt;Shattuck DW, Prasad G, Mirza M, Narr KL, and Toga AW (2009) Online Resource for Validation of Brain Segmentation Algorithms, NeuroImage(doi:10.1016/j.neuroimage.2008.10.066). </description>
+<license>LONI/SVE Terms of Use</license>
+<category>Web Service</category>
+<category>DICE Coefficient</category>
+<category>Tanomoto Coefficient</category>
+<category>Quality Metrics</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 27, 2008</release>
+<homepage>http://sve.bmap.ucla.edu/</homepage>
+<maintainer>UCLA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

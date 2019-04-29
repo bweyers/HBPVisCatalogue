@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="3DMeshMetric" nitrc="https://www.nitrc.org/projects/meshmetric3d" />
+<description> 3DMeshMetric is a visualization tool based on the VTK library.&lt;br /&gt;Its main feature is to compute and display surface-to-surface distance between two triangle meshes using user-specified uniform sampling (based on the source code of MeshValmet: &lt;a href=&quot;http://www.nitrc.org/projects/meshvalmet/&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/projects/meshvalmet...&lt;/a&gt;).&lt;br /&gt;3DMeshMetric also offers all the basic tools to visualize meshes such as color, opacity, smoothing, down sampling or type of representation.&lt;br /&gt;3DMeshMetric also contains an additional tool called ModelToModelDistance that computes distances between two triangle meshes (using the VTK library). This tool can be used either as a command line tool or integrated in 3D Slicer (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;) as a CLI module. It is available in 3D Slicer as an extension to facilitate the download and installation process. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=754&amp;screenshot_id=696&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=754&amp;screenshot_id=696&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Overlap Metrics</category>
+<category>Shape Analysis</category>
+<category>Rendering</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Linux</platform>
+<release>Oct 4, 2013</release>
+<homepage>http://www.nitrc.org/projects/meshmetric3d/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

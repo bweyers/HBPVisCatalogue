@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Functional Analysis of Diffusion Tensor" nitrc="https://www.nitrc.org/projects/fadtts" />
+<description> A functional analysis of diffusion tensor tract statistics (FADTTS) pipeline was developed for delineating the association between multiple diffusion properties along major white matter fiber bundles with a set of covariates of interest, such as age, diagnostic status, genetic marker (e.g., SNP), and gender, and the structure of the variability of these white matter tract properties in various diffusion tensor imaging studies. FADTTS can be used to facilitate understanding of normal brain development, the neural bases of neuropsychiatric disorders, and the joint effects of environmental and genetic factors on white matter fiber bundles. The advantages of FADTTS compared with the other existing approaches are that they are capable of modelling the structured inter-subject variability, testing the joint effects, and constructing their simultaneous confidence bands. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<category>Genomic Analysis</category>
+<release>Jan 22, 2011</release>
+<homepage>http://www.nitrc.org/projects/fadtts/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

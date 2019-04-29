@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="NRM2018 PET Grand Challenge Dataset" nitrc="https://www.nitrc.org/projects/nrm2018_petgc" />
+<description> For many years PET centres around the world have developed and optimised their own analysis pipelines, including a mixture of in-house and independent software, and have implemented different modelling choices for PET image processing and data quantification. As a result, many different methods and tools are available for PET image analysis.&lt;br /&gt;&lt;br /&gt;This dataset aims to provide a normative tool to assess the performance and consistency of PET modelling approaches on the same data for which the ground truth is known. &lt;br /&gt;It was created and released for the NRM2018 PET Grand Challenge. The challenge aimed at evaluating the performances of different PET analysis tools to identify areas and magnitude of receptor binding changes in a PET radioligand neurotransmission study. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1336&amp;screenshot_id=1248&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1336&amp;screenshot_id=1248&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 22, 2018</release>
+<homepage>http://www.nitrc.org/projects/nrm2018_petgc/</homepage>
+<maintainer>King's College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

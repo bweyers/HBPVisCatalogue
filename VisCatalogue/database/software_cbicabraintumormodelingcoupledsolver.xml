@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: Brain Tumor Modeling - Coupled Solver" nitrc="https://www.nitrc.org/projects/btmcs" />
+<description> This is software package for tumor growth modeling employs a DiffusionSolver approach. It is a one-step further compared to the previous purely mechanical, pressure-based approach employed in ElasticSolver. In addition to the previous elasticity-based approach to simulate brain tissue deformations caused by growing tumors (mass-effect), a nonlinear reaction-advection-diffusion equation to describe the tumor spatio-temporal evolution is added. This equation has a two-way coupling with the underlying tissue elastic deformation. In this approach, the forces exerted by the tumor growth and infiltration onto the underlying brain parenchyma are local ones, proportional to local tumor density gradients. Curretnly BTMCS is used in GLioma Image SegmenTation and Registration (GLISTR) and Pre-Operative and post-Recurrence brain Tumor Registration (PORTR). </description>
+<license>SBIA License</license>
+<release>Feb 21, 2017</release>
+<homepage>http://www.nitrc.org/projects/btmcs/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

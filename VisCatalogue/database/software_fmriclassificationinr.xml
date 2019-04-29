@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="fMRI Classification in R" nitrc="https://www.nitrc.org/projects/fmriclassify" />
+<description> We demonstrate and provide R code that can classify between groups of fMRI scans based on functional network connectivity differences, requiring only 4 lines of code to be altered. In addition, we include a detailed article explaining the methods behind and motivations of this tool. This code can also be altered to perform connectivity analysis and classification using ROI based methods by reading in distance arrays previously created. We run ICA on fMRI data to establish functional networks, measure the functional connectivity between these networks using the temporal cross-correlations between independent component to create a distance matrix and indicating the networking. Connectivity properties are used as a feature matrix for an SVM classifier. Collectively, this project provides and explains both methods and code to perform functional network connectivity and fMRI SVM classiﬁcation. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Mar 9, 2011</release>
+<homepage>http://www.nitrc.org/projects/fmriclassify/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

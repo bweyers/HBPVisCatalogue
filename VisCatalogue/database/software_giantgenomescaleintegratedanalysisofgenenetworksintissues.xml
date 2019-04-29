@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="GIANT: Genome-scale Integrated Analysis of gene Networks in Tissues" nitrc="https://www.nitrc.org/projects/giant" />
+<description> GIANT leverages a tissue-specific gold standard to automatically up-weight datasets relevant to a tissue from a large data compendium of diverse tissues and cell-types. The resulting functional networks accurately capture tissue-specific functional interactions. Beyond questions pertaining to the role of single genes in single tissues, GIANT also enables examination of changes in gene function across tissues on a broad scale. Users can compare a gene&#x27;s functional interaction in different tissues by selecting the relevant tissues in the dropdown menu. GIANT can effectively reprioritize functional associations from a genome-wide association study (GWAS) and potentially identify additional disease-associated genes. The approach, named NetWAS, can be applied to any GWAS study, and does not require that the phenotype or disease have any known associated genes. </description>
+<release>Nov 6, 2017</release>
+<homepage>http://www.nitrc.org/projects/giant/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

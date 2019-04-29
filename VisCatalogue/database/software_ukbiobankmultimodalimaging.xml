@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="UK Biobank - multimodal imaging" nitrc="https://www.nitrc.org/projects/uk_biobank" />
+<description> UK Biobank is a large prospective population-based study of half a million men and women aged 40-69. The cohort combines a large population with an extensive range of measurements, including lifestyle, environmental and health-related factors, cohort-wide genome-wide genotyping, biomarkers and linkage to longitudinal medical records.&lt;br /&gt;&lt;br /&gt;UK Biobank is currently in the process of developing the worlds largest multimodal imaging resource which will feature 100,000 participants who have undergone brain, body and heart MRI, carotid ultrasound and DXA. This project started in 2015 and data is already available for &amp;gt;10,000 participants. The NITRC community might be particularly interested in the neuroimaging data which consists of T1 and T2 scans, diffusion imaging, resting and task fMRI in additional to susceptibility-weighted imaging. </description>
+<release>Jul 26, 2017</release>
+<homepage>http://www.nitrc.org/projects/uk_biobank/</homepage>
+<maintainer>UK Biobank</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

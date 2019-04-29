@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="SPM-Workshop Hannover" nitrc="https://www.nitrc.org/projects/spmws_hannover" />
+<description> In our workshops we offer a rich and pleasant environment to familiarize yourself with SPM and some useful extension under skilled supervision. We believe that the best way to learn how to operate SPM is by actually using it! &lt;br /&gt;&lt;br /&gt;We will hone your data analysis skills from preprocessing to group statistics. You will also train how to arrive at high-class graphical presentations of your results for use in your publications. Moreover you will benefit both from your own learning experience as well as from those of your peers.&lt;br /&gt;&lt;br /&gt;Go pro and learn how to analyze your own functional magnetic resonance imaging data from A to Z! </description>
+<license>SPM-Workshop Hannover</license>
+<release>Feb 15, 2017</release>
+<homepage>http://www.nitrc.org/projects/spmws_hannover/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

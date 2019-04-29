@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="HFH_DTI_DATA" nitrc="https://www.nitrc.org/projects/hfh_dti_unix" />
+<description> The shared dataset consists of T1, FLAIR, and DTI images for 24 Temporal Lobe Epilepsy (TLE) patients along with their clinical description as described in the following:&lt;br /&gt;&lt;br /&gt;1- T1&lt;br /&gt;2- FLAIR&lt;br /&gt;3- Diffusion Tensor Imaging (DTI)&lt;br /&gt;4- Apparent Diffusion Coefficient (ADC)&lt;br /&gt;&lt;br /&gt;The T1 folder includes the following image sets:&lt;br /&gt;1- Skull-Stripped T1 images&lt;br /&gt;2- Manually segmented hippocampi &lt;br /&gt;3- Brain segmented regions by FreeSurfer&lt;br /&gt;&lt;br /&gt;The FLAIR folder includes:&lt;br /&gt;1- Skull-Stripped FLAIR &lt;br /&gt;2- Skull-Stripped T1 co-registered to the FLAIR &lt;br /&gt;3- Manually segmented hippocampi co-registered to the FLAIR &lt;br /&gt;&lt;br /&gt;The DTI folder includes the following image sets: &lt;br /&gt;1- Diffusion Weighted Images (DWIs)&lt;br /&gt;2- Fractional Anisotropy (FA) &lt;br /&gt;3- Apparent Diffusion Coefficient (ADC)&lt;br /&gt;4- Axial and radial diffusivity maps (AD &amp;amp; RD)&lt;br /&gt;5- Geometry Shapes and the Eigen Value images of the tensor&lt;br /&gt;&lt;br /&gt;The ADC folder includes:&lt;br /&gt;1- ADC map images &lt;br /&gt;2- Skull-Stripped T1 co-registered to the ADC map.&lt;br /&gt;3- Manually segmented hippocampi co-registered to the ADC map. </description>
+<license>HFH_DTI_License</license>
+<release>Apr 9, 2016</release>
+<homepage>http://www.nitrc.org/projects/hfh_dti_unix/</homepage>
+<maintainer>Henry Ford Health System</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

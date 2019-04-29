@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="E-Prime Extensions for SMI" nitrc="https://www.nitrc.org/projects/eprime_smi" />
+<description> E-Prime® Extensions for SMI adds eye gaze and eye movement capabilities to existing and novel E-Prime experiments. Create new paradigms with E-Studio&#x27;s graphical design interface and connect with flexible Remote Eye Tracking technologies by SensoMotoric Instruments.&lt;br /&gt; &lt;br /&gt;Create interactive or passive eye tracking paradigms&lt;br /&gt;Create paradigms which change based on participant eye gaze data, AOI hit tests, fixation and user interaction&lt;br /&gt;Combine eye gaze data with E-Prime condition data for powerful analysis&lt;br /&gt;Train participants to fixate and control eye movements&lt;br /&gt;Give feedback on vigilance or attentive behaviors&lt;br /&gt;Supports diagnostic and interactive studies:&lt;br /&gt;Face perception and recognition&lt;br /&gt;Infant studies&lt;br /&gt;Reading (sliding window)&lt;br /&gt;Attention patterns and behavior&lt;br /&gt;Visual search&lt;br /&gt;Scene recognition 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1174&amp;screenshot_id=1086&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1174&amp;screenshot_id=1086&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>May 23, 2017</release>
+<homepage>https://pstnet.com/products/e-prime-extensions-for-smi/</homepage>
+<maintainer>Psychology Software Tools, Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

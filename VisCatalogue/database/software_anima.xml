@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="ANIMA" nitrc="https://www.nitrc.org/projects/anima-db" />
+<description> ANIMA (the Archive of Neuroimaging Meta-analyses) is an online repository of meta-analytic neuroimaging results, using methods such as activation likelihood estimation and multi-kernel density analysis. The ANIMA platform consists of an intuitive online interface for querying, downloading, and contributing data from published meta-analytic studies. Additionally, to aid the process of organizing, visualizing, and working with these data, we present an open-source desktop application called Volume Viewer. Volume Viewer allows users to easily arrange imaging data into composite stacks, and save these sessions as individual files, which can also be uploaded to the ANIMA database. The application also allows users to perform basic functions, such as computing conjunctions between images, or extracting regions-of-interest or peak coordinates for further analysis. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=985&amp;screenshot_id=955&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=985&amp;screenshot_id=955&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>ANIMA Data Usage and Contributor Agreement</license>
+<category>Database</category>
+<category>Web Service</category>
+<category>Websites</category>
+<release>Oct 28, 2015</release>
+<homepage>http://anima.fz-juelich.de</homepage>
+<maintainer>Institute for Neuroscience and Medicine (INM-1)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

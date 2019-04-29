@@ -1,0 +1,33 @@
+<root>
+<software>
+<name name="STAPLE" nitrc="https://www.nitrc.org/projects/staple" />
+<description> STAPLE is an algorithm for the Simultaneous Truth and Performance Level Estimation, which estimates a reference standard and segmentation generator performance from a set of segmentations. It has been widely applied for the validation of image segmentation algorithms, and to compare the performance of different algorithms and experts. It has also found application in the identification of a consensus segmentation, by combination of the output of a group of segmentation algorithms, and for segmentation by registration and template fusion. Further information is available at &lt;a href=&quot;http://www.crl.med.harvard.edu&quot; target=&quot;_new&quot;&gt;http://www.crl.med.harvard.edu&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=220&amp;screenshot_id=174&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=220&amp;screenshot_id=174&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Open Software License 3.0</license>
+<category>Algorithm or Reusable Library</category>
+<category>Quantification</category>
+<category>Segmentation</category>
+<category>Image Display</category>
+<category>Surface Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Apr 24, 2009</release>
+<homepage>http://www.crl.med.harvard.edu/software/STAPLE/index.php</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

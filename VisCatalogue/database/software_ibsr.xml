@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="IBSR" nitrc="https://www.nitrc.org/projects/ibsr" />
+<description> The Internet Brain Segmentation Repository (IBSR) provides manually-guided expert segmentation results along with magnetic resonance brain image data. Its purpose is to encourage the evaluation and development of segmentation methods. Please see the MediaWiki for more information. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=48&amp;screenshot_id=662&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=48&amp;screenshot_id=662&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Data</category>
+<category>Database</category>
+<category>Test Data</category>
+<category>Knowledge Environment</category>
+<category>Web Service</category>
+<category>Websites</category>
+<category>Quality Metrics</category>
+<platform>OS Independent</platform>
+<release>Aug 16, 2007</release>
+<homepage>https://www.nitrc.org/projects/ibsr/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

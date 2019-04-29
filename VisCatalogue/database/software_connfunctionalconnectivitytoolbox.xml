@@ -1,0 +1,30 @@
+<root>
+<software>
+<name name="CONN : functional connectivity toolbox" nitrc="https://www.nitrc.org/projects/conn" />
+<description> CONN is a Matlab-based cross-platform software for the computation, display, and analysis of functional connectivity in fMRI (fcMRI).&lt;br /&gt;&lt;br /&gt;CONN includes a rich set of connectivity analyses (seed-based correlations, ROI-to-ROI graph analyses, group ICA, masked ICA, generalized PPI, ALFF, ICC, GCOR, LCOR, etc.) in a simple-to-use and powerful software package&lt;br /&gt;&lt;br /&gt;CONN is available for resting state data (rsfMRI) as well as task-related designs. It covers the entire pipeline from raw fMRI data to hypothesis testing.&lt;br /&gt;&lt;br /&gt;Highlights: &lt;br /&gt; Comprehensive quality assurance methods/measures/displays (scrubbing/ART, CompCor/ICA/GSR denoising, GCOR/FD QC covariates)&lt;br /&gt; Connectome-wide analyses (ICA, MVPA)&lt;br /&gt; Dynamic connectivity analyses (dyn-ICA)&lt;br /&gt; FWE-control of connectivity matrices (NBS)&lt;br /&gt; Non-parametric cluster-level statistics (permutation tests)&lt;br /&gt; ANOVA, regression, longitudinal, and mixed designs&lt;br /&gt;&lt;br /&gt;Parallelization options (SGE/Grid Engine, PBS/Torque, LSF, Slurm)&lt;br /&gt;Mac/Windows/Linux/HPC&lt;br /&gt;SPM8/SPM12&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.conn-toolbox.org&quot; target=&quot;_new&quot;&gt;http://www.conn-toolbox.org&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=279&amp;screenshot_id=1022&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=279&amp;screenshot_id=1022&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT/X Consortium License</license>
+<category>Connectivity Analysis</category>
+<category>Modeling</category>
+<category>Multivariate Analysis</category>
+<category>Principal Component Analysis</category>
+<category>Regression</category>
+<category>Correlation</category>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 1, 2009</release>
+<homepage>http://www.conn-toolbox.org</homepage>
+<maintainer>MIT</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

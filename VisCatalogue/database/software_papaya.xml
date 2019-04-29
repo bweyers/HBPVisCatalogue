@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="Papaya" nitrc="https://www.nitrc.org/projects/papaya" />
+<description> Papaya is a pure JavaScript medical research image viewer, supporting DICOM and NIFTI formats, compatible across a range of web browsers. This orthogonal viewer supports overlays, atlases, GIFTI surface data and DTI data. The Papaya UI is configurable with many display, menu and control options and can be run on a web server or as a local, shareable file.&lt;br /&gt;&lt;br /&gt;More info: &lt;a href=&quot;http://rii-mango.github.io/Papaya/&quot; target=&quot;_new&quot;&gt;http://rii-mango.github.io/Papaya/&lt;/a&gt;&lt;br /&gt;Demo: &lt;a href=&quot;http://rii.uthscsa.edu/mango/papaya/index.html&quot; target=&quot;_new&quot;&gt;http://rii.uthscsa.edu/mango/papaya/inde...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=768&amp;screenshot_id=694&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=768&amp;screenshot_id=694&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Atlas Application</category>
+<category>Two Dimensional Display</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>OS Independent</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 12, 2013</release>
+<homepage>http://rii-mango.github.io/Papaya/</homepage>
+<maintainer>UTHSCSA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

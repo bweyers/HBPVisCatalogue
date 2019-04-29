@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Gibbsconnectome" nitrc="https://www.nitrc.org/projects/gibbsconnectome" />
+<description> The Gibbs&#x27; connectome is a set of ready-processed high-dimensional structural and functional connectivity matrices and group fibertract information of 169 subjects. The data is based on the openly available NKI enhanced Rockland sample (&lt;a href=&quot;http://fcon_1000.projects.nitrc.org/indi/enhanced/&quot; target=&quot;_new&quot;&gt;http://fcon_1000.projects.nitrc.org/indi...&lt;/a&gt;) which represents a state-of-the-art community sample. To estimate a group connectome of fiber tracts, the Gibbs&#x27; tracking algorithm has been applied to each subjects dMRI data. Fiber tracts have been normalized into standard space using DARTEL.&lt;br /&gt;Explicit methodology of the data set is described here:&lt;br /&gt;&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/26327244&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/26327...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=987&amp;screenshot_id=958&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=987&amp;screenshot_id=958&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU GPL v2</license>
+<release>Nov 8, 2015</release>
+<homepage>http://www.nitrc.org/projects/gibbsconnectome/</homepage>
+<maintainer>Charité University Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

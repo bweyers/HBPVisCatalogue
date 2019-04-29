@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="VMTK in 3D Slicer" nitrc="https://www.nitrc.org/projects/slicervmtklvlst" />
+<description> This project provides a series of modules which enable functions of the Vascular Modeling Toolkit (&lt;a href=&quot;http://www.vmtk.org&quot; target=&quot;_new&quot;&gt;http://www.vmtk.org&lt;/a&gt;) in 3D Slicer (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;). &lt;br /&gt;&lt;br /&gt;The functionality includes vessel enhancement filtering, level set segmentation, centerline computation, network extraction and branch splitting.&lt;br /&gt;&lt;br /&gt;Installation notes and documentation are available at the official project page:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.vmtk.org/Main/VmtkIn3DSlicer&quot; target=&quot;_new&quot;&gt;http://www.vmtk.org/Main/VmtkIn3DSlicer&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=196&amp;screenshot_id=269&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=196&amp;screenshot_id=269&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Modeling</category>
+<category>Segmentation</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Feb 11, 2009</release>
+<homepage>http://www.vmtk.org/Main/VmtkIn3DSlicer</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

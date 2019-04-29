@@ -1,0 +1,29 @@
+<root>
+<software>
+<name name="JIP fMRI Analysis Toolkit" nitrc="https://www.nitrc.org/projects/jip" />
+<description> Refer to &lt;a href=&quot;http://www.nmr.mgh.harvard.edu/~jbm/jip&quot; target=&quot;_new&quot;&gt;http://www.nmr.mgh.harvard.edu/~jbm/jip&lt;/a&gt; for web documentation (in progress). The JIP Toolkit was developed primarily for analysis of rodent and non-human primate fMRI data. The toolkit consists of binary executables, highly portable open-source c code, and image resources that enable 1) Automated registration based upon mutual information (affine, non-linear warps), with flexible control and visualization of each step; 2) visualization of 4-dimensional data using either mosaic or tri-planar display of the z/slice dimension, and integration of a general linear model for graphical display of time series analysis; 3) A simple and flexible 1st-order GLM for fMRI time series analysis, a 1st-order GLM analysis for PET data within the SRTM framework, plus a 2nd-order GLM analysis following the Worsley 2002 scheme, and 4) MRI templates to place your rodent and non-human primate data into standardized spaces. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=310&amp;screenshot_id=315&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=310&amp;screenshot_id=315&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MGH CSRL License</license>
+<category>Atlas Data</category>
+<category>Atlas Application</category>
+<category>Image-to-Image</category>
+<category>Resampling</category>
+<category>Affine Warp</category>
+<category>Nonlinear Warp</category>
+<category>Time Domain Analysis</category>
+<category>Image Display</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Dec 11, 2009</release>
+<homepage>http://www.nitrc.org/projects/jip/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

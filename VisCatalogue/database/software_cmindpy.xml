@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="CMIND_PY" nitrc="https://www.nitrc.org/projects/cmind_py_2014" />
+<description> Cmind_Py was written entirely in Python due to its relative ease of use and the availability of a wide number of high quality scientific (&lt;a href=&quot;http://scipy.org&quot; target=&quot;_new&quot;&gt;http://scipy.org&lt;/a&gt;) and neuroimaging software modules (&lt;a href=&quot;http://nipy.org&quot; target=&quot;_new&quot;&gt;http://nipy.org&lt;/a&gt;) . The software relies on calls to a number of widely tested algorithms from the FMRIB software library (FSL) and the advanced normalization tools (ANTS). Linux and Max OSX are supported. Both LONI and Nipype interfaces are supported. A unique feature provided by the processing pipelines is analysis of simultaneously acquired ASL/BOLD fMRI data. The tool and its code are available at bitbucket (&lt;a href=&quot;https://bitbucket.org/grlee77/cmind-py&quot; target=&quot;_new&quot;&gt;https://bitbucket.org/grlee77/cmind-py&lt;/a&gt;). Pediatric templates with 2mm resolution were created for the following age ranges: 0-6 months, 0.5 – 2 years, 2-4 years and 4-18 years using ANTS. These can be found at (&lt;a href=&quot;https://bitbucket.org/grlee77/cmind-py/downloads&quot; target=&quot;_new&quot;&gt;https://bitbucket.org/grlee77/cmind-py/d...&lt;/a&gt;). The data used and their behavioral measures can be downloaded from a public database (&lt;a href=&quot;https://cmind.research.cchmc.org/&quot; target=&quot;_new&quot;&gt;https://cmind.research.cchmc.org/&lt;/a&gt;). </description>
+<release>Aug 11, 2014</release>
+<homepage>http://www.nitrc.org/projects/cmind_py_2014/</homepage>
+<maintainer>Cincinnati Children's Hospital Medical Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

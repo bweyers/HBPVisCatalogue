@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Statistics Online Computational Resource" nitrc="https://www.nitrc.org/projects/socr" />
+<description> The Statistics Online Computational Resources (SOCR) include the following suite of web-based Java applets: &lt;br /&gt;* Distributions (interactive graphs and calculators)&lt;br /&gt;* Experiments (virtual computer-generated games and processes)&lt;br /&gt;* Analyses (collection of common web-accessible tools for statistical data analysis)&lt;br /&gt;* Games (interfaces and simulations to real-life processes)&lt;br /&gt;* Modeler (tools for distribution, polynomial and spectral model-fitting and simulation)&lt;br /&gt;* Graphs, Plots and Charts (comprehensive web-based tools for exploratory data analysis), &lt;br /&gt;* Additional Tools (other statistical tools and resources)&lt;br /&gt;* SOCR Java-based Statistical Computing Libraries.&lt;br /&gt;&lt;br /&gt;In addition, SOCR provides a suite of tools for volume-based statistical mapping (&lt;a href=&quot;http://wiki.stat.ucla.edu/socr/index.php/SOCR_EduMaterials_AnalysesCommandLine&quot; target=&quot;_new&quot;&gt;http://wiki.stat.ucla.edu/socr/index.php...&lt;/a&gt;) via command-line execution and via the LONI Pipeline workflows (&lt;a href=&quot;http://www.nitrc.org/projects/pipeline&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/projects/pipeline&lt;/a&gt;). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=178&amp;screenshot_id=660&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=178&amp;screenshot_id=660&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Web Resource</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Nov 6, 2008</release>
+<homepage>http://www.nitrc.org/projects/socr/</homepage>
+<maintainer>University of Michigan</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

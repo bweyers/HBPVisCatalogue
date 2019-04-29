@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Open Neuroimaging Laboratory" nitrc="https://www.nitrc.org/projects/openneurolab" />
+<description> OpenNeuroLab (&lt;a href=&quot;http://openneu.ro&quot; target=&quot;_new&quot;&gt;http://openneu.ro&lt;/a&gt;) is a web framework for collaborative applications for neuroimaging. So far, we host BrainBox, MetaSearch, Brainspell and MindControl. </description>
+<license>Apache License 2.0</license>
+<category>Websites</category>
+<release>Nov 16, 2016</release>
+<homepage>http://openneu.ro/</homepage>
+<maintainer>Instut Pasteur</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

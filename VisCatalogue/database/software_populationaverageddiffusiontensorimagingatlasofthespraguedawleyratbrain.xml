@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Population-averaged diffusion tensor imaging atlas of the Sprague Dawley rat brain" nitrc="https://www.nitrc.org/projects/visionlab" />
+<description> The rat atlas can be downloaded in different data formats:&lt;br /&gt;1. Mat-file: a single mat-file - ratatlas.m - contains all data, and is structured as follows:&lt;br /&gt;DWI: Cell array containing all 13 diffusion weighted images&lt;br /&gt;DT: Cell array containing the 6 independent diffusion tensor elements&lt;br /&gt;FE: First eigenvectors&lt;br /&gt;eigval: Three eigenvalues of the diffusion tensors&lt;br /&gt;FA: Fractional anisotropy map&lt;br /&gt;FEFA: FE map scaled by the FA map.&lt;br /&gt;VDims: Voxel dimensions&lt;br /&gt;g: Diffusion gradient directions&lt;br /&gt;bval: Diffusion gradient strength&lt;br /&gt;labels: Label field&lt;br /&gt;T1: T1 image&lt;br /&gt;&lt;br /&gt;2. Nifti: all diffusion weighted images, the T1 image, and label field are saved as individual nifti files (DWI_0..13.nii, T1.nii, and labels.nii). Diffusion gradient information has been stored in grad.txt, while the delineated anatomical structures are enumerated in labels.txt.&lt;br /&gt;&lt;br /&gt;3. Amira: the label field is also provided in Amira format, labels.am. This file can be used for further segmentation, or (3D) visualization in Amira. </description>
+<license>Free For Non-Commercial Use Only</license>
+<platform>OS Independent</platform>
+<input>ASCII</input>
+<output>ASCII</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Oct 11, 2016</release>
+<homepage>http://www.nitrc.org/projects/visionlab/</homepage>
+<maintainer>University of Antwerp</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

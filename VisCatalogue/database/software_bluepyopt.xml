@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="BluePyOpt" nitrc="https://www.nitrc.org/projects/bluepyopt" />
+<description> The Blue Brain Python Optimisation Library (BluePyOpt) is an extensible framework for data-driven model parameter optimisation that wraps and standardises several existing open-source tools.&lt;br /&gt;&lt;br /&gt;It simplifies the task of creating and sharing these optimisations, and the associated techniques and knowledge. This is achieved by abstracting the optimisation and evaluation tasks into various reusable and flexible discrete elements according to established best-practices.&lt;br /&gt;&lt;br /&gt;Further, BluePyOpt provides methods for setting up both small- and large-scale optimisations on a variety of platforms, ranging from laptops to Linux clusters and cloud-based compute infrastructures.&lt;br /&gt;&lt;br /&gt;The main website of BluePyOpt is: &lt;a href=&quot;https://github.com/BlueBrain/BluePyOpt&quot; target=&quot;_new&quot;&gt;https://github.com/BlueBrain/BluePyOpt&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1072&amp;screenshot_id=1018&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1072&amp;screenshot_id=1018&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Algorithm or Reusable Library</category>
+<platform>POSIX/UNIX-like</platform>
+<release>Nov 3, 2016</release>
+<homepage>http://www.nitrc.org/projects/bluepyopt/</homepage>
+<maintainer>Blue Brain Project</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

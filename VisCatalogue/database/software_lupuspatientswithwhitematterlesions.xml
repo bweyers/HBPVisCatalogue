@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Lupus patients with white matter lesions" nitrc="https://www.nitrc.org/projects/lupus_2016" />
+<description> Data set consisting of 20 Lupus patients (T1w, FLAIR, FLAIR corrected, WML). The correction of the FLAIR images consists of the skull removal and the intensity correction (anisotropic filter and bias correction).&lt;br /&gt;&lt;br /&gt;This data set has been used for experimental purposes evaluating an automated approach for the detection of Lupus WML in MRI images. Lupus WML appear as small focal abnormal tissue observed as hyperintensities in the FLAIR images. The quantification of these WML is a key factor for the stratification of lupus patients and therefore both lesion detection and segmentation play an important role. Therefore, this resource can be used either for reproducibility of the results presented in the work mentioned above, or for testing new approaches with similar purposes. </description>
+<release>Jan 27, 2016</release>
+<homepage>http://www.nitrc.org/projects/lupus_2016/</homepage>
+<maintainer>Hospital Clínic, University of Barcelona</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

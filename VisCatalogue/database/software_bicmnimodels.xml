@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="bic-mni-models" nitrc="https://www.nitrc.org/projects/bic-mni-models" />
+<description> bic-mni-models anatomical brain template library, includes models from ICBM 2009 template ( &lt;a href=&quot;http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009&quot; target=&quot;_new&quot;&gt;http://www.bic.mni.mcgill.ca/ServicesAtl...&lt;/a&gt; ) </description>
+<license>BIC-MNI Louis Collins</license>
+<release>Dec 13, 2013</release>
+<homepage>http://www.nitrc.org/projects/bic-mni-models/</homepage>
+<maintainer>Montreal Neurological Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

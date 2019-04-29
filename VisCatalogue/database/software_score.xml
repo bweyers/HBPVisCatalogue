@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="SCORE" nitrc="https://www.nitrc.org/projects/score" />
+<description> SCORE is a collection of methods for comparing the performance of different image algorithms. These methods generate quantitative scores that measure divergences to a standard (ground truth). </description>
+<license>3D Slicer License</license>
+<release>Jan 7, 2013</release>
+<homepage>http://www.nitrc.org/projects/score/</homepage>
+<maintainer>University of Utah</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

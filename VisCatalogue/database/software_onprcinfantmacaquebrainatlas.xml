@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="ONPRC Infant Macaque Brain Atlas" nitrc="https://www.nitrc.org/projects/brainscan_2017" />
+<description> This is a multi-modal (T1w and DTI) brain template of monkeys with atlas labels of a cohort of 6 rhesus macaques scanned longitudinally at ages 2, 4 and 6 months of age. All T1w and DTI templates are with the same coordinates. The reference publication is &amp;quot;The effects of breastfeeding versus formula-feeding on cerebral cortex maturation in infant rhesus macaques&amp;quot;, Neuroimage, 2018, in press (&lt;a href=&quot;https://doi.org/10.1016/j.neuroimage.2018.09.015&quot; target=&quot;_new&quot;&gt;https://doi.org/10.1016/j.neuroimage.201...&lt;/a&gt;). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1315&amp;screenshot_id=1227&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1315&amp;screenshot_id=1227&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 7, 2018</release>
+<homepage>http://www.nitrc.org/projects/brainscan_2017/</homepage>
+<maintainer>Oregon Health and Science University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

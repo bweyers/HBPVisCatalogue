@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Brede Toolbox" nitrc="https://www.nitrc.org/projects/bredetoolbox" />
+<description> The Brede Toolbox is a package for neuroinformatics and neuroimaging analysis mostly programmed in Matlab with a few additional programs in Python and Perl. It allows coordinate-based meta-analysis and visualization, neuroimaging analysis of voxel or regional data. Among the algorithms implemented are kernel density estimation (for coordinate-based meta-analysis), independent component analysis, non-negative matrix factorization, k-means clustering, singular value decomposition, partial correlation analysis with permutation testing and partial canonical correlation analysis. Visualization of coordinate, surfaces and volumes are possible in 2D and 3D. &lt;br /&gt; Generation of HTML for results are possible and algorithms can be accessed from the command line or via a flexible graphical interface. With the Brede Toolbox comes the Brede Database with a small coordinate database from published neuroimaging studies, and ontologies for, e.g., brain function and brain regions. </description>
+<license>Brede Toolbox License</license>
+<category>Ontology</category>
+<category>Database Application</category>
+<category>Independent Component Analysis</category>
+<category>Principal Component Analysis</category>
+<category>Regression</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Jun 20, 2009</release>
+<homepage>http://neuro.compute.dtu.dk/software/brede/</homepage>
+<maintainer>Technical University of Denmark</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

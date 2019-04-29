@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Offline Processing MRI" nitrc="https://www.nitrc.org/projects/offprocmri" />
+<description> This is structural and functional MRI data from 35 healthy volunteers that accompanies Bursley et al. (2015), &amp;quot;Awake, Offline Processing During Associative Learning.&amp;quot; Subjects encoded paired associates and then performed a distractor task before being probed on associate pairs. Pattern analyses suggest that encoded memories were reactivated during the distractor task, and performance of the distractor task led to superior recall for the associate pairs, compared to a control condition in which no distractor task was performed. </description>
+<category>Other</category>
+<release>May 29, 2015</release>
+<homepage>http://www.nitrc.org/projects/offprocmri/</homepage>
+<maintainer>Carnegie Mellon University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

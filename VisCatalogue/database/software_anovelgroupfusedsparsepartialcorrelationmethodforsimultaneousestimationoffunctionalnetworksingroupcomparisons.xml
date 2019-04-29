@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="A novel group-fused sparse partial correlation method for simultaneous estimation of functional networks in group comparisons" nitrc="https://www.nitrc.org/projects/gmglass" />
+<description> Group-fused multiple-graphical lasso cobined with stability selection (GMGLASS) is a software toolbox that can be employed to simultaneously estimate both individual- and group-level functional networks from 2 groups.&lt;br /&gt;The software:&lt;br /&gt; (1) Reads time series from 2 groups of subjects;&lt;br /&gt; (2) Randomly subsamples data 100 times to estimate stability with stability &lt;br /&gt; selection;&lt;br /&gt; (3) Group-fused multiple-graphical lasso is applied with two hyper-parameters: alpha and beta;&lt;br /&gt; (4) Appropriate ranges of hyper-parameters are chosen for achieving stability selection;&lt;br /&gt; (5) Both individual- and group-level functional networks can be estimated.&lt;br /&gt;&lt;br /&gt; The method is described in the following paper:&lt;br /&gt; Xiaoyun Liang, David N. Vaughan, Alan Connelly, Fernando Calamante. A novel group-fused sparse partial correlation method for simultaneous estimation of functional networks.in group comparison studies. Brain Topography, 12/2017; DOI:10.1007/s10548-017-0615-6. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Jan 8, 2018</release>
+<homepage>http://www.nitrc.org/projects/gmglass/</homepage>
+<maintainer>Florey Institute of Neuroscience and Mental Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

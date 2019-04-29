@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Functional Mixed Processes Models" nitrc="https://www.nitrc.org/projects/fmpm" />
+<description> The aim of this tool is to implement a functional analysis pipeline, for the joint analysis of longitudinally measured functional data and clinical data, for example age, gender and disease status. FMPM consists of a functional mixed effects model for characterizing the association of functional response with covariates of interest by incorporating complex spatial–temporal correlation structure, an efficient method for spatially smoothing varying coefficient functions, an estimation method for estimating the spatial– temporal correlation structure, a test procedure with local and global test statistics for testing hypotheses of interest associated with functional response, and a simultaneous confidence band for quantifying the uncertainty in the estimated coefficient functions. </description>
+<license>NIH Data Access Policy</license>
+<release>Oct 3, 2014</release>
+<homepage>http://www.nitrc.org/projects/fmpm/</homepage>
+<maintainer>UNC-CH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

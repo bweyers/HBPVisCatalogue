@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="brainGraph - Graph Theory Analysis of Brain MRI Data in R" nitrc="https://www.nitrc.org/projects/braingraph" />
+<description> brainGraph is an R package containing tools for graph theory (network) analysis of brain MRI data. It was initially developed with a focus on Freesurfer data (i.e., cortical thickness, surface area, volume, etc.) but also works with DTI tractography data (particularly from FSL&#x27;s &amp;quot;probtrackx2&amp;quot;), and should work with resting-state fMRI data (given correlation matrices).&lt;br /&gt;&lt;br /&gt;In addition to general network operations (available through the R package &amp;quot;igraph&amp;quot;), there is code to perform: bootstrapping, permutation tests, random graph generation, small-worldness/efficiency, robustness/targeted attack/random failure analysis, rich-club analysis, and more. Additionally, there is a GUI for quick data viewing and exploration.&lt;br /&gt;&lt;br /&gt;For more information, please visit the GitHub page at: &lt;a href=&quot;https://github.com/cwatson/brainGraph&quot; target=&quot;_new&quot;&gt;https://github.com/cwatson/brainGraph&lt;/a&gt;&lt;br /&gt;From there, you will find a link to the User Guide, which is also accessible through the &amp;quot;Docs&amp;quot; link here on the NITRC page. </description>
+<license>GPL-Style Open Source</license>
+<category>Connectivity Analysis</category>
+<release>Dec 12, 2015</release>
+<homepage>https://github.com/cwatson/braingraph/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

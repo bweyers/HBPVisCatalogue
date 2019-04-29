@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="Kymata Atlas" nitrc="https://www.nitrc.org/projects/kymata_atlas" />
+<description> The Kymata Atlas is a freely available, online atlas of neural functions, developed by Cambridge University and the MRC-CBSU. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=830&amp;screenshot_id=781&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=830&amp;screenshot_id=781&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Data Model</category>
+<category>Atlas Data</category>
+<category>Database</category>
+<category>Web Service</category>
+<category>Websites</category>
+<category>Atlas Application</category>
+<category>Database Application</category>
+<category>Three Dimensional Display</category>
+<category>Surface Rendering</category>
+<platform>OS Independent</platform>
+<release>Jun 11, 2014</release>
+<homepage>http://kymata-atlas.org</homepage>
+<maintainer>Cambridge University, MRC CBSU</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

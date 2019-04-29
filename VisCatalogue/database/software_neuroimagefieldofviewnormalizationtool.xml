@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="NeuroImage Field-of-View Normalization Tool" nitrc="https://www.nitrc.org/projects/normalizefov" />
+<description> Field-of-view mismatch in different subjects&#x27; images poses additional challenges to the streamline analysis of large-scale brain MRI datasets. &lt;br /&gt;&lt;br /&gt;We release an atlas-based FOV normalization tool. This tool automatically truncates the FOV to that of the MNI152 atlas&#x27;, which includes the whole brain, the skull, and ends 10-15mm inferior to the most inferior voxel in the cerebellum. This tool runs in linux platform (command line). It has been extensively validated in hundreds of MRIs, acquired from various scanners (Philips 1.0T, Siemens/GE 1.5T/3T), in various imaging sites, with various scanning FOVs, and from subjects of various ages (infants, neonates, adolescents, young adults, elderly).&lt;br /&gt;&lt;br /&gt;We have quantitatively shown that this FOV normalization significantly improves the accuracy and success rate in streamline analysis of neuroimages in the very first steps (e.g., skull stripping, inter-subject registration, etc).&lt;br /&gt;&lt;br /&gt;The software runs in unix command line, single machine or clusters.&lt;br /&gt;&lt;br /&gt;Publication pending. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=934&amp;screenshot_id=927&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=934&amp;screenshot_id=927&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<release>May 25, 2015</release>
+<homepage>http://www.nitrc.org/projects/normalizefov/</homepage>
+<maintainer>Harvard Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

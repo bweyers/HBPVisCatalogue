@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Northwestern University Schizophrenia Data and Software Tool (NUSDAST)" nitrc="https://www.nitrc.org/projects/nusdast" />
+<description> The Northwestern University Schizophrenia Data and Software Tool (NUSDAST) is a repository of schizophrenia neuroimaging data collected from over 450 individuals with schizophrenia, healthy controls and their respective siblings, most with 2-year longitudinal follow-up. &lt;br /&gt;The data include:&lt;br /&gt;Neuroimaging data: Structural MR scans, landmarks and surface maps, and FreeSurfer parcellation and measurement)&lt;br /&gt;Cognitive data: domain scores for crystallized intelligence, working memory, episodic memory, and executive function&lt;br /&gt;Clinical data: demographic, sibling relationship, SAPS and SANS psychopathology&lt;br /&gt;Genetic data: 20 SNPs&lt;br /&gt;A neuroimaging mapping, analysis and visualization software tool, CAWorks, is also part of this resource. We have also established a web-based information retrieval portal that allows the user to efficiently search the collection. </description>
+<license>Northwestern University Schizophrenia Data and Software Tool (NUSDAST)</license>
+<category>Federal Funding Resource</category>
+<category>Data</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Oct 18, 2013</release>
+<homepage>http://niacal.northwestern.edu/projects/9</homepage>
+<maintainer>Northwestern University Feinberg School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="MASIMatlab" nitrc="https://www.nitrc.org/projects/masimatlab" />
+<description> The MASI research laboratory concentrates on analyzing large-scale cross-sectional and longitudinal neuroimaging data. Specifically, we are interested in population characterization with magnetic resonance imaging (MRI), multi-parametric studies (DTI, sMRI, qMRI), and shape modeling.&lt;br /&gt;&lt;br /&gt;This repository stores and provides opportunities for collaboration through Matlab code, libraries, and configuration information for projects in early stage development. </description>
+<release>Jun 11, 2010</release>
+<homepage>http://www.nitrc.org/projects/masimatlab/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

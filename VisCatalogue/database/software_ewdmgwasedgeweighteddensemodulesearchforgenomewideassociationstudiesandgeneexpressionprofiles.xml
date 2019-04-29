@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="EW_dmGWAS: Edge-weighted dense module search for genome-wide association studies and gene expression profiles" nitrc="https://www.nitrc.org/projects/dmgwas" />
+<description> dmGWAS is designed to identify significant protein-protein interaction (PPI) modules and, from which, the candidate genes for complex diseases by an integrative analysis of GWAS dataset(s) and PPI network. The new algorithm, EW_dmGWAS, combines node weight, which are computed based on GWAS signals, and edge weight, which are computed based on gene expression data. Allow tissue-specific gene expression profile. For example, for breast cancer GWAS analysis, gene expression data from breast cancer patients can be used; for schizophrenia, gene expression data in brain tissues can be used.&lt;br /&gt;All old versions are here: &lt;a href=&quot;https://bioinfo.uth.edu/dmGWAS/dmGWAS_old.html.&quot; target=&quot;_new&quot;&gt;https://bioinfo.uth.edu/dmGWAS/dmGWAS_ol...&lt;/a&gt;</description>
+<release>Oct 24, 2017</release>
+<homepage>http://www.nitrc.org/projects/dmgwas/</homepage>
+<maintainer>University of Texas Health Science Center at Houston</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

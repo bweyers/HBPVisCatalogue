@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="ALVIN - Lateral Ventricle Segmentation" nitrc="https://www.nitrc.org/projects/alvin_lv" />
+<description> ALVIN - Automatic Lateral Ventricle delIneatioN is a fully automated algorithm which works within SPM8 to segment the lateral ventricles from structural MRI images. The algorithm has been validated in infants, adults and patients with Alzheimer&#x27;s disease (ICC&amp;gt;0.95). ALVIN is insensitive to different scanner sequences (ICC&amp;gt;0.99, 8 different sequences 1.5T and 3T) and sensitive to changes in ventricular volume. Processing time is approx 10mins per subject. Download from here or visit our main website &lt;a href=&quot;http://sites.google.com/site/mrilateralventricle/&quot; target=&quot;_new&quot;&gt;http://sites.google.com/site/mrilateralv...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=547&amp;screenshot_id=457&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=547&amp;screenshot_id=457&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Volume Measurement</category>
+<category>Region of Interest</category>
+<category>Volumetric Analysis</category>
+<release>Dec 14, 2011</release>
+<homepage>http://sites.google.com/site/mrilateralventricle/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

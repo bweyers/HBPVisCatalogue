@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Brainance DTI Module" nitrc="https://www.nitrc.org/projects/brainance" />
+<description> Brainance DTI Module is a web-based highly accurate and user friendly fiber tracking software created by Advantis Medical Imaging. The fiber tracking methodology developed and implemented achieves extremely high accuracy rates (90%) in the final 3D reconstruction of the nerve fibers, compared to the existing deterministic methodologies which do not exceed 65%. Create an account through our website (&lt;a href=&quot;http://advantis.io/&quot; target=&quot;_new&quot;&gt;http://advantis.io/&lt;/a&gt;) and start using our one-month free trial! 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1056&amp;screenshot_id=1003&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1056&amp;screenshot_id=1003&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial: Advantis Medical Imaging</license>
+<category>Diffusion MR Fiber Tracking</category>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 29, 2016</release>
+<homepage>http://www.nitrc.org/projects/brainance/</homepage>
+<maintainer>Advantis Medical Imaging</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

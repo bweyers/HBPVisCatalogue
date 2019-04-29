@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="WhiteText - annotated neuroscience text" nitrc="https://www.nitrc.org/projects/whitetext" />
+<description> WhiteText is a corpus of manually annotated brain region mentions. It was created to facilitate text mining of neuroscience literature. The corpus contains 1,377 abstracts with 17,585 brain region annotations. Interannotator agreement was evaluated for a subset of the documents, and was 90.7% and 96.7% for strict and lenient matching respectively. We observed a large vocabulary of over 6,000 unique brain region terms and 17,000 words. &lt;br /&gt;&lt;br /&gt;The corpus can be found at &lt;a href=&quot;http://www.chibi.ubc.ca/WhiteText/&quot; target=&quot;_new&quot;&gt;http://www.chibi.ubc.ca/WhiteText/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Previous evaluation of automated recognition of the mentions is described in:&lt;br /&gt;&amp;quot;Automated Recognition of Brain Region Mentions in Neuroscience Literature&amp;quot;&lt;br /&gt;by French, Lane, Xu and Pavlidis.&lt;br /&gt;&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2741206/&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pmc/articles...&lt;/a&gt;</description>
+<category>Bibliographic Resource</category>
+<category>Knowledge Environment</category>
+<category>Web Resource</category>
+<release>Jan 15, 2011</release>
+<homepage>https://whitetext.msl.ubc.ca/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="BrainVoyager Viewer" nitrc="https://www.nitrc.org/projects/bvviewer" />
+<description> BrainVoyager Brain Viewer allows to browse and inspect essential BrainVoyager data files. In addition, the program supports viewing the header and content of DICOM files. The Viewer also supports standard image files (JPEG, GIF, PNG, TIFF, BMP) allowing to inspect snapshots, figures or photos. The program offers an elegant user interface with fluid navigation abilities inspired by Apple&#x27;s &amp;quot;Cover Flow&amp;quot; and the iPhone interface. The program can be downloaded and distributed freely. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=172&amp;screenshot_id=88&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=172&amp;screenshot_id=88&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<category>Visualization</category>
+<platform>Windows XP</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 28, 2008</release>
+<homepage>http://www.nitrc.org/projects/bvviewer/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

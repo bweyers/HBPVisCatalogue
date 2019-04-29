@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Denoising of redundant MR series" nitrc="https://www.nitrc.org/projects/mppca" />
+<description> Denoising of MR series (e.g. diffusion MRI, functional MRI, relaxometry, ...) by exploiting data redundancy in the PCA domain using the prior knowledge that the eigenspectrum of random covariance matrices is described by the universal Marchenko Pastur distribution. </description>
+<license>MPPCA</license>
+<release>Jul 19, 2017</release>
+<homepage>http://www.nitrc.org/projects/mppca/</homepage>
+<maintainer>NYU School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

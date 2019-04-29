@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="E-Prime" nitrc="https://www.nitrc.org/projects/eprime" />
+<description> E-Prime® is a suite of applications to fulfill all of your computerized experiment needs. With more than 100,000 users in research institutions and laboratories in over 60 countries, E-Prime® provides a truly easy-to-use environment for computerized experiment design, data collection, and analysis. E-Prime® provides millisecond precision timing to ensure the accuracy of your data. E-Prime’s flexibility to create simple to complex experiments is ideal for both novice and advanced users. &lt;br /&gt;&lt;br /&gt;The E-Prime® suite of applications includes:&lt;br /&gt;•E-Studio – Drag and drop graphical interface for experiment design&lt;br /&gt;•E-Basic – Underlying scripting language of E-Prime&lt;br /&gt;•E-Run – Once the experiment is generated with a single click, E-Run affords you the millisecond precision of stimulus presentation, synchronizations, and data collection.&lt;br /&gt;•E-Merge – Merges your single session data files for group analysis&lt;br /&gt;•E-DataAid – Data management utility&lt;br /&gt;•E-Recovery – Recovers data files 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=219&amp;screenshot_id=1045&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=219&amp;screenshot_id=1045&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>E-Prime License</license>
+<category>Experimental Control</category>
+<platform>Windows Vista</platform>
+<platform>Windows XP</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Apr 23, 2009</release>
+<homepage>http://www.pstnet.com/eprime.cfm</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

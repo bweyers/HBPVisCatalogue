@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Diffusion MRI @ DKFZ Heidelberg" nitrc="https://www.nitrc.org/projects/dkfz-diffusion" />
+<description> This central project points to all open-source and open-data initiatives provide by the German Cancer Research Center in the field of diffusion MRI. </description>
+<license>BSD/MIT-Style Open Source License</license>
+<release>Jul 19, 2012</release>
+<homepage>http://www.nitrc.org/projects/dkfz-diffusion/</homepage>
+<maintainer>German Cancer Research Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

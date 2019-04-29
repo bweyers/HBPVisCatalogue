@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="TNS Data Repository" nitrc="https://www.nitrc.org/projects/tns_data" />
+<description> This project provides an umbrella for all releases of imaging data from the Translational Neuroradiology Section at the National Institutes of Health. This data will mainly focus on neuroimaging data collected on healthy controls and patients collect in various studies performed by the TNS. </description>
+<license>TNS Data Access</license>
+<release>May 22, 2018</release>
+<homepage>http://www.nitrc.org/projects/tns_data/</homepage>
+<maintainer>National Institutes of Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

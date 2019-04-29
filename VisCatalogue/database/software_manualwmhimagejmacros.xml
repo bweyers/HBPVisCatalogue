@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="ManualWMH ImageJ Macros" nitrc="https://www.nitrc.org/projects/manualwmh" />
+<description> ManualWMH is a set of ImageJ macros that facilitates the efficient manual segmentation of white matter hyperintensities (WMH / WMHI / leukoaraiosis) in T2 FLAIR images. It outputs volumetric 3D WMH masks and descriptive statistics. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1324&amp;screenshot_id=1241&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1324&amp;screenshot_id=1241&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License v3</license>
+<release>Oct 10, 2018</release>
+<homepage>https://github.com/stowler/ManualWMH</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

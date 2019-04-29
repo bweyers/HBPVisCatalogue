@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Epsilon Radial Networks" nitrc="https://www.nitrc.org/projects/ern" />
+<description> Currently there is no agreed-upon method for constructing the brain anatomical connectivity graphs out of large number of white matter tracts. In this paper, we present an efficient framework for building and analyzing graphs called epsilon radial networks (ERNs) using tractography data in a normalized space.&lt;br /&gt;&lt;br /&gt;The key challenge in defining brain networks is node delineation and our method defines nodes in the graph using tract-end points clustered in a sphere of a given radius (epsilon). Using a kd-tree based search algorithm we can identify the nodes computationally efficiently and in a fully automatic way.&lt;br /&gt;&lt;br /&gt;These networks can be used not only to analyze topo-physical properties of the structural brain networks but also to perform classical region-of-interest (ROI) analyses in a very efficient way. Thus ERNs can be used as a novel image processing lens for statistical and machine learning based analyses. </description>
+<license>DTI-TK license</license>
+<release>Mar 17, 2012</release>
+<homepage>http://www.nitrc.org/projects/ern/</homepage>
+<maintainer>University of Wisconsin-Madison</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

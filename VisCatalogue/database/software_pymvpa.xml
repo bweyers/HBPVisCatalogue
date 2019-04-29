@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="PyMVPA" nitrc="https://www.nitrc.org/projects/pymvpa" />
+<description> PyMVPA is a Python package intended to ease statistical learning analyses of large datasets. It offers an extensible framework with a high-level interface to a broad range of algorithms for classification, regression, feature selection, data import and export. While it is not limited to the neuroimaging domain, it is eminently suited for such datasets. PyMVPA is truly free software (in every respect) and additionally requires nothing but free-software to run. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=162&amp;screenshot_id=221&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=162&amp;screenshot_id=221&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT/X Consortium License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Modeling</category>
+<category>Frequency Domain</category>
+<category>Independent Component Analysis</category>
+<category>Multivariate Analysis</category>
+<category>Principal Component Analysis</category>
+<category>Linear</category>
+<category>Nonlinear</category>
+<category>Temporal Transformation</category>
+<category>Workflow</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 9, 2008</release>
+<homepage>http://www.pymvpa.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

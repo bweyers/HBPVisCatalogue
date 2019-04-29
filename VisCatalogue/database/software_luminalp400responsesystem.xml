@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Lumina LP- 400 Response System" nitrc="https://www.nitrc.org/projects/lumina" />
+<description> The Lumina LP-400 is a reliable patient response system designed specifically for use in an fMRI. Lumina was developed to satisfy the requirements of both the clinical and research fields. </description>
+<category>Response Monitoring</category>
+<release>Apr 14, 2008</release>
+<homepage>http://cedrus.com/ordering/usa/</homepage>
+<maintainer>Cedrus Corporation</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

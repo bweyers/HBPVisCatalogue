@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="BRAINSROIAuto" nitrc="https://www.nitrc.org/projects/brainsroiauto" />
+<description> NOTE: All new development is being managed in a github repository. Please visit&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/BRAINSia/BRAINSTools&quot; target=&quot;_new&quot;&gt;https://github.com/BRAINSia/BRAINSTools&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Automatically creates a mask based on the &#x27;foreground&#x27; of an anatomical scan volume. </description>
+<license>BRAINS License</license>
+<release>Jul 30, 2009</release>
+<homepage>http://www.nitrc.org/projects/brainsroiauto/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

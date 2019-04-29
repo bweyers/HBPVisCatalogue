@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: PORTR" nitrc="https://www.nitrc.org/projects/portr" />
+<description> Pre-Operative and post-Recurrence brain Tumor Registration (PORTR) is a software package designed for determining the optimal deformation between pre-operative and post-recurrence scans by finding the minimum of an energy function, which is based on the concept of symmetric registration.&lt;br /&gt;&lt;br /&gt;Some typical applications of PORTR include:&lt;br /&gt; - Mapping post-recurrence scans to pre-operative scans&lt;br /&gt; - Labeling entire brain regions of each scan.&lt;br /&gt;&lt;br /&gt;PORTR is implemented as a command-line tool. It is semi-automatic and requires minimal user initializations. Users could use the visual interface called CaPTk to easily make initializations and a script for the execution. As a result, PORTR will output a label map of each scan, a mapping between two scans, etc. </description>
+<license>SBIA License</license>
+<release>Feb 16, 2017</release>
+<homepage>http://www.nitrc.org/projects/portr/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="A 3T probabilistic Locus Coeruleus atlas" nitrc="https://www.nitrc.org/projects/prob_lc_3t" />
+<description> This atlas takes advantage of in vivo high resolution TSE 3T structural MRI. The atlas includes a probability map of the Locus Coeruleus based on healthy young subjects. The subjects were scanned twice to test the test-retest reliability of the identification of the Locus Coeruleus.&lt;br /&gt;&lt;br /&gt;A description of the MRI scan parameters, segmentation protocol, and registration protocol to MNI space can be found in:&lt;br /&gt;Tona, K-D., Keuken, M.C., de Rover, M.,Lakke, E., Forstmann, B.U., Nieuwenhuis, S., van Osch, M.J.P. (accepted). In vivo visualization of the locus coeruleus in humans: Quantifying the test-retest reliability. Brain, Structure and Function </description>
+<license>Attribution Non-Commercial Share Alike</license>
+<release>Jun 22, 2016</release>
+<homepage>http://www.nitrc.org/projects/prob_lc_3t/</homepage>
+<maintainer>University of Amsterdam, University of Leiden</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

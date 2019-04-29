@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="High Dynamic Range for Local Contrast Enhancement of MRI" nitrc="https://www.nitrc.org/projects/shdr" />
+<description> An implementation of the high dynamic range (HDR) algorithm for MRI published in Magnetic Resonance in Medicine (MRM) as&lt;br /&gt;&lt;br /&gt;Local Contrast Enhanced MR Images via High Dynamic Range Processing&lt;br /&gt;Chandra SS, Engstrom C, Fripp J, Walker D, Rose S, Ho C, Crozier S. &lt;br /&gt;Magnetic Resonance in Medicine, vol. 80, no. 3, pp. 1206–1218, 2018.&lt;br /&gt;&lt;br /&gt;The HDR MRI algorithm allows for fusing the scans together to form a single omnibus image with enhanced definition of thin, complex anatomical structures, especially in the presence of variable or hyperintense signals. The algorithm takes as input coregistered MR images (preferrably of different contrasts), non-linearly combines them and outputs a single (contrast enhanced) HDR MR image. This library provides a single ITK class, a commandline executable and a GUI application built on the open source [SMILI Biomedical Imaging Framework](&lt;a href=&quot;https://smili-project.sourceforge.io/&quot; target=&quot;_new&quot;&gt;https://smili-project.sourceforge.io/&lt;/a&gt;). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1332&amp;screenshot_id=1242&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1332&amp;screenshot_id=1242&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Algorithm or Reusable Library</category>
+<category>Artifact Removal</category>
+<category>Intensity Operations</category>
+<category>Three Dimensional Display</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<release>Nov 13, 2018</release>
+<homepage>http://www.nitrc.org/projects/shdr/</homepage>
+<maintainer>University of Queenland</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

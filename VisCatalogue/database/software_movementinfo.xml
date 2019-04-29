@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="movement_info" nitrc="https://www.nitrc.org/projects/movement_info" />
+<description> Software movement_info_2 is written to visualize movement parameters estimated during preprocessing of fMRI data. Its development was based on movement parameters estimated with the tool SPM, but it should work in general for all 6 parametric movement estimates (translations and rotations in axis x, y and z). The visualization is implemented in user-friendly GUI.&lt;br /&gt;Main features of movement_info_2 are:&lt;br /&gt;1)Visualization of 6 movement parameters and their differences&lt;br /&gt;2)Framewise displacement (FD) –Computation and visualization&lt;br /&gt;3)Setting threshold for scans based on FD value, visualization &lt;br /&gt;4)Export of suprathreshold scans to Excel or mat file (button “Export suitable data”)&lt;br /&gt;5)Setting threshold of affected scans for exclusion of datasets&lt;br /&gt;6)Visualization of suitable and unsuitable datasets based on abovementioned thresholds. Export to Excel possible (button “Export suitable data”) </description>
+<license>GNU GPL v2</license>
+<category>Quantification</category>
+<category>Visualization</category>
+<category>Workflow</category>
+<platform>OS Independent</platform>
+<release>Dec 21, 2018</release>
+<homepage>http://www.nitrc.org/projects/movement_info/</homepage>
+<maintainer>Masaryk University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Diffusion Tractography with Kalman Filter" nitrc="https://www.nitrc.org/projects/ukftractography" />
+<description> We present a framework which uses an unscented Kalman filter for performing tractography. At each point on the fiber the most consistent direction is found as a mixture of previous estimates and of the local model.&lt;br /&gt;&lt;br /&gt;It is very easy to expand the framework and to implement new fiber representations for it. Currently it is possible to tract fibers using two different 1-, 2-, or 3-tensor methods. Both methods use a mixture of Gaussian tensors. One limits the diffusion ellipsoids to a cylindrical shape (the second and third eigenvalue are assumed to be identical) and the other one uses a full tensor representation.&lt;br /&gt;&lt;br /&gt;The project is written in C++. It could be used both as a Slicer3 module and as a standalone commandline application. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Nov 28, 2010</release>
+<homepage>http://www.nitrc.org/projects/ukftractography/</homepage>
+<maintainer>Harvard Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

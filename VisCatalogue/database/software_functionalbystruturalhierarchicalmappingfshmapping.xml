@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Functional-by-Strutural Hierarchical Mapping (FSH mapping)" nitrc="https://www.nitrc.org/projects/fsh_mapping" />
+<description> Not every edge in the diffusion-MRI derived structural network is utilized in each specific brain status. Therefore, this tool, which we name functional by structural hierarchical (FSH) mapping, is to predict functional MRI (fMRI) correlation matrix using diffusion MRI-derived structural connectome. The output is a binary utilization matrix, which indicates the utilization of the structural network edges. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>Jun 2, 2018</release>
+<homepage>http://www.nitrc.org/projects/fsh_mapping/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

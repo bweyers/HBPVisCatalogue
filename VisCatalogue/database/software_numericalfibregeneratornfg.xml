@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Numerical Fibre Generator (NFG)" nitrc="https://www.nitrc.org/projects/nfg" />
+<description> NFG is a collection of tools that generate numerical fiber structures with the complexity of human white matter and simulate Diffusion-Weighted MR images that would arise from them. Its primary use is to enable the testing of tracking algorithms 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=132&amp;screenshot_id=48&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=132&amp;screenshot_id=48&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Tractography</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Jun 29, 2008</release>
+<homepage>http://www.brain.org.au/software/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

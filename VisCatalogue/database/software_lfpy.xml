@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="LFPy" nitrc="https://www.nitrc.org/projects/lfpy" />
+<description> LFPy is a Python package for calculation of extracellular potentials from multicompartment neuron models. It relies on the Python interface provided by the NEURON simulator. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Jan 5, 2017</release>
+<homepage>http://www.nitrc.org/projects/lfpy/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

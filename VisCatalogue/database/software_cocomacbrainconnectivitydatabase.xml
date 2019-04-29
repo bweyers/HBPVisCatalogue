@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="CoCoMac Brain Connectivity Database" nitrc="https://www.nitrc.org/projects/cocomac" />
+<description> CoCoMac.org gives online access (html or xml) to structural connectivity (&#x27;wiring&#x27;) data on the Macaque brain. The database has become by far the largest of its kind, with data extracted from more than four hundred published tracing studies. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=148&amp;screenshot_id=923&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=148&amp;screenshot_id=923&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Ontology</category>
+<category>Atlas Application</category>
+<category>Database Application</category>
+<category>Tractography</category>
+<platform>OS Independent</platform>
+<release>Aug 11, 2008</release>
+<homepage>http://cocomac.org</homepage>
+<maintainer>Forschungszentrum Jülich, Radboud Univ. Nijmegen, G-node</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="DFBIdb" nitrc="https://www.nitrc.org/projects/dfbidb" />
+<description> DFBIdb is a suite of tools for efficient management of neuroimaging&lt;br /&gt;project data. Specifically, DFBIdb was designed to allow users to quickly&lt;br /&gt;perform routine management tasks of sorting, archiving, exploring, exporting&lt;br /&gt;and organising raw data. DFBIdb was implemented as a collection of Python&lt;br /&gt;scripts that maintain a project-based, centralised database that is based on the&lt;br /&gt;XCEDE 2 data model. Project data is imported from a filesystem hierarchy of&lt;br /&gt;raw files, which is an often-used convention of imaging devices, using a single&lt;br /&gt;script that catalogues meta-data into a modified XCEDE 2 data model. During&lt;br /&gt;the import process data are reversibly anonymised, archived and compressed.&lt;br /&gt;The import script was designed to support multiple file formats and features an&lt;br /&gt;extensible framework that can be adapted to novel file formats. Graphical user interfaces are provided for data exploration. DFBIdb includes facilities to export, convert and organise customisable subsets of project data according to user-specified criteria. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Aug 31, 2010</release>
+<homepage>http://www.nitrc.org/projects/dfbidb/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

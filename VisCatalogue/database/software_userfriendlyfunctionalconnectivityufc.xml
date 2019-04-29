@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="User Friendly Functional Connectivity - UF²C" nitrc="https://www.nitrc.org/projects/uf2c" />
+<description> UF²C is an open source software developed at the Neuroimaging Laboratory at Unicamp that aims to simplify and organize functional studies in neuroimaging through clean and validated methodologies.&lt;br /&gt;The graphical user interface makes the processing and analysis options accessible for neuroscientists, with reasonable choices of default settings. UF²C allows the user to study functional connectivity both through a quantitative view that provides detailed values of average connectivity and through a spatial view that provides statistical maps that can be directly used for further analyses. All results are carefully organized in a distinct folder for each subject, and a common folder is generated with a log file reporting the quantitative results of all the analyzed subjects.&lt;br /&gt;Several UF²C modalities and tools runs combined with Statistical Parametric Mapping functions.&lt;br /&gt; Coordinator and developer&lt;br /&gt; Brunno M. de Campos, Ph.D.&lt;br /&gt; Collaborator Developer&lt;br /&gt; Raphael Fernandes Casseb, Ph.D. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1319&amp;screenshot_id=1236&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1319&amp;screenshot_id=1236&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License, GNU Lesser General Public License and GNU General Public License, v</license>
+<category>Other Software Resource</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Oct 1, 2018</release>
+<homepage>http://www.nitrc.org/projects/uf2c/</homepage>
+<maintainer>University of Campinas</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

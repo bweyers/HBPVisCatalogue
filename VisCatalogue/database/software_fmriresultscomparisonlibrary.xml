@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="fMRI Results Comparison Library" nitrc="https://www.nitrc.org/projects/frcl" />
+<description> Exported results from 28 variants of an fMRI analysis, conducted in AFNI, FSL, and SPM, carried out on the OpenfMRI BIDS-compliant ds000011 dataset. </description>
+<license>Public Domain</license>
+<category>Database</category>
+<release>Apr 13, 2016</release>
+<homepage>http://www.nitrc.org/projects/frcl/</homepage>
+<maintainer>University of Warwick</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

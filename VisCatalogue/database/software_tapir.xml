@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="TAPIR" nitrc="https://www.nitrc.org/projects/tapir" />
+<description> TAPIR (Tools for Advanced Parameterized Image Registration) is a set of command line tools allowing 2D and 3D image registration, mainly for medical imaging (although also relevant to other image registration problems). </description>
+<license>Mozilla Public License</license>
+<release>Jan 27, 2009</release>
+<homepage>http://www.nitrc.org/projects/tapir/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

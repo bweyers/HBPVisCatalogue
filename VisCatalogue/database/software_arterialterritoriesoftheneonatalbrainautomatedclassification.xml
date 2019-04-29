@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Arterial Territories of the Neonatal Brain: automated classification" nitrc="https://www.nitrc.org/projects/atnb_classif" />
+<description> This automated classification program is intended to facilitate a quick and precise classification of neonatal arterial ischemic strokes (NAIS) according to the arterial territories of the neonatal brain (ATNB). Precise stroke location, as well as the percentage of each arterial territory involved, are the main calculations performed by this script. An anatomical image of the subject(s), along with their lesion segmentation, are required. </description>
+<license>Attribution Non-Commercial</license>
+<release>May 29, 2017</release>
+<homepage>http://www.nitrc.org/projects/atnb_classif/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

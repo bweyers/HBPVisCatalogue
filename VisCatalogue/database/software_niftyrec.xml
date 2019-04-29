@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="NiftyRec" nitrc="https://www.nitrc.org/projects/niftyrec" />
+<description> The NiftyRec Tomography Toolbox includes reconstruction tools for emission and transmission imaging modalities, including Single Photon Emission Computed Tomography (SPECT), Positron Emission Tomography (PET), cone-beam X-Ray CT and parallel-beam X-Ray CT.&lt;br /&gt;&lt;br /&gt;At the core of NiftyRec are efficient, GPU accelerated, projection, back-projection and iterative reconstruction algorithms. &lt;br /&gt;&lt;br /&gt;The easy to use Matlab and Python interfaces of NiftyRec enable fast prototyping and development of reconstruction algorithms. NiftyRec includes standard iterative reconstruction algorithms such as Maximum Likelihood Expectation Maximisation (MLEM), Ordered Subsets Expectation Maximisation (OSEM) and One Step Late Maximum A Posteriori Expectation Maximisation (OSL-MAPEM), for multiple imaging modalities. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=695&amp;screenshot_id=629&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=695&amp;screenshot_id=629&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<release>Mar 9, 2013</release>
+<homepage>http://niftyrec.scienceontheweb.net/</homepage>
+<maintainer>University College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

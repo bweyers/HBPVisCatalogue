@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="BrainNetworkConstructionAnalysisPlatform" nitrc="https://www.nitrc.org/projects/cabn" />
+<description> Construct and analyse brain network is a brain network visualization tool, which can help researchers to visualize construct and analyse resting state functional brain networks from different levels in a quick, easy and flexible way. Entrance parameter of construct and analyse brain network is export parameters of dparsf software.It would be greatly appreciated if you have any suggestions about the package or manual. </description>
+<license>Free For Non-Commercial Use Only</license>
+<release>Feb 28, 2012</release>
+<homepage>http://www.nitrc.org/projects/cabn/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

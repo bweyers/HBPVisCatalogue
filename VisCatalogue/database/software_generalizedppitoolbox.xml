@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Generalized PPI Toolbox" nitrc="https://www.nitrc.org/projects/gppi" />
+<description> An automated toolbox for a generalized form of psychophysiological interactions for SPM and FSFAST.&lt;br /&gt;&lt;br /&gt;The automated toolbox can do the following:&lt;br /&gt;(a1) produce identical results to the current implementation in SPM&lt;br /&gt;(a2) use the current implementation of PPI in SPM but using the regional mean instead of the eigenvariate&lt;br /&gt;(a3) uses a generalized form that allows a PPI for each task to be in the same model using either the regional mean of eigenvariate&lt;br /&gt;(b) creates the model using the output of one of the (a) options and the first level design&lt;br /&gt;(c) estimates the model (/results directory)&lt;br /&gt;(d) computes the contrasts specified&lt;br /&gt;&lt;br /&gt;When using the toolbox, please cite the following paper:&lt;br /&gt;McLaren, DG, Ries, ML, Xu, G, Johnson, SC. A Generalized Form of Context-Dependent Psychophysiological Interactions (gPPI): A Comparison to Standard Approaches. NeuroImage (in press). </description>
+<license>Personal License</license>
+<release>Mar 7, 2011</release>
+<homepage>http://www.nitrc.org/projects/gppi/</homepage>
+<maintainer>University of Wisconsin Madison</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

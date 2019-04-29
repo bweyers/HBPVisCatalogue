@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="NeuroSynth" nitrc="https://www.nitrc.org/projects/neurosynth" />
+<description> The NeuroSynth framework includes software tools for automated extraction and synthesis of data from published functional neuroimaging studies, a series of datasets generated using these tools, and a website ( &lt;a href=&quot;http://neurosynth.org&quot; target=&quot;_new&quot;&gt;http://neurosynth.org&lt;/a&gt; ) for visualizing and accessing many of the tools and results. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=508&amp;screenshot_id=503&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=508&amp;screenshot_id=503&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Open Software License 3.0</license>
+<category>Database</category>
+<category>Knowledge Environment</category>
+<category>Websites</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 11, 2011</release>
+<homepage>http://neurosynth.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

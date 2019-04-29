@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="ERPwavelab" nitrc="https://www.nitrc.org/projects/erpwavelab" />
+<description> The open source toolbox &#x27;ERPWAVELAB&#x27; is developed for multi-channel time- frequency analysis of event related activity of EEG and MEG data. The toolbox provides tools for data analysis and visualization of the most commonly used mea- sures of time-frequency transformed event related data as well as data decomposition through non-negative matrix and multi-way (tensor) factorization. The decomposi- tions provided can accommodate additional dimensions like subjects, conditions or repeats and as such they are perfected for group analysis. Furthermore, the toolbox enables tracking of phase locked activity from one channel-time-frequency instance to another as well as tools for artifact rejection in the time-frequency domain. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=878&amp;screenshot_id=848&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=878&amp;screenshot_id=848&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Fourier Time-domain Analysis</category>
+<category>Temporal Wavelet Analysis</category>
+<category>Event Related Potential</category>
+<release>Sep 23, 2014</release>
+<homepage>http://www.erpwavelab.org/</homepage>
+<maintainer>Technical University of Denmark</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

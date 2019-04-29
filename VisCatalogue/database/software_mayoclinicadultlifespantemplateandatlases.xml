@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Mayo Clinic Adult Lifespan Template and Atlases" nitrc="https://www.nitrc.org/projects/mcalt" />
+<description> The Mayo Clinic Adult Lifespan Template and its associated atlases were constructed and made publicly available to provide a template suitable for the analysis needs of aging and Alzheimer’s Disease population studies. Population-matched templates are known to allow more accurate quantitative MRI analysis, but most MRI standard templates are generated from scans of younger individuals. Unlike these, the MCALT is designed for analysis of MRI of adult subjects age 30+. MCALT was designed for use with SPM12 and integrates easily into its workflows, but is not specific to SPM12 and may be used easily with other segmentation software. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1189&amp;screenshot_id=1109&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1189&amp;screenshot_id=1109&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Mixed: CC-by-NC-SA and GPL (MCALT)</license>
+<category>Atlas Data</category>
+<category>Other Software Resource</category>
+<platform>OS Independent</platform>
+<release>Jun 28, 2017</release>
+<homepage>http://www.nitrc.org/projects/mcalt/</homepage>
+<maintainer>Mayo Clinic</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

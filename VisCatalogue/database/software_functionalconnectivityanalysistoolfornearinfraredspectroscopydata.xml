@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Functional Connectivity Analysis Tool for near-infrared spectroscopy data" nitrc="https://www.nitrc.org/projects/fcnirs" />
+<description> FC-NIRS is a Functional Connectivity Analysis Tool for near-infrared spectroscopy dataThe package’s functions include preprocessing, quality control, FC calculation and network analysis. </description>
+<license>BSD License</license>
+<release>Sep 25, 2014</release>
+<homepage>http://www.nitrc.org/projects/fcnirs/</homepage>
+<maintainer>Beijing Normal University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

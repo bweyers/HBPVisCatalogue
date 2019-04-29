@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Intrinsic Unscented Kalman Filter (IUKF) Tractography Software v1.0" nitrc="https://www.nitrc.org/projects/iukf_2013" />
+<description> Intrinsic Unscented Kalman Filter (IUKF) is a recently introduced tractography algorithm for HARDI. IUKF provides a relatively accurate and efficient fiber tracking mechanism, compared to most existing tractography methods. Following are the key features of IUKF:&lt;br /&gt;• Given HARDI data sets, it is capable of tracking in the presence of complex local geometries such as crossing and kissing fibers.&lt;br /&gt;• Unlike many existing techniques, IUKF does not require one to reconstruct the multi-tensor field a priori, because reconstruction is only performed at the voxels along estimated fibers. This significantly increases the tracking speed.&lt;br /&gt;• IUKF reconstructs a bi-tensor model for underlying signal and exploits intrinsic operations on the space of diffusion tensors (symmetric positive definite matrices). This will provide more accurate and smooth estimates of the underlying signal and the fiber orientations compared to its non-intrinsic counterparts. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=785&amp;screenshot_id=711&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=785&amp;screenshot_id=711&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Non-Commercial Software License Agreement</license>
+<platform>OS Independent</platform>
+<release>Jan 1, 2014</release>
+<homepage>http://www.nitrc.org/projects/iukf_2013/</homepage>
+<maintainer>University of Florida</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

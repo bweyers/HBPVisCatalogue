@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="PySurfer" nitrc="https://www.nitrc.org/projects/pysurfer" />
+<description> PySurfer is a Python based program for visualization and interaction with cortical surface representations of neuroimaging data from Freesurfer. It extends Mayavi’s powerful visualization engine with a high-level interface for working with MRI and MEG data. PySurfer offers both a command-line interface designed to broadly replicate Freesurfer’s Tksurfer program as well as a Python library for writing scripts to efficiently explore complex datasets. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=517&amp;screenshot_id=388&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=517&amp;screenshot_id=388&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<release>Jul 26, 2011</release>
+<homepage>http://pysurfer.github.com</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

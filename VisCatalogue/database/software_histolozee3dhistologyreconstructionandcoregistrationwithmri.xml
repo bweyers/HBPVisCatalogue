@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="HistoloZee - 3D histology reconstruction and co-registration with MRI" nitrc="https://www.nitrc.org/projects/historecon" />
+<description> HistoloZee is a tool that integrates histology reconstruction, MRI co-registration, and manual segmentation tools in an easy-to-use and intuitive interface. HistoloZee permits real-time interaction with complex and large (multi-GB) histology datasets during the co-registration steps of histology reconstruction. Please see our website (&lt;a href=&quot;http://picsl.upenn.edu/software/histolozee/&quot; target=&quot;_new&quot;&gt;http://picsl.upenn.edu/software/histoloz...&lt;/a&gt;) and the series of tutorial videos on YouTube: &lt;a href=&quot;https://www.youtube.com/playlist?list=PL68v8FP_IVlg2tCgJXrsO3UHve1q9wLjI&quot; target=&quot;_new&quot;&gt;https://www.youtube.com/playlist?list=PL...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;HistoloZee was developed by Daniel Adler and Paul Yushkevich. The current release of HistoloZee (v.03) runs only under Mac OS X, version 10.7 or later. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1028&amp;screenshot_id=977&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1028&amp;screenshot_id=977&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>End-User License Agreement for HistoloZee</license>
+<category>Manual</category>
+<category>Intermodal</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Mar 23, 2016</release>
+<homepage>http://picsl.upenn.edu/software/histolozee/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

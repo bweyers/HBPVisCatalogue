@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Scalable Brain Atlas" nitrc="https://www.nitrc.org/projects/sba" />
+<description> The INCF Scalable Brain Atlas (scalablebrainatlas.incf.org) is a web-based, interactive brain atlas viewer, containing a growing number of atlas templates for various species, including mouse, rat, macaque, marmoset, ferret and human. Standard features include fast brain region lookup, point and click to select a region and view its full 3D extent, mark a stereotaxic coordinate and view all regions in a hierarchy. Built-in extensions are the CoCoMac plugin to display Macaque connectivity, and a service to search for similar brain regions in other atlases or species. &lt;br /&gt;&lt;br /&gt;The SBA is designed to be customizable. External users can create plugins, hosted on their own servers, to interactively attach images or data to spatial atlas locations.&lt;br /&gt;&lt;br /&gt;In 2018, a new web-based application &#x27;Scalable Brain Composer&#x27; is added, to display volumetric data and transparent meshes of brain regions together in 3D. Users can import their own data into this service to see how it fits within the atlas. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=434&amp;screenshot_id=317&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=434&amp;screenshot_id=317&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Atlas Data</category>
+<category>Atlas Application</category>
+<category>Tractography</category>
+<category>Three Dimensional Display</category>
+<platform>OS Independent</platform>
+<release>Jan 10, 2011</release>
+<homepage>http://scalablebrainatlas.incf.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

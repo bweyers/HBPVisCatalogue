@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="COGNISION (TM) System" nitrc="https://www.nitrc.org/projects/neuronetrix" />
+<description> COGNISION TM with auditory or visual event-related potential (ERP) technology, provides a direct physiologic measure of patients&#x27; cognitive processing (i.e., a &amp;quot;cognitive biomarker&amp;quot;). COGNISION is a portable, highly integrated, internet-enabled, hardware/software platform and patient management system, which includes an online Patient Manager module which complies with the HIPAA Final Security Rule, an ERP Viewer module to view and analyze raw and average ERP waves, and a Protocol Editor module to simplify the choice and administration of selected ERP protocols. It is also easy to train and administer with non-specialized personnel, and is designed to be used in an out-patient setting. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=591&amp;screenshot_id=493&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=591&amp;screenshot_id=493&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>Event-Related Potentials</category>
+<category>Other Software Resource</category>
+<release>Apr 2, 2012</release>
+<homepage>http://neuronetrix.com/</homepage>
+<maintainer>Neuronetrix</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

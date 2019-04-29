@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="wANNOVAR" nitrc="https://www.nitrc.org/projects/wannovar" />
+<description> ANNOVAR is a rapid, efficient tool to annotate functional consequences of genetic variation from high-throughput sequencing data. wANNOVAR provides easy and intuitive web-based access to the most popular functionalities of the ANNOVAR software. </description>
+<license>wANNOVAR Terms of Use</license>
+<category>Genomic Analysis</category>
+<release>May 13, 2018</release>
+<homepage>http://www.nitrc.org/projects/wannovar/</homepage>
+<maintainer>Children's Hospital of Philadelphia</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Functional Regression Analysis of DTI" nitrc="https://www.nitrc.org/projects/frats" />
+<description> Functional Regression Analysis of DTI Tract Statistics (FRATS), for the analysis of multiple diffusion properties along fiber bundle as functions in an infinite dimensional space and their association with a set of covariates of interest, such as age, diagnostic status and gender, in real applications. The resulting analysis pipeline can be used for understanding normal brain development, the neural bases of neuropsychiatric disorders, and the joint effects of environmental and genetic factors on white matter fiber bundles. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>Jan 22, 2011</release>
+<homepage>http://www.nitrc.org/projects/frats/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

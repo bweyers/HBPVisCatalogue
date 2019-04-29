@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="GIFTI" nitrc="https://www.nitrc.org/projects/gifti" />
+<description> Geometry format under the Neuroimaging Informatics Technology Initiative (NIfTI). </description>
+<category>Other Information Resource</category>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<release>Nov 14, 2007</release>
+<homepage>http://www.nitrc.org/projects/gifti/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

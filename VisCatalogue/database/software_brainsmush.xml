@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="BRAINSMush" nitrc="https://www.nitrc.org/projects/brainsmush" />
+<description> NOTE: All active development of BRAINSMush is now being stored in a Git repository at github.com. Please go to&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/BRAINSia/BRAINSTools&quot; target=&quot;_new&quot;&gt;https://github.com/BRAINSia/BRAINSTools&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Tool to generate brain volume mask from input of T1 and T2-weighted images alongside a region of interest brain mask. This volume mask omits dura, skull, eyes, etc. The program is built upon ITK and uses the Slicer3 execution model framework to define the command line arguments and can be fully integrated with Slicer3 using the module discovery capabilities of Slicer3. </description>
+<license>BSD License</license>
+<category>Segmentation</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Nov 26, 2008</release>
+<homepage>http://www.nitrc.org/projects/brainsmush/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

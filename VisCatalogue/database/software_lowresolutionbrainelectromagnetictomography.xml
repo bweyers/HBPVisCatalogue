@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Low Resolution Brain Electromagnetic Tomography" nitrc="https://www.nitrc.org/projects/loreta" />
+<description> Non-invasive scalp measurements of electric potentials (EEG) [as well as magnetic fields (MEG)] can be used for estimating the electric neuronal activity distribution (current density vector field) on the cortex. The methods used here are LORETA, standardized LORETA (sLORETA), and exact LORETA (eLORETA).&lt;br /&gt;Time series of cortical electric neuronal activity computed with LORETA can be used for estimating intracortical functional and effective connectivity. A collection of new methods are included here, especially well-suited for signals from these tomographies:&lt;br /&gt;1. Lagged coherence and lagged phase synchronization.&lt;br /&gt;2. Dynamic intracortical connectivity in terms of senders, hubs, and receivers.&lt;br /&gt;3. Partial coherence fields.&lt;br /&gt;4. Isolated effective coherence.&lt;br /&gt;5. Functional ICA (in the sense of functional data analysis) for discovering generalized functional connectivity across space, frequency, and time. &lt;br /&gt;All these methods and much more are programmed and available in the alpha LORETA-KEY software package. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=475&amp;screenshot_id=802&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=475&amp;screenshot_id=802&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>EEG Modeling</category>
+<release>Apr 3, 2011</release>
+<homepage>http://www.nitrc.org/projects/loreta/</homepage>
+<maintainer>The KEY Institute for Brain-Mind Research</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

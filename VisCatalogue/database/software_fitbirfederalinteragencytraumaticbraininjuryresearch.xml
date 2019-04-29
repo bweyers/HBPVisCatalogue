@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="FITBIR: Federal Interagency Traumatic Brain Injury Research" nitrc="https://www.nitrc.org/projects/fitbir" />
+<description> The Federal Interagency Traumatic Brain Injury Research (FITBIR) informatics system was developed to share data across the entire TBI research field and to facilitate collaboration between laboratories, as well as interconnectivity with other informatics platforms. Sharing data, methodologies, and associated tools, rather than summaries or interpretations of this information, can accelerate research progress by allowing re-analysis of data, as well as re-aggregation, integration, and rigorous comparison with other data, tools, and methods. This community-wide sharing requires common data definitions and standards, as well as comprehensive and coherent informatics approaches. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=674&amp;screenshot_id=602&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=674&amp;screenshot_id=602&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>NIH Data Access Policy</license>
+<category>Data</category>
+<category>Database</category>
+<category>Knowledge Environment</category>
+<category>Web Resource</category>
+<platform>OS Independent</platform>
+<release>Jan 8, 2013</release>
+<homepage>http://fitbir.nih.gov/</homepage>
+<maintainer>National Institutes of Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="BASH4RfMRI" nitrc="https://www.nitrc.org/projects/bash-rs-fcmri" />
+<description> BASH Scripts for a resting-state functional MRI study. The functions include seed-based correlation analysis, amplitude analysis and independent component analysis. Note: this tool is just a plug-in for FSL, AFNI and FreeSurfer. Thus, you need have them before you use BASH4RfMRI. Of note: most functions have been integrated in 1000 Functional Connectomes Project (www.nitrc.org/projects/fcon_1000). I do not update this package, thus please visit 1000 Functional Connectomes Project site and download relevant bash scripts. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Information Theory</category>
+<category>Multivariate Analysis</category>
+<category>Spectral Analysis</category>
+<category>Correlation</category>
+<category>Platform or Development Environment</category>
+<platform>POSIX/UNIX-like</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 26, 2008</release>
+<homepage>http://www.nitrc.org/projects/bash4rfmri/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

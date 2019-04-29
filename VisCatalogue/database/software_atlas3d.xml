@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Atlas3D" nitrc="https://www.nitrc.org/projects/atlas3d" />
+<description> Multiplatform 3D visualization tool which allows import, linear transformation, cutting and export of various data formats in 3D atlas space. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<release>Jan 17, 2017</release>
+<homepage>http://www.nitrc.org/projects/atlas3d/</homepage>
+<maintainer>University of Oslo</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

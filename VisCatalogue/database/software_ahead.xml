@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="AHEAD" nitrc="https://www.nitrc.org/projects/ahead" />
+<description> Automatic Hippocampal Estimator using Atlas-based Delineation (AHEAD) is an open-source turnkey software for automatic hippocampus segmentation. Its primary use is for delineating hippocampus in T1-weighted MRI images. AHEAD is developed by Jung W. Suh, Hongzhi Wang, Sandhitsu Das, Brian Avants, Philip Cook, John Pluta and Paul Yushkevich, and colleagues at the Penn Image Computing and Science Laboratory (PICSL) at the University of Pennsylvania. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Volume Measurement</category>
+<category>Anatomic</category>
+<platform>Cygwin</platform>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jan 24, 2011</release>
+<homepage>http://www.nitrc.org/projects/ahead/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

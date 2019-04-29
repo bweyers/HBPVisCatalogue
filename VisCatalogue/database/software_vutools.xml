@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="vuTools" nitrc="https://www.nitrc.org/projects/vutools" />
+<description> This site provides access to the VUIIS Image and Data Analysis Core&#x27;s data processing tools written for MATLAB. These tools are written for ease of use from within MATLAB. Unless stated otherwise, each of the tools is capable of processing 2D/3D images (matrices). </description>
+<license>BSD/MIT-Style Open Source License</license>
+<release>Oct 28, 2010</release>
+<homepage>http://www.nitrc.org/projects/vutools/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

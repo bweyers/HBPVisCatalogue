@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="MindSeer" nitrc="https://www.nitrc.org/projects/mindseer" />
+<description> MindSeer is a cross-platform application for 3D brain visualization. It is written in Java/Java3D, and runs in both standalone and client-server mode. Click on the MindSeer Project Page for downloads, tutorials, source code, demos and a publication. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Apr 6, 2009</release>
+<homepage>http://www.nitrc.org/projects/mindseer/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

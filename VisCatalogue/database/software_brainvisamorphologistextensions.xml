@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="BrainVisa Morphologist extensions" nitrc="https://www.nitrc.org/projects/brainvisa_ext" />
+<description> BrainVisa Morphologist is collaborative BrainVisa extension library that provides computational tools for performing Object Based Morphology measurements to assess groupwise differences and track morphological changes to study aging, development, neurological and neurodegenerative disorders and genetic factors that affect them. This library includes source codes and methods for computation of regional GM thickness (multi-threaded and single thread), 3D gyrification index, sulcal lenght and depth and sulcal span and gyral white matter span.&lt;br /&gt;These tools are distributed as plugins for a popular analysis package BrainVisa 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=127&amp;screenshot_id=135&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=127&amp;screenshot_id=135&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Artistic License</license>
+<category>Morphology</category>
+<category>Shape Analysis</category>
+<category>Image Display</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 25, 2008</release>
+<homepage>http://www.nitrc.org/projects/brainvisa_ext/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

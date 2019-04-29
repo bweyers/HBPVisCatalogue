@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="Mindboggle-101 manually labeled brains" nitrc="https://www.nitrc.org/projects/mindboggle101" />
+<description> Mindboggle-101 is the largest and most complete set of free, publicly accessible, manually labeled human brain images. See &lt;a href=&quot;http://mindboggle.info/data.html&quot; target=&quot;_new&quot;&gt;http://mindboggle.info/data.html&lt;/a&gt; for data and article: &lt;a href=&quot;http://www.frontiersin.org/brain_imaging_methods/10.3389/fnins.2012.00171/full&quot; target=&quot;_new&quot;&gt;http://www.frontiersin.org/brain_imaging...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;All data are accessible on the Open Science Framework: &lt;a href=&quot;https://osf.io/nhtur/&quot; target=&quot;_new&quot;&gt;https://osf.io/nhtur/&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=667&amp;screenshot_id=590&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=667&amp;screenshot_id=590&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<category>Data Resource</category>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Dec 4, 2012</release>
+<homepage>http://www.mindboggle.info/data.html</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

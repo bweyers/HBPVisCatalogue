@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="Human Imaging Database (HID)" nitrc="https://www.nitrc.org/projects/hid" />
+<description> The Human Imaging Database (HID) is an extensible database management system developed to handle the increasingly large and diverse datasets collected as part of the MBIRN and FBIRN collaboratories and throughout clinical imaging communities at large. </description>
+<license>BSD License</license>
+<category>Data</category>
+<category>Database</category>
+<category>Other Web Resource</category>
+<category>Other</category>
+<category>Database Application</category>
+<category>Workflow</category>
+<category>Other Software Resource</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jan 8, 2008</release>
+<homepage>http://nbirn.net/research/function/hid.shtm</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

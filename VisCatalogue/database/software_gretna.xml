@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="GRETNA" nitrc="https://www.nitrc.org/projects/gretna" />
+<description> GRETNA is a graph theoretical network analysis toolbox which allows researchers to perform comprehensive analysis on the topology of brain connectome by integrating the most of network measures studied in current neuroscience field. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 12, 2012</release>
+<homepage>http://www.nitrc.org/projects/gretna/</homepage>
+<maintainer>Beijing Normal University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

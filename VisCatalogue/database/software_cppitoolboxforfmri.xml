@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="cPPI Toolbox for fMRI" nitrc="https://www.nitrc.org/projects/cppi_toolbox" />
+<description> This is a Matlab toolbox that allows computation of task-related functional connectivity between multiple pairs of regions. &lt;br /&gt;&lt;br /&gt;Task-related functional connectivity is computed using the correlational psychophysiological interaction (cPPI) methodology described in Fornito et al. (2012) PNAS, 109: 12788-12793.&lt;br /&gt;&lt;br /&gt;The toolbox assumes that first-level design matrices have been specified and estimated using SPM5 or later.&lt;br /&gt;&lt;br /&gt;It takes as input these design matrices as well as user-extracted regional time courses and returns a matrix of pair-wise, task-related functional connectivity for each participant. The method is scalable to large networks comprising hundreds of regions and is well-suited to graph theoretic analyses and functional connectomics.&lt;br /&gt;&lt;br /&gt;One modifiable script, cPPI_master.m, can be used to run the analysis for an entire sample of participants. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Connectivity Analysis</category>
+<platform>OS Independent</platform>
+<release>Aug 25, 2013</release>
+<homepage>http://www.nitrc.org/projects/cppi_toolbox/</homepage>
+<maintainer>Monash Clinical and Imaging Neuroscience</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

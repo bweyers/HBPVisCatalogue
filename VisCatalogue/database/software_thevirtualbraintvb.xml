@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="The Virtual Brain (TVB)" nitrc="https://www.nitrc.org/projects/tvb" />
+<description> TVB allows the reproduction and evaluation of personalized configurations of the brain by using individual subject data. This personalization facilitates an exploration of the consequences of pathological changes in the system, permitting to investigate potential ways to counteract such unfavourable processes. The architecture supports interaction with MATLAB/octave packages, for example, the well known Brain Connectivity Toolbox. TVB can be used in a client-server configuration, such that it can be remotely accessed through the Internet thanks to its web-based HTML5, JS and WebGL graphical user interface. TVB is also accessible as a standalone cross-platform Python library and application, and users can interact with the scientific core through the scripting interface using IPython Notebook, enabling easy modelling, development and debugging of the scientific kernel. This second interface makes TVB extensible by combining it with other libraries and modules developed by the Python scientific community. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=855&amp;screenshot_id=833&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=855&amp;screenshot_id=833&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Modeling</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>cff (Connectome File Format)</input>
+<output>cff (Connectome File Format)</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Aug 11, 2014</release>
+<homepage>http://www.thevirtualbrain.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Philadelphia Neurodevelopmental Cohort (PNC)" nitrc="https://www.nitrc.org/projects/pnc" />
+<description> The Philadelphia Neurodevelopmental Cohort (PNC) initiative focuses on characterizing brain and behavior interaction with genetics. This is a collaborative research effort between the Brain Behavior Laboratory at the University of Pennsylvania and the Center for Applied Genomics at the Children’s Hospital of Philadelphia.&lt;br /&gt;&lt;br /&gt;The PNC includes a population-based sample of over 9500 individuals from the greater Philadelphia area, ages 8-21 years who received medical care at the CHOP network. The participants presented for diverse medical conditions, ranging from a well child visit and minor problems to chronic condition management to potentially life threatening health problems. Participants were genotyped during the time of their clinical visit and provided written permission to be recontacted for studies of complex pediatric disorders. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1220&amp;screenshot_id=1136&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1220&amp;screenshot_id=1136&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Data</category>
+<release>Oct 1, 2017</release>
+<homepage>http://www.med.upenn.edu/bbl/philadelphianeurodevelopmentalcohort.html</homepage>
+<maintainer>University of Phillidelphia</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

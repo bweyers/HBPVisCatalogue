@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CDF-HC PointSetReg" nitrc="https://www.nitrc.org/projects/cdfhc2010" />
+<description> This is a Matlab demo for group wise point set registration using a novel CDF-based Havrda-Charvat Divergence, which is based on the paper: &lt;br /&gt;Ting Chen, Baba C. Vemuri, Anand Rangarajan and Stephan J. Eisenschenk, Group-wise Point-set registration using a novel CDF-based Havrda-Charvat Divergence. In IJCV : International Journal of Computer Vision, 86(1):111-124, January, 2010. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Jul 8, 2012</release>
+<homepage>http://www.cise.ufl.edu/~tichen/cdfHC.zip</homepage>
+<maintainer>University of Florida</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Pipeline system for Octave and Matlab" nitrc="https://www.nitrc.org/projects/psom" />
+<description> The pipeline system for Octave and Matlab (PSOM) is a lightweight library to manage complex multi-stage data processing. A pipeline is a collection of jobs, i.e. Matlab or Octave codes that are using files for inputs and outputs, described in the form of a simple Matlab/Octave structure. &lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;http://psom.simexp-lab.org&quot; target=&quot;_new&quot;&gt;http://psom.simexp-lab.org&lt;/a&gt; for more info. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=316&amp;screenshot_id=522&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=316&amp;screenshot_id=522&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT/X Consortium License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<release>Dec 19, 2009</release>
+<homepage>http://simexp.github.io/psom/</homepage>
+<maintainer>University of Montreal</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

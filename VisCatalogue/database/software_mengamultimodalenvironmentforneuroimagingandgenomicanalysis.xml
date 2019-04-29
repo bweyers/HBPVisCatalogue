@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="MENGA: Multimodal Environment for Neuroimaging and Genomic Analysis" nitrc="https://www.nitrc.org/projects/menga" />
+<description> MENGA is a platform for the integration of imaging data and Allen Human Brain Atlas mRNA data. MENGA aims to provide a comprehensive environment to investigate correlation patterns between various imaging modalities and gene expression profiles based on the Allen Brain Atlas.&lt;br /&gt;&lt;br /&gt;The project comes from a collaboration between the Department of Information Engineering (DEI), University of Padova with the Institute of Psychiatry, Psychology and Neuroscience (IoPPN), King’s College, London (UK).&lt;br /&gt;&lt;br /&gt;For any enquiries, please contact Gaia Rizzo, Mattia Veronese or Paul Expert.&lt;br /&gt;&lt;br /&gt;Software: &lt;a href=&quot;http://fair.dei.unipd.it/require-software/&quot; target=&quot;_new&quot;&gt;http://fair.dei.unipd.it/require-softwar...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;We have now published the reference paper of MENGA on PlosOne, in which all the aspects of the software and its functionalities are described in details: &lt;a href=&quot;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148744&quot; target=&quot;_new&quot;&gt;http://journals.plos.org/plosone/article...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1000&amp;screenshot_id=967&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1000&amp;screenshot_id=967&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution</license>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jan 13, 2016</release>
+<homepage>http://fair.dei.unipd.it/software/</homepage>
+<maintainer>Partnership University of Padova / King’s College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

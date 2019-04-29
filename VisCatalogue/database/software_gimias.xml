@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="GIMIAS" nitrc="https://www.nitrc.org/projects/gimias_fw" />
+<description> GIMIAS is a workflow-oriented environment focused on biomedical image computing and simulation. The open source framework is extensible through plug-ins and is focused on building research and clinical software prototypes. Gimias has been used to develop clinical prototypes in the fields of cardiac imaging and simulation, angiography imaging and simulation, and neurology. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=410&amp;screenshot_id=285&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=410&amp;screenshot_id=285&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Application</category>
+<category>Platform or Development Environment</category>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 19, 2010</release>
+<homepage>http://www.gimias.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

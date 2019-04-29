@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Gradient Non-linearity Unwarping Tool" nitrc="https://www.nitrc.org/projects/grad_unwarp" />
+<description> The Brain Morphometry testbed of the BIRN provides a tool to correct gradient non-linearity distortions in MR structural images. This correction improves test-retest reproducibility crucial for multi-site studies. </description>
+<license>BIRN License</license>
+<category>Artifact Removal</category>
+<platform>Linux</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 21, 2008</release>
+<homepage>http://nbirn.net/tools/gradient_non_linearity/index.shtm</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

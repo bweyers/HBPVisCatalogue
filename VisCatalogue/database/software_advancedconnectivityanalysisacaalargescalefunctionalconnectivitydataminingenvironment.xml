@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Advanced Connectivity Analysis (ACA): a large scale functional connectivity data mining environment" nitrc="https://www.nitrc.org/projects/aca_rc" />
+<description> Using resting-state functional magnetic resonance imaging (rs-fMRI) to study functional connectivity is of great importance to understand normal development and function as well as a host of neurological and psychiatric disorders. Seed-based analysis is one of the most widely used rs-fMRI analysis methods. Here we describe a freely available large scale functional connectivity data mining software package called Advanced Connectivity Analysis (ACA). ACA enables large-scale seed-based analysis and brain-behavior analysis. It can seamlessly examine a large number of seed regions with minimal user input. ACA has a brain-behavior analysis component to delineate associations among imaging biomarkers and one or more behavioral variables. </description>
+<license>GNU GPL v2</license>
+<release>Jul 22, 2015</release>
+<homepage>http://www.nitrc.org/projects/aca_rc/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

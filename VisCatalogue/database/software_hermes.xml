@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="HERMES" nitrc="https://www.nitrc.org/projects/hermes" />
+<description> Here we present HERMES (&lt;a href=&quot;http://hermes.ctb.upm.es&quot; target=&quot;_new&quot;&gt;http://hermes.ctb.upm.es&lt;/a&gt;), a toolbox for the Matlab® environment, which is designed to study functional and effective brain connectivity from neurophysiological data such as multivariate EEG and/or MEG records. It includes also visualization tools and statistical methods to address the problem of multiple comparisons. We believe that this toolbox will be very helpful to all the researchers working in the emerging field of brain connectivity analysis. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=722&amp;screenshot_id=649&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=722&amp;screenshot_id=649&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Directed Transfer Analysis</category>
+<category>Granger Causality</category>
+<category>Partial Directed Coherence</category>
+<category>Transfer Entropy Analysis</category>
+<category>Information Theory</category>
+<release>May 28, 2013</release>
+<homepage>http://hermes.ctb.upm.es/</homepage>
+<maintainer>Technical University of Madrid (UPM)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

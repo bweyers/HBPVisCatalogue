@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="E-Prime Extensions for fMRI" nitrc="https://www.nitrc.org/projects/eefmri" />
+<description> E-Prime® Extensions for fMRI (EEfMRI) software is designed to optimize E-Prime® experiments for fMRI research. EEfMRI allows you to synchronize the start of your experiment with the first scanner trigger pulse along with several valuable features to enhance the control you have over your experiment. Implementing EEfMRI into your current experiments is achieved by simply dragging and dropping the correct EEfMRI package calls into the E-Prime® experiment in the appropriate places. EEfMRI is designed to integrate with other PST hardware and software to increase usability for researchers while maintaining the millisecond accuracy of E-Prime®. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=245&amp;screenshot_id=1090&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=245&amp;screenshot_id=1090&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>E-Prime Extensions for fMRI</license>
+<category>Experimental Control</category>
+<platform>Windows Vista</platform>
+<platform>Windows XP</platform>
+<release>Jul 7, 2009</release>
+<homepage>https://pstnet.com/products/e-prime-extensions-for-fmri/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

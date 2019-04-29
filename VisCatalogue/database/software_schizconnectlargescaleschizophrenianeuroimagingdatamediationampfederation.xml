@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="SchizConnect: Large-Scale Schizophrenia Neuroimaging Data Mediation &amp; Federation" nitrc="https://www.nitrc.org/projects/schizconnect" />
+<description> Large-scale data sharing and integration is needed to further the state-of-the-art schizophrenia research, but is presently not possible due to practical limitations in the way in which data are being shared. SchizConnect is a data mediation and integration resource to overcome these limitations in a low-cost manner and deliver a web portal to interact with the federated databases. Access SchizConnect at &lt;a href=&quot;http://schizconnect.org.&quot; target=&quot;_new&quot;&gt;http://schizconnect.org.&lt;/a&gt;</description>
+<license>SchizConnect</license>
+<category>Data</category>
+<category>Database</category>
+<category>Other Data Resource</category>
+<category>Websites</category>
+<category>Database Application</category>
+<release>Nov 19, 2014</release>
+<homepage>http://www.schizconnect.org/</homepage>
+<maintainer>Northwestern University Feinberg School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

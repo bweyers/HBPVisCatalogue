@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="ProbabilisticBiasCorrection" nitrc="https://www.nitrc.org/projects/probbiascor" />
+<description> A multichannel capable tool for probabilistic inhomogeneity correction implemented as both a standalone command line tool and a Slicer3 module. </description>
+<license>3D Slicer License</license>
+<release>Jan 7, 2009</release>
+<homepage>http://www.nitrc.org/projects/probbiascor/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

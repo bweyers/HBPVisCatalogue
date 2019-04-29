@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="COINS" nitrc="https://www.nitrc.org/projects/coins" />
+<description> As neuroimaging research continues to grow, dynamic neuroinformatics systems are necessary to store, retrieve, mine and share the massive amounts of data. The Collaborative Informatics and Neuroimaging Suite (COINS) has been created to facilitate communication and cultivate a data community. This web-based neuroimaging and neuropsychology software suite offers versatile, automatable data upload/import/entry options, rapid and secure sharing of data among PIs, querying and export all data, real-time reporting, and HIPAA and IRB compliant study-management tools suitable to large institutions as well as smaller scale neuroscience and neuropsychology researchers.&lt;br /&gt; &lt;br /&gt;COINS manages over 180 studies and their data at the Mind Research Network, the Nathan Kline Institute, University of Colorado – Boulder, the Olin Neuropsychiatry Research Center @ Hartford Hospital, and other sites. Please click on COINS website on the left menu to visit our promotional site with a Live Demo! 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=595&amp;screenshot_id=985&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=595&amp;screenshot_id=985&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Database Application</category>
+<release>Apr 9, 2012</release>
+<homepage>http://www.nitrc.org/projects/coins/</homepage>
+<maintainer>The Mind Research Network</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

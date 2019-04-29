@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="SPIKECOR: fMRI tool for automated correction of head motion spikes" nitrc="https://www.nitrc.org/projects/spikecor_fmri" />
+<description> This algorithm corrects for &amp;quot;spikes&amp;quot; in fMRI data, typically caused by abrupt head motion during scanning. SPIKECOR identifies outliers using Principal Component Analysis (PCA) in a sliding time-window; it is sensitive to global motion artifact, and stable against non-stationary signal changes.&lt;br /&gt;Unlike typical &amp;quot;scrubbing&amp;quot; protocols it is automated, and identifies motion outliers using purely statistical criteria - no need to select arbitrary motion thresholds! It also replaces outlier volumes with interpolated values using cubic splines, which minimizes discontinuities in the data. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 27, 2013</release>
+<homepage>http://www.nitrc.org/projects/spikecor_fmri/</homepage>
+<maintainer>Rotman Research Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

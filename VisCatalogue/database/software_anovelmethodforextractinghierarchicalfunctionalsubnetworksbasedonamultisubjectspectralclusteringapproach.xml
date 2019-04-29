@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="A novel method for extracting hierarchical functional subnetworks based on a multi-subject spectral clustering approach" nitrc="https://www.nitrc.org/projects/gnethiclus" />
+<description> Group-level Network Hierarchical Clustering (GNetHiClus) is a software toolbox that can be used to extract hierarchical brain network modules at group level. The software: (1) reads connectivity matrices from a group of subjects; (2) subsamples data to obtain subgroups; (3) extracts hierarchical brain subnetworks; (4) uses bootstrap method to estimate the most reliable subnetworks.&lt;br /&gt;The method is described in the following paper:&lt;br /&gt;Xiaoyun Liang, Chun-Hung Yeh, Alan Connelly, Fernando Calamante. A novel method for extracting hierarchical functional subnetworks based on a multi-subject spectral clustering approach. Brain Connectivity, 03/2019; DOI: 10.1089/brain.2019.0668. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1362&amp;screenshot_id=1261&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1362&amp;screenshot_id=1261&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Apr 9</release>
+<homepage>http://www.nitrc.org/projects/gnethiclus/</homepage>
+<maintainer>Florey Institute of Neuroscience and Mental Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

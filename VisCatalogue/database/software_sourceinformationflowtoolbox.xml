@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Source Information Flow Toolbox" nitrc="https://www.nitrc.org/projects/sift" />
+<description> The Source Information Flow Toolbox (SIFT) is an GUI-enabled EEGLAB plugin for modeling and visualizing dynamical interactions between electrophysiological signals (EEG, ECoG, MEG, etc), preferably after transforming signals into the source domain. The toolbox consists of four modules: (1) Data Preprocessing, (2) Model Fitting and Connectivity Estimation, (3) Statistical Analysis, (4) Visualization, with a fifth Group Analysis module in development. Module 2 currently includes several adaptive multivariate autoregressive modeling (AMVAR) algorithms, including segmentation AMVAR and Kalman filtering. This subsequently allows the user to validate the model and estimate (in the time-frequency domain) a wide range of multivariate Granger-causal and coherence measures published to date. Module 3 includes routines for parametric and non-parametric significance testing. Module 4 contains routines for interactive visualization of dynamical interactions across time, frequency and anatomical source location. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=549&amp;screenshot_id=478&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=549&amp;screenshot_id=478&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Directed Transfer Analysis</category>
+<category>Granger Causality</category>
+<category>Partial Directed Coherence</category>
+<release>Dec 15, 2011</release>
+<homepage>http://sccn.ucsd.edu/wiki/SIFT</homepage>
+<maintainer>University of California, San Diego</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

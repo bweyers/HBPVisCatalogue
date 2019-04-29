@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Functional Real-time Interactive Endogenous Neuromodulation and   Decoding (FRIEND)" nitrc="https://www.nitrc.org/projects/friend" />
+<description> FRIEND is a GUI-based user-friendly software for real-time fMRI processing, multivoxel pattern decoding and neurofeedback. The package integrates routines for image preprocessing in real-time, ROI-based feedback (single-ROI percent signal change and functional connectivity) and brain decoding-based feedback using the FSL and libSVM libraries. Users can create or employ pre-specified visual stimuli for neurofeedback experiments.&lt;br /&gt;The FRIEND for Windows standalone version runs embedded FSL and libSVM functions and provides a simple, straightforward solution. The FRIEND Engine is a multiplatform (Mac/Linux) toolbox that incorporates the same processing capabilities, but in which the front-end is separated from the processing module allowing users to develop their own front-end GUIs. Advanced users can develop plugins to extend the original pipeline provided by the engine (e.g., Matlab functions for data preprocessing or stimulus presentation features from standard packages such as E-Prime). </description>
+<license>FRIEND License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Application</category>
+<platform>Windows</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 6, 2013</release>
+<homepage>https://github.com/InstitutoDOr/FriendENGINE/blob/master/README.md</homepage>
+<maintainer>D'Or Institute for Research and Education (IDOR)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

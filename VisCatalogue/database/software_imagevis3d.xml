@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="ImageVis3D" nitrc="https://www.nitrc.org/projects/imagevis3d" />
+<description> Note ImageVis3D development is hosted elsewhere -- see &lt;a href=&quot;http://www.imagevis3d.org/&quot; target=&quot;_new&quot;&gt;http://www.imagevis3d.org/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;ImageVis3D is a new volume rendering program developed by the NIH/NCRR Center for Integrative Biomedical Computing (CIBC). The main design goals of ImageVis3D are: simplicity, scalability, and interactivity. Simplicity is achieved with a new user interface that gives an unprecedented level of flexibility (as shown in the images). Scalability and interactivity for ImageVis3D mean that both on a notebook computer as well as on a high end graphics workstation, the user can interactively explore terabyte sized data sets. Finally, the open source nature as well as the strict component-by-component design allow developers not only to extend ImageVis3D itself but also reuse parts of it, such as the rendering core. This rendering core, for instance, is planned to replace the volume rendering subsystems in many applications at the SCI Institute and with our collaborators. </description>
+<license>MIT/X Consortium License</license>
+<release>Mar 28, 2010</release>
+<homepage>http://www.imagevis3d.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

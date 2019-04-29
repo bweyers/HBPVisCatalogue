@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="DT_BOLD_calc" nitrc="https://www.nitrc.org/projects/sigmoidal_dt" />
+<description> matlab script to calculate the sigmoidal delay function of Henson&lt;br /&gt;dx.doi.org/10.1006/nimg.2001.0940&lt;br /&gt;for the SPM.mat and condition specified in the input. Output as images of dt </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>Sep 26, 2017</release>
+<homepage>http://www.nitrc.org/projects/sigmoidal_dt/</homepage>
+<maintainer>Newcastle University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

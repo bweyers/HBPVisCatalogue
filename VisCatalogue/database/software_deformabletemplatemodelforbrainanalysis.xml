@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Deformable Template Model for Brain Analysis" nitrc="https://www.nitrc.org/projects/dtmframework" />
+<description> The objective of the project is to develop computational shape models of brain structures for shape analysis. We develop a deformable template model framework based on “progressive surface deformation” method (Kim et al, IEEE-TMI: 34(6), 2015) to reconstruct target shapes with point-wise correspondence to template models robustly by minimizing the distortion of template models. Our toolbox contains a set of tools for constructing mean images, reconstructing individual surface models, computing average surface and finally computing local deformity. &lt;br /&gt;&lt;br /&gt;This toolbox was developed by KAIST and University of Edinburgh (&lt;a href=&quot;http://cgv.kaist.ac.kr/brain&quot; target=&quot;_new&quot;&gt;http://cgv.kaist.ac.kr/brain&lt;/a&gt;) </description>
+<license>Freeware</license>
+<platform>MacOS</platform>
+<release>Aug 1, 2016</release>
+<homepage>http://www.nitrc.org/projects/dtmframework/</homepage>
+<maintainer>KAIST, University of Edinburgh</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

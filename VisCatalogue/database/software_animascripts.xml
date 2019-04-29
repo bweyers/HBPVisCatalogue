@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Anima scripts" nitrc="https://www.nitrc.org/projects/anima-scripts" />
+<description> Anima scripts is a set of scripts that use the Anima software to perform complex preprocessing and core processing tasks on medical images such as diffusion imaging, atlasing, brain extraction. This repository is multi-platform for most scripts (as long as python is available for your system). </description>
+<license>GNU Affero General Public License v3</license>
+<release>Sep 4, 2018</release>
+<homepage>https://github.com/Inria-Visages/Anima-Scripts-Public</homepage>
+<maintainer>Inria</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

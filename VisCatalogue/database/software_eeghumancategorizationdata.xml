@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="EEG human categorization data" nitrc="https://www.nitrc.org/projects/eegdataanimal" />
+<description> This ressource is a collection of 32-channel data from 14 subjects (7 males, 7 females) acquired using the Neuroscan software. Subjects are performing a go-nogo categorization task and a go-no recognition task on natural photographs presented very briefly (20 ms). Each subject responded to a total of 2500 trials. Data is CZ referenced and is sampled at 1000 Hz (total data size is 4Gb; more details are given later). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=644&amp;screenshot_id=560&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=644&amp;screenshot_id=560&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Data</category>
+<release>Sep 21, 2012</release>
+<homepage>http://www.nitrc.org/projects/eegdatacateg/</homepage>
+<maintainer>Paul Sabatier University, Toulouse</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

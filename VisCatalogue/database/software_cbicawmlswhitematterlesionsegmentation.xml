@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="CBICA: WMLS (White Matter Lesion Segmentation)" nitrc="https://www.nitrc.org/projects/wmls" />
+<description> Brain lesions appear in different brain diseases as well as in normal aging; they can be due to small vessel disease, infarcts, MS, or other reasons. MRI is used as surrogate imaging marker, as MRI signal changes reﬂect certain aspects of brain pathology.Computer algorithms have started to complement expert-readings of MRI as they may improve throughput and consistency, in addition to providing more accurate quantitative measures of lesion type and volume. Computerized segmentation methods can also offer more precise measurements of longitudinal change of a lesion with disease progression or treatment response. &lt;br /&gt; The brain lesion segmentation tool uses image analysis and machine learning techniques (Support Vector Machines). Image intensities from multiple MR acquisition protocols, after coregistration, are used to form a voxel-wise attribute vector which is used to perform the segmentation.&lt;br /&gt; Primary Contact: Christos Davatzikos&lt;br /&gt; Contributors: Zhiqiang Lao ,Dinggang Shen ,Eva Zacharaki,Nick Bryan </description>
+<license>SBIA License</license>
+<release>Dec 29, 2008</release>
+<homepage>http://www.nitrc.org/projects/wmls/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

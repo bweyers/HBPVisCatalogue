@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="HFH_DTI_TLE_TOOLS" nitrc="https://www.nitrc.org/projects/hfh_dti_tle" />
+<description> The shared MATLAB codes contains: &lt;br /&gt;1-Preprocessing Step including: Extraction of DWIs from Dicom images, calculation of tensor and diffusion maps, seed insertion or ROI depiction utility, MATLAB toolbox and instruction for segmentation of brain structures.&lt;br /&gt;2-Uncertainty Analysis of hippocampal volume, FLAIR intensity, and MD; and cingulate and forniceal FA, for Lateralization of temporal lobe epilepsy.&lt;br /&gt;3-DTI-based Response-Driven Modeling of mTLE Laterality using FA in Cingulum, Fornix, and Corpus Callosum.&lt;br /&gt;Please cite the related articles for using the segmentation of Cingulum, Fornix, and Corpus Callosum, uncertainty analysis or DTI-based TLE modeling MATLAB code and its relevant image modalities (DTI, T1, and FLAIR). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1034&amp;screenshot_id=980&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1034&amp;screenshot_id=980&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>HFH_DTI_DATA_TOOLS_License</license>
+<release>Apr 9, 2016</release>
+<homepage>http://www.nitrc.org/projects/HFH_DTI_TLE_TOOLS/</homepage>
+<maintainer>Henry Ford Health System</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

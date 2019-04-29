@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Task Independent Fluctuations Discussion" nitrc="https://www.nitrc.org/projects/fluctuations" />
+<description> The methodology and applications of task independent fluctuation measures including: connectivity maps of fMRI resting state scans, research using EEG/MEG/PET etc, methods to remove non-neural fluctuations, and applications to clinical populations. </description>
+<category>Data Model</category>
+<category>Community</category>
+<category>Web Resource</category>
+<category>Other Software Resource</category>
+<release>Feb 19, 2008</release>
+<homepage>http://www.nitrc.org/projects/fluctuations/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

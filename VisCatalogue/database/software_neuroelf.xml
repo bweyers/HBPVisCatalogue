@@ -1,0 +1,36 @@
+<root>
+<software>
+<name name="NeuroElf" nitrc="https://www.nitrc.org/projects/bvqxtools" />
+<description> NeuroElf is a Matlab-based toolbox initially created for reading, writing, and processing of BrainVoyager (QX) files in Matlab. Some additional routines are available, such as the scripting of preprocessing using SPM or second-level statistics. The toolbox is freely available. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=68&amp;screenshot_id=775&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=68&amp;screenshot_id=775&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Format Conversion</category>
+<category>Statistical Operation</category>
+<category>Time Domain Analysis</category>
+<category>Workflow</category>
+<category>Other Software Resource</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Oct 15, 2007</release>
+<homepage>http://neuroelf.net/</homepage>
+<maintainer>Columbia University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="SR Research EyeLink Eye Trackers" nitrc="https://www.nitrc.org/projects/srresearch" />
+<description> SR Research, makers of the world leading EyeLink High-Speed eye tracker line, have been developing advanced eye tracking technologies and serving world class support to our research user base since 1992. The EyeLink line provides eye tracking capabilities for behavioral labs as well as for MRI, MEG, and EEG environments. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=491&amp;screenshot_id=369&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=491&amp;screenshot_id=369&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>Response Monitoring</category>
+<category>Eye Tracking</category>
+<release>Jun 29, 2011</release>
+<homepage>http://www.sr-research.com</homepage>
+<maintainer>SR Research</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

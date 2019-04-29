@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="pyxnat" nitrc="https://www.nitrc.org/projects/pyxnat" />
+<description> pyxnat is a simple python library that relies on the REST API provided by the XNAT platform since its 1.4 version. XNAT is an extensible database for neuroimaging data. The main objective is to ease communications with an XNAT server to plug-in external tools or python scripts to process the data. </description>
+<license>BSD License</license>
+<release>Feb 28, 2011</release>
+<homepage>http://www.nitrc.org/projects/pyxnat/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

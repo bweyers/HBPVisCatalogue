@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="Diffusion Warp" nitrc="https://www.nitrc.org/projects/diffusionwarp" />
+<description> This project contains tools appropriate for the registration of diffusion tensor images to an average coordinate system. The tools include image registration methods and algorithms for the correct alignment of the diffusion tensor when applying the resulting transformation. The program uses the Slicer3 execution model framework to define the command line arguments, and can be fully integrated using the module discovery capabilities of Slicer3. </description>
+<release>Apr 28, 2008</release>
+<homepage>http://www.nitrc.org/projects/diffusionwarp/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

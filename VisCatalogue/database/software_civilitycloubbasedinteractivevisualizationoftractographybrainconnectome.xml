@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="CIVILITY : Cloub based Interactive Visualization of Tractography Brain Connectome" nitrc="https://www.nitrc.org/projects/civility" />
+<description> Cloud Based Interactive Visualization of Tractography Brain Connectome (CIVILITY) is an interactive visualization tool of brain connectome in the web.&lt;br /&gt;CIVILITY is a web application and has mainly 2 components.&lt;br /&gt;&lt;br /&gt;-CIVILITY-visualization ; front end of the application. This is a circle plot of the brain connectivity using the method of visualization : Hierarchical Edge Bundling. The graphic visualization of the brain connectivity is generated using Data Driven Documents (D3.js).&lt;br /&gt;&lt;br /&gt;-CIVILITY-tractography ; analysis pipeline. The analysis of the brain connectome is computed with a probabilistic tractography method (FSL tools : bepostx and probtrackx2) using surfaces as seeds.&lt;br /&gt;&lt;br /&gt;CIVILITY performs the brain connectivity analysis in remote computing grids where the CIVILITY-tractography pipeline is deployed. CIVILITY uses clusterpost (&lt;a href=&quot;https://github.com/NIRALUser/clusterpost&quot; target=&quot;_new&quot;&gt;https://github.com/NIRALUser/clusterpost&lt;/a&gt;) to submit the jobs to the computing grid. The front end of CIVILITY submits tasks to clusterpost and retrieves results when they are finished. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1051&amp;screenshot_id=1000&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1051&amp;screenshot_id=1000&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<release>Jun 29, 2016</release>
+<homepage>http://www.nitrc.org/projects/civility/</homepage>
+<maintainer>University of North Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

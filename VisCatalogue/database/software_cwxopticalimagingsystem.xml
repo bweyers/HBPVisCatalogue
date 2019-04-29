@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="CWx Optical Imaging System" nitrc="https://www.nitrc.org/projects/techen_cwx" />
+<description> CWx Optical Imaging System is a real-time data acquisition system used widely for functional NIRS measurements. Data from the CWx Systems is specific to fNIRS and directly compatible with Homer2 fNIRS analysis software. &lt;br /&gt;&lt;br /&gt;The Current CW6 system offers up to 32 lasers and 32 detectors in any combination for maximum channel count with an adjustable output data sample rate. Typical sample rate is 50Hz for most configurations.&lt;br /&gt;&lt;br /&gt;The CWx Software includes SDGui, used to create compatible source-detector probe geometry files designed by the user. </description>
+<release>Apr 29, 2015</release>
+<homepage>http://www.nitrc.org/projects/techen_cwx/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="SpiCoDyn" nitrc="https://www.nitrc.org/projects/spicodyn" />
+<description> SPICODYN is an automated and efficient open-source software for the analysis of multi-site neuronal spike signals. Accepted input data formats are HDF5, level 5 MAT and text files, containing recorded or generated time series spike signals data. SPICODYN processes such electrophysiological signals focusing on: spiking and bursting dynamics and functional-effective connectivity analysis. In particular, for inferring network connectivity, a new implementation of the transfer entropy (TE) method is presented dealing with multiple time delays (temporal extension) and with multiple binary patterns (high order extension). SPICODYN is specifically tailored to process data coming from different Multi-Electrode Arrays (MEAs) setups, guarantying, in those specific cases, automated processing. The optimized implementation of the Delayed Transfer Entropy (DTE) and the High-Order Transfer Entropy (HOTE) algorithms, allows performing accurate and rapid analysis on multiple spike trains from thousands of electrodes. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1212&amp;screenshot_id=1260&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1212&amp;screenshot_id=1260&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>Sep 14, 2017</release>
+<homepage>http://www.nitrc.org/projects/spicodyn/</homepage>
+<maintainer>DIBRIS</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

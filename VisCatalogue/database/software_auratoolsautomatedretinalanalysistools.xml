@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="AURA tools : AUtomated Retinal Analysis tools" nitrc="https://www.nitrc.org/projects/aura_tools" />
+<description> The dissemination of software for the analysis of optical coherence tomography scans of the retina, including the macula. </description>
+<license>GNU GPL v2</license>
+<release>Dec 18, 2014</release>
+<homepage>http://www.nitrc.org/projects/aura_tools/</homepage>
+<maintainer>Image Analysis and Communications Laboratory</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

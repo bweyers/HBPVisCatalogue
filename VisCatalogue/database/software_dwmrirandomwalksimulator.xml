@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="DW-MRI Random Walk Simulator" nitrc="https://www.nitrc.org/projects/randomwalks" />
+<description> The DW-MRI Random Walk Simulator provides a simple interface to simulate Brownian motion in arbitrary, complex environments. The analysis routines enable visualization of these models with DTI, q-space, and higher order diffusion weighted MRI.. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Monte Carlo</category>
+<category>Random Walk</category>
+<category>Simulation</category>
+<category>Other Software Resource</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>POSIX/UNIX-like</platform>
+<release>Sep 8, 2008</release>
+<homepage>http://www.nitrc.org/projects/randomwalks/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

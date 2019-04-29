@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Segmentation-based Multimodal Rigid Image Registration" nitrc="https://www.nitrc.org/projects/sb-reg" />
+<description> This is an open-source Matlab function that allows rigid registration of 3D multi-modal images based on simultaneous segmentation, as introduced by Aganj and Fischl (2017). It is a modification of spm_coreg, and requires the publicly-available SPM12 toolbox. </description>
+<license>GNU General Public License v3</license>
+<category>Algorithm or Reusable Library</category>
+<category>Intermodal</category>
+<platform>OS Independent</platform>
+<release>Aug 9, 2017</release>
+<homepage>http://www.nitrc.org/projects/sb-reg/</homepage>
+<maintainer>Harvard Medical School / Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

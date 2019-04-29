@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Big GABA" nitrc="https://www.nitrc.org/projects/biggaba" />
+<description> This repository contains a subset of a large-scale multi-vendor, multi-site collection of single-voxel MRS and structural MRI datasets that were acquired across 26 international research sites on 3T MRI scanners from the three major vendors (GE, Philips, Siemens). Each site acquired up to 12 datasets.&lt;br /&gt;&lt;br /&gt;Currently available data include: (1) standard GABA+-edited MEGA-PRESS data; (2) macromolecule-suppressed GABA-edited MEGA-PRESS data&lt;br /&gt;&lt;br /&gt;If using these data, please cite:&lt;br /&gt;Mikkelsen M et al. Big GABA: Edited MR spectroscopy at 24 research sites. Neuroimage 2017;159:32–45. doi: 10.1016/j.neuroimage.2017.07.021&lt;br /&gt;Mikkelsen M et al. Big GABA II: Water-referenced edited MR spectroscopy at 25 research sites. Neuroimage 2017. doi: 10.1016/j.neuroimage.2019.02.059&lt;br /&gt;and acknowledge: NIH grant R01 EB016089 </description>
+<category>Data</category>
+<category>Database</category>
+<release>Aug 29, 2018</release>
+<homepage>http://www.nitrc.org/projects/biggaba/</homepage>
+<maintainer>The Johns Hopkins University School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

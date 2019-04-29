@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="xjView, a viewing tool for SPM" nitrc="https://www.nitrc.org/projects/xjview" />
+<description> xjView is a viewing program for SPM2 and SPM5. p-value slider, displays multiple images at a time and can be used to build ROI masks. For a given region you can find the anatomical name and search the selected region in online database (wiki, google scholar and pubmed). </description>
+<license>Freeware</license>
+<category>Image Display</category>
+<platform>Windows XP</platform>
+<platform>OS Independent</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 5, 2008</release>
+<homepage>http://www.alivelearn.net/xjview8/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

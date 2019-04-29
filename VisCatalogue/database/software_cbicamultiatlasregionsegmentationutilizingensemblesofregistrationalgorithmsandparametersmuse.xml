@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: MUlti-atlas region Segmentation utilizing Ensembles of registration algorithms and parameters (MUSE)" nitrc="https://www.nitrc.org/projects/cbica_muse" />
+<description> MUSE: MUlti-atlas region Segmentation utilizing Ensembles of registration algorithms and parameters, and locally optimal atlas selection&lt;br /&gt;&lt;br /&gt;MUSE generates a large ensemble of candidate labels in the target image space using multiple atlases, registration algorithms and smoothness values for these algorithms. The ensemble is then fused into a final segmentation. &lt;br /&gt;&lt;br /&gt;MUSE is a Linux command-line tool, with support for several HPC schedulers or the ability to run as multiple processes on a single workstation. </description>
+<license>SBIA License</license>
+<release>Jan 22, 2016</release>
+<homepage>http://www.nitrc.org/projects/cbica_muse/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

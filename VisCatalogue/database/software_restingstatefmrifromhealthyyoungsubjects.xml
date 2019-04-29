@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Resting-state fMRI from healthy young subjects" nitrc="https://www.nitrc.org/projects/wakayama_psyrs" />
+<description> This entry provides the original DICOM files of functional and structural MRI, obtained from resting-state healthy young subjects (100 males and 100 females), which were used in our research article (Donishi et al. 2017, &lt;a href=&quot;https://doi.org/10.1002/brb3.890&quot; target=&quot;_new&quot;&gt;https://doi.org/10.1002/brb3.890&lt;/a&gt;). </description>
+<license>Wakayama_PsyRS</license>
+<release>Nov 1, 2018</release>
+<homepage>http://www.nitrc.org/projects/wakayama_psyrs/</homepage>
+<maintainer>Wakayama Medical University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

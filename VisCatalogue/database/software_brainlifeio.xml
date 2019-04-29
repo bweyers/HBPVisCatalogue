@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="brainlife.io" nitrc="https://www.nitrc.org/projects/brainlife_io" />
+<description> brainlife.io is a platform that allows publishing reproducible code and datasets. The platform provides seamless access to national supercomputers, private clouds, and institutional high-performance computer systems. The goals of the platform are to promote data sharing in exchange for high-throughput computing and to contribute upcycling the long tail of neuroimaging data. To do so, brainlife.io makes available data and analyses software to pursuit gathering diverse neuroimaging datasets and redistribute them across multiple research communities such as psychology, engineering, computer science, and neuroscience. Brainlife.io combines modern web visualization, and database technologies as well as network neuroscience and image processing algorithms into a unique online platform. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1317&amp;screenshot_id=1233&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1317&amp;screenshot_id=1233&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT</license>
+<category>Atlas Application</category>
+<category>Connectivity Analysis</category>
+<category>Segmentation</category>
+<category>Shape Analysis</category>
+<category>Surface Analysis</category>
+<category>Tractography</category>
+<category>Visualization</category>
+<category>Workflow</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<platform>POSIX/UNIX-like</platform>
+<release>Sep 18, 2018</release>
+<homepage>https://brainlife.io</homepage>
+<maintainer>Indiana University, Bloomington</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

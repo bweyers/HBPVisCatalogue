@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="MRI Simulator" nitrc="https://www.nitrc.org/projects/mri_simulator" />
+<description> The Psychology Software Tools MRI Simulator provides a realistic approximation of an actual MRI scanner to allow habituation and training of participants in an environment less daunting than a real scanner. Special populations such as children, the elderly, and psychiatric patients, are often prone to claustrophobia and anxiety in the bore of a magnet, and consequently have a much higher rate of terminating the experiment or scan session before its completion. Some centers that have dealt with these populations estimate a 50%-80% failure rate. With the use of the MRI Simulator this failure rate can often be reduced below 5%, improving cost effectiveness. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=208&amp;screenshot_id=1034&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=208&amp;screenshot_id=1034&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Experiment Control</category>
+<category>Training</category>
+<release>Mar 22, 2009</release>
+<homepage>https://pstnet.com/products/mri-simulator/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

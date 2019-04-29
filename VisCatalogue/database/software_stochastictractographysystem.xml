@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Stochastic Tractography System" nitrc="https://www.nitrc.org/projects/stfilter" />
+<description> Stochastic Tractography applies a Bayesian approach towards the estimation of nerve fiber tracts from DWMRI images. This project provides tools which can perform Stochastic Tractography and related analysis on DWMRI data. </description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Application</category>
+<platform>OS Independent</platform>
+<platform>Linux</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 29, 2007</release>
+<homepage>http://www.nitrc.org/projects/stfilter/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

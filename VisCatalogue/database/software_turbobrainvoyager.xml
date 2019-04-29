@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="Turbo-BrainVoyager" nitrc="https://www.nitrc.org/projects/tbv" />
+<description> Turbo-BrainVoyager (TBV) is a highly optimized, easy to use software package for the real-time analysis and dynamic visualization of functional magnetic resonance imaging data sets. Turbo-BrainVoyager allows to observe the working brain &amp;quot;online&amp;quot; by incrementally computing statistical maps as contrasts of a General Linear Model (GLM). The program also performs real-time pre-processing, including 3D motion correction, spatial Gaussian smoothing and temporal filtering (drift removal). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=770&amp;screenshot_id=701&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=770&amp;screenshot_id=701&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>Application</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Linux</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>Nov 17, 2013</release>
+<homepage>http://www.brainvoyager.com/products/turbobrainvoyager.html</homepage>
+<maintainer>Brain Innovation B.V.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

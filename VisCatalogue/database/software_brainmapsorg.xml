@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="BrainMaps.org" nitrc="https://www.nitrc.org/projects/brainmaps" />
+<description> BrainMaps.org is an interactive multiresolution next-generation brain atlas that is based on over 20 million megapixels of sub-micron resolution, annotated, scanned images of serial sections of both primate and non-primate brains. </description>
+<release>Aug 11, 2008</release>
+<homepage>http://www.nitrc.org/projects/brainmaps/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

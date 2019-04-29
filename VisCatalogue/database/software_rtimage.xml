@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="RT_Image" nitrc="https://www.nitrc.org/projects/rt_image" />
+<description> RT_Image is an application developed in the Department of Radiation Oncology and MIPS at Stanford University to visualize, segment, and quantify three-dimensional images. Multiple datasets may be loaded, displayed, fused, processed, and quantitatively analyzed simultaneously. Data may be imported from any DICOM-compatible three dimensional imaging modality. Regions-of-interest may be defined using a number of manual, semi-automatic, and automated tools to segment three-dimensional pixel volumes. They may also be imported from and exported to DICOM structure sets. This software has been applied to preclinical and clinical computed tomography (CT), positron emission tomography (PET), single photon emission computed tomography (SPECT), magnetic resonance imaging (MRI), and optical imaging data. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Feb 14, 2013</release>
+<homepage>http://www.nitrc.org/projects/rt_image/</homepage>
+<maintainer>Stanford University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

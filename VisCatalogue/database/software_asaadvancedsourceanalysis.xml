@@ -1,0 +1,45 @@
+<root>
+<software>
+<name name="ASA - Advanced Source Analysis" nitrc="https://www.nitrc.org/projects/asa" />
+<description> ASA is a highly flexible EEG/ERP and MEG analysis package with a variety of source reconstruction, signal analysis and MRI processing features. ASA combines functional brain imaging with the visualization and incorporation of morphological information obtained from MRI or CT. ASA is a highly interactive and flexible software tool that can be applied to neuro-physiological and clinical brain research.&lt;br /&gt;&lt;br /&gt;ASA gives a realistic impression of your experimental configuration together with topographical mapping of EEG and MEG and the results of your analysis. ASA is developed for and by people dedicated to brain research. The concept of flexibility and openness covers even most complex analysis demands. The ASA environment is particularly attractive for those that wish to develop their own methods in third party packages like Matlab and use ASA for pre-processing and visualization purposes. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=554&amp;screenshot_id=636&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=554&amp;screenshot_id=636&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License: ASA Software</license>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<category>Artifact Removal</category>
+<category>Fourier Transform</category>
+<category>Wavelet Transformation</category>
+<category>Event Related Potential</category>
+<platform>Microsoft</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>ASCII</input>
+<output>ASCII</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>ANT</input>
+<output>ANT</output>
+<input>Brain Vision Analyzer Data Exchange Format</input>
+<output>Brain Vision Analyzer Data Exchange Format</output>
+<input>CNT</input>
+<output>CNT</output>
+<input>EDF/BDF/GDF</input>
+<output>EDF/BDF/GDF</output>
+<input>EGI</input>
+<output>EGI</output>
+<input>CTF</input>
+<output>CTF</output>
+<input>FIF</input>
+<output>FIF</output>
+<input>M4D</input>
+<output>M4D</output>
+<release>Dec 23, 2011</release>
+<homepage>http://www.nitrc.org/projects/asa/</homepage>
+<maintainer>ANT Neuro B.V.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

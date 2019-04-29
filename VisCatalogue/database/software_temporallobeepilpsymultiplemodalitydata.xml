@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="TEMPORAL LOBE EPILPSY MULTIPLE MODALITY DATA" nitrc="https://www.nitrc.org/projects/hfh_t1_hp_seg1" />
+<description> The data-set consists of multiple modalities from three temporal lobe epilepsy studies.&lt;br /&gt;&lt;br /&gt;•Study 1- HFH_T1_HP_SEG_TLE_1&lt;br /&gt;&lt;br /&gt;The purpose of this study was to develop a systematic and statistical approach using a large dataset for the evaluation of automated methods and establish a method that would achieve results better approximating those attained by manual tracing in the epileptogenic hippocampus.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;•Study 2- HFH_FLAIR_T1_HP_SEG_TLE&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;The purpose of this study was to develop a systematic and statistical approach using a large dataset for the evaluation of automated methods and establish a method that would achieve results better approximating those attained by manual tracing in the epileptogenic hippocampus.&lt;br /&gt;&lt;br /&gt;•Study 3- HFH_SPECT_T1_HP_SEG_TLE&lt;br /&gt;&lt;br /&gt;This study assesses the utility of compartmental analysis of SPECT data in lateralizing ictal onset in cases of a putative mesial temporal lobe epilepsy (mTLE).&lt;br /&gt;&lt;br /&gt;PS: CLICK ON EACH STUDY NAME ON THE DOWNLOAD PAGE FOR MORE INFO BEFORE DOWNLOADING. </description>
+<release>Jan 18, 2017</release>
+<homepage>http://www.nitrc.org/projects/hfh_t1_hp_seg1/</homepage>
+<maintainer>Henry Ford Health System</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

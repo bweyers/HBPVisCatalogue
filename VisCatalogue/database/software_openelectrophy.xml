@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="OpenElectrophy" nitrc="https://www.nitrc.org/projects/openelectrophy" />
+<description> The OpenElectrophy project aims to simplify data- and analysis-sharing for intra- and extra-cellular recordings. With OpenElectrophy you will be able to play with neural signals, spikes and oscillations.&lt;br /&gt;&lt;br /&gt;OpenElectrophy is a Python module for electrophysiology data analysis (intra- and extra-cellular). OpenElectrophy is built on top of Neo :&lt;br /&gt;&lt;br /&gt;- It includes the powerful Neo IO that can read a large number of data formats (Plexon, NeuroExplorer, Spike2, TDT, Axon, BlackRock, ...)&lt;br /&gt;- Neo objects ready for analyses (AnalogSIgnal, SpikeTrain, RecordingChannel, Segment, Block ...)&lt;br /&gt;&lt;br /&gt;But OpenElectrophy also provides:&lt;br /&gt;&lt;br /&gt;- A GUI for exploring datasets&lt;br /&gt;- A complete offline spikesorting tool chain = GUI and/or command line.&lt;br /&gt;- A timefrequency toolbox = fast wavelet scalogram plotting + transient oscillation in LFP detection.&lt;br /&gt;- Viewers for Neo objects.&lt;br /&gt;- A database for storage. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=605&amp;screenshot_id=746&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=605&amp;screenshot_id=746&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GPL-Style Open Source</license>
+<release>May 21, 2012</release>
+<homepage>http://neuralensemble.org/OpenElectrophy/</homepage>
+<maintainer>CNRS</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

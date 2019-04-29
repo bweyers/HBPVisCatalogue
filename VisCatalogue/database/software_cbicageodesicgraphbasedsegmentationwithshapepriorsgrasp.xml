@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: Geodesic graph-based segmentation with shape priors (GraSP)" nitrc="https://www.nitrc.org/projects/cbica_grasp" />
+<description> GraSP is a graph-based parcellation software.&lt;br /&gt;GraSP was initially developed for parcellating the cortex into functionally coherent regions, based on their Pearson correlation, that presents different cortical parcellations of the left hemisphere. However, the software can handle any graph, and 3D parcellations can be obtained easily. </description>
+<license>SBIA License</license>
+<release>Jan 22, 2016</release>
+<homepage>http://www.nitrc.org/projects/cbica_grasp/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

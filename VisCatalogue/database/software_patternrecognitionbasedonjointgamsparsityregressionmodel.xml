@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Pattern Recognition based on Joint GAM-Sparsity Regression Model" nitrc="https://www.nitrc.org/projects/gam_sparityreg" />
+<description> This repository provides MATLAB toolbox for extracting meaningful patterns affected by a certain disease from a large data which are biased to other factors, e.g., age, gender, socioeconomic status, and scanner type. To find the meaningful patterns being able to distinguish group differences while suppressing the impact of other factors, we jointly parameterize a general additive model for desensitizing the image scores and a sparsity-constrained, logistic-regression model for classification by maximizing a likelihood. The software was developed by the Center for Health Sciences, SRI International.&lt;br /&gt;&lt;br /&gt;If you use this code, please cite the following publication: &lt;br /&gt;&lt;br /&gt;Park SH, Zhang Y, Kwon D, Zhao Q, Zahr N, Pfefferbaum A, Sullivan E, Pohl, KM: Alcohol use effect on adolescent brain development revealed by simultaneously removing confounding factors, identifying morphometric patterns, and classifying individuals, Scientific Reports, In press. </description>
+<license>PatternRecog_GAM_SparityRegression license</license>
+<release>Nov 1, 2017</release>
+<homepage>http://www.nitrc.org/projects/gam_sparityreg/</homepage>
+<maintainer>SRI International</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

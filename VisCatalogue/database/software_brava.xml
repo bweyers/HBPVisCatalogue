@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="BraVa" nitrc="https://www.nitrc.org/projects/breva" />
+<description> The BraVa database contains digital reconstructions of the human brain arterial arborizations from 61 healthy adult subjects along with extracted morphological measurements.&lt;br /&gt;&lt;br /&gt;The arterial arborizations include the six major trees stemming from the circle of Willis, namely: the left and right Anterior Cerebral Arteries (ACAs), Middle Cerebral Arteries (MCAs), and Posterior Cerebral Arteries (PCAs). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=725&amp;screenshot_id=650&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=725&amp;screenshot_id=650&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Data</category>
+<category>Database</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 4, 2013</release>
+<homepage>http://cng.gmu.edu/brava</homepage>
+<maintainer>George Mason University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

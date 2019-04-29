@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="fNIRS Research Database" nitrc="https://www.nitrc.org/projects/fnirsdata" />
+<description> In the DOC tab, you can find 7 fNIRS datasets as well as the article that corresponds to them. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1071&amp;screenshot_id=1118&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1071&amp;screenshot_id=1118&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>Nov 2, 2016</release>
+<homepage>http://www.nitrc.org/projects/fnirsdata/</homepage>
+<maintainer>MGH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

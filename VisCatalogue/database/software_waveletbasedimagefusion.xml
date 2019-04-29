@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Wavelet-based Image Fusion" nitrc="https://www.nitrc.org/projects/wlfusion" />
+<description> This is a Matlab toolbox that implements the wavelet-based image fusion technique for orthogonal images, introduced in (Aganj et al, MRM 2012). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=513&amp;screenshot_id=382&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=513&amp;screenshot_id=382&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Image Reconstruction</category>
+<category>Wavelet Transformation</category>
+<release>Jul 18, 2011</release>
+<homepage>http://www.nitrc.org/projects/wlfusion/</homepage>
+<maintainer>University of Minnesota</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

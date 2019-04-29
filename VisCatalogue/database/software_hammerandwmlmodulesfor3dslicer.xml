@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Hammer And WML Modules for 3D Slicer" nitrc="https://www.nitrc.org/projects/hammerwml" />
+<description> HAMMER is an acronym for Hierarchical Attribute Matching Mechanism for Elastic Registration (Dinggang Shen, Christos Davatzikos, HAMMER: Hierarchical Attribute Matching Mechanism for Elastic Registration, IEEE Trans. on Medical Imaging, 21(11):1421-1439, Nov 2002) - an elastic registration algorithm for medical images, matching morphological signatures of images in a hierarchical multi-scale regime. &lt;br /&gt;&lt;br /&gt;White matter lesion (WML) segmentation is a novel multi-spectral WML segmentation protocol via incorporating information from T1-w, T2-w, PD-w and FLAIR MR brain images. (Zhiqiang Lao, Dinggang Shen, Dengfeng Liu, Abbas F Jawad, Elias R Melhem, Lenore J Launer, Nick R Bryan, Christos Davatzikos, Computer-Assisted Segmentation of White Matter Lesions in 3D MR images, Using Pattern Recognition, Academic Radiology, 15(3):300-313, March 2008). </description>
+<license>3D Slicer License</license>
+<release>Dec 23, 2008</release>
+<homepage>http://www.nitrc.org/projects/hammerwml/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

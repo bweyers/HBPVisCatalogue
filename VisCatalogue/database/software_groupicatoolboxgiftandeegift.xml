@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="Group ICA Toolbox (GIFT and EEGIFT)" nitrc="https://www.nitrc.org/projects/gift" />
+<description> Group ICA Toolbox is a MATLAB toolbox which implements multiple algorithms for independent component analysis of group magneto resonance imaging data (GIFT) and electro encephalogram data (EEGIFT) to group studies. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Artifact Removal</category>
+<category>Independent Component Analysis</category>
+<category>Principal Component Analysis</category>
+<category>Linear</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<platform>SunOS/Solaris</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 4, 2007</release>
+<homepage>http://icatb.sourceforge.net/groupica.htm</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

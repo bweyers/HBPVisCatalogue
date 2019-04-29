@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="DTI Fiber Tract Statistics" nitrc="https://www.nitrc.org/projects/dti_tract_stat" />
+<description> This is a software which allows the user to study the behavior of water diffusion (using DTI data) along the length of the white matter fiber-tracts.&lt;br /&gt;Various tract-oriented scalar diffusion measures obtained from DTI brain images, are treated as a continuous function of white matter fibers&#x27; arc-length. To analyze the trend along a given fiber tract, a command line tool performs kernel regression on this data. The idea is to try out different noise models and maximum likelihood estimates within kernel windows (along the tract), such that they best represent the data and are robust to noise and Partial Volume effect.&lt;br /&gt;&lt;br /&gt;The package contains several command line based modules and an GUI based tool called DTIAtlasFiberAnalyzer to access most functions.&lt;br /&gt;&lt;br /&gt;This package is also available as a 3D Slicer extension (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;) called DTIAtlasFiberAnalyzer.&lt;br /&gt;&lt;br /&gt;Some documentation about the features available in this package are available here: &lt;a href=&quot;http://www.na-mic.org/Wiki/index.php/Projects:dtistatisticsfibers&quot; target=&quot;_new&quot;&gt;http://www.na-mic.org/Wiki/index.php/Pro...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=403&amp;screenshot_id=768&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=403&amp;screenshot_id=768&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Regression</category>
+<category>Tractography</category>
+<platform>Linux</platform>
+<release>Aug 19, 2010</release>
+<homepage>http://www.nitrc.org/projects/dti_tract_stat/</homepage>
+<maintainer>University of Utah - UNC Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

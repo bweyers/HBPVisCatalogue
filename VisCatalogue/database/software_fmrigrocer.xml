@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="fMRI Grocer" nitrc="https://www.nitrc.org/projects/fmri_grocer" />
+<description> This toolbox contains many kinds of kits that you may be interested in during fMRI data analysis.&lt;br /&gt;&lt;br /&gt;This toolbox is a homebrew kits built during practical ASL(arterial spin labeling) based CBF data analysis. Meanwhile, this toolbox is also compatible with BOLD data analysis. Everyone would find something useful for their own data analysis!&lt;br /&gt;&lt;br /&gt;This toolbox is run and tested on SPM8 with MATLAB 7.6.0(R2008a) under the Linux OS.&lt;br /&gt;&lt;br /&gt;Theoretically, most of the functions (except the menu1&amp;amp;2 which are specially designed for the Batch Editor of SPM8) of this toolbox should be compatible with SPM5 and should also work smoothly under the Windows OS.&lt;br /&gt;&lt;br /&gt;Feel free to give feedback to authors if you encounter any bugs or problems. &lt;br /&gt;&lt;br /&gt;Senhua Zhu&lt;br /&gt;Center for functional Neuroimaging, University of Pennsylvania&lt;br /&gt;3 W.Gates Bldg, 3400, Philadelphia, PA (19104), United States&lt;br /&gt;&lt;br /&gt;Email: &lt;a href=&quot;mailto:zshtom@gmail.com&quot; target=&quot;_new&quot;&gt;zshtom@gmail.com&lt;/a&gt; ; &lt;a href=&quot;mailto:senhua@mail.med.upenn.edu&quot; target=&quot;_new&quot;&gt;senhua@mail.med.upenn.edu&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;QQ group number (QQ群): 60524357&lt;br /&gt;&lt;br /&gt;Google group: &lt;a href=&quot;https://groups.google.com/d/forum/fmri-grocer&quot; target=&quot;_new&quot;&gt;https://groups.google.com/d/forum/fmri-g...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=700&amp;screenshot_id=630&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=700&amp;screenshot_id=630&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>fMRI Grocer License</license>
+<release>Mar 19, 2013</release>
+<homepage>http://www.nitrc.org/projects/fmri_grocer/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

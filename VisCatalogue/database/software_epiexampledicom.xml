@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="epi-example-dicom" nitrc="https://www.nitrc.org/projects/epi-dicom" />
+<description> Contains an example echoplanar session, in Dicom format, and a python script (extract_timings.py) to extract the times of slice acquisition. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>May 27, 2016</release>
+<homepage>http://www.nitrc.org/projects/epi-dicom/</homepage>
+<maintainer>CEA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="Convert MNI coordinates to or from XYZ" nitrc="https://www.nitrc.org/projects/mni2orfromxyz" />
+<description> Input either normalized &amp;quot;MNI&amp;quot; coordinates from a 3D image, or input &amp;quot;real world&amp;quot; XYZ matrix coordinates, and this code will convert coordinates of one type to the other. </description>
+<release>Apr 7, 2011</release>
+<homepage>http://www.nitrc.org/projects/mni2orfromxyz/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

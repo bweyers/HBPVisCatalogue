@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Books" nitrc="https://www.nitrc.org/projects/books" />
+<description> If you are interested in finding books related to neuroscience, you have come to the right place! Books is a bibliography of books addressing the topic of functional and structural neuroimaging. </description>
+<category>Books</category>
+<release>Mar 24, 2009</release>
+<homepage>http://www.nitrc.org/projects/books/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

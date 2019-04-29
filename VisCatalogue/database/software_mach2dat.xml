@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="mach2dat" nitrc="https://www.nitrc.org/projects/mach2dat" />
+<description> mach2dat performs logistic regression, using imputed SNP dosage data and adjusting for covariates. </description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Genetic Association</category>
+<release>Feb 13, 2013</release>
+<homepage>http://www.nitrc.org/projects/mach2dat/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

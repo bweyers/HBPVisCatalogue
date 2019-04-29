@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Rosetta Bit" nitrc="https://www.nitrc.org/projects/rosetta" />
+<description> The Rosetta Bit project will house public datasets that have been transcoded into multiple formats. This library of valid file format conversions (DICOM-&amp;gt;NIFTI, DICOM-&amp;gt;PAR/REC, etc.) will provide a reference for tool developers seeking to support multiple sources of data.&lt;br /&gt;&lt;br /&gt;Yvernault BC, Theobald CD Jr, Smith JC, Villalta V, Zald DH, Landman BA.&lt;br /&gt;Neuroinformatics. 2014 Oct;12(4):615-7. doi: 10.1007/s12021-014-9230-9.&lt;br /&gt;Validating DICOM Transcoding with an Open Multi-Format Resource.&lt;br /&gt;Pubmed: &lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/24777387&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/24777...&lt;/a&gt;</description>
+<license>BIRN Data License</license>
+<release>Feb 17, 2013</release>
+<homepage>http://www.nitrc.org/projects/rosetta/</homepage>
+<maintainer>Vanderbilt University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

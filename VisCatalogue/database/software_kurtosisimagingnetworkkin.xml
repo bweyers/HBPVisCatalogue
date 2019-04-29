@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Kurtosis Imaging Network - KIN" nitrc="https://www.nitrc.org/projects/kin" />
+<description> Sorry, but images are no longer available for download from KIN.&lt;br /&gt;&lt;br /&gt;--------------------------------------------------------------------------------------------&lt;br /&gt;&lt;br /&gt;Kurtosis Imaging Network (KIN) was an open source database for normal healthy controls as well as various pathologies in an attempt to establish a standard range of kurtosis values within each population. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=904&amp;screenshot_id=911&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=904&amp;screenshot_id=911&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial</license>
+<release>Dec 18, 2014</release>
+<homepage>http://www.nitrc.org/projects/kin/</homepage>
+<maintainer>MUSC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

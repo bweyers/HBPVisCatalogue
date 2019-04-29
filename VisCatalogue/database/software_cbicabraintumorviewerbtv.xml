@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: Brain Tumor Viewer (BTV)" nitrc="https://www.nitrc.org/projects/cbica_btv" />
+<description> BrainTumorViewer has been superceded by the Cancer Imaging Pheonmics Toolkit (CaPTk) Console: &lt;a href=&quot;https://www.nitrc.org/projects/captk/&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/projects/captk/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;-----------------------------&lt;br /&gt;&lt;br /&gt;BrainTumorViewer (BTV) is a lightweight viewer, built for fast and simple interaction with MRI image volumes.&lt;br /&gt;&lt;br /&gt;BTV is primarily designed for visualizing multi-modal MRI brain volumes and initializing seed-points for the following software packages:&lt;br /&gt;&lt;br /&gt;i) GLioma Image SegmenTation and Registration (GLISTR)&lt;br /&gt;ii) Pre-Operative and post-Recurrence brain Tumor Registration (PORTR)&lt;br /&gt;&lt;br /&gt;After initializing these seed-points, a user can generate execution scripts through BTV&#x27;s graphical user interface for various platforms and custom input parameters. </description>
+<license>SBIA License</license>
+<release>Jan 22, 2016</release>
+<homepage>http://www.nitrc.org/projects/cbica_btv/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

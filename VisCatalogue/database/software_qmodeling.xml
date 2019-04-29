@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="QModeling" nitrc="https://www.nitrc.org/projects/qmodeling" />
+<description> QModeling is a multiplatform toolbox for SPM to fit reference-region kinetic models (SRTM, SRTM2, Patlak Reference and Logan Reference plot are currently available in QModeling) to dynamic PET studies. The toolbox was developed in the bioengineering department of the Molecular Imaging Unit at CIMES (FGUMA) in collaboration with the department of Computer Science and Programming Languages at Malaga University (UMA).&lt;br /&gt;More information: &lt;a href=&quot;http://www.uimcimes.es&quot; target=&quot;_new&quot;&gt;http://www.uimcimes.es&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1197&amp;screenshot_id=1157&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1197&amp;screenshot_id=1157&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License v3</license>
+<category>Quantification</category>
+<release>Aug 1, 2017</release>
+<homepage>http://www.uimcimes.es/contenidos/golink?p=1</homepage>
+<maintainer>Fundación General de la Universidad de Málaga</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

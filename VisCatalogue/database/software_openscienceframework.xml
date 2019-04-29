@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Open Science Framework" nitrc="https://www.nitrc.org/projects/osf" />
+<description> The OSF supports the scientific workflow. Create projects and use them to organize and archive research materials and data. Share those materials with just collaborators, or make them available publicly. Get credit for making materials available when others view, download, use, or extend them. Register projects to create frozen versions to mark the state of a project at a particular point in its history - onset of data collection, at manuscript submission, final version for publication. OSF is part network of research materials, part version control system, and part collaboration software. </description>
+<release>Feb 26, 2014</release>
+<homepage>http://osf.io</homepage>
+<maintainer>Center for Open Science</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

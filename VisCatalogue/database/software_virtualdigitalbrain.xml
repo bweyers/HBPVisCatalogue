@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Virtual digital brain" nitrc="https://www.nitrc.org/projects/vdb" />
+<description> This software can be freely downloaded from the website: &lt;a href=&quot;https://www.nitrc.org&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org&lt;/a&gt;</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Directed Transfer Analysis</category>
+<platform>Windows Vista</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 4, 2018</release>
+<homepage>http://www.nitrc.org/projects/vdb/</homepage>
+<maintainer>Taishan medical university</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

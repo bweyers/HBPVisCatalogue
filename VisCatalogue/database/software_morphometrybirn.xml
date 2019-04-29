@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Morphometry BIRN" nitrc="https://www.nitrc.org/projects/mbirn" />
+<description> The Morphometry Testbed (MBIRN) of the Biomedical Informatics Research Network (BIRN) focuses on pooling and analyzing of neuroimaging data acquired at multiple sites. Specific applications include potential relationships between anatomical differences and specific memory dysfunctions, such as Alzheimer’s disease. With the completion of the initial BIRN testbed phase, each of the original BIRN testbeds have now been retired in order to focus on new users in other biomedical domains. The BIRN project has ended. Information on the entire BIRN project can be found at &lt;a href=&quot;https://en.wikipedia.org/wiki/Biomedical_Informatics_Research_Network&quot; target=&quot;_new&quot;&gt;https://en.wikipedia.org/wiki/Biomedical...&lt;/a&gt;</description>
+<category>Data</category>
+<category>Knowledge Environment</category>
+<category>Quantification</category>
+<category>Segmentation</category>
+<category>Visualization</category>
+<category>Workflow</category>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 5, 2007</release>
+<homepage>https://en.wikipedia.org/wiki/Biomedical_Informatics_Research_Network</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

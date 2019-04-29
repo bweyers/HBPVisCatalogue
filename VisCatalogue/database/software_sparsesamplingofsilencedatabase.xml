@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Sparse Sampling of Silence Database" nitrc="https://www.nitrc.org/projects/sparse_2018" />
+<description> Sparse Sampling of Silence </description>
+<license>Creative Commons License</license>
+<release>Aug 20, 2018</release>
+<homepage>http://www.nitrc.org/projects/sparse_2018/</homepage>
+<maintainer>UNAM, CityU HK and JHU</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

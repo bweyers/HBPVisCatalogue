@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="MRtrix" nitrc="https://www.nitrc.org/projects/mrtrix" />
+<description> MRtrix provides a set of tools to perform diffusion-weighted MR white-matter tractography in a manner robust to crossing fibres, using constrained spherical deconvolution (CSD) and probabilistic streamlines.&lt;br /&gt;&lt;br /&gt;Note: if you are looking for the latest unofficial version of MRtrix, MRtrix3, please visit this site: &lt;a href=&quot;https://github.com/MRtrix3/mrtrix3&quot; target=&quot;_new&quot;&gt;https://github.com/MRtrix3/mrtrix3&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<category>Diffusion MR Fiber Tracking</category>
+<category>Image Display</category>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 25, 2008</release>
+<homepage>http://www.brain.org.au/software</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

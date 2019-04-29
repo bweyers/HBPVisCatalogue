@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="neuroVIISAS" nitrc="https://www.nitrc.org/projects/neuroviisas" />
+<description> Functions of neuroVIISAS:&lt;br /&gt;1) Generation of terminologies from lists of regions up to complex ontologies.&lt;br /&gt;2) Linking external databases to nodes of ontologies&lt;br /&gt;3) Define and work with competing, developing or variable terminologies&lt;br /&gt;3) Defining stereotaxic coordinate systems&lt;br /&gt;4) Import stacks of images: atlas contour images, histological, MRI, DTI, virtual slides&lt;br /&gt;5) Definition of relations between ontologies and images&lt;br /&gt;6) Import lists of neuronal connections&lt;br /&gt;7) Visualizing sources and targets of connections in stereotaxic atlases&lt;br /&gt;8) Nested 3D-atlas visualizations&lt;br /&gt;10) Hierarchy based connectome navigation&lt;br /&gt;11) Matrix visualizations of hierarchical and non-hierarchical connectomes &lt;br /&gt;12) Interactive connectome exploration&lt;br /&gt;13) Differential connectomics&lt;br /&gt;14) Global and local connectome analysis&lt;br /&gt;15) Multivariate and graph theoretical analysis and visualization&lt;br /&gt;16) Phyton script generator for population simulations using atlas and connectome data.&lt;br /&gt;17) Numerical and 2D-, 3D-simulation visualizations </description>
+<license>neuroVIISAS</license>
+<release>Oct 26, 2016</release>
+<homepage>http://neuroviisas.med.uni-rostock.de/neuroviisas.shtml</homepage>
+<maintainer>University Rostock</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

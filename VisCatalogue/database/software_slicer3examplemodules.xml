@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="Slicer3 Example Modules" nitrc="https://www.nitrc.org/projects/slicer3examples" />
+<description> Example Slicer3 plugins that can be built against a Slicer3 build or a Slicer3 installation.&lt;br /&gt;&lt;br /&gt;Note: these are for 3D Slicer version 3. There is now a version 4 of 3D Slicer available. Information about extensions for version 4 can be found at the following links:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/SlicerApplication/ExtensionsManager&quot; target=&quot;_new&quot;&gt;http://www.slicer.org/slicerWiki/index.p...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Developers/Tutorials/BuildTestPackageDistributeExtensions&quot; target=&quot;_new&quot;&gt;http://www.slicer.org/slicerWiki/index.p...&lt;/a&gt;</description>
+<license>BSD License</license>
+<category>Application</category>
+<category>Platform or Development Environment</category>
+<platform>MacOS</platform>
+<platform>Windows NT/2000</platform>
+<platform>Windows Vista</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jan 31, 2008</release>
+<homepage>http://www.nitrc.org/projects/slicer3examples/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

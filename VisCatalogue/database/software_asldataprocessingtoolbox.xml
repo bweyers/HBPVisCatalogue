@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="ASL data processing tool box" nitrc="https://www.nitrc.org/projects/asltbx" />
+<description> This tool box is for arterial spin labeled perfusion MRI data processing. It is based on SPM (copyright by Wellcome Department, London) and Matlab (MathWorks Inc). More detailed documentation can be found in the manual. The current version support 3D or 4D Analyze or Nifiti format and support PASL, CASL, and PCASL data. It contains the code for calculating CBF and a set of SPM batch scripts for preprocessing and statistical analysis. Sample data are also available from the webpage: &lt;a href=&quot;http://cfn.upenn.edu/~zewang/ASLtbx.php.&quot; target=&quot;_new&quot;&gt;http://cfn.upenn.edu/~zewang/ASLtbx.php.&lt;/a&gt; Please subscribe to the maillist here: &lt;a href=&quot;http://www.nitrc.org/mailman/listinfo/asltbx-maillist.&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/mailman/listinfo/as...&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<category>Quantification</category>
+<category>Statistical Operation</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 14, 2009</release>
+<homepage>http://www.nitrc.org/projects/asltbx/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

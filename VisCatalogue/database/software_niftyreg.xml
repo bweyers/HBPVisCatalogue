@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="NiftyReg" nitrc="https://www.nitrc.org/projects/niftyreg" />
+<description> NiftyReg includes tools for global and local image registration.&lt;br /&gt;&lt;br /&gt;The algorithm used for global registration is based on a block matching approach enabling robust registration (outliers rejection). The local registration implementation uses a cubic B-Spline parametrisation (Free-Form Deformation). All registration algorithms are based on symmetric approaches where forward and backward transformations can be optimised concurrently.&lt;br /&gt;&lt;br /&gt;NiftyReg has been implemented for both CPU and GPU (through the use of CUDA). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=712&amp;screenshot_id=645&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=712&amp;screenshot_id=645&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Registration</category>
+<category>Resampling</category>
+<category>Warping</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>May 2, 2013</release>
+<homepage>https://cmiclab.cs.ucl.ac.uk/mmodat/niftyreg</homepage>
+<maintainer>University College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

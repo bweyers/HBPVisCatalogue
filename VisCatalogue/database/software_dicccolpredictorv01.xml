@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="DICCCOL predictor (v0.1)" nitrc="https://www.nitrc.org/projects/dicccol_0_1" />
+<description> DICCCOL predictor (v0.1) is a toolbox to predict 358 DICCCOL landmarks on a new brain given b0, brain surface data and DTI derived fiber data (vtk format). DICCCOL is the abbreviation of Dense Individualized and Common Connectivity-based Cortical landmarks (&lt;a href=&quot;http://dicccol.cs.uga.edu&quot; target=&quot;_new&quot;&gt;http://dicccol.cs.uga.edu&lt;/a&gt;) and developed by CAID (caid.cs.uga.edu). Each DICCCOL landmark is defined by group-wise consistent white-matter fiber connection patterns derived from diffusion tensor imaging (DTI) data. DICCCOL aims to provide large-scale cortical landmarks with finer granularity, better functional homogeneity, more accurate functional localization, and automatically-established cross-subjects correspondence. </description>
+<license>GPL-Style Open Source</license>
+<platform>Linux</platform>
+<release>Feb 8, 2013</release>
+<homepage>http://caid.cs.uga.edu</homepage>
+<maintainer>CAID lab, the University of Georgia</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

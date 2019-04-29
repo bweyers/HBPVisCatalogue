@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="fMRIstat" nitrc="https://www.nitrc.org/projects/fmristat" />
+<description> A Matlab toolbox for the statistical analysis of fMRI data. </description>
+<license>Freeware</license>
+<category>Modeling</category>
+<category>Principal Component Analysis</category>
+<category>Linear</category>
+<platform>OS Independent</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 23, 2008</release>
+<homepage>http://www.math.mcgill.ca/keith/fmristat</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

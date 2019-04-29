@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Altered States Database" nitrc="https://www.nitrc.org/projects/asdb" />
+<description> A variety of pharmacological and non-pharmacological methods were reported to induce consciousness alterations in humans. Within psychological experiments, the subjective experiences of ASCs are typically quantified with retrospective questionnaires. Here, we introduce a database, termed the Altered States Database (ASDB), comprised of questionnaire data extracted from original research articles. The database contains data from articles published in MEDLINE-listed journals from experimentally induced altered states that were assessed with a specified set of standardized questionnaires. The dataset at hand will allow direct comparisons of the psychological effects of different induction methods as well as meta-analyses to establish induction method specific dose-response relationships. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<category>Journal</category>
+<category>Data Model</category>
+<category>Data</category>
+<category>Database</category>
+<category>Ontology</category>
+<category>Schema</category>
+<category>Other</category>
+<release>Jun 20, 2018</release>
+<homepage>http://www.asdb.info</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

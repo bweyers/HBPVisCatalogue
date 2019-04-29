@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="SurfStat" nitrc="https://www.nitrc.org/projects/surfstat" />
+<description> SurfStat is a Matlab toolbox for the statistical analysis of univariate and multivariate surface data using linear mixed effects models and random field theory. </description>
+<license>Freeware</license>
+<category>Modeling</category>
+<category>Linear</category>
+<platform>OS Independent</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 23, 2008</release>
+<homepage>http://www.math.mcgill.ca/keith/surfstat</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

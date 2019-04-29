@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="aBEAT" nitrc="https://www.nitrc.org/projects/abeat" />
+<description> aBEAT is a 4D Adult Brain Extraction and Analysis Toolbox with graphical user interfaces to consistently analyze 4D adult brain MR images. Single-time-point images can also be analyzed. Main functions of the software include image preprocessing, 4D brain extraction, 4D tissue segmentation, 4D brain labeling, ROI analysis. The software is developed by the IDEA group at the University of North Carolina at Chapel Hill, directed by Dr. Dinggang Shen (&lt;a href=&quot;mailto:dinggang_shen@med.unc.edu&quot; target=&quot;_new&quot;&gt;dinggang_shen@med.unc.edu&lt;/a&gt;). &lt;br /&gt;&lt;br /&gt;Linux operating system (64 bit) is required. A computer with 8G memory (or more) is recommended for processing many images simutaneously. The graphical user interfaces and overall framework of the software are implemented in MATLAB. The image processing functions are implemented with the combination of C/C++, MATLAB, Perl and Shell languages. Parallelization technologies are used in the software to speed up image processing. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=640&amp;screenshot_id=563&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=640&amp;screenshot_id=563&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>aBEAT</license>
+<category>Atlas Application</category>
+<category>Segmentation</category>
+<category>Visualization</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Sep 19, 2012</release>
+<homepage>http://www.nitrc.org/projects/abeat/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

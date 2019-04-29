@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="HSNC" nitrc="https://www.nitrc.org/projects/hsnc" />
+<description> 89 accurate masks of skull-stripped MR images </description>
+<license>XNAT License</license>
+<release>Jul 17, 2018</release>
+<homepage>http://www.nitrc.org/projects/hsnc/</homepage>
+<maintainer>fudan university</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MGA - Multimodal Glioma Analysis" nitrc="https://www.nitrc.org/projects/hof" />
+<description> MGA is an MRI preprocessing pipeline built with HOF (Heterogeneous Optimization Framework) methodology. MGA prepares neuro-oncology clinical imaging studies for scientific analysis such as multispectral ROI analysis, in both longitudinal and cross-sectional studies. MGA works on DICOM images from a single MRI study. Includes perfusion (DSC sequence based) analysis and DTI analysis, and spatially co-registers all study images to an atlas template and to a template image within the study. MGA is designed to reasonably minimize user configuration steps and to accept a broad range of MRI submodalities, including support for clinical image quality. The distribution is available as a stand-alone docker.io virtual appliance for 64-bit Linux environments (see detailed instructions in the installation package):&lt;br /&gt;&lt;a href=&quot;https://bitbucket.org/mmilch01/mga_docker_install&quot; target=&quot;_new&quot;&gt;https://bitbucket.org/mmilch01/mga_docke...&lt;/a&gt;</description>
+<license>BSD License</license>
+<release>Aug 19, 2014</release>
+<homepage>http://bitbucket.org/mmilch01/mga_docker_install</homepage>
+<maintainer>Neuroinformatics Research Group</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="DIAMOND" nitrc="https://www.nitrc.org/projects/diamond" />
+<description> UC Davis IDeA Lab Applications for Management Of Neuroimaging Data -&lt;br /&gt;View dicom files and assemble them into 3D volumes.&lt;br /&gt;View and convert between Analyze, Nifti, and Interfile.&lt;br /&gt;Classify and organize dicoms and 3D volumes using metadata.&lt;br /&gt;Search and report on a collection of scans. </description>
+<category>Algorithm or Reusable Library</category>
+<category>Database Application</category>
+<category>Format Conversion</category>
+<category>Image Reconstruction</category>
+<category>Image Display</category>
+<category>Workflow</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 17, 2009</release>
+<homepage>http://www.nitrc.org/projects/diamond/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

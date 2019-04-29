@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="UCLA Multimodal Connectivity Database" nitrc="https://www.nitrc.org/projects/umcd" />
+<description> The UCLA Multimodal Connectivity Database - &lt;a href=&quot;http://umcd.humanconnectomeproject.org&quot; target=&quot;_new&quot;&gt;http://umcd.humanconnectomeproject.org&lt;/a&gt; - is a web-based analysis site and data repository for connectivity matrices that have been derived from neuroimaging data. The site is powered by the MGH/UCLA Human Connectome Project. Anyone can browse and analyze connectivity matrices that researchers have shared on this site. The data comes from different imaging modalities (fMRI, DTI, structural MRI, EEG), subject groups, and studies. The website allows users to choose any network shared by another user, compute graph theoretical metrics on the fly, and visualize the results. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=519&amp;screenshot_id=393&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=519&amp;screenshot_id=393&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Web Application - Free to use</license>
+<category>Data</category>
+<category>Web Resource</category>
+<category>Image Display</category>
+<category>Rendering</category>
+<platform>OS Independent</platform>
+<release>Jul 28, 2011</release>
+<homepage>http://umcd.humanconnectomeproject.org</homepage>
+<maintainer>UCLA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

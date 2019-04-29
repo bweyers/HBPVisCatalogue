@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="scikit-learn" nitrc="https://www.nitrc.org/projects/scikit-learn" />
+<description> scikit-learn: machine learning in Python </description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Modeling</category>
+<category>Discriminant Analysis</category>
+<category>Independent Component Analysis</category>
+<category>Principal Component Analysis</category>
+<category>Linear</category>
+<category>Nonlinear</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<release>Jul 25, 2011</release>
+<homepage>http://scikit-learn.org/</homepage>
+<maintainer>INRIA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

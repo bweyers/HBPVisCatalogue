@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="MEGSIM" nitrc="https://www.nitrc.org/projects/megsim" />
+<description> MEGSIM, &lt;a href=&quot;http://cobre.mrn.org/megsim/,&quot; target=&quot;_new&quot;&gt;http://cobre.mrn.org/megsim/,&lt;/a&gt; contains realistic simulated MEG datasets ranging from basic sensory to oscillatory sets that mimic functional connectivity; as well as basic visual, auditory, and somatosensory empirical sets. The simulated sets were created for the purpose of testing analysis algorithms across the different MEG systems when the truth is known. MEG baseline recordings were obtained from 5 healthy participants, using three MEG systems: VSM/CTF Omega, Elekta Neuromag Vectorview, 4-D Magnes 3600. Simulated signals were embedded within the CTF and Neuromag 306 baseline recordings (4-D to be added). Participant MRIs are available. Averaged simulation files are available as netcdf files. Neuromag 306 averaged simulations are also available in fif format. Also available: single trials of data where the simulated signal is jittered about a mean value, continuous fif files where the simulated signal is marked by a trigger, and simulations with oscillations added to mimic functional connectivity. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=538&amp;screenshot_id=616&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=538&amp;screenshot_id=616&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Data Model</category>
+<category>Test Data</category>
+<category>Other</category>
+<category>MEG Modeling</category>
+<platform>OS Independent</platform>
+<release>Nov 10, 2011</release>
+<homepage>http://www.nitrc.org/projects/megsim/</homepage>
+<maintainer>University of New Mexico &amp; The MIND Research Network</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

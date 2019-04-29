@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="BrainVoyager Brain Tutor" nitrc="https://www.nitrc.org/projects/bvbraintutor" />
+<description> The free BrainVoyager Brain Tutor teaches you knowledge about the human brain through interactive exploration of rotatable 3D models. The models have been computed with BrainVoyager using original data from magnetic resonance imaging (MRI) scans. Besides having fun with the rotatable 3D models, the program contains information about the major lobes, gyri, sulci and Brodmann areas of the cerebral cortex. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=173&amp;screenshot_id=89&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=173&amp;screenshot_id=89&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<category>Information Resource</category>
+<category>Application</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 28, 2008</release>
+<homepage>http://www.nitrc.org/projects/bvbraintutor/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

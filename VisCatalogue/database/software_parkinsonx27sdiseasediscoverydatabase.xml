@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Parkinson&#x27;s Disease Discovery Database" nitrc="https://www.nitrc.org/projects/pd3" />
+<description> Tools will be available for biomedical data mining and visualization as well as linkages to Google Maps and other online resources. </description>
+<license>LONI Software License</license>
+<release>Apr 12, 2010</release>
+<homepage>http://www.nitrc.org/projects/pd3/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

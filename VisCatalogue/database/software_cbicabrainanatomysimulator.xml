@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: Brain Anatomy Simulator" nitrc="https://www.nitrc.org/projects/brainanatsim" />
+<description> This package estimates the statistical properties of high-dimensional deformation fields[6], which are produced by deformable registration packages like HAMMER above, and then uses the estimates statistics to simulate brain images with very high degree of realism. The statistical properties of a family of deformations are estimated via a combination of wavelet packet decomposition on the deformations and their Jacobians, and PCA. This package can be used to better represent the statistical priors of deformation fields in deformable registration methods that use priors, such as active shape models. Moreover, SSD can be used to generate very realistic and rich deformations, which can be used for generation of gold standard against which different registration methods can be compared. Finally, a method for generation of simulated tissue atrophy is supplied as a separate package [7], which further enables simulation and validation studies. </description>
+<license>SBIA License</license>
+<release>Feb 21, 2017</release>
+<homepage>http://www.nitrc.org/projects/brainanatsim/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

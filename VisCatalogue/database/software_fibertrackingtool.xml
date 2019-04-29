@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Fiber Tracking Tool" nitrc="https://www.nitrc.org/projects/fiber-sig" />
+<description> Used to analyze the fibers produced by ukf tractography </description>
+<license>BSD License</license>
+<release>Oct 12, 2011</release>
+<homepage>http://www.nitrc.org/projects/fiber-sig/</homepage>
+<maintainer>UNC CH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

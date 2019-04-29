@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Measure Projection Toolbox (MPT)" nitrc="https://www.nitrc.org/projects/measure_project" />
+<description> This toolbox is an EEGLAB plugin for performing Measure Projection Analysis. &lt;br /&gt;&lt;br /&gt;Measure Projection Analysis (MPA) is a novel probabilistic multi-subject inference method that overcomes EEG Independent Component (IC) clustering issues by abandoning the notion of distinct IC clusters. Instead, it searches voxel by voxel for brain regions having event-related IC process dynamics that exhibit statistically significant consistency across subjects and/or sessions as quantified by the values of various EEG measures. &lt;br /&gt;&lt;br /&gt;Local-mean EEG measure values are then assigned to all such locations based on a probabilistic model of IC localization error and inter-subject anatomical and functional differences. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=560&amp;screenshot_id=463&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=560&amp;screenshot_id=463&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MPT</license>
+<category>Algorithm or Reusable Library</category>
+<category>Surrogate Data Analysis</category>
+<category>Visualization</category>
+<release>Jan 6, 2012</release>
+<homepage>http://sccn.ucsd.edu/wiki/MPT</homepage>
+<maintainer>University of California San Diego</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

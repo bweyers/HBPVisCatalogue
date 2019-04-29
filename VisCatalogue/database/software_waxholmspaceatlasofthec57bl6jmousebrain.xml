@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Waxholm Space Atlas of the C57BL/6J Mouse Brain" nitrc="https://www.nitrc.org/projects/incfwhsmouse" />
+<description> Here you can download image volumes representing the canonical Waxholm Space (WHS) adult C57BL/6J mouse brain. These images include T1-, T2*-, and T2-Weighted MR volumes (generated at the Duke Center for In-Vivo Microscopy), Nissl-stained optical histology (acquired at Drexel University), and a volume of labels. All volumes are represented at 21.5μ isotropic resolution. &lt;br /&gt;&lt;br /&gt;The label volume represents phase one delineations of the WHS mouse brain. The atlas contains 26 structures (+ inner ear) organized in accordance with the NeuroLex Brain Partonomy scheme found at: &lt;a href=&quot;http://neurolex.org/wiki/Brain_Partonomy_(general_mammalian).&quot; target=&quot;_new&quot;&gt;http://neurolex.org/wiki/Brain_Partonomy...&lt;/a&gt; The delineations are intended as a communication aid for finding brain locations. Delineations are based on visually distinguishable features and are not intended to impose a specific view of brain structure or function. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<release>Dec 14, 2016</release>
+<homepage>http://www.nitrc.org/projects/incfwhsmouse/</homepage>
+<maintainer>INCF</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

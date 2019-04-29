@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Templates for In vivo Mouse Brain" nitrc="https://www.nitrc.org/projects/tpm_mouse" />
+<description> The templates for in vivo mouse brain are intended for SPM normalization and segmentation (including skull-stripping). The population-averaged, stereotaxic, and tissue segmented template were created from in vivo T1WI (an isotropic resolution of 80μm) of C57Bl/6(n=30, male), BALB/cBy(n=10, male), C3H/He(n=10, male), and DBA/2 (n=10, male) mice. The voxel size of templates were multiplied by 10 to be able to use SPM directly.&lt;br /&gt;Keywords: atlas, mouse, probability map, template, inbred strain&lt;br /&gt;&lt;br /&gt;Please refer to the following article for the atlases: &lt;br /&gt;Hikishima K, Komaki Y, Seki F, Ohnishi Y, Okano HJ, Okano H. &lt;br /&gt;In vivo microscopic voxel-based morphometry with a brain template to characterize strain-specific structures in the mouse brain. Sci Rep. 2017 Dec;7(1):85. doi:10.1038/s41598-017-00148-1. PubMed PMID: 28273899.&lt;br /&gt;&lt;br /&gt;Authors: Keigo Hikishima, Hideyuki Okano&lt;br /&gt;Contact person: &lt;a href=&quot;mailto:keigo.hikishima@oist.jp&quot; target=&quot;_new&quot;&gt;keigo.hikishima@oist.jp&lt;/a&gt;</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<category>Atlas Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 26, 2015</release>
+<homepage>http://www.nitrc.org/projects/tpm_mouse/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

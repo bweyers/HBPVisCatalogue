@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Stereoscopic Atlas of Intrinsic Brain Networks (SAIBN)" nitrc="https://www.nitrc.org/projects/saibn" />
+<description> This tool is a 3D stereoscopic (anaglyph method) full brain functional connectivity atlas created using a parcellation atlas published by Craddock et al. (2012). Using 3D Slicer 3.6.3 and the two hundred ROI version of the Craddock atlas, 200 grayscale surface models were created using a z-stat threshold &amp;gt; 2.3, and each surface model was processed with a surface decimation algorithm, smoothed with the Taubin algorithm and without surface normals.&lt;br /&gt;&lt;br /&gt;For improved visualization of the functional connectivity networks and their relative anatomical position, the surface model of five subcortical anatomical structures (corpus callosum, bilateral caudate, pallidum, putamen, thalamus, amygdala and hippocampus) were included in SAIBN. These surfaces were created with 3D Slicer using the segmentation computed with Freesurfer v. 5.1.&lt;br /&gt;&lt;br /&gt;The viewer should use red-cyan glasses to see the 3D stereoscopic effect using 3D Slicer (version 3.6.3, &lt;a href=&quot;http://www.slicer.org/pages/Special:SlicerDownloads&quot; target=&quot;_new&quot;&gt;http://www.slicer.org/pages/Special:Slic...&lt;/a&gt;). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=650&amp;screenshot_id=580&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=650&amp;screenshot_id=580&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<release>Sep 27, 2012</release>
+<homepage>http://www.nitrc.org/projects/saibn/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

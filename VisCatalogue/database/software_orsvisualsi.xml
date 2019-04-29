@@ -1,0 +1,28 @@
+<root>
+<software>
+<name name="ORS Visual SI" nitrc="https://www.nitrc.org/projects/orsvisual_si" />
+<description> ORS Visual SI&#x27;s advanced visualization techniques and state-of-the-art volume rendering provide unparalleled insight into the details and properties of neurological data acquired by CT, micro-CT, MRI, PET, SPECT, microscopy and other modalities. With data fusion tools, intramodality and multimodality registration of MR/CT or PET/CT is easily accomplished, while semi-automatic VOI delineation on fused datasets can improve analysis. &lt;br /&gt;&lt;br /&gt;Standard formats, such as DICOM, RAW, JPEG, NIFTI, Analyze are supported and 3D/4D sequences can be played. Other features include MPR, oblique, CPR, volume clipping, and surface visualization of cortex, skull, and scalp models. Also standard are easy-to-use tools for voxel-based delineation of features and the measurement of properties, including areas, volumes, counts, and intensity profiles. Present your findings by creating annotated animations or high-resolution images for posters.&lt;br /&gt;&lt;br /&gt;An SDK is also available to create plug-ins that provide new workflows or functionalities. </description>
+<license>ORS Visual SI License</license>
+<category>Image Reconstruction</category>
+<category>Quantitative Shape Analysis</category>
+<category>Volume Measurement</category>
+<category>Active Contour</category>
+<category>Region Growing</category>
+<category>Region of Interest</category>
+<category>Shape Analysis</category>
+<category>Surface Analysis</category>
+<category>Animation</category>
+<category>Clipping</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<category>Vitual Endoscopy</category>
+<release>Oct 24, 2012</release>
+<homepage>http://www.nitrc.org/projects/orsvisual_si/</homepage>
+<maintainer>Object Research Systems (ORS) Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

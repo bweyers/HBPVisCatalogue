@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Time Encoding and Decoding Toolbox" nitrc="https://www.nitrc.org/projects/ted-python" />
+<description> Time Encoding Machines (TEMs) are asynchronous signal processors that encode analog information in the time domain. TEMs play a key role in modeling the sensing of the natural world by biological sensory systems.&lt;br /&gt;&lt;br /&gt;Time Decoding Machines (TDMs) recover stimuli encoded as time (spike) sequences by TEMs. Assuming that Nyquist-type rate conditions are satisfied by the encoding architecture, arbitrarily precise stimulus recovery of time-encoded 1D and 2D (video) signals can be achieved. &lt;br /&gt;&lt;br /&gt;The Time Encoding and Decoding Toolbox contains Python implementations of a selection of SISO, SIMO, and MIMO TEMs and corresponding TDMs that include encoding circuits utilizing classical neuron models (LIF, Hodgkin-Huxley, etc.), feedback, random thresholds, and/or Asynchronous Sigma/Delta Modulators. These can be used to develop new models of information encoding and processing in neural circuits. </description>
+<license>BSD License</license>
+<release>Dec 11, 2016</release>
+<homepage>http://www.nitrc.org/projects/ted-python/</homepage>
+<maintainer>Bionet Group, Columbia University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

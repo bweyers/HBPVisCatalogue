@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Augmented Reality Mirror" nitrc="https://www.nitrc.org/projects/ar_mirror" />
+<description> The Augmented Reality Mirror is an open source rendering software to provide users with a virtual reality experience. With the provisions of a projection display, a laptop with multi-core GPU, and XBOX kinect, users can stand in front of the mirror and representative anatomical images will overlay the body. The images implemented are adapted to approximate the actual anatomy. The open source software will have an application programming interface (API) to allow users to develop additional content within the Augmented Reality Mirror. </description>
+<license>BSD License</license>
+<release>Jan 21, 2015</release>
+<homepage>http://www.nitrc.org/projects/ar_mirror/</homepage>
+<maintainer>MASI</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

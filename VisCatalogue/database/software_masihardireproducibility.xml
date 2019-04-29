@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="masi_hardi_reproducibility" nitrc="https://www.nitrc.org/projects/masi_hardi_repr" />
+<description> Massive single subject reproducibility data set acquired with HARDI suggested acquisition schemes </description>
+<license>MASI</license>
+<release>Dec 18, 2017</release>
+<homepage>http://www.nitrc.org/projects/masi_hardi_repr/</homepage>
+<maintainer>Vanderbilt</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

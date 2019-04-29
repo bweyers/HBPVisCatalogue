@@ -1,0 +1,34 @@
+<root>
+<software>
+<name name="Simple Medical Imaging Library Interface (SMILI)" nitrc="https://www.nitrc.org/projects/smili" />
+<description> The Simple Medical Imaging Library Interface (SMILI), pronounced &#x27;smilie&#x27;, is an open-source, light-weight and easy-to-use medical imaging viewer and library for all major operating systems. The main sMILX application features for viewing n-D images, vector images, DICOMs, anonymizing, shape analysis and models/surfaces with easy drag and drop functions. It also features a number of standard processing algorithms for smoothing, thresholding, masking etc. images and models, both with graphical user interfaces and/or via the command-line. See our YouTube channel for tutorial videos via the homepage.&lt;br /&gt;&lt;br /&gt;The applications are all built out of a uniform user-interface framework that provides a very high level (Qt) interface to powerful image processing and scientific visualisation algorithms from the Insight Toolkit (ITK) and Visualisation Toolkit (VTK). The framework allows one to build stand-alone medical imaging applications quickly and easily, while having a multitude of processing and visualisations built-in. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=895&amp;screenshot_id=877&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=895&amp;screenshot_id=877&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Shape Analysis</category>
+<category>Animation</category>
+<category>Image Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<category>Platform or Development Environment</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Nov 20, 2014</release>
+<homepage>http://smili-project.sourceforge.net/</homepage>
+<maintainer>University of Queensland</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

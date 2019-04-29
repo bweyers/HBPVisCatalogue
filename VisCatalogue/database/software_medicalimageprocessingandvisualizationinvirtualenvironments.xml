@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Medical Image Processing and Visualization in Virtual Environments" nitrc="https://www.nitrc.org/projects/medvr" />
+<description> This resouce will centralize development of tools for interaction with medical imaging data in immersive virtual environments (based on the Vizard platform). </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Jan 10, 2013</release>
+<homepage>http://www.nitrc.org/projects/medvr/</homepage>
+<maintainer>Vanderbilt Unveriversity</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

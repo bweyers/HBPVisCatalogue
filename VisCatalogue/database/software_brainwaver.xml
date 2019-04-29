@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Brainwaver" nitrc="https://www.nitrc.org/projects/brainwaver" />
+<description> Characterisation of small-world networks constructed from wavelet analysis of resting fMRI. This package is currently available as an R library. Futrure development will take place within the CamBA software repository </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Application</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<release>Jul 18, 2007</release>
+<homepage>http://www.wbic.cam.ac.uk/~sa428/brainwaver/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

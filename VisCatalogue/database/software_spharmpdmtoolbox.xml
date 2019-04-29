@@ -1,0 +1,30 @@
+<root>
+<software>
+<name name="SPHARM-PDM Toolbox" nitrc="https://www.nitrc.org/projects/spharm-pdm" />
+<description> Shape analysis has become of increasing interest to the medical community due to its potential to precisely locate morphological changes between healthy and pathological structures. SPHARM-PDM is a tool that computes point-based models using a parametric boundary description for the computing of Shape analysis. &lt;br /&gt;&lt;br /&gt;Since July 2017, SPHARM-PDM is now available as a 3D Slicer extension (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;) and as part of SlicerSALT (salt.slicer.org). Dissemination of SPHARM-PDM through SlicerSALT is now the major mode of dissemination for downloading new versions of SPHARM-PDM.&lt;br /&gt;&lt;br /&gt;For questions, please refer to the new SlicerSALT forum at &lt;a href=&quot;https://discourse.slicer.org/c/community/slicer-salt&quot; target=&quot;_new&quot;&gt;https://discourse.slicer.org/c/community...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Note: the modules available in the downloads section have not been updated since 2015 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=308&amp;screenshot_id=1110&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=308&amp;screenshot_id=1110&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Quantitative Shape Analysis</category>
+<category>Spherical Harmonics</category>
+<category>Surface Analysis</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Dec 9, 2009</release>
+<homepage>http://www.nitrc.org/projects/spharm-pdm/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

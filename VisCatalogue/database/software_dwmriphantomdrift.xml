@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="DWMRI Phantom Drift" nitrc="https://www.nitrc.org/projects/phantom_drift" />
+<description> This is a set of DWMRI acquisitions of two different diffusion phantoms with interspersed images with a b-value of zero. These were used to analyzed the affects of temporal scanner drift. There are 5 unique corrections (and associated corrected DWMRI data) that was applied to this data to correct for temporal/spatial drift over the course of each scan. The corrections were implemented in MATLAB. </description>
+<license>MASI</license>
+<release>Jun 13, 2018</release>
+<homepage>http://www.nitrc.org/projects/phantom_drift/</homepage>
+<maintainer>Vanderbilt University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

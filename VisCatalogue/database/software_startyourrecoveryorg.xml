@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="StartYourRecovery.org" nitrc="https://www.nitrc.org/projects/startyourrecov" />
+<description> StartYourRecovery.org offers people who are dealing with substance use issues a single source of reputable, objective information about signs, symptoms, conditions, treatment options, and resources — presented in a user-friendly format and in language that’s easy to understand. </description>
+<license>n/a</license>
+<release>Sep 27, 2017</release>
+<homepage>http://www.nitrc.org/projects/startyourrecov/</homepage>
+<maintainer>StartYourRecovery.org</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

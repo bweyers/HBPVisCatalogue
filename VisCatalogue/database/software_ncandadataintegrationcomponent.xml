@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="NCANDA: Data Integration Component" nitrc="https://www.nitrc.org/projects/ncanda-datacore" />
+<description> This is the Data Integration, MRI, and Bioinformatics Component of the National Consortium on Alcohol and NeuroDevelopment in Adolescence (NCANDA), funded by the NIAAA.&lt;br /&gt;&lt;br /&gt;The NCANDA consortium consists of an Administrative Component at UC San Diego, the Data Integration Component at SRI International, and five data collection sites, Duke University, Oregon Health &amp;amp; Sciences University, SRI International, University of Pittsburgh, and UC San Diego. Each collection site will collect data from about 150 adolescents, each of them seen for one baseline and three annual follow-up visits.&lt;br /&gt;&lt;br /&gt;Here, we are making available manuals, training materials, and computational tools developed by the NCANDA Data Component. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=672&amp;screenshot_id=595&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=672&amp;screenshot_id=595&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Other Information Resource</category>
+<category>Other Software Resource</category>
+<category>Platform or Development Environment</category>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>PDF - Portable Document Format</input>
+<output>PDF - Portable Document Format</output>
+<release>Dec 20, 2012</release>
+<homepage>http://www.nitrc.org/projects/ncanda-datacore/</homepage>
+<maintainer>SRI International</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

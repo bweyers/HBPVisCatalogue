@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="MultiTracer version 2" nitrc="https://www.nitrc.org/projects/multitracer2" />
+<description> MultiTracer version 2 is a compiled Java 1.6 application. It supports NIfTI-1.1 format float, double and signed and unsigned byte, short, and integer formats and provides legacy support for Analyze 7.5 8 and 16 bit images. It provides image display, editing, delineation of structure boundaries, export of traced contours and generation of masked volumes. Images are displayed in 3 orthogonal views. Time series can be displayed as averaged or contrast images and time courses can be visualized graphically. Version 2 provides enhancements to the original MultiTracer feature set described in Woods RP. Multitracer: a Java-based tool for anatomic delineation of grayscale volumetric images. Neuroimage 2003 Aug;19(4):1829-34.&lt;br /&gt;&lt;br /&gt;Documentation: &lt;a href=&quot;http://air.bmap.ucla.edu/MultiTracer2/MultiTracer.html&quot; target=&quot;_new&quot;&gt;http://air.bmap.ucla.edu/MultiTracer2/Mu...&lt;/a&gt;&lt;br /&gt;Download: &lt;a href=&quot;http://www.bmap.ucla.edu/portfolio/software/MultiTracer/&quot; target=&quot;_new&quot;&gt;http://www.bmap.ucla.edu/portfolio/softw...&lt;/a&gt;</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Manual</category>
+<category>Region Growing</category>
+<category>Volumetric Analysis</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 29, 2012</release>
+<homepage>http://air.bmap.ucla.edu/MultiTracer2/MultiTracer.html</homepage>
+<maintainer>UCLA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

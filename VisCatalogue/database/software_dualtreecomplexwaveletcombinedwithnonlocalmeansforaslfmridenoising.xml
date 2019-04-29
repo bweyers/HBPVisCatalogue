@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Dual-tree complex wavelet combined with non-local means for ASL fMRI denoising" nitrc="https://www.nitrc.org/projects/dt-cwt-nlm" />
+<description> Dual-tree complex wavelet combined with non-local means ASL fMRI denoising is a software toolbox that can denoise MR images, especially ASL fMRI images. The software:&lt;br /&gt;&lt;br /&gt;(1) Reads and writes images in analyze format;&lt;br /&gt;(2) Pre-processes ASL fMRI images and provides denoised images for further analysis;&lt;br /&gt;(3) Achieves variable denoising outcomes by changing certain parameters;&lt;br /&gt;(4) Can be employed for denoising other MR images, such as diffusion MRI,etc. &lt;br /&gt;&lt;br /&gt;The method is described in the following paper:&lt;br /&gt;Voxel-wise functional connectomics using arterial spin labeling fMRI: the role of denoising.&lt;br /&gt;Xiaoyun Liang, Alan Connelly, Fernando Calamante, 2015. Brain connectivity. DOI: 10.1089/brain.2014.0290. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=936&amp;screenshot_id=928&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=936&amp;screenshot_id=928&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>May 27, 2015</release>
+<homepage>http://www.nitrc.org/projects/dt-cwt-nlm/</homepage>
+<maintainer>Florey Institute of Neuroscience and Mental Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

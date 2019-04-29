@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="DWI/DTI Quality Control Tool: DTIPrep" nitrc="https://www.nitrc.org/projects/dtiprep" />
+<description> DTIPrep performs a &amp;quot;Study-specific Protocol&amp;quot; based automatic pipeline for DWI/DTI quality control and preparation. This is both a GUI and command line tool. The configurable pipeline includes image/diffusion information check, padding/Cropping of data, slice-wise, interlace-wise and gradient-wise intensity and motion check, head motion and Eddy current artifact correction, and DTI computing.&lt;br /&gt;&lt;br /&gt;DTIPrep is also available as an extension of 3D Slicer (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;) 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=283&amp;screenshot_id=216&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=283&amp;screenshot_id=216&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Application</category>
+<platform>MacOS</platform>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Oct 14, 2009</release>
+<homepage>http://www.nitrc.org/projects/dtiprep/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

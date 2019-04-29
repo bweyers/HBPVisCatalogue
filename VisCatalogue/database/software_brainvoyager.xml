@@ -1,0 +1,45 @@
+<root>
+<software>
+<name name="BrainVoyager" nitrc="https://www.nitrc.org/projects/bvqx" />
+<description> BrainVoyager is a powerful neuroimaging software package. It started as a tool for the analysis of anatomical and functional MRI data sets, but has evolved over the years into a multi-modal analysis software suite for fMRI, DTI, TMS, EEG and MEG data. The software is highly optimized and user friendly running on all major computer platforms including Microsoft Windows (7, 8, 8.1 and 10), Linux (e.g. Ubuntu 14.04 (64 bit), recent versions of Red Hat Enterprise Linux (RHEL), Fedora and most other distributions with a 3.x Linux kernel) and Mac OS X (10.10 or 10.11; it should also run fine on 10.9 and 10.8). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=309&amp;screenshot_id=969&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=309&amp;screenshot_id=969&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial license from Brain Innovation B.V., Maastricht, The Netherlands</license>
+<category>Granger Causality</category>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<category>Mesh Generation</category>
+<category>Source Separation Analysis</category>
+<category>Volume Measurement</category>
+<category>Segmentation</category>
+<category>Spatial Transformation</category>
+<category>Independent Component Analysis</category>
+<category>Multivariate Analysis</category>
+<category>Thickness</category>
+<category>Time Domain Analysis</category>
+<category>Fiber Tracking</category>
+<category>Visualization</category>
+<category>Platform or Development Environment</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>EEG Formats</input>
+<output>EEG Formats</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Dec 9, 2009</release>
+<homepage>http://www.brainvoyager.com/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

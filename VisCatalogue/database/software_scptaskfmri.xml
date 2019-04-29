@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="SCP_TaskfMRI" nitrc="https://www.nitrc.org/projects/scp_taskfmri" />
+<description> This repository holds the derived results of a task fMRI analysis software comparison project (Bowring et al, 2017). This project uses data from 3 carefully selected open source task fMRI datasets from OpenNeuro. Then, using the details in the published work, conducted three similar-as-possible parallel analyses in AFNI, FSL and SPM. The results are then all shared in the NeuroVault repository and all results are generated from freely available Python notebooks found &lt;a href=&quot;https://github.com/NISOx-BDI/Software_Comparison_Analyses&quot; target=&quot;_new&quot;&gt;https://github.com/NISOx-BDI/Software_Co...&lt;/a&gt; . The derived results comprise all first level and second results for AFNI, FSL and SPM parametric and nonparametric results.&lt;br /&gt;&lt;br /&gt;Bowring, A., Maumet, C., &amp;amp; Nichols, T. (2018). Exploring the Impact of Analysis Software on Task fMRI Results. bioRxiv. &lt;a href=&quot;https://www.biorxiv.org/content/early/2018/03/20/285585&quot; target=&quot;_new&quot;&gt;https://www.biorxiv.org/content/early/20...&lt;/a&gt;</description>
+<license>Public Domain</license>
+<release>Mar 26, 2018</release>
+<homepage>http://www.nitrc.org/projects/scp_taskfmri/</homepage>
+<maintainer>University of Oxford</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

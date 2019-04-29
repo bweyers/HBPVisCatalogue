@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="p-[(123)I]iodo-L-phenylalanine (IPA)-SPECT template in MNI-coordinates" nitrc="https://www.nitrc.org/projects/ipa-spect_templ" />
+<description> p-[(123)I]iodo-L-phenylalanine( IPA)-SPECT template in MNI-coordinates obtained from 12 human subjects </description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Data</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Nov 20, 2017</release>
+<homepage>http://www.nitrc.org/projects/ipa-spect_templ/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

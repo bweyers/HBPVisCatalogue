@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="BetA-Series COrrelation" nitrc="https://www.nitrc.org/projects/basco" />
+<description> BASCO (BetA-Series COrrelation) is a software tool (with GUI) for investigating inter-regional functional connectivity in event-related fMRI data and allows you to assess the modulation of functional connectivity by an experimental condition. This tool is inspired by an approach introduced by Rissman and colleagues (2004). The method is based on a general linear model (GLM) where the evoked activity in each trial is modeled by a separate covariate. This renders a series of beta-values for each voxel which is related to a given experimental condition. The functional connectivity between brain regions is derived from correlating voxel beta-series. BASCO offers the following analysis approaches: i) Seed-based functional connectivity analysis. ii) ROI-based network analysis. Given a parcellation of the brain the mean beta-series are extracted for each ROI and a network matrix is calculated correlating all ROI beta-series. iii) Voxel-based whole brain network analysis. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Connectivity Analysis</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<release>Nov 20, 2013</release>
+<homepage>http://www.nitrc.org/projects/basco/</homepage>
+<maintainer>University of Luebeck</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Neuro-Image Management System (NIMS)" nitrc="https://www.nitrc.org/projects/nims" />
+<description> NIMS is a scientific data management system specifically designed for neuroimaging data. NIMS automatically reaps data from the measurement instrument (e.g., MR scanner), sorts and organizes the data based on header information, does some basic processing on the data, and makes the data available to authorized users through a web-based interface. The data are also available from the command-line through a FUSE-based filesystem. See a live demo at the CNI public data site: &lt;a href=&quot;http://cni.stanford.edu/nims/pub/browse.&quot; target=&quot;_new&quot;&gt;http://cni.stanford.edu/nims/pub/browse.&lt;/a&gt;</description>
+<license>MIT/X Consortium License</license>
+<release>Jul 18, 2013</release>
+<homepage>http://www.nitrc.org/projects/nims/</homepage>
+<maintainer>Stanford University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

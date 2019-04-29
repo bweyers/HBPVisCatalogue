@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Age Related Atrophy Dataset" nitrc="https://www.nitrc.org/projects/aradata" />
+<description> The Age Related Atrophy dataset contains structural MR images of 70 subjects collected during 2008-2010 across a wide range of ages. The dataset also contains resting state fMRI for most subjects. The structural images are T1 weighted, T2 weighted-FLAIR, 25 direction DTI, and the T1 mapping DESPOT [1] sequence. Reconstructed T1 maps for each subject are also available.&lt;br /&gt;&lt;br /&gt;The aquisition protocol was designed to study structural differences between young and older adults including both shape and intensity changes. Anonymized DICOM image sessions and processed images for each subject are available. The data is licensed under the Creative Commons Attribution License. It may be used freely for commercial, academic, or other use, as long as the original source is properly cited.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.bsl.ece.vt.edu/index.php?page=ara-dataset&quot; target=&quot;_new&quot;&gt;http://www.bsl.ece.vt.edu/index.php?page...&lt;/a&gt;</description>
+<license>Creative Commons License</license>
+<release>Feb 13, 2012</release>
+<homepage>http://www.bsl.ece.vt.edu/index.php?page=ara-dataset</homepage>
+<maintainer>Virginia Polytechnic Institute and State University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

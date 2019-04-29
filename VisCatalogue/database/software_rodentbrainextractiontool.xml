@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Rodent Brain Extraction Tool" nitrc="https://www.nitrc.org/projects/rbet" />
+<description> A modified version of the Brain Extraction Tool (BET) that can process rodent brains. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=659&amp;screenshot_id=577&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=659&amp;screenshot_id=577&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<release>Oct 31, 2012</release>
+<homepage>https://github.com/spinicist/QUIT</homepage>
+<maintainer>King's College London, Institute of Psychiatry</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="4D-PARSeR (Pathological Anatomy Regression via Segmentation and Registration)" nitrc="https://www.nitrc.org/projects/parser_4d" />
+<description> 4D-PARSeR (Pathological Anatomy Regression via Segmentation and Registration) is a tool for analyzing 4D images with pathology. Originally developed for processing longitudinal images of patients with traumatic brain injury. The tool contains new image analysis algorithms that combine registration and segmentation in a coherent framework, accounting for extreme changes due to extensive tissue damage. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=724&amp;screenshot_id=654&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=724&amp;screenshot_id=654&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>3D Slicer License</license>
+<release>Jun 3, 2013</release>
+<homepage>http://www.nitrc.org/projects/parser_4d/</homepage>
+<maintainer>University of Utah</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

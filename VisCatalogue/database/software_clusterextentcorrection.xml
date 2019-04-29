@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Cluster Extent Correction" nitrc="https://www.nitrc.org/projects/cluster_correct" />
+<description> This script will take any .img file and correct it based on a cluster extent, cluster definition and voxelwise threshold. The threshold entered will be applied to positive and negative values separately, and separate pos and neg corrected images will be output. This script requires a license for the matlab image processing toolbox. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Mar 7, 2011</release>
+<homepage>http://www.nitrc.org/projects/cluster_correct/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="TOADS-CRUISE Brain Segmentation Tools" nitrc="https://www.nitrc.org/projects/toads-cruise" />
+<description> The TOADS-CRUISE Brain Segmentation Tools are a collection of software plug-ins developed for the automatic segmentation of magnetic resonance brain images. The tools include multiple published algorithms developed at Johns Hopkins University. The SPECTRE algorithm performs brain extraction. The TOADS algorithm generates a topology-preserving tissue classification into cortical, subcortical, and cerebellar structures. The CRUISE algorithm produces inner, central, and outer cortical surfaces suitable for computing thickness and other geometric measures. Tools are also included for performing gyral labeling, lesion segmentation, thickness computation, surface visualization, and surface file conversion. All tools are released as plug-ins for the MIPAV software package and were developed using the Java Image Science Toolkit (both available on NITRC). They are therefore cross-platform and compatible with a wide variety of file formats. </description>
+<license>Freeware</license>
+<release>Aug 14, 2009</release>
+<homepage>http://www.nitrc.org/projects/toads-cruise/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

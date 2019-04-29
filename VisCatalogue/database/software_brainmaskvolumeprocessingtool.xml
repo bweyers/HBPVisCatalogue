@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="BrainMask Volume Processing Tool" nitrc="https://www.nitrc.org/projects/brainmask" />
+<description> Segmentation of the brain from three-dimensional MR images is a crucial pre-processing step in morphological and volumetric brain studies. BrainMask implements a fully automatic brain segmentation algorithm that uses advanced &amp;quot;thresholding with morphology&amp;quot; and 3D edge detection algorithms. BrainMask demonstrates high segmentation accuracy. For a representative 26 datasets, the segmentation error averaged 3.4% ± 1.3% (Mikheev A et al. J Magn Reson Imag 27(6):1235-41;2008).&lt;br /&gt;&lt;br /&gt;BrainMask includes NNN - a tool based on the algorithm developed by John Sled for correcting the intensity non-uniformity in MR data (Sled JG et al. IEEE Trans Med Imag 17(1):87-97;1998).&lt;br /&gt;&lt;br /&gt;BrainMask also includes a versatile DICOM wiewer and allows to selectively load and organize DICOM images into 3D and 4D datasets. </description>
+<license>NYUMC FireVoxel-BrainMask Software License Agreement</license>
+<category>Volume Measurement</category>
+<category>Constrained Region Growing</category>
+<category>Region of Interest</category>
+<category>Volumetric Analysis</category>
+<category>Image Display</category>
+<platform>Windows XP</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Nov 6, 2008</release>
+<homepage>http://www.nitrc.org/projects/brainmask/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Local Binary Pattern Analysis Tools for MR Brain Images" nitrc="https://www.nitrc.org/projects/mri_lbptop" />
+<description> The packaged tools perform Local Binary Pattern on Three Orthogonal Planes(LBP-TOP) analysis on MR brain images. One can use them to extract LBP texture features for machine learning applications or other advance analysis. LBP-TOP mapping programs written by Java are including in this package. The output is the histogram describing the brain morphology. </description>
+<license>Free For Non-Commercial Use Only</license>
+<release>Sep 19, 2012</release>
+<homepage>http://www.nitrc.org/projects/mri_lbptop/</homepage>
+<maintainer>Department of Electrical Engineering, National Taiwan University, Taipei, Taiwan</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

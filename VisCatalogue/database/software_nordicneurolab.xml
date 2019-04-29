@@ -1,0 +1,30 @@
+<root>
+<software>
+<name name="NordicNeuroLab" nitrc="https://www.nitrc.org/projects/nnl" />
+<description> With over a decade of experience, NordicNeuroLab (NNL) provides products and solutions that define the field of functional MR imaging. We understand the growing need for reliable and innovative tools in this growing field. As a result, we closely collaborate with research and clinical teams from both academic and medical centers, MR system manufacturers, and third party vendors to develop and manufacture hardware and software solutions that meet the needs of very experienced centers while developing training programs to make fMRI easy to adopt for more novice users.&lt;br /&gt;&lt;br /&gt;From state of the art post-processing and visualization software for BOLD, Diffusion/DTI, and Perfusion/DCE imaging to fMRI hardware for audio and visual stimulation, eye tracking, and patient response collection, NNL&#x27;s products are used around the world by researchers and clinicians alike. Ultimately, we are dedicated to bringing the most advanced neuro-imaging tools to market while making functional MRI programs easy to implement. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=498&amp;screenshot_id=375&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=498&amp;screenshot_id=375&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial: NordicNeuroLab</license>
+<category>Stimulus Presentation</category>
+<category>Eye Tracking</category>
+<category>Scanner</category>
+<category>Perfusion</category>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>Windows Vista</platform>
+<platform>Windows XP</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>ASCII</input>
+<output>ASCII</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 30, 2011</release>
+<homepage>http://www.nordicneurolab.com</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="MPScope" nitrc="https://www.nitrc.org/projects/mpscope" />
+<description> MPScope is a comprehensive software suite for custom-built multiphoton microscopes available as freeware for the Wintel platform. The MPScope package features the acquisition software MPScan, the analysis program MPView and several software utilities </description>
+<license>Freeware</license>
+<category>Experiment Control</category>
+<category>Scanner</category>
+<platform>Windows 95/98/2000</platform>
+<platform>Windows NT/2000</platform>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jan 30, 2008</release>
+<homepage>http://www.nitrc.org/projects/mpscope/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

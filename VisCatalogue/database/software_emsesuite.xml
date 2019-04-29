@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="EMSE Suite" nitrc="https://www.nitrc.org/projects/emse" />
+<description> EMSE Suite is a professionally supported modular platform for space-time-frequency analyses of EEG/MEG/ECoG integrated (optionally) with structural MRI and functional hemodynamic measures (fMRI and NIRS). The Locator module digitizes 3D sensor coordinates. Data Editor provides live and offline pipelines of spatial and temporal filters, and easy-to-use event pipelines for conditional binning of time, frequency, and time-frequency data across participants, with group results. Coherence, phase synchronication, and quasi-causal information assess connectivity. Source Estimator enables modeling of discrete overdetermined and distributed underdetermined sources, and spatial filtering for 3D brain regions of interest. Statistical nonparametric mapping (SnPM) may be performed for all measures. MR Viewer and Image Processor comprise tools for BEM and FEM volume conductor models, using cortical source space models. See &lt;a href=&quot;http://www.cortechsolutions.com/EMSE/&quot; target=&quot;_new&quot;&gt;http://www.cortechsolutions.com/EMSE/&lt;/a&gt; for details and a supported free trial. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=657&amp;screenshot_id=576&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=657&amp;screenshot_id=576&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>EEG Modeling</category>
+<release>Oct 20, 2012</release>
+<homepage>http://www.cortechsolutions.com/EMSE/</homepage>
+<maintainer>Cortech Solutions, Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="OpenViBE" nitrc="https://www.nitrc.org/projects/openvibe" />
+<description> OpenViBE is a software platform dedicated to designing, testing and using brain-computer interfaces (BCI). The package includes an Acquisition Server application to stream data from various hardware devices, and a Designer tool to create and run real-time signal-processing chains assembled with a graphical design language. OpenViBE package includes several BCI demo applications (based on e.g. P300, SSVEP, Motor Imagery, etc) which are ready for use. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=811&amp;screenshot_id=750&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=811&amp;screenshot_id=750&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Affero General Public License v3</license>
+<category>Platform or Development Environment</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>EDF/BDF/GDF</input>
+<output>EDF/BDF/GDF</output>
+<release>Apr 9, 2014</release>
+<homepage>http://openvibe.inria.fr</homepage>
+<maintainer>Inria</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

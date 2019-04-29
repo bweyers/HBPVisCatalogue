@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Disease State Prediction" nitrc="https://www.nitrc.org/projects/diseasestate" />
+<description> These are the scripts used for the analyses reported in: Craddock RC, Holtzheimer PE, 3rd, Hu XP, Mayberg HS. (2009): Disease state prediction from resting state functional connectivity. Magn Reson Med 62(6):1619-28.&lt;br /&gt;&lt;br /&gt;Specifically included are scripts for performing t-test filter, reliability filter, recursive feature elimination, and reliability recursive feature elimination feature selection methods. These make use of wrappers that perform .632 bootstrap and k-fold cross validation strategies. The scripts are written in matlab and require the Bioinformatics toolbox. If you do not have the bioinformatics toolbox, the scripts can be easily modified to run with other matlab SVM toolboxes (i.e., libsvm, svmlight, shogun, etc.). </description>
+<license>Attribution Non-Commercial</license>
+<release>Nov 12, 2010</release>
+<homepage>http://www.nitrc.org/projects/diseasestate/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Neurodocker" nitrc="https://www.nitrc.org/projects/neurodocker" />
+<description> Generate Dockerfiles and Singularity recipes for neuroimaging with a simple command-line interface. Neurodocker supports a growing list of software, including AFNI, ANTs, Convert3D, Dcm2niix, FreeSurfer, FSL, Matlab Compiler Runtime, MINC, Miniconda, MRtrix3, NeuroDebian, PETPVC, and SPM12. </description>
+<license>Apache License 2.0</license>
+<category>Application</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<release>Jun 20, 2018</release>
+<homepage>https://hub.docker.com/r/kaczmarj/neurodocker/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

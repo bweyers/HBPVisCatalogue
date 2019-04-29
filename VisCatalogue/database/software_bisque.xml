@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Bisque" nitrc="https://www.nitrc.org/projects/bisque" />
+<description> Bisque (Bio-Image Semantic Query User Environment) is a scalable web-based system for biological image analysis, management and exploration. The Bisque system incorporates many features useful to imaging researchers from image capture to extensible image analysis and querying. At the core, bisque maintains a flexible database of images and experimental metadata. Image analyses can be incorporated into the system and deployed on clusters and desktops. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Mar 14, 2011</release>
+<homepage>http://www.nitrc.org/projects/bisque/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

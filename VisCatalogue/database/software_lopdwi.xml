@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="lop-DWI" nitrc="https://www.nitrc.org/projects/lop-dwi" />
+<description> For information about lo-DWI and the data please visit: &lt;br /&gt;&lt;a href=&quot;https://sites.google.com/site/lopdwi/home&quot; target=&quot;_new&quot;&gt;https://sites.google.com/site/lopdwi/hom...&lt;/a&gt;</description>
+<license>Data License</license>
+<release>Dec 5, 2014</release>
+<homepage>http://www.nitrc.org/projects/lop-dwi/</homepage>
+<maintainer>University of Queensland</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Level-set Segmentation for Slicer3" nitrc="https://www.nitrc.org/projects/levelsetslicer3" />
+<description> The modules in the framework support different tasks in the segmentation realization in 3DSlicer.&lt;br /&gt;&lt;br /&gt;A module called Level-set label map evolver was developed, which takes an initial label image and a feature image as input and performs a Geodesic Active Contours evolution on the label image according to the feature image and to a different terms in the level-set equation. The evolution takes place for a customizable number of iterations. &lt;br /&gt;&lt;br /&gt;The output is a label image that can be used to produce a model.&lt;br /&gt;&lt;br /&gt;Other modules were developed to accompany the main module as can be seen in &lt;a href=&quot;http://www.slicer.org/slicerWiki/index.php/Slicer3:Module:Level-Set_Segmentation_Framework-Documentation&quot; target=&quot;_new&quot;&gt;http://www.slicer.org/slicerWiki/index.p...&lt;/a&gt;</description>
+<license>3D Slicer License</license>
+<release>Oct 21, 2008</release>
+<homepage>http://www.nitrc.org/projects/levelsetslicer3/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="MEG Tools" nitrc="https://www.nitrc.org/projects/meg-tools" />
+<description> MEG Localization using FOCUSS and MR-FOCUSS </description>
+<license>GNU General Public License (GPL)</license>
+<category>Image Reconstruction</category>
+<platform>Microsoft</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 6, 2007</release>
+<homepage>http://www.megimaging.com/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

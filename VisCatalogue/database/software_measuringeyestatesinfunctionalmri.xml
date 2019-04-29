@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Measuring eye states in functional MRI" nitrc="https://www.nitrc.org/projects/eye_state_fmri" />
+<description> An automized tool to segment eye bulbs and measure movements and eye state. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Apr 20, 2016</release>
+<homepage>http://www.nitrc.org/projects/eye_state_fmri/</homepage>
+<maintainer>FSU Jena / Neurology</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

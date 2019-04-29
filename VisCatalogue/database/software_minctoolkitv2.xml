@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="minc-toolkit-v2" nitrc="https://www.nitrc.org/projects/minc-toolkit-v2" />
+<description> Whole set of MINC-based image processing tools packaged together and several ITKv4 tools Includes: MINC,N3,BICPL,EBKTS,ANIMAL,INSECT,BEaST,Register,Display,xdisp,ANTS, Elastix, ABC, C3D </description>
+<license>Artistic License</license>
+<release>Jul 15, 2015</release>
+<homepage>http://www.nitrc.org/projects/minc-toolkit-v2/</homepage>
+<maintainer>Montreal Neurological Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,29 @@
+<root>
+<software>
+<name name="elastix" nitrc="https://www.nitrc.org/projects/elastix" />
+<description> Welcome to elastix: a toolbox for rigid and nonrigid registration of images.&lt;br /&gt;&lt;br /&gt;elastix is open source software, based on the well-known Insight Segmentation and Registration Toolkit (ITK). The software consists of a collection of algorithms that are commonly used to solve (medical) image registration problems. The modular design of elastix allows the user to quickly configure, test, and compare different registration methods for a specific application. A command-line interface enables automated processing of large numbers of data sets, by means of scripting.&lt;br /&gt;&lt;br /&gt;The website is found at &lt;a href=&quot;http://elastix.isi.uu.nl/.&quot; target=&quot;_new&quot;&gt;http://elastix.isi.uu.nl/.&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;A paper describing elastix contains more details: S. Klein, M. Staring, K. Murphy, M.A. Viergever, J.P.W. Pluim, &amp;quot;elastix: a toolbox for intensity based medical image registration,&amp;quot; IEEE Transactions on Medical Imaging, vol. 29, no. 1, pp. 196 - 205, January 2010. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=671&amp;screenshot_id=592&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=671&amp;screenshot_id=592&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Registration</category>
+<category>Resampling</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Dec 19, 2012</release>
+<homepage>http://www.nitrc.org/projects/elastix/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

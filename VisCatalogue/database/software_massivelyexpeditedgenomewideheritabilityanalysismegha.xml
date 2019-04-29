@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Massively Expedited Genome-wide Heritability Analysis (MEGHA)" nitrc="https://www.nitrc.org/projects/megha2015" />
+<description> A MATLAB toolbox for fast and flexible high-dimensional heritability analysis using genome-wide single nucleotide polymorphism (SNP) data from unrelated individuals, developed in the article &amp;quot;Massively Expedited Genome-wide Heritability Analysis (MEGHA)&amp;quot;. </description>
+<release>Feb 3, 2015</release>
+<homepage>http://scholar.harvard.edu/tge/software/megha</homepage>
+<maintainer>Massachusetts General Hospital / Harvard Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="CANDI Neuroimaging Access Point" nitrc="https://www.nitrc.org/projects/candi_share" />
+<description> The Child and Adolescent NeuroDevelopment Initiative (CANDI) at UMass Medical School is making available a series of structural brain images, as well as their anatomic segmentations, demographic and behavioral data and a set of related morphometric resources (static and dynamic atlases).&lt;br /&gt;&lt;br /&gt;Schiz Bull 2008 data is now available on NITRC-IR. Please register for access: &lt;a href=&quot;http://www.nitrc.org/project/request.php?group_id=377&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/project/request.php...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=377&amp;screenshot_id=456&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=377&amp;screenshot_id=456&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution</license>
+<category>Atlas Data</category>
+<category>Data</category>
+<category>Knowledge Environment</category>
+<category>Web Resource</category>
+<category>Volumetric Analysis</category>
+<category>Segmentation</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 7, 2010</release>
+<homepage>http://labs.umassmed.edu/candi/</homepage>
+<maintainer>University of Massachusetts Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

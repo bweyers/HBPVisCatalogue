@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="g.BSanalyze" nitrc="https://www.nitrc.org/projects/gbsanalyze" />
+<description> g.BSanalyze - gtec&#x27;s Biosignal Analysis Software, is an interactive environment for multimodal biosignal data processing and analysis in the fields of clinical research and life sciences. It is the most comprehensive package to analyze non-invasive and invasive brain-, heart- and muscle-functions and dysfunctions. It includes many functions such as support vector machines, event-related ECG, support for P300 and SSVEP/SSSEP BCIs, zero class detection for BCIs, compressed spectral array, minimum energy, and more!&lt;br /&gt;&lt;br /&gt;g.BSanalyze consists of a base version for data import, visualization, transformation and pre-processing and has several dedicated toolboxes. &lt;br /&gt;&lt;br /&gt;The package comes with many sample biosignal data-sets, including P300, SSVEP, motor imagery, CSP BCIs, Tilt-Table, EPs, multi-unit activity, CFM, and ERD/ERS. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=743&amp;screenshot_id=748&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=743&amp;screenshot_id=748&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>g.tec Licence</license>
+<category>Spectral Analysis</category>
+<category>Event Related Potential</category>
+<platform>Windows</platform>
+<input>ASCII</input>
+<output>ASCII</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Aug 14, 2013</release>
+<homepage>http://www.gtec.at/Products/Software/g.BSanalyze-Specs-Features</homepage>
+<maintainer>g.tec medical engineering GmbH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

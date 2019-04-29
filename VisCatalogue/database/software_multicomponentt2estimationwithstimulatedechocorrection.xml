@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Multicomponent T2 estimation with stimulated echo correction" nitrc="https://www.nitrc.org/projects/multi_t2" />
+<description> This tool is designed to assist users in the estimation of multiple relaxation components from MRI T2 weighted spin-echo data such as that produced by a Carr-Purcell-Meiboom-Gill (CPMG) sequence. This problem is important to study myelin content in white matter diseases such as multiple sclerosis. &lt;br /&gt;&lt;br /&gt;Stimulated echoes arising from non-ideal flip angles are accounted for using the Extended Phase Graph (EPG) algorithm. The distribution is modelled as a small number of discrete components and a Bayesian estimation algorithm is provided to determine the weights and locations of the components as well as the actual flip angle. This algorithm outperforms iterative gradient descent based approaches. &lt;br /&gt;&lt;br /&gt;The details of the algorithm are given the following paper:&lt;br /&gt;Layton, K. J. et al. (2013) Modelling and Estimation of Multicomponent T2 Distributions, IEEE Transactions on Medical Imaging 32:1423-1434 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=734&amp;screenshot_id=667&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=734&amp;screenshot_id=667&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<release>Jul 16, 2013</release>
+<homepage>http://www.nitrc.org/projects/multi_t2/</homepage>
+<maintainer>University of Melbourne</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

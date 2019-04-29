@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="BROCCOLI" nitrc="https://www.nitrc.org/projects/broccoli" />
+<description> Analysis of functional magnetic resonance imaging (fMRI) data is becoming ever more computationally demanding as temporal and spatial resolutions improve, and large, publicly available data sets proliferate. Moreover, methodological improvements in the neuroimaging pipeline, such as non-linear spatial normalization, non-parametric permutation tests and Bayesian Markov Chain Monte Carlo approaches, can dramatically increase the computational burden. Here, we therefore present BROCCOLI, a free software package written in OpenCL (Open Computing Language) that can be used for parallel analysis of fMRI data on a large variety of hardware configurations. BROCCOLI (running on a GPU) can perform non-linear spatial normalization to a 1 mm brain template in 4–6 s, and run a second level permutation test with 10,000 permutations in about a minute. The new software is freely available under GNU GPL3 and can be downloaded from github (&lt;a href=&quot;https://github.com/wanderine/BROCCOLI/&quot; target=&quot;_new&quot;&gt;https://github.com/wanderine/BROCCOLI/&lt;/a&gt;). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=828&amp;screenshot_id=778&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=828&amp;screenshot_id=778&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 9, 2014</release>
+<homepage>http://www.nitrc.org/projects/broccoli/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

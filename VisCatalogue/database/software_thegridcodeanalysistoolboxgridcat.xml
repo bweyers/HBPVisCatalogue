@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="The Grid Code Analysis Toolbox (GridCAT)" nitrc="https://www.nitrc.org/projects/gridcat" />
+<description> The Matlab-based Grid Code Analysis Toolbox (GridCAT) allows researchers to carry out automated analysis of the putative firing of grid cells (i.e., the grid code) in human fMRI data. All analysis steps, from estimation and fitting of the grid code in the general linear model, to the generation of grid code metrics and plots, can be performed by means of a simple and user-friendly graphical user interface. Researchers confident with programming can also edit the open-source code and use example scripts accompanying the GridCAT to implement their own analysis pipelines. Moreover, an example dataset is provided together with a detailed manual, so that users can explore the GridCAT’s functionality.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Reference:&lt;br /&gt;&lt;br /&gt;Stangl, M.*, Shine, J.*, &amp;amp; Wolbers, T. (2017). The GridCAT: A toolbox for automated analysis of human grid cell codes in fMRI. Frontiers in Neuroinformatics, 11:47. [* equal contribution]&lt;br /&gt;&lt;a href=&quot;https://doi.org/10.3389/fninf.2017.00047&quot; target=&quot;_new&quot;&gt;https://doi.org/10.3389/fninf.2017.00047&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1115&amp;screenshot_id=1075&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1115&amp;screenshot_id=1075&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Feb 3, 2017</release>
+<homepage>http://www.nitrc.org/projects/gridcat/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

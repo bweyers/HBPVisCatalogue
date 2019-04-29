@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="The EBDS Infant DTI Fiber Atlases" nitrc="https://www.nitrc.org/projects/uncebds_neodti" />
+<description> Neonatal and 1-2 year old DTI fiber atlases for studies of brain development at birth to 2 years of age from the UNC Early Brain Development Studies (EBDS) group and the NIRAL (Neuro Image Research and Analysis Laboratory)&lt;br /&gt;&lt;br /&gt;Infant DTI atlases with a comprehensive set of template fibers for semi-automatic tract based analysis that represents a typically developing human brain during the first few weeks up to 2 years of life. To the best of our knowledge, this the first such population atlases with this magnitude of quality and sample size.&lt;br /&gt;&lt;br /&gt;These resources enable widespread application of a set of template fibers for atlas based along-tract analysis supporting an adequate and reliable analysis of DTI in newborns in both practice and in clinical research settings and address a critical gap in the current research community. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1162&amp;screenshot_id=1123&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1162&amp;screenshot_id=1123&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<release>May 3, 2017</release>
+<homepage>http://www.nitrc.org/projects/uncebds_neodti/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

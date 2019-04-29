@@ -1,0 +1,30 @@
+<root>
+<software>
+<name name="The Neurophysiological Biomarker Toolbox" nitrc="https://www.nitrc.org/projects/nbt" />
+<description> The Neurophysiological Biomarker Toolbox (NBT) is an open source Matlab toolbox for the computation and integration of neurophysiological biomarkers. NBT offers a pipeline from data storage to statistics including artefact rejection, signal visualization, biomarker computation, and statistical testing. NBT allows for easy implementation of new biomarkers, and incorporates an online wiki (&lt;a href=&quot;http://www.nbtwiki.net/&quot; target=&quot;_new&quot;&gt;http://www.nbtwiki.net/&lt;/a&gt;) that facilitates collaboration among NBT users including extensive help and tutorials. &lt;br /&gt;NBT is specialized in analyzing EEG data, however it allows the processing of any kind of signal. &lt;br /&gt;NBT can, e.g., be used to analyze ongoing oscillation between:&lt;br /&gt;&lt;br /&gt;- Eyes-closed rest of subject populations (e.g., healthy subjects and patients, males vs. females, young vs. old, etc.).&lt;br /&gt;- Two experimental condition (e.g., classical eyes-closed rest vs. meditation, or before vs. after consumption of a CNS-active substance (a drug, coffee, nicotine, alcohol, etc.).&lt;br /&gt;&lt;br /&gt;More details can be found on &lt;a href=&quot;http://www.nbtwiki.net/&quot; target=&quot;_new&quot;&gt;http://www.nbtwiki.net/&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=612&amp;screenshot_id=530&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=612&amp;screenshot_id=530&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Web Service</category>
+<category>Database Application</category>
+<category>Statistical Operation</category>
+<category>Fourier Time-domain Analysis</category>
+<category>Temporal Wavelet Analysis</category>
+<category>Visualization</category>
+<category>Workflow</category>
+<platform>OS Independent</platform>
+<input>Brain Vision Analyzer Data Exchange Format</input>
+<output>Brain Vision Analyzer Data Exchange Format</output>
+<input>EDF/BDF/GDF</input>
+<output>EDF/BDF/GDF</output>
+<input>EGI</input>
+<output>EGI</output>
+<release>Jun 24, 2012</release>
+<homepage>http://www.nbtwiki.net/</homepage>
+<maintainer>Neuronal Oscillations and Cognition group</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

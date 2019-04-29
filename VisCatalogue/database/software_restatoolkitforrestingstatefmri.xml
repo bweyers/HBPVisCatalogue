@@ -1,0 +1,28 @@
+<root>
+<software>
+<name name="REST: a toolkit for resting-state fMRI" nitrc="https://www.nitrc.org/projects/rest" />
+<description> REsting State fMRI data analysis Toolkit (REST) is a user-friendly convenient toolkit to calculate Functional Connectivity (FC), Regional Homogeneity (ReHo), Amplitude of Low-Frequency Fluctuation (ALFF), Fractional ALFF (fALFF), Gragner causality and perform statistical analysis. You also can use REST to view your data, perform Monte Carlo simulation similar to AlphaSim in AFNI, calculate your images, regress out covariates, extract ROI time courses, reslice images, and sort DICOM files. &lt;br /&gt;&lt;br /&gt;Most recent version and any questions could also be checked out in: &lt;a href=&quot;http://www.restfmri.net.&quot; target=&quot;_new&quot;&gt;http://www.restfmri.net.&lt;/a&gt;</description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Modeling</category>
+<category>Resampling</category>
+<category>Statistical Operation</category>
+<category>Fourier Time-domain Analysis</category>
+<category>Spectral Analysis</category>
+<category>Cross-correlation</category>
+<category>Two Dimensional Display</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>OS Independent</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 31, 2010</release>
+<homepage>http://www.nitrc.org/projects/rest/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

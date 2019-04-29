@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="EEG Study data of Rapid Serial Visual Presentation (RSVP) in ESS format" nitrc="https://www.nitrc.org/projects/eeg_rsvp" />
+<description> Rapid Serial Visual Presentation (12Hz) Target (airplane) detection without immediate response.&lt;br /&gt;&lt;br /&gt;The purpose of this study was to explore the neural basis of target detection in human brain and to compare the performance of brain-computer interface (BCI) methods in classification of target vs. non-target images. The data was acquired during a rapid serial visual presentation task which was composed of a sequential presentation of image clips in rapid succession (12/s) in 4.1-s bursts, to which subjects were to indicate whether or not the satellite image clips of London presented included a small target airplane image by making one of two button presses.&lt;br /&gt;&lt;br /&gt;This study was collected at UCSD/Swartz Center and placed into ESS version 2.02, levels 1&amp;amp;2 by Syntrogi Inc. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=957&amp;screenshot_id=1133&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=957&amp;screenshot_id=1133&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<category>Data</category>
+<category>Ontology</category>
+<release>Jul 21, 2015</release>
+<homepage>http://www.nitrc.org/projects/eeg_rsvp/</homepage>
+<maintainer>Syntrogi</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="UManitoba-JHU Functionally-Defined Human White Matter Atlas" nitrc="https://www.nitrc.org/projects/uofm_jhu_atlas" />
+<description> This is a probabilistic atlas of human white matter tracts/regions underlying several well-known resting state brain networks (e.g., dorsal and ventral Default Mode, left and right Executive Control, anterior and posterior Salience, Basal Ganglia, Language, Sensorimotor, Visuospatial, etc.). These were derived by performing fMRI-guided DTI tractography on a group of 32 neurologically-healthy, adult control subjects. The atlas includes group probability maps for each network, as well as each individual tract (i.e., 1-mm isotropic NIFTI images) that are aligned to both the SPM and MRIStudio ICBM templates. In accordance with the CC BY-NC-ND 4.0 License, this atlas may be used for academic purposes, but users should cite the following two papers:&lt;br /&gt;&lt;br /&gt;1. Figley TD, Bhullar N, Courtney SM and Figley CR (2015). Front. Hum. Neurosci. 9:585.&lt;br /&gt;&lt;br /&gt;2. Figley TD, Mortazavi Moghadam B, Bhullar N, Kornelsen J, Courtney SM, and Figley CR (2017). Front. Hum. Neurosci. 11:306. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=983&amp;screenshot_id=951&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=983&amp;screenshot_id=951&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)</license>
+<category>Atlas Data</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Oct 16, 2015</release>
+<homepage>http://www.nitrc.org/projects/uofm_jhu_atlas/</homepage>
+<maintainer>University of Manitoba and Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

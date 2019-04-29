@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="NIRx2nirs: A NIRx to .nirs data converter" nitrc="https://www.nitrc.org/projects/nirx2nirs" />
+<description> NIRx2nirs is a matlab script which takes near-infrared spectroscopy data recorded by NIRx system(s) and converts it to a .nirs file format for use with the HOMER2 NIRS processing pacakge. </description>
+<category>NIRS/FNIR</category>
+<release>Aug 29, 2013</release>
+<homepage>http://www.nitrc.org/projects/nirx2nirs/</homepage>
+<maintainer>UCL</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

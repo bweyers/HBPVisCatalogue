@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Unfold toolbox for regression-based EEG analysis" nitrc="https://www.nitrc.org/projects/unfold" />
+<description> unfold is a MATLAB tool for regression-based EEG analysis that was written to facilitate the use of advanced deconvolution models and spline regression in event-related potential (ERP) research. In experiments that involve temporally overlapping brain responses, unfold can be used to isolate the responses to the individual events (linear deconvolution). Simultaneously, it can model influences of various linear or non-linear covariates on the neural response (using spline regression/generalized additive modeling). The toolbox is compatible with EEGLAB and offers built-in functions to visualize the model coefficients (betas) of each predictor as waveforms or scalp topographies (&amp;quot;regression-ERPs&amp;quot;). Alternatively, results can be easily exported as plain text or transferred to other toolboxes (e.g. EEGLAB or Fieldtrip). In addition to EEG, unfold can be used to analyze other overlapping biometric signals, such as electrodermal activity, or pupil responses. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1290&amp;screenshot_id=1204&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1290&amp;screenshot_id=1204&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Jul 9, 2018</release>
+<homepage>http://www.unfoldtoolbox.org</homepage>
+<maintainer>Universität Osnabrück</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

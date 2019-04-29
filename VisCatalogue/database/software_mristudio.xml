@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="MRI Studio" nitrc="https://www.nitrc.org/projects/mri_studio" />
+<description> MRI Studio is an image processing program running under Windows. It is suitable for such tasks as tensor calculation, color mapping, fiber tracking, and 3D visualization. Most of operations can be done with only a few clicks. This tool evolved from DTI Studio. (May also be called mristudio or dtistudio)&lt;br /&gt;&lt;br /&gt;Tools in the program can be grouped in the following way:&lt;br /&gt;&lt;br /&gt;* Image Viewer&lt;br /&gt;* Diffusion Tensor Calculations&lt;br /&gt;* Fiber Tracking and Editing&lt;br /&gt;* 3D Visualization&lt;br /&gt;* Image File Management&lt;br /&gt;* Region of Interesting (ROI) Drawing and Statistics&lt;br /&gt;* Image Registration </description>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>Microsoft</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Mar 26, 2008</release>
+<homepage>http://www.mristudio.org/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

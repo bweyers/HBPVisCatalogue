@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Iterative dual-regression with sparse prior" nitrc="https://www.nitrc.org/projects/iterdrwsp" />
+<description> Iterative Dual-Regression with Sparse Prior (IDRwSP) is aimed to better estimate an individual&#x27;s neuronal activation using the results of an independent component analysis (ICA) method applied to a temporally concatenated group of functional magnetic resonance imaging (fMRI) data (i.e., Tc-GICA method). &lt;br /&gt; An ordinary DR approach estimates the spatial patterns (SPs) of neuronal activation and corresponding time courses (TCs) specific to each individual&#x27;s fMRI data with two steps involving least-squares (LS) solutions. The proposed approach employs iterative LS solutions to refine both the individual SPs and TCs with an additional a priori assumption of sparseness in the SPs (i.e., minimally overlapping SPs) based on L(1)-norm minimization.&lt;br /&gt;&lt;br /&gt;See the reference paper.&lt;br /&gt;&lt;br /&gt;Kim YH, Kim J, Lee JH., Iterative approach of dual regression with a sparse prior enhances the performance of independent component analysis for group functional magnetic resonance imaging (fMRI) data., Neuroimage. 2012. </description>
+<license>BSD License</license>
+<category>Application</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 22, 2013</release>
+<homepage>http://www.nitrc.org/projects/iterdrwsp/</homepage>
+<maintainer>Brain Signal Processing Lab.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

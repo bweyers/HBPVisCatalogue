@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Fast T2 relaxation data analysis with stimulated echo correction and non-local spatial regularisation" nitrc="https://www.nitrc.org/projects/nlsrnnls" />
+<description> This tool is developed to offer a fast algorithm for computing myelin maps from multiecho T2 relaxation data using parallel computation with multicore CPUs and graphics processing units (GPUs). The tool also provides non-local spatial regularization to produce more accurate and reliable myelin maps for noisy T2 relaxation data.&lt;br /&gt;&lt;br /&gt;The details of the method are given the following papers:&lt;br /&gt;&lt;br /&gt;Yoo, Youngjin et al., &amp;quot;Fast computation of myelin maps from MRI T2 relaxation data using multicore CPU and graphics card parallelization.&amp;quot; Journal of Magnetic Resonance Imaging (2014).&lt;br /&gt;&lt;br /&gt;Yoo, Youngjin, and Roger Tam. &amp;quot;Non-local spatial regularization of MRI T2 relaxation images for myelin water quantification.&amp;quot; In Medical Image Computing and Computer-Assisted Intervention–MICCAI 2013, pp. 614-621. Springer Berlin Heidelberg, 2013. &lt;br /&gt;&lt;br /&gt;The JMRI paper stated that we intented to contribute to Gadgetron, but we found that NITRC seems to be a better fit so we have decided to share our code through NITRC. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 25, 2014</release>
+<homepage>http://www.nitrc.org/projects/nlsrnnls/</homepage>
+<maintainer>University of British Columbia</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

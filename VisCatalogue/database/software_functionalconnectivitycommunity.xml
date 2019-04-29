@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Functional Connectivity Community" nitrc="https://www.nitrc.org/projects/func_connect" />
+<description> The purpose of this project is to provide a community for the discussion of functional connectivity and all related topics. This includes discussion of related tools, data sets, methodological discussion, related websites and publications, etc. </description>
+<category>Community</category>
+<platform>OS Independent</platform>
+<release>Mar 20, 2008</release>
+<homepage>http://www.nitrc.org/projects/func_connect/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

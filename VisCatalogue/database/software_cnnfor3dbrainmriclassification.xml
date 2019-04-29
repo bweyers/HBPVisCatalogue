@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="CNN for 3D brain MRI classification" nitrc="https://www.nitrc.org/projects/cnn_brain_image" />
+<description> CNN for 3D brain MRI classification </description>
+<release>Dec 15, 2018</release>
+<homepage>http://www.nitrc.org/projects/cnn_brain_image/</homepage>
+<maintainer>University of Pisa</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

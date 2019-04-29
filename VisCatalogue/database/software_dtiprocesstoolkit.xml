@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="DTIProcess ToolKit" nitrc="https://www.nitrc.org/projects/dtiprocess" />
+<description> DTIProcess is a DTI processing and analysis toolkit developed in UNC and University of Utah. Tools in this toolkit include dtiestim, dtiprocess, dtiaverage, fibertrack, fiberprocess, et al..&lt;br /&gt;Most of the tools included in this package are available in 3D Slicer (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;) in the DTIProcess extension. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=312&amp;screenshot_id=769&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=312&amp;screenshot_id=769&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Tensor Metric</category>
+<category>Resampling</category>
+<category>Tractography</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Dec 15, 2009</release>
+<homepage>http://www.nitrc.org/projects/dtiprocess/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

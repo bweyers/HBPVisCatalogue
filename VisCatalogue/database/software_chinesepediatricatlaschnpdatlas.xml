@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Chinese Pediatric Atlas (CHN-PD Atlas)" nitrc="https://www.nitrc.org/projects/chn-pd" />
+<description> We use an unbiased template construction algorithm to create a set of age-specific Chinese pediatric (CHN-PD) atlases based on high-quality T1- and T2-weighted MR images from 328 cognitively normal Chinese children aged 6 to 12 years. The CHN-PD brain atlases include asymmetric and symmetric templates, sex-specific templates and tissue probability templates, and contain multiple age-specific templates at one-year intervals. We expect this set of age-specific Chinese brain atlases is useful for the image registration and spatial statistics in Chinese pediatric studies. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1291&amp;screenshot_id=1208&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1291&amp;screenshot_id=1208&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License v3</license>
+<category>Atlas Data</category>
+<release>Jul 13, 2018</release>
+<homepage>http://www.nitrc.org/projects/chn-pd/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

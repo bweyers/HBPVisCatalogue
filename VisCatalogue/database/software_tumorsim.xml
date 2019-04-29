@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="TumorSim" nitrc="https://www.nitrc.org/projects/tumorsim" />
+<description> TumorSim is a cross-platform simulation software that generates pathological ground truth from a healthy ground truth (e.g., the BrainWeb data). The software requires an input directory that describes a healthy anatomy (anatomical probabilities, mesh, diffusion tensor image, etc). Example output simulation images are available for download for validating various image analysis algorithms such as registration and segmentation algorithms.&lt;br /&gt;&lt;br /&gt;The simulation method is described in the following paper:&lt;br /&gt;Marcel Prastawa, Elizabeth Bullitt, and Guido Gerig. Simulation of Brain Tumors in MR Images for Evaluation of Segmentation Efficacy. Medical Image Analysis (MedIA), Vol 13, No 2, April 2009, Pages 297-311.&lt;br /&gt;&lt;br /&gt;Research efforts on the simulator was supported by NIH grant NIBIB R01 EB000219 (PI: Elizabeth Bullitt). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=546&amp;screenshot_id=458&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=546&amp;screenshot_id=458&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>Dec 13, 2011</release>
+<homepage>http://www.nitrc.org/projects/tumorsim/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

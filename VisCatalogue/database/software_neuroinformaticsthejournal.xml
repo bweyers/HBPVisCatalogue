@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Neuroinformatics - The Journal" nitrc="https://www.nitrc.org/projects/nein" />
+<description> Neuroinformatics publishes original articles and reviews with an emphasis on data structure and software tools related to analysis, modeling, integration, and sharing in all areas of neuroscience research. Coverage extends to theory and methodology, including discussions on ontologies, modeling approaches, database design, and meta-analyses; descriptions of developed databases and software tools, and of the methods for their distribution; relevant experimental results, such as reports accompanied by the release of massive data sets; computational simulations of models integrating and organizing complex data; and neuroengineering approaches, including hardware, robotics, and information theory studies. Neuroinformatics also publishes independent &amp;quot;tests and evaluations&amp;quot; of available neuroscience databases and software tools, and fosters a commitment to the principles of tool and data sharing. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=163&amp;screenshot_id=83&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=163&amp;screenshot_id=83&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Journal</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 15, 2008</release>
+<homepage>http://www.springer.com/biomed/neuroscience/journal/12021</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

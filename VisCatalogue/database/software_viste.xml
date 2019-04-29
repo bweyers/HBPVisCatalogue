@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="vIST/e" nitrc="https://www.nitrc.org/projects/viste" />
+<description> vIST/e is a C++ application that allows interactive visualization of various kinds of imaging datasets, both simple scalar data as well as complex high-dimensional data such as diffusion tensor imaging (DTI) and high angular resolution imaging data (HARDI). vIST/e is based on VTK, Qt and is designed as a plugin system which allows it to be extended in a flexible way. vIST/e is the main research tool of Imaging Science and Technology Eindhoven (IST/e), a major imaging group Eindhoven University of Technology, the Netherlands which brings together all university faculties involved in medical or industrial imaging. </description>
+<license>BSD License</license>
+<release>Aug 16, 2012</release>
+<homepage>http://www.nitrc.org/projects/viste/</homepage>
+<maintainer>Eindhoven University of Technology</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

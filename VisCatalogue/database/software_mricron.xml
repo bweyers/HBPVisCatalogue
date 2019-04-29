@@ -1,0 +1,30 @@
+<root>
+<software>
+<name name="MRIcron" nitrc="https://www.nitrc.org/projects/mricron" />
+<description> MRIcron is a cross-platform NIfTI format image viewer. It can load multiple layers of images, generate volume renderings and draw volumes of interest. It also provides dcm2nii for converting DICOM images to NIfTI format and NPM for statistics. MRIcron is a mature and useful tool, however you may want to consider the more recent MRIcroGL as an alternative. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=152&amp;screenshot_id=851&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=152&amp;screenshot_id=851&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Center of Mass</category>
+<category>Regression</category>
+<category>Clipping</category>
+<category>Two Dimensional Display</category>
+<category>Volume Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 19, 2008</release>
+<homepage>http://www.mricro.com</homepage>
+<maintainer>University of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

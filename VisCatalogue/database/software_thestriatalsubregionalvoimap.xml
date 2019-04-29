@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="The Striatal Subregional VOImap" nitrc="https://www.nitrc.org/projects/striatalvoimap" />
+<description> The Striatal Subregional VOImap is intended to provide accurate data in terms of specific uptake location to make the BP quantitation. Available in .obj format.&lt;br /&gt;&lt;br /&gt;The VOIs were manually drawn with software Analyze 9,0 (Mayo Clinic) in 18F-DOPA brain image after spatial normalization with a 18F-DOPA Template developed by our group (available at: &lt;a href=&quot;https://www.nitrc.org/projects/spmtemplates&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/projects/spmtempla...&lt;/a&gt;). Each striatum was divided into 6 sub-regions: ventral caudate, anterior dorsal caudate, posterior dorsal caudate, ventral putamen, anterior dorsal putamen and posterior dorsal putamen, based on Mawlawi et al. (J Cereb Blood Flow Metab.2001;21:1034–57) and Oh et al. (J Nucl Med.2012;53:399–406) segmentation. A nonspecific background volume was drawn in the occipital cortex.&lt;br /&gt;&lt;br /&gt;Terms of use:&lt;br /&gt;The Striatal Subregional VOImap is intended for free use by the neuroimaging community. However, we do ask that you please cite.&lt;br /&gt;&lt;br /&gt;J.A. Lojo-Ramírez, F.J. García-Gómez &amp;amp; D. García-Solís.&lt;br /&gt;Contact: &lt;a href=&quot;mailto:jalojoram@gmail.com&quot; target=&quot;_new&quot;&gt;jalojoram@gmail.com&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=801&amp;screenshot_id=727&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=801&amp;screenshot_id=727&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<release>Mar 11, 2014</release>
+<homepage>http://www.nitrc.org/projects/striatalvoimap/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

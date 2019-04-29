@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="PD RS-fMRI meta and validation" nitrc="https://www.nitrc.org/projects/pdrsfmriwutao" />
+<description> Part-1 was for coordinated-based meta-analysis. Its details were from published papers of RS-fMRI on PD. Part-2 was for validation purpose. It contains ALFF maps and ReHo maps of all subjects (n = 49 for each PD and control group). </description>
+<license>Web Application - Free to use</license>
+<release>Aug 19, 2017</release>
+<homepage>http://www.nitrc.org/projects/pdrsfmriwutao/</homepage>
+<maintainer>XuanWu Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

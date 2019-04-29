@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Fine Relational Spatial Topology" nitrc="https://www.nitrc.org/projects/first" />
+<description> This tool takes resting state data and computes whole brain gradient maps describing the preferred connectivity across the spatial domains of your region of interest. This is a Matlab toolbox that depends on SPM, but primarily runs off of it&#x27;s own GUI. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1225&amp;screenshot_id=1147&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1225&amp;screenshot_id=1147&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>Oct 18, 2017</release>
+<homepage>http://www.nitrc.org/projects/first/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

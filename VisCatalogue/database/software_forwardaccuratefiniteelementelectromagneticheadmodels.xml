@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Forward: Accurate finite element electromagnetic head models" nitrc="https://www.nitrc.org/projects/forward" />
+<description> This project aims to simplify the preparation of accurate electromagnetic head models for EEG forward modeling.&lt;br /&gt;&lt;br /&gt;It builds off of the seminal SimNIBS tool for electromagnetic field modelling of transcranial magnetic stimulation (TMS) and transcranial direct current stimulation. Human skin, skull, cerebrospinal fluid, and brain meshing pipelines have been rewritten with Nipype to ease access parallel processing and to allow users to start/stop the workflows. Conductivity tensor mapping from diffusion-weighted imaging is also included. </description>
+<license>GNU GPL v2</license>
+<category>Algorithm or Reusable Library</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 5, 2014</release>
+<homepage>http://www.nitrc.org/projects/forward/</homepage>
+<maintainer>University of Liège</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

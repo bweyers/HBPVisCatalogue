@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="CBS High-Res Brain Processing Tools" nitrc="https://www.nitrc.org/projects/cbs-tools" />
+<description> With 7 Tesla MRI, neuroscientists can investigate the structure of the human brain with enhanced resolution, currently up to 350µm isotropic in vivo. Quantitative MR contrasts and increased level of detail within tissues reveal many fine anatomical structures, but require efficient computational methods that handle various contrasts and scale well with data complexity.&lt;br /&gt;&lt;br /&gt;The CBS High-Res Brain Processing Tools provide a fully automated processing pipeline for cortical analysis of structural MR images at a resolution of up to 400µm, including skull stripping, whole brain segmentation, cortical extraction, surface inflation and mapping, as well as dedicated tools for profile estimation across the cortical thickness.&lt;br /&gt;&lt;br /&gt;The tools are released as a set of plug-ins for the MIPAV software package and the JIST pipeline environment. They are therefore cross-platform and compatible with a wide variety of file formats. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=606&amp;screenshot_id=505&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=606&amp;screenshot_id=505&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<release>May 24, 2012</release>
+<homepage>http://www.nitrc.org/projects/cbs-tools/</homepage>
+<maintainer>Max Planck Institute for Human Cognitive and Brain Sciences</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

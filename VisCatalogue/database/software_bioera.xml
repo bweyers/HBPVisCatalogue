@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="BioEra" nitrc="https://www.nitrc.org/projects/bioera" />
+<description> BioEra provides environment and tools to create various types of processing tasks. It can be used for research, games, self exploration, entrainment, sound processing and many others. Each task is contained in a design. To create a design no programming skill is required, only understanding of the process and its requirements. BioEra is used to create a design visually. A design represents data flow from input (e.g. biofeedback device) to output (e.g. visual or sound feedback). The flow can be customized with hundreds built-in objects (elements). For example an amplitude of alpha brainwaves can be filtered from input EEG signal, it can then trigger a MIDI, video or a computer task at a certain threshold level. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=925&amp;screenshot_id=1135&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=925&amp;screenshot_id=1135&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<release>Apr 1, 2015</release>
+<homepage>http://www.nitrc.org/projects/bioera/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

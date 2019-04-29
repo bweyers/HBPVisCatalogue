@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Framework for Open Programmatic Access" nitrc="https://www.nitrc.org/projects/fopa" />
+<description> The Framework for Open Programmatic Access (FOPA) aims to provide a standardized framework for communication and data exchange between medical imaging applications, with particular focus on neuroimaging technologies. FOPA is an attempt to design and implement a common protocol for network and command line communication with either file-system or imbedded data structures. Initial reference implementations will support interoperability between ITK, VTK, and Java platforms. Contributions are welcome from other neuroimaging development communities. &lt;br /&gt;&lt;br /&gt;This project is an open community effort under the BSD license. </description>
+<license>BSD License</license>
+<release>Jun 24, 2009</release>
+<homepage>http://www.nitrc.org/projects/fopa/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="TREES toolbox" nitrc="https://www.nitrc.org/projects/treestoolbox" />
+<description> 1. Tools to automatically reconstruct neuronal branching from microscopy image stacks and to generate synthetic axonal and dendritic trees.&lt;br /&gt;2. The basic tools to edit, visualize and analyze dendritic and axonal trees.&lt;br /&gt;3. Methods for quantitatively comparing branching structures between neurons.&lt;br /&gt;4. Tools for exploring how dendritic and axonal branching depends on local optimization of total wiring and conduction distance.&lt;br /&gt;&lt;br /&gt;This software package is written in Matlab (Mathworks, Natick, MA), the most widely used scientific programming language. We hope that other groups will benefit from this package and that they will add their own code to the TREES toolbox based on their own specific applications. The code is therefore freely distributed. When publishing scientific work using this toolbox please cite the paper:&lt;br /&gt;&lt;br /&gt;&amp;quot;Cuntz H, Forstner F, Borst A, Häusser M (2010). One rule to grow them all: A general theory of neuronal branching and its practical application. PLoS Comput Biol 6(8): e1000877.&amp;quot; </description>
+<license>GNU General Public License (GPL)</license>
+<release>Aug 13, 2014</release>
+<homepage>http://www.treestoolbox.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

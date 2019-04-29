@@ -1,0 +1,57 @@
+<root>
+<software>
+<name name="MIPAV" nitrc="https://www.nitrc.org/projects/mipav" />
+<description> The MIPAV (Medical Image Processing, Analysis, and Visualization) application enables quantitative analysis and visualization of medical images of numerous modalities such as PET, MRI, CT, or microscopy. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=70&amp;screenshot_id=95&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=70&amp;screenshot_id=95&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Other/Proprietary License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Mesh Generation</category>
+<category>Simulation</category>
+<category>Volumetric Analysis</category>
+<category>Segmentation</category>
+<category>Colocalization</category>
+<category>Frequency Domain</category>
+<category>Registration</category>
+<category>Resampling</category>
+<category>Spatial Convolution - Deconvolution</category>
+<category>Diffusion MR Fiber Tracking</category>
+<category>Animation</category>
+<category>Image Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Other OS</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>COR</input>
+<output>COR</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 24, 2007</release>
+<homepage>http://mipav.cit.nih.gov/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

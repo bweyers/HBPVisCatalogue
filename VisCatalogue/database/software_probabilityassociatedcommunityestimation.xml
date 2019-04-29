@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Probability-Associated Community Estimation" nitrc="https://www.nitrc.org/projects/fmri_pace" />
+<description> Understanding the modularity of fMRI derived brain networks or ‘connectomes’ can inform the study of brain function organization. However, fMRI connectomes additionally involve negative edges, which may not be optimally accounted for by existing approaches to modularity that variably threshold, binarize, or arbitrarily weight these connections. Consequently, many existing Q maximization-based modularity algorithms yield variable modular structures. Here we present an alternative complementary approach that exploits how frequent the BOLD-signal correlation between two nodes is negative. This approach a) permits a dual formulation, leading to equivalent solutions regardless of whether one considers positive or negative edges; b) is theoretically linked to the Ising model defined on the connectome, thus yielding modularity result that maximizes data likelihood. Please refer to Zhan et. al. 2017 J Comp Neurol. 525(15):3251-3265. doi: 10.1002/cne.24274 for details. </description>
+<license>Open Software License 3.0</license>
+<release>Jan 28, 2018</release>
+<homepage>http://www.nitrc.org/projects/fmri_pace/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Mag Design and Engineering" nitrc="https://www.nitrc.org/projects/magdande" />
+<description> Mag Design and Engineering sells a variety of MEG- and fMRI-compatible hardware for research use. These items include typical response collection devices such as joysticks, response pads, mice, as well as stimulation devices such as vibrotactile stimulators, olfactometers, and pressure/force generators. The company also offers custom design and production services for many different applications. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=493&amp;screenshot_id=386&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=493&amp;screenshot_id=386&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License: MAG</license>
+<category>Response Monitoring</category>
+<category>Stimulus Presentation</category>
+<category>Optical Imaging</category>
+<release>Jun 29, 2011</release>
+<homepage>http://www.magconcept.com</homepage>
+<maintainer>Mag Design and Engineering</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

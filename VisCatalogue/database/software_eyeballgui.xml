@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="EyeBallGUI" nitrc="https://www.nitrc.org/projects/eyeballgui" />
+<description> EyeBallGUI is a tool for interactively viewing &amp;amp; marking multi-channel biosignals&lt;br /&gt;&lt;br /&gt;Please cite using:&lt;br /&gt;&lt;a href=&quot;https://doi.org/10.1101/129437&quot; target=&quot;_new&quot;&gt;https://doi.org/10.1101/129437&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;[1] K. Mohr, B. Nasseroleslami, P. M. Iyer, O. Hardiman, and E. C. Lalor, ‘EyeBallGUI: A Tool For Visual Inspection And Binary Marking of Multi-Channel Bio-Signals’, bioRxiv, p. 129437, May 2017. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=992&amp;screenshot_id=1115&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=992&amp;screenshot_id=1115&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 5, 2015</release>
+<homepage>https://sourceforge.net/projects/eyeballgui/</homepage>
+<maintainer>Trinity College Dublin, the University of Dubin</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

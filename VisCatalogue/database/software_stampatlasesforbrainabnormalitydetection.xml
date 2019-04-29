@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="STAMP Atlases for Brain Abnormality Detection" nitrc="https://www.nitrc.org/projects/stamp_atlases" />
+<description> STandardized Abnormality-free Multi-Parametric (STAMP) atlases can help detect various lesions (e.g., MS lesions, stroke lesions, primary/recurrent tumors, post-surgery cavity, etc). &lt;br /&gt;&lt;br /&gt;STAMP atlases include 4 modalities (T1, T2, T1c, FLAIR) and 1 artificial modality (T1d:=T1c-T1, highlighting pure contrast). Here T1c is T1 MRI with gadolinium contrast. Multi-modal atlases help detect lesion components. The otherwise rarely available T1c/T1d atlases can help differentiate between normal vessels and enhancing tumor, both enhancing upon gadolinium injection.&lt;br /&gt;&lt;br /&gt;The STAMP atlases quantify the normal intensity variations at the voxel level, which adds to those at the image or tissue level. This may help abnormality detection, because normal variations and hence abnormal detection may depend on anatomical locations.&lt;br /&gt;&lt;br /&gt;The STAMP atlas can also be used to standardize intensity, to spatially normalize patient images, or to extract alignment-based features.&lt;br /&gt;&lt;br /&gt;Publication pending. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=971&amp;screenshot_id=956&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=971&amp;screenshot_id=956&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<release>Sep 29, 2015</release>
+<homepage>http://www.nitrc.org/projects/stamp_atlases/</homepage>
+<maintainer>MGH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

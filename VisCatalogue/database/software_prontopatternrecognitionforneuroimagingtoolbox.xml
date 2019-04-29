@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="PRoNTo – Pattern Recognition for Neuroimaging Toolbox" nitrc="https://www.nitrc.org/projects/pronto" />
+<description> PRoNTo (Pattern Recognition for Neuroimaging Toolbox) is a software toolbox based on pattern recognition techniques for the analysis of neuroimaging data. Statistical pattern recognition is a field within the area of machine learning which is concerned with automatic discovery of regularities in data through the use of computer algorithms, and with the use of these regularities to take actions such as classifying the data into different categories. In PRoNTo, brain scans are treated as spatial patterns and statistical learning models are used to identify statistical properties of the data that can be used to discriminate between experimental conditions or groups of subjects (classification models) or to predict a continuous measure (regression models). </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 26, 2012</release>
+<homepage>http://www.mlnl.cs.ucl.ac.uk/pronto/</homepage>
+<maintainer>University College London, Department of Computer Science</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

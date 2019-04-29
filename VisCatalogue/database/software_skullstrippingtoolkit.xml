@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="SkullStrippingToolkit" nitrc="https://www.nitrc.org/projects/skulltoolkit" />
+<description> A matlab-based code for skull stripping on infant and adult MR images.&lt;br /&gt;&lt;br /&gt;Please refer to below papers for details:&lt;br /&gt;&lt;br /&gt;&amp;quot;LABEL: Pediatric Brain Extraction Using Learning-based Meta-algorithm&amp;quot;, Neuroimage 62(3):1975–1986, Sep. 2012. [Feng Shi, Li Wang, Yakang Dai, John H Gilmore, Weili Lin, Dinggang Shen] </description>
+<license>iBEAT</license>
+<release>Aug 23, 2016</release>
+<homepage>http://www.nitrc.org/projects/skulltoolkit/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

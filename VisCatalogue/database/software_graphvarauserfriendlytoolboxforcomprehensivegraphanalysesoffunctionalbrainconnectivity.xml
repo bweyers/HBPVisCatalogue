@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="GraphVar: A user-friendly toolbox for comprehensive graph analyses of functional brain connectivity" nitrc="https://www.nitrc.org/projects/graphvar" />
+<description> &amp;quot;Journal of Neuroscience Methods&amp;quot; (2015, 2018). &lt;br /&gt;&lt;br /&gt;“GraphVar” is a user-friendly graphical-user-interface based toolbox (MATLAB) for comprehensive graph-theoretical analyses of brain connectivity, including network construction and characterization, statistical analysis (GLM and Machine Learning) on network topological measures, and interactive exploration of results. By combining together features across multiple current toolboxes, such as the Brain Connectivity Toolbox, the Graph Analysis Toolbox, and the Network Based Statistic Toolbox (BCT, Rubinov and Sporns 2010; GAT, Hosseini et al., 2012; NBS, Zalesky et al., 2010), GraphVar represents a comprehensive collection of graph analysis routines for functional neuroimaging researchers. GraphVar offers an interactive viewer that allows intuitive exploration of statistical results. Results can easily be exported and reloaded. The program entails a detailed manual that includes usage instructions and a description of all the implemented functions. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=844&amp;screenshot_id=804&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=844&amp;screenshot_id=804&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Connectivity Analysis</category>
+<release>Jul 10, 2014</release>
+<homepage>http://www.nitrc.org/projects/graphvar/</homepage>
+<maintainer>Charité Universitätsmedizin, Berlin</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

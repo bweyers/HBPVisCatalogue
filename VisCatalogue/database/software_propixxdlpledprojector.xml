@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="PROPixx DLP LED projector" nitrc="https://www.nitrc.org/projects/dlp_projector" />
+<description> The PROPixx is a unique DLP LED projector which has been designed to be the most flexible display solution for vision research and neuroscience research. The PROPixx features a native resolution of 1920 x 1080, and can be driven with refresh rate up to 500Hz with deterministic timing. The PROPixx uses high brightness LEDs as a light source, giving a wide colour gamut and much longer lifetime than halogen light sources. It features high-bit depth, up to 12-bit per color for high-frequency full colour stimulation. For stereo vision applications, our high-speed ferro-electric circular polarizer can project stereoscopic stimuli with the use of passive glasses at up to 400Hz. In addition the PROPixx includes an array of peripherals which often need to be synchronized to video during an experiment, and with perfect microsecond precision. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=732&amp;screenshot_id=656&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=732&amp;screenshot_id=656&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Response Monitoring</category>
+<category>Stimulus Presentation</category>
+<category>EEG</category>
+<category>Eye Tracking</category>
+<category>MEG</category>
+<category>Physiological Stimulation</category>
+<category>Scanner</category>
+<release>Jun 20, 2013</release>
+<homepage>http://vpixx.com/our-products/projector/</homepage>
+<maintainer>VPixx Technologies</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

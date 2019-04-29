@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="FBIRN Image Processing Scripts (FIPS)" nitrc="https://www.nitrc.org/projects/fips" />
+<description> FBIRN Imaging Processing Scripts (FIPS) is a FSL package for the comprehensive management of large-scale multi-site fMRI projects, including data storage, retrieval, calibration, analysis, multi-modal integration, and quality control. </description>
+<license>BSD License</license>
+<category>Database Application</category>
+<category>Statistical Operation</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>Jun 19, 2008</release>
+<homepage>http://www.nitrc.org/projects/fips/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

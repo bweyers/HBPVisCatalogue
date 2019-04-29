@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="MDR Multifactor Dimensionality Reduction" nitrc="https://www.nitrc.org/projects/mdr" />
+<description> Multifactor Dimensionality Reduction (MDR) is a nonparametric and genetic model-free machine learning alternative to logistic regression for detecting and characterizing nonlinear interactions among discrete genetic and environmental attributes. The MDR method combines attribute selection, attribute construction, and classification with cross-validation and permutation testing to provide a comprehensive and powerful approach to detecting epistasis. MDR has been successfully applied to numerous different diseases and is currently being adapted to genome-wide assoication studies (GWAS). </description>
+<license>GNU General Public License (GPL)</license>
+<category>Genetic Association</category>
+<release>Feb 5, 2014</release>
+<homepage>http://www.multifactordimensionalityreduction.org/</homepage>
+<maintainer>Geisel Medical School at Dartmouth College</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

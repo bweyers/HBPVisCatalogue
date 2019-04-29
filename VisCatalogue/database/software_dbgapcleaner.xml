@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="DbGaP_Cleaner" nitrc="https://www.nitrc.org/projects/dbgapcleaner" />
+<description> This tool will help assist site staff with curation of data dictionary, data item, and subject item files for preparation to uploading and sharing data with DbGaP resource. The intent is to help the user save time and effort in finding and fixing data artifacts prior to submission, since processing times can take some time and effort. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Jun 29, 2012</release>
+<homepage>http://www.nitrc.org/projects/dbgapcleaner/</homepage>
+<maintainer>Advanced Biomedical Informatics Group, LLC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

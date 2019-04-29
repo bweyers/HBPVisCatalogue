@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="EPILAB" nitrc="https://www.nitrc.org/projects/epilab" />
+<description> A Matlab®-based software package, EPILAB, was developed for supporting researchers in performing studies on the prediction of epileptic seizures. It provides an intuitive and convenient graphical user interface.&lt;br /&gt;Fundamental concepts that are crucial for epileptic seizure prediction studies were implemented.This includes, for example, the development and statistical validation of prediction methodologies in long-term continuous recordings. Seizure prediction is usually based on electroencephalography (EEG) and electrocardiography (ECG) signals. EPILAB is able to process both EEG and ECG data stored in different formats. More than 35 time and frequency domain measures (features) can be extracted based on univariate and multivariate data analysis. These features can be post-processed and used for prediction purposes. The predictions may be conducted based on optimized thresholds or by applying classifications methods such as artificial neural networks, cellular neuronal networks, and support vector machines. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=737&amp;screenshot_id=714&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=737&amp;screenshot_id=714&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Jul 28, 2013</release>
+<homepage>http://www.epilepsiae.eu/project_outputs/epilab_software</homepage>
+<maintainer>Epilepsiae FP7 Consortium</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

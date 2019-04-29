@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="ViMEAPy" nitrc="https://www.nitrc.org/projects/vimeapy" />
+<description> Virtual MEA measurements in Python (ViMEAPy) is a Python toolbox for calculating the extracellular potential arising from a known current source distribution, in the in vitro slice setting, where a thin slice of neural tissue is immersed in saline on top of a Micro Electrode Array (MEA). For this experimental set-up, calculating the extracellular potentials arising from a known distribution of current sources is a non-trivial problem because of the heterogeneous conductivity of the system. We provide here a Python toolbox that facilitates such modelling by use of the Method of Images.&lt;br /&gt;&lt;br /&gt;For specific details, validations, and usage, please go to the article &amp;quot;Modelling and Analysis of Electrical Potentials Recorded in Microelectrode Arrays (MEAs)&amp;quot; which is available here: &lt;a href=&quot;http://link.springer.com/article/10.1007%2Fs12021-015-9265-6&quot; target=&quot;_new&quot;&gt;http://link.springer.com/article/10.1007...&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 6, 2016</release>
+<homepage>http://www.nitrc.org/projects/vimeapy/</homepage>
+<maintainer>Norwegian University of Life Sciences</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="Non-rigid groupwise registration method" nitrc="https://www.nitrc.org/projects/groupwisereg" />
+<description> The goal of the project is to provide an open source implementation of a non-rigid groupwise registration method.&lt;br /&gt;&lt;br /&gt;This project is implemented by&lt;br /&gt;+ Serdar K Balci (serdar at csail.mit.edu)&lt;br /&gt; and supervised by&lt;br /&gt;+ Polina Golland&lt;br /&gt;+ William M. Wells&lt;br /&gt;&lt;br /&gt;All metrics are implementing in a multi-threaded fashion. The algorithm will run faster on&lt;br /&gt;computers with multiple CPU&#x27;s. </description>
+<release>Jan 27, 2010</release>
+<homepage>http://www.nitrc.org/projects/groupwisereg/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

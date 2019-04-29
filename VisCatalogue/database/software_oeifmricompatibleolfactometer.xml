@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="OEI fMRI compatible olfactometer" nitrc="https://www.nitrc.org/projects/oei" />
+<description> The OEI OLFACT-fMRI olfactometer is a computerized, odor delivery device that can be used for basic research applications including mapping olfactory centers, cognitive/learning research, neuro-marketing among other uses. Additional products including tests for odor threshold, odor identification, odor discrimination and odor memory. </description>
+<license>Commercial License: OEI</license>
+<category>Stimulus Presentation</category>
+<release>Jun 29, 2011</release>
+<homepage>http://www.osmicenterprises.com</homepage>
+<maintainer>Osmic Enterprises, Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

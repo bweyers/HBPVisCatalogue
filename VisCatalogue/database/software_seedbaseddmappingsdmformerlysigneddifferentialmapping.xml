@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Seed-based d Mapping (SDM, formerly Signed Differential Mapping)" nitrc="https://www.nitrc.org/projects/sdm" />
+<description> Seed-based d Mapping (formerly &amp;quot;Signed Differential Mapping&amp;quot;) is a statistical technique for meta-analyzing studies on differences in brain activity or structure that used neuroimaging techniques such as fMRI, VBM, DTI or PET. The methods have been fully validated in several studies, and meta-analyses using this method have been already published at the highest quality journals, such as Molecular Psychiatry, JAMA Psychiatry or the American Journal of Psychiatry. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=607&amp;screenshot_id=506&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=607&amp;screenshot_id=506&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<release>May 30, 2012</release>
+<homepage>http://www.sdmproject.com/</homepage>
+<maintainer>Translational Neuroimaging Group</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

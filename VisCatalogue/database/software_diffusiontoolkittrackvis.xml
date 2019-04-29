@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="Diffusion Toolkit / TrackVis" nitrc="https://www.nitrc.org/projects/trackvis" />
+<description> Diffusion Toolkit (with TrackVis) is a cross-platform software package that does reconstruction, fiber tracking, visualization and analysis on various diffusion imaging data. Features of the software include:&lt;br /&gt;&lt;br /&gt;• Handles DTI, DSI, Q-Ball and HARDI imaging techniques.&lt;br /&gt;• Works on Windows, Mac OS X and Linux with native look and feel. Native 64-bit support on Mac OS X and Linux.&lt;br /&gt;• Fast streamlined data processing.&lt;br /&gt;• Intuitive GUI front-end with command-line driven back-end. Thus, allows advanced user to write their own scripts for automated multiple dataset processing.&lt;br /&gt;• Real-time fiber track visualization and analysis. Parameter adjustment applied to 3D render on the fly. Various tracking selection methods (filters) allows locating specific track bundle with ease. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=112&amp;screenshot_id=138&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=112&amp;screenshot_id=138&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MGH CSRL License</license>
+<category>Image Reconstruction</category>
+<category>Diffusion MR Fiber Tracking</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 17, 2008</release>
+<homepage>http://www.trackvis.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

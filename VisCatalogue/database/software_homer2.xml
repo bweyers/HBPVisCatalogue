@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Homer2" nitrc="https://www.nitrc.org/projects/homer2" />
+<description> HOMER2 is a set of matlab scripts used for analyzing fNIRS data to obtain estimates and maps of brain activation. This set of scripts has evolved since the early 1990s, first as the Photon Migration Imaging toolbox, then HOMER, and now HOMER2.&lt;br /&gt;&lt;br /&gt;HOMER2 has a familiar GUI interface, but now more easily supports group analyses and re-configuration of the processing stream. Further, it enables users to integrate their own algorithms into the processing stream. Underneath the GUI, all of the processing functions can be accessed at the script level, adding additional flexibility.&lt;br /&gt;&lt;br /&gt;HOMER2 also includes the head and probe registration and brain imaging tool, AtlasViewer.&lt;br /&gt;&lt;br /&gt;Users are encouraged to contribute their own scripts for public dissemination within HOMER2.&lt;br /&gt;&lt;br /&gt;For Documentation and Installation Instructions visit &lt;a href=&quot;https://www.nitrc.org/plugins/mwiki/index.php/homer2:MainPage&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/plugins/mwiki/inde...&lt;/a&gt; . </description>
+<license>MGH CSRL License</license>
+<release>Jul 9, 2012</release>
+<homepage>http://www.nitrc.org/projects/homer2/</homepage>
+<maintainer>Boston University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

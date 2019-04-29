@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Random forest for prediction of CI_WRS" nitrc="https://www.nitrc.org/projects/ci_outcome_pred" />
+<description> To be added soon </description>
+<release>Jul 20, 2018</release>
+<homepage>http://www.nitrc.org/projects/ci_outcome_pred/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

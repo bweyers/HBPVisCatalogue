@@ -1,0 +1,45 @@
+<root>
+<software>
+<name name="JIST Resources for Algorithm Development" nitrc="https://www.nitrc.org/projects/jhumipavplugins" />
+<description> This repository stores plugins, tutorial code, and examples demonstrating MRI manipulation within the MIPAV plugin environment.&lt;br /&gt;&lt;br /&gt;This project is separate from JIST so that we can provide WRITE access to any interested party without overly exposing the infrastructure to unplanned modification. Please contact the administrators if you would like to join this project - open use is encouraged. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=143&amp;screenshot_id=182&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=143&amp;screenshot_id=182&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Application</category>
+<category>Other Software Resource</category>
+<category>Platform or Development Environment</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>COR</input>
+<output>COR</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 29, 2008</release>
+<homepage>http://www.nitrc.org/projects/jhumipavplugins/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

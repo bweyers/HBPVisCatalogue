@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Brian simulator" nitrc="https://www.nitrc.org/projects/brian" />
+<description> Brian is a simulator for spiking neural networks available on almost all platforms. The motivation for this project is that a simulator should not only save the time of processors, but also the time of scientists.&lt;br /&gt;&lt;br /&gt;Brian is easy to learn and use, highly flexible and easily extensible. The Brian package itself and simulations using it are all written in the Python programming language, which is an easy, concise and highly developed language with many advanced features and development tools, excellent documentation and a large community of users providing support and extension packages. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=853&amp;screenshot_id=831&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=853&amp;screenshot_id=831&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>CeCill v2</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<release>Aug 7, 2014</release>
+<homepage>http://www.briansimulator.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

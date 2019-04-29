@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="GTRACT" nitrc="https://www.nitrc.org/projects/vmagnotta" />
+<description> NOTE: All new development is being managed in a github repository. Please visit&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/BRAINSia/BRAINSTools&quot; target=&quot;_new&quot;&gt;https://github.com/BRAINSia/BRAINSTools&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;GTRACT is a Diffusion Tensor fiber tracking suite that includes streamline tracking tools. The fiber tracking includes a guided tracking tool that integrates apriori information into a streamlines algorithm. This suite of programs is built using the NA-MIC toolkit and uses the Slicer3 execution model framework to define the command line arguments. These tools can be fully integrated with Slicer3 using the module discovery capabilities of Slicer3. </description>
+<license>BSD License</license>
+<category>Tensor Metric</category>
+<category>Morphology</category>
+<category>Tractography</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Nov 29, 2007</release>
+<homepage>http://www.nitrc.org/projects/vmagnotta/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Triangle BioSystems" nitrc="https://www.nitrc.org/projects/tbsi" />
+<description> TBSI is a biomedical device company focused on developing and manufacturing neural hardware solutions for application in medical research using animals when bio-monitoring, recording and stimulation functions are needed.&lt;br /&gt;&lt;br /&gt;- Neural Recording Equipment&lt;br /&gt;- Neural Stimulation Equipment&lt;br /&gt;- Data Acquisition Hardware and Software 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=592&amp;screenshot_id=494&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=592&amp;screenshot_id=494&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>EEG</category>
+<category>Other Software Resource</category>
+<release>Apr 2, 2012</release>
+<homepage>http://www.trianglebiosystems.com/</homepage>
+<maintainer>TBSI</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="NUTMEG" nitrc="https://www.nitrc.org/projects/nutmeg" />
+<description> NUTMEG (Neurodynamic Utility Toolbox for Magnetoencephalography) is an open-source MATLAB toolbox for reconstructing the spatiotemporal dynamics of neural activations and overlaying them onto structural MR images. More information can be found at &lt;a href=&quot;http://www.nitrc.org/projects/nutmeg/&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/projects/nutmeg/&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=111&amp;screenshot_id=389&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=111&amp;screenshot_id=389&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>MEG Modeling</category>
+<category>Multivariate Analysis</category>
+<category>Principal Component Analysis</category>
+<category>Three Dimensional Display</category>
+<category>Surface Rendering</category>
+<platform>OS Independent</platform>
+<release>Jun 17, 2008</release>
+<homepage>http://www.nitrc.org/projects/nutmeg/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

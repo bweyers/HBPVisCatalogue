@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: Datasets" nitrc="https://www.nitrc.org/projects/cbica_datasets" />
+<description> Meta-project, providing datasets associated with various CBICA projects: Mouse Brain, Facial Expression/Schizophrenia, Prostate, etc. </description>
+<license>SBIA License</license>
+<release>Mar 14, 2017</release>
+<homepage>http://www.nitrc.org/projects/cbica_datasets/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

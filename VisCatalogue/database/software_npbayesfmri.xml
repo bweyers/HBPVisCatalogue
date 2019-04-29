@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="NPBayes-fMRI" nitrc="https://www.nitrc.org/projects/npbayes-fmri" />
+<description> This is a user-friendly matlab GUI that implements a spatio-temporal nonparametric Bayesian linear regression modeling approach for the analysis of task-related fMRI data from multi-subject experiments. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1229&amp;screenshot_id=1149&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1229&amp;screenshot_id=1149&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Software</category>
+<release>Oct 31, 2017</release>
+<homepage>https://github.com/marinavannucci/NPBayes_fMRI</homepage>
+<maintainer>Rice University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

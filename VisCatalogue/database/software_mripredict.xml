@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MRI Predict" nitrc="https://www.nitrc.org/projects/mripredict" />
+<description> MRI Predict is an SPM toolbox, FSL-flavour lib and R package to easily predict an outcome (e.g. whether the patient will respond to a treatment, or whether the patient has one or another disorder) from sMRI scans. The model may include covariates, and the software conducts both cross-validation of the model and fitting for its use with new VBM data in other dimensions. </description>
+<license>Freeware</license>
+<release>Apr 7, 2017</release>
+<homepage>http://www.mripredict.com/</homepage>
+<maintainer>Translational Neuroimaging Group</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

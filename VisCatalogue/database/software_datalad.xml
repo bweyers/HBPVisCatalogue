@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="DataLad" nitrc="https://www.nitrc.org/projects/datalad" />
+<description> DataLad makes data management and data distribution more accessible. To do that it stands on the shoulders of Git and Git-annex to deliver a decentralized system for data exchange. This includes automated ingestion of data from online portals, and exposing it in readily usable form as Git(-annex) repositories, so-called datasets. The actual data storage and permission management, however, remains with the original data providers.&lt;br /&gt;At the moment, DataLad provides access to over 11TB of data in a variety of datasets from different resources (see &lt;a href=&quot;http://datasets.datalad.org&quot; target=&quot;_new&quot;&gt;http://datasets.datalad.org&lt;/a&gt;). It allows for efficient search, dataset(s) installation, data modifications and their tracking within Git version control, publication of datasets to http websites, S3, figshare, etc; reproducible computation, and other features. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1246&amp;screenshot_id=1158&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1246&amp;screenshot_id=1158&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT</license>
+<category>Data Model</category>
+<category>Data Resource</category>
+<category>Database Application</category>
+<release>Jan 10, 2018</release>
+<homepage>http://datalad.org</homepage>
+<maintainer>Dartmouth College (USA), University of Magdeburg (Germany)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

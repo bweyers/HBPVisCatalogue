@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="NeuroStars" nitrc="https://www.nitrc.org/projects/neurostars" />
+<description> A question and answer site for neuroinformatics. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1357&amp;screenshot_id=1259&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1357&amp;screenshot_id=1259&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Community</category>
+<release>Mar 11</release>
+<homepage>https://neurostars.org/</homepage>
+<maintainer>Managed by International Neuroinformatics Coordinating Facility (INCF)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

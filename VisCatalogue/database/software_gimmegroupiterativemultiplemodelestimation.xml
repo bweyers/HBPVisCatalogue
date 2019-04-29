@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="GIMME (Group Iterative Multiple Model Estimation)" nitrc="https://www.nitrc.org/projects/gimme" />
+<description> **** We have transitioned GIMME completely into R. The R package is maintained. **** &lt;br /&gt;Group Iterative Multiple Model Estimation (GIMME) is a free Matlab toolbox for directed functional connectivity analysis of the fMRI BOLD signal from predefined regions of interest. GIMME reliably recovers the true structure of connections and estimates the weights attributed to each connection (equivalently termed “path” or “adjacency”). Importantly, patterns are obtained at both the group and individual levels. GIMME is one of the few approaches that accommodates heterogeneity in brain connectivity patterns across individuals within a sample. Req: Matlab, Lisrel, preproccesing toolbox/software. Gates, K. M. &amp;amp; Molenaar, P. C. M. (2012). Group search algorithm recovers effective connectivity maps for individuals in homogeneous and heterogeneous samples, NeuroImage, Volume 63, Issue 1(15), 310-319, &lt;a href=&quot;http://dx.doi.org/10.1016/j.neuroimage.2012.06.026&quot; target=&quot;_new&quot;&gt;http://dx.doi.org/10.1016/j.neuroimage.2...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=792&amp;screenshot_id=720&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=792&amp;screenshot_id=720&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<category>Connectivity Analysis</category>
+<category>Modeling</category>
+<category>Multivariate Analysis</category>
+<category>Time Domain Analysis</category>
+<platform>Windows</platform>
+<release>Jan 28, 2014</release>
+<homepage>http://www.nitrc.org/projects/gimme/</homepage>
+<maintainer>University of North Carolina; The Pennsylvania State University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

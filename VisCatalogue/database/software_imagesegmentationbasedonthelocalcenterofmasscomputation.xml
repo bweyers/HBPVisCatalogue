@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Image Segmentation Based on the Local Center of Mass Computation" nitrc="https://www.nitrc.org/projects/seg" />
+<description> This is a Matlab toolbox for medical image segmentation, which uses an approach based on the local center of mass, as introduced by Aganj et al (Sci Rep, 2018). A short tutorial is included in EXAMPLE.m. If available, a GPU can be used to speed up the segmentation. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1239&amp;screenshot_id=1221&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1239&amp;screenshot_id=1221&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Center of Mass</category>
+<category>Segmentation</category>
+<release>Dec 6, 2017</release>
+<homepage>https://www.nitrc.org/projects/seg</homepage>
+<maintainer>Harvard Medical School / Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

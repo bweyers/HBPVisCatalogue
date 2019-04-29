@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="MriWatcher" nitrc="https://www.nitrc.org/projects/mriwatcher" />
+<description> This simple visualization tool allows to load several images at the same time. The cursor across all windows are coupled and you can move/zoom on all the images at the same time.&lt;br /&gt;Very useful for quality control, image comparison. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Apr 6, 2011</release>
+<homepage>http://www.nitrc.org/projects/mriwatcher/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

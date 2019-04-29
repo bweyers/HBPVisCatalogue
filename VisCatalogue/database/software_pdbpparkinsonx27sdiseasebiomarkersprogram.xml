@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="PDBP: Parkinson&#x27;s Disease Biomarkers Program" nitrc="https://www.nitrc.org/projects/pdbp" />
+<description> The National Institute of Neurological Disorders and Stroke (NINDS) Parkinson&#x27;s Disease Biomarkers Program (PDBP) was developed to accelerate the discovery of promising new diagnostic and progression biomarkers for Parkinson&#x27;s Disease. The PDBP is focused on promoting the discovery of biomarker candidates for early detection and measurement of disease progression. The PDBP will coordinate the efforts of multiple stakeholders through a common data management resource and web portal. The PDBP will serve as a multi-faceted platform for:&lt;br /&gt; - Integrating existing biomarker efforts&lt;br /&gt; - Standardizing data collection and management across these efforts&lt;br /&gt; - Accelerating the discovery of new biomarkers&lt;br /&gt; - Fostering and expanding collaborative opportunities for all stakeholders. </description>
+<license>NIH Data Access Policy</license>
+<category>Data</category>
+<category>Database</category>
+<category>Knowledge Environment</category>
+<category>Web Resource</category>
+<platform>OS Independent</platform>
+<release>Jan 8, 2013</release>
+<homepage>http://pdbp.ninds.nih.gov/index.jsp</homepage>
+<maintainer>National Institutes of Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

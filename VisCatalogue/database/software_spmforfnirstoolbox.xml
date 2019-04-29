@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="SPM for fNIRS toolbox" nitrc="https://www.nitrc.org/projects/spm_fnirs" />
+<description> The SPM for fNIRS toolbox is the SPM12-based software for statistical analysis of functional near-infrared spectroscopy (fNIRS) signal. The toolbox allows for inferences about regionally specific hemodynamic effects with superresolution, by applying the general linear model and random field theory to fNIRS data. &lt;br /&gt;&lt;br /&gt;In the toolbox manual, we provide an illustrative statistical parametric mapping (SPM) analysis using fNIRS data acquired during Stroop task, and then describe detailed information about functions implemented in the toolbox.&lt;br /&gt;&lt;br /&gt;Manual: &lt;a href=&quot;https://www.nitrc.org/docman/view.php/965/1995/manual_spm_fnirs.pdf&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/docman/view.php/96...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Reference: &lt;br /&gt;Sensor space group analysis for fNIRS data. &lt;br /&gt;Tak, S, Uga, M, Flandin, G, Dan, I, Penny, WD, 2016. J. Neurosci. Meth. 264, 103-112. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Sep 10, 2015</release>
+<homepage>http://www.nitrc.org/projects/spm_fnirs/</homepage>
+<maintainer>Wellcome Trust Centre for Neuroimaging</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

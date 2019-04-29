@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="UNC/Utah NAMIC DTI Fiber Analysis Framework" nitrc="https://www.nitrc.org/projects/namicdtifiber" />
+<description> This project can be seens as a master project encompassing several current NITRC projects into a coherent set. The project will host binary packaged distributions, scripts, example datasets, and corresponding results of analysis using our UNC/Utah NAMIC DTI Fiber Analysis Framework. &lt;br /&gt;&lt;br /&gt;Our workflow utilizes tools already available on NITRC including: &lt;br /&gt;-DTIPrep (available as a 3D Slicer extension &lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;)&lt;br /&gt;-DTIAtlasBuilder (available as a 3D Slicer extension &lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;)&lt;br /&gt;-FiberViewerLight (available as a 3D Slicer extension &lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;)&lt;br /&gt;-DTIAtlasFiberAnalyzer (available as a 3D Slicer extension &lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;)&lt;br /&gt;-FADTTS with the updated GUI FADTTSter </description>
+<license>BSD License</license>
+<category>Atlas Application</category>
+<category>Diffusion Application</category>
+<release>Aug 8, 2013</release>
+<homepage>http://www.nitrc.org/projects/namicdtifiber/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

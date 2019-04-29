@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="DICOMConvert" nitrc="https://www.nitrc.org/projects/dicomconvert" />
+<description> Dicom Converteris based on the ITK IO mechanism for reading and writing images. The formats currently supported by the converter are DICOM to: &lt;br /&gt; Analyze (*.hdr)&lt;br /&gt; MetaImage (*.mhd)&lt;br /&gt; Nrrd (*.nhdr, *.nrrd)&lt;br /&gt;In addition the application supports drop directory support. Please check for updates and leave feedback at:&lt;br /&gt;&lt;br /&gt;Dr Awais Mansoor (&lt;a href=&quot;mailto:awais.mansoor@gmail.com&quot; target=&quot;_new&quot;&gt;awais.mansoor@gmail.com&lt;/a&gt;) and Dr. Ulas Bagci (Ulasbagci@gmail.com).&lt;br /&gt;Center for Infectious Disease Imaging (CIDI)&lt;br /&gt;Department of Radiology and Imaging Sciences&lt;br /&gt;National Institutes of Health (NIH), Bethesda, MD. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=837&amp;screenshot_id=786&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=837&amp;screenshot_id=786&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Software</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Jun 19, 2014</release>
+<homepage>http://www.nitrc.org/projects/dicomconvert/</homepage>
+<maintainer>National Institutes of Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

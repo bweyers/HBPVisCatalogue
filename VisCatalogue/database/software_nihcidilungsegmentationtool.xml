@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="NIH-CIDI Lung Segmentation Tool" nitrc="https://www.nitrc.org/projects/nihlungseg" />
+<description> Open-source software for automatic segmentation of lung in CT images.&lt;br /&gt;&lt;br /&gt;The software is an segmentation tool for the segmentation of lung from CT images. The sofware can be run in two modes: (a) fully automatic and (b) semi-automatic with manual seeding by the user. The software also allows the user perform basic filtering operations and manual correction to the segmentation, if needed. The VTK-based rendering implemntation along with option to view in axial, coronal, and saggital provide user with better visualization of the segmented lung. A short video on the working of the software can be viewed here:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=VD3GQ0O7weE&quot; target=&quot;_new&quot;&gt;http://www.youtube.com/watch?v=VD3GQ0O7w...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;The algorithm driving the software has been tested on a publically available database (LOLA Challenge 11, &lt;a href=&quot;http://www.lola11.com&quot; target=&quot;_new&quot;&gt;http://www.lola11.com&lt;/a&gt;). The results based on the overlap score can viewed on the challenge website. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=776&amp;screenshot_id=700&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=776&amp;screenshot_id=700&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Volumetric Analysis</category>
+<category>Segmentation</category>
+<platform>Windows</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Nov 27, 2013</release>
+<homepage>http://www.nitrc.org/projects/nihlungseg/</homepage>
+<maintainer>National Institutes of Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

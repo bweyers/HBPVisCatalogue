@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="resting-state pediatric imaging template" nitrc="https://www.nitrc.org/projects/r-spit" />
+<description> Group ICA was used to generate spatial templates for 12 common resting-state networks in 62 typically-developing children, ages 9-15. We have made these available for those that will find them useful for masking and spatial template matching procedures. Basic demographic data on the sample is provided along with the protocol used to generate the templates. </description>
+<license>Public Domain</license>
+<category>Atlas Data</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Dec 8, 2010</release>
+<homepage>http://www.nitrc.org/projects/r-spit/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Laboratory of Neuro Imaging (LONI)" nitrc="https://www.nitrc.org/projects/loni" />
+<description> The Laboratory of Neuro Imaging strives to improve our understanding of the brain in health and disease. LONI develops advanced computational algorithms and scientific approaches for the comprehensive and quantitative mapping of brain structure and function. LONI aims to encourage communication between users and LONI software engineers in order to improve the effectiveness of computational brain mapping software and to promote its use by researchers worldwide. LONI software website (&lt;a href=&quot;http://www.loni.usc.edu/Software/&quot; target=&quot;_new&quot;&gt;http://www.loni.usc.edu/Software/&lt;/a&gt;) includes downloadable and web-accessible tools, training and support. Be sure to visit LONI Forums and discuss our tools with other end-users and LONI investigators.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.loni.usc.edu&quot; target=&quot;_new&quot;&gt;http://www.loni.usc.edu&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=525&amp;screenshot_id=422&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=525&amp;screenshot_id=422&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>LONI Software License</license>
+<release>Sep 16, 2011</release>
+<homepage>http://www.nitrc.org/projects/loni/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

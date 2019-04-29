@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Multi-Modality Visualization Tool" nitrc="https://www.nitrc.org/projects/mmvt" />
+<description> The visualization and exploration of neuroimaging data are important for the analysis of anatomical and functional images and statistical parametric maps. While two-dimensional orthogonal views of neuroimaging data are used to display activity and statistical analysis, real three-dimensional (3d) depictions are helpful for showing the spatial distribution of a functional network, as well as its temporal evolution. For our best knowledge, currently, there is no neuroimaging 3d tool which can visualize both MEG, fMRI and invasive electrodes (ECOG, depth electrodes, DBS, etc.). </description>
+<license>BSD/MIT-Style Open Source License</license>
+<release>Nov 16, 2017</release>
+<homepage>http://www.nitrc.org/projects/mmvt/</homepage>
+<maintainer>MGH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

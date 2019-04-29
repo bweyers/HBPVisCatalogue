@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="L-Neuron" nitrc="https://www.nitrc.org/projects/l-neuron" />
+<description> The L-Neuron program creates anatomically realistic virtual neurons using the formalism of the Lyndenmayer systems to implement sets of neuroanatomical rules discovered by several research groups (and in particular, Hillman&#x27;s, Tamori&#x27;, and Burke&#x27;s). These rules are local and recursive. The L-Neuron algorithms read in experimental data to generate virtual structures. The experimental data are in the form of statistical distributions (for example, bifurcation angles in Purkinje cells can be represented with a Gaussian distribution, with a certain average and standard deviation). L-Neuron samples the values of the parameters within these statistical distributions in a stochastic (random) fashion during dendritic growth. Therefore, with the same set of parameter distributions, the program can generate an unlimited number of virtual neurons. </description>
+<license>Freeware</license>
+<category>Neuronal Modeling</category>
+<category>Simulation</category>
+<release>Aug 2, 2014</release>
+<homepage>http://krasnow1.gmu.edu/cn3/L-Neuron/home.htm</homepage>
+<maintainer>George Mason University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

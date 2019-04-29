@@ -1,0 +1,28 @@
+<root>
+<software>
+<name name="BrainSuite" nitrc="https://www.nitrc.org/projects/brainsuite" />
+<description> BrainSuite is a collection of open source software tools that enable largely automated processing of magnetic resonance images (MRI) of the human brain. The latest version of the BrainSuite software (v.16a1) is available for download from the BrainSuite website (&lt;a href=&quot;http://brainsuite.org/&quot; target=&quot;_new&quot;&gt;http://brainsuite.org/&lt;/a&gt;). This release includes a GUI for processing and visualization, tools to extract and parameterize cortex surface meshes, modules for automatic registration and labeling of brain volumes and surfaces, and distortion correction and coregistration of diffusion data with structural MRIs (available via the command line), for Windows, Mac OS X, and Linux platforms. BrainSuite source code is available under a GPLv2 license.&lt;br /&gt;&lt;br /&gt;BrainSuite is produced as a collaborative project between David Shattuck&#x27;s research group at the UCLA Brain Mapping Center (&lt;a href=&quot;http://shattuck.bmap.ucla.edu&quot; target=&quot;_new&quot;&gt;http://shattuck.bmap.ucla.edu&lt;/a&gt;) and Richard Leahy&#x27;s Biomedical Imaging Group at USC (&lt;a href=&quot;http://neuroimage.usc.edu&quot; target=&quot;_new&quot;&gt;http://neuroimage.usc.edu&lt;/a&gt;). </description>
+<license>GNU General Public License (GPL)</license>
+<category>Mesh Generation</category>
+<category>Volumetric Analysis</category>
+<category>Clipping</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows NT/2000</platform>
+<platform>Windows Vista</platform>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 21, 2009</release>
+<homepage>http://brainsuite.org/</homepage>
+<maintainer>UCLA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

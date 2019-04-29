@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="mask_explorer" nitrc="https://www.nitrc.org/projects/mask_explorer" />
+<description> Tool mask_explorer is used to explore fMRI datasets and to find inconsistences in fMRI data, it is suitable especially for group analyses.&lt;br /&gt;&lt;br /&gt;Main features of mask_explorer are:&lt;br /&gt;1) Estimation of binary masks&lt;br /&gt;2) Exploration and export of valid subject counts image and binary group mask&lt;br /&gt;3) Estimation of outlier masks in dataset&lt;br /&gt;4) Creating list of suitable/unsuitable data in relation of positions and ROIs (coverage by masks included) and export to Microsoft Excel or text file. &lt;br /&gt;5) Creating and loading list of positions of interest&lt;br /&gt;6) Compare valid subject counts image with NIFTI file&lt;br /&gt;7) Use of user specified background template&lt;br /&gt;&lt;br /&gt;Mask_explorer can compute subject’s masks. Loaded masks are used to create parametric map. Its values show number of datasets with valid information.&lt;br /&gt;&lt;br /&gt;The best citations for this software is:&lt;br /&gt;&lt;br /&gt;Gajdoš M, Mikl M, Mareček R. Mask_explorer: a tool for exploring brain masks in fMRI group analysis. Computer Methods and Programs in Biomedicine. 2016 Jul. DOI: 10.1016/j.cmpb.2016.07.015 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=916&amp;screenshot_id=917&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=916&amp;screenshot_id=917&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU GPL v2</license>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 20, 2015</release>
+<homepage>http://www.nitrc.org/projects/mask_explorer/</homepage>
+<maintainer>Masaryk University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

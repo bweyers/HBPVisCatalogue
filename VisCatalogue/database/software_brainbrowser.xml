@@ -1,0 +1,28 @@
+<root>
+<software>
+<name name="BrainBrowser" nitrc="https://www.nitrc.org/projects/brainbrowser" />
+<description> BrainBrowser ( &lt;a href=&quot;https://brainbrowser.cbrain.mcgill.ca&quot; target=&quot;_new&quot;&gt;https://brainbrowser.cbrain.mcgill.ca&lt;/a&gt; ) is a web-enabled brain surface viewer that allows the user to explore in real time a 3D brain map expressed on a base surface. &lt;br /&gt;&lt;br /&gt;BrainBrowser has two modes of operation, exploring either a pre-calculated database of structural correlation maps or working with user-defined data. In this mode, the user may choose to explore the correlation structure for cortical thickness, cortical area or cortical volume, or any other pre-calculated metric.&lt;br /&gt;&lt;br /&gt;In the second mode, the user is prompted for the local filenames of the statistical map and the base surface. BrainBrowser can also be used to manipulate 3D fibre pathways derived from DTI, using the same simple file format (.obj) as for surface data. &lt;br /&gt;&lt;br /&gt;BrainBrowser on Youtube: &lt;a href=&quot;http://www.youtube.com/watch?v=HlRTUYUf1Ew&quot; target=&quot;_new&quot;&gt;http://www.youtube.com/watch?v=HlRTUYUf1...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;NOTE: BrainBrowser requires a WebGL-enabled browser such as Google Chrome to support its 3D graphics capability. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=467&amp;screenshot_id=359&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=467&amp;screenshot_id=359&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Web Application - Free to use</license>
+<category>Data</category>
+<category>Web Resource</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<platform>OS Independent</platform>
+<input>MINC2</input>
+<output>MINC2</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Mar 24, 2011</release>
+<homepage>http://brainbrowser.cbrain.mcgill.ca</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

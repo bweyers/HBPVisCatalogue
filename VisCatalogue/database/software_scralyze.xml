@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="SCRalyze" nitrc="https://www.nitrc.org/projects/scralyze" />
+<description> SCRalyze is a powerful software for model-based analysis of peripheral psychophysiology (e.g. skin conductance, heart rate, pupil size etc.). General linear modelling and dynamic causal modelling of these signals provide for inference on neural states/processes. SCRalyze includes flexible data import and display, statistical inference and results display and export. Easy programming of add-ons for new data formats, signal channels, and models. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=323&amp;screenshot_id=215&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=323&amp;screenshot_id=215&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Modeling</category>
+<category>Quantification</category>
+<category>Time Domain Analysis</category>
+<category>Other Software Resource</category>
+<platform>OS Independent</platform>
+<release>Jan 28, 2010</release>
+<homepage>http://scralyze.sourceforge.net</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

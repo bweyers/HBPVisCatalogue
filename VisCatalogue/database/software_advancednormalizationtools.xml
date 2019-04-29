@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="Advanced Normalization Tools" nitrc="https://www.nitrc.org/projects/ants" />
+<description> Advanced Normalization Tools (ANTS) : Image registration with variable transformation models (elastic, diffeomorphic, unbiased) and similarity metrics (landmarks, cross-correlation, mutual information, optical flow). Designed for neuroscience and medical imaging researchers and users. Special capabilities include symmetric diffeomorphic normalization, optimal template creation and user-guided normalization. </description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Atlas Application</category>
+<category>Morphology</category>
+<category>Segmentation</category>
+<category>Registration</category>
+<category>Temporal Transformation</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 27, 2008</release>
+<homepage>http://www.picsl.upenn.edu/ANTS</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

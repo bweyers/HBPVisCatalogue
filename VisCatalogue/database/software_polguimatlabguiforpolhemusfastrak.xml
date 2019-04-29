@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="POLGUI- Matlab GUI for Polhemus Fastrak" nitrc="https://www.nitrc.org/projects/polgui" />
+<description> POLGUI is an interface between MATLAB and the Polhemus Fastrak digitizer used to digitize fiducial locations and scalp EEG electrode locations. &lt;br /&gt; &lt;br /&gt;There are 5 versions all of which work under MATLAB R14 (on both linux and windows platforms), &lt;br /&gt;1. polgui_ver1_r14 : works with 1 receiver (stylus pen) &lt;br /&gt;2. polgui_ver2_r14 : works with 2 receivers (including the pen) &lt;br /&gt;3. polgui_ver3_r14 : works with 3 receivers(including the pen) &lt;br /&gt;4. polgui_ver4_r14 : works with 4 receivers (including the pen) &lt;br /&gt;5. polgui_ver5_r14 : Generic version which works with 1/2/3/4 receivers [WARNING: Ver 5 might be buggy; not fully tested] &lt;br /&gt;&lt;br /&gt;Requirements: MATLAB R14 (Linux/Windows)&lt;br /&gt;&lt;br /&gt;The project is hosted on Sourceforge at &lt;a href=&quot;http://sourceforge.net/projects/polgui/&quot; target=&quot;_new&quot;&gt;http://sourceforge.net/projects/polgui/&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=174&amp;screenshot_id=90&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=174&amp;screenshot_id=90&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Other Software Resource</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<release>Oct 31, 2008</release>
+<homepage>http://sourceforge.net/projects/polgui/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="ProCTSeg" nitrc="https://www.nitrc.org/projects/proctseg" />
+<description> ProCTSeg is a prostate segmentation tool for the treatment CTs. This toolbox includes an image viewer, graphical user interface, and automatic algorithms for landmark detection and prostate segmentation. The tool can support the following functions: Open medical images with various formats (such as mhd, hdr, nii), control intensity range in visualization, zoom in/out, show prostate landmarks and segmentation results, load and save landmark positions and segmentation results, and so on. The software is developed by the IDEA group at the University of North Carolina at Chapel Hill (&lt;a href=&quot;https://www.med.unc.edu/bric/ideagroup&quot; target=&quot;_new&quot;&gt;https://www.med.unc.edu/bric/ideagroup&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;Windows operating system is required to run this software. The executable file was compiled on Windows 7 (64 bit). The graphical user interfaces and the overall framework of the software were implemented in C++. Parallelization technologies were also used to speed up landmark detection and prostate segmentation. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=892&amp;screenshot_id=871&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=892&amp;screenshot_id=871&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>ProCTSeg license</license>
+<category>Algorithm or Reusable Library</category>
+<platform>Windows XP</platform>
+<release>Nov 4, 2014</release>
+<homepage>http://www.nitrc.org/projects/proctseg/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

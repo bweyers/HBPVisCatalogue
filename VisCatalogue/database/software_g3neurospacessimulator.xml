@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="G-3 / Neurospaces Simulator" nitrc="https://www.nitrc.org/projects/neurospaces" />
+<description> The Neurospaces toolchain is being developed in the context of the GENESIS 3 project. Neurospaces software components serve the purpose of user-friendly computational model construction and simulation, morphology and topology analysis. A webinterface allows to define research projects in a database and browse models, simulation results and free text and other content related to a project. </description>
+<license>GNU GPL v2</license>
+<release>Jan 2, 2017</release>
+<homepage>http://www.nitrc.org/projects/neurospaces/</homepage>
+<maintainer>Neurospaces Development</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

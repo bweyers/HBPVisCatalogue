@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="freesurfR" nitrc="https://www.nitrc.org/projects/freesurf_r" />
+<description> This package contains tools for doing group analysis of FreeSurfer (&lt;a href=&quot;https://surfer.nmr.mgh.harvard.edu/&quot; target=&quot;_new&quot;&gt;https://surfer.nmr.mgh.harvard.edu/&lt;/a&gt;) surface data using the general linear model in R (lm).&lt;br /&gt;Results can be rendered in FreeSurfer&#x27;s freeview or AFNI&#x27;s SUMA. Plots for selected vertices can be rendered in R with ggplot2. </description>
+<license>GNU GPL v2</license>
+<category>Software</category>
+<platform>POSIX/UNIX-like</platform>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<release>Jul 18, 2014</release>
+<homepage>http://www.nitrc.org/projects/freesurf_r/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

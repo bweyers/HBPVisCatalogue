@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="L-Measure" nitrc="https://www.nitrc.org/projects/lmeasure" />
+<description> L-Measure is a robust and web-accessible neuroinformatic tool for quantitative and qualitative analysis of three-dimensional neuromorphological reconstructions. Visit LM home at &lt;a href=&quot;http://cng.gmu.edu:8080/Lm/&quot; target=&quot;_new&quot;&gt;http://cng.gmu.edu:8080/Lm/&lt;/a&gt; for downloading the tool. Or, you may also analyze your vector form reconstructions by directly uploading them to the server via web-interfaced application available at the same URL. </description>
+<release>Aug 18, 2014</release>
+<homepage>http://www.nitrc.org/projects/lmeasure/</homepage>
+<maintainer>George Mason University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Elastic Net-based Parcellation (ENPA)" nitrc="https://www.nitrc.org/projects/enpa_ninet" />
+<description> Parcellating brain regions into functionally homogeneous subdivisions is critical for understanding normal and abnormal brain functions. Hence, functional parcellation techniques have recently gained further research momentum. &lt;br /&gt;The toolbox is for parcellation of brain regions with fMRI data using regularized sparse representation method, and consists of parcellation modules at group and individual levels. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1062&amp;screenshot_id=1006&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1062&amp;screenshot_id=1006&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Affero General Public License v3</license>
+<category>Algorithm or Reusable Library</category>
+<release>Sep 2, 2016</release>
+<homepage>http://www.nitrc.org/projects/enpa_ninet/</homepage>
+<maintainer>Non-Invasive Neurostimulation Therapies Laboratory</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

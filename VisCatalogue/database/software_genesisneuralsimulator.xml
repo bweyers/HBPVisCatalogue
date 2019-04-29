@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="GENESIS neural simulator" nitrc="https://www.nitrc.org/projects/genesis" />
+<description> GENESIS (the GEneral NEural SImulation System) is a software platform for the simulation of neural systems ranging from subcellular components and biochemical reactions to complex models of single neurons, large networks, and systems-level processes.&lt;br /&gt;&lt;br /&gt;Features:&lt;br /&gt;&lt;br /&gt; Object oriented modeling paradigm facilitates:&lt;br /&gt; - modification, reuse, and exchange of models or model components&lt;br /&gt; - extension of simulator functionality by adding new classes or commands&lt;br /&gt; &amp;quot;hsolve&amp;quot; solver object allows fast implicit matrix methods and delivery of spike events, while preserving the illusion of separate objects&lt;br /&gt; From the outset GENESIS was designed for network modeling and parallelism&lt;br /&gt; Powerful scripting language allows custom-scripted simulation GUIs and specification of large network models with only a few lines of code.&lt;br /&gt;&lt;br /&gt;Website:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://genesis-sim.org/GENESIS/&quot; target=&quot;_new&quot;&gt;http://genesis-sim.org/GENESIS/&lt;/a&gt; - the stable, &amp;quot;classic&amp;quot; GENESIS 2 simulator&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://genesis-sim.org&quot; target=&quot;_new&quot;&gt;http://genesis-sim.org&lt;/a&gt; - GENESIS 3 (G-3), a 21st century neural simulator under development 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=859&amp;screenshot_id=840&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=859&amp;screenshot_id=840&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Aug 14, 2014</release>
+<homepage>http://genesis-sim.org</homepage>
+<maintainer>GENESIS Developers Group</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Randomized Denoising Autoencoders for Neuroimaging" nitrc="https://www.nitrc.org/projects/rdacodes" />
+<description> The toolbox provides Matlab codes for learning randomized denoisiging autoencoders (rDA) based imaging marker for neuroimaing studies. rDA is an ensemble of neural networks (based on denoising autoencoders) that take imaging data as inputs and produce single/multi dimensional summary score. Parameters are learned from training data. rDA can be used for any learning task (classification, regression), for designing imaging disease markers. The unbiased and low variance of rDA&#x27;s outputs are highly relevant for designing efficient clinical trials. Further details about the model are in the following paper (please cite it if the codes are used). </description>
+<license>GNU General Public License (GPL)</license>
+<release>Mar 16, 2015</release>
+<homepage>http://www.nitrc.org/projects/rdacodes/</homepage>
+<maintainer>University of WIsconsin Madison</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="DicomBrowser" nitrc="https://www.nitrc.org/projects/dicom_browser" />
+<description> DicomBrowser is a platform-independent desktop tool for inspecting DICOM header fields, editing DICOM header fields, viewing DICOM images, and transferring DICOM files to a DICOM receiver. DicomBrowser includes scriptable header editing to support various de-identification protocols. Dicomrowser is written in Java and uses ImageJ for image viewing and the dcm4che toolkit for much of its DICOM implementation. For more information: &lt;a href=&quot;http://nrg.wustl.edu/software/dicom-browser&quot; target=&quot;_new&quot;&gt;http://nrg.wustl.edu/software/dicom-brow...&lt;/a&gt;</description>
+<license>BSD License</license>
+<category>Other Software Resource</category>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>Jan 20, 2009</release>
+<homepage>http://www.nitrc.org/projects/dicom_browser/</homepage>
+<maintainer>Washington University School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="RecView" nitrc="https://www.nitrc.org/projects/bc_recview" />
+<description> BrainVision RecView is an advanced solution designed for real-time analysis of data received over the Ethernet network via TCP-IP directly from BrainVision Recorder.&lt;br /&gt;&lt;br /&gt;RecView at a glance&lt;br /&gt;•widely used in the EEG/fMRI field to remove both the gradient and the ballistocardiogram artifact (permitting experimental control during the scan)&lt;br /&gt;•The &amp;quot;Template Drift Compensation&amp;quot; algorithm remedies template jitter caused by imperfect synchronization between the EEG amplifier and the scanner clocks and thus ensures optimal data correction at any time.&lt;br /&gt;•uses the same history tree concept already implemented in BrainVision Analyzer&lt;br /&gt;•can also be used for FFT analysis, data filtering, mapping of the surface potentials as well as BCI and bio-/neurofeedback on the incoming data. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1300&amp;screenshot_id=1216&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1300&amp;screenshot_id=1216&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>Application</category>
+<platform>Windows</platform>
+<input>EEG Formats</input>
+<output>EEG Formats</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Aug 6, 2018</release>
+<homepage>https://www.brainproducts.com</homepage>
+<maintainer>Brain Products GmbH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

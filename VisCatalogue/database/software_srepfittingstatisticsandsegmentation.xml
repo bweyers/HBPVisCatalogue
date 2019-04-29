@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="S-rep Fitting, Statistics, and Segmentation" nitrc="https://www.nitrc.org/projects/sreps" />
+<description> S-reps are skeletal models for anatomic objects especially suited for computing probability distributions from populations of these objects and for providing object-related coordinates for the interior of these objects. They allow classification and hypothesis testing using their geometric features and physiological features derived from medical images. They also allow the definition of shape spaces, probability-based geometric typicality functions, and appearance models used for segmentation or registration. A variety of successful applications to objects in neuroimages have already been performed.&lt;br /&gt;&lt;br /&gt;The resource contains software to fit s-reps to segmented anatomic objects, to compute probability distributions on these s-reps, to train and to apply classifiers between two classes of anatomic objects, and to apply hypothesis testing to determine which geometric or physiological features vary significantly between two classes. Software for object segmentation from medical images may also be included. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=718&amp;screenshot_id=647&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=718&amp;screenshot_id=647&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<release>May 15, 2013</release>
+<homepage>http://www.nitrc.org/projects/sreps/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

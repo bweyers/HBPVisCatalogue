@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="A joint sparse partial correlation method for estimating group functional networks" nitrc="https://www.nitrc.org/projects/jgmss" />
+<description> Joint graphical models combined with stability selection (JGMSS)is a software toolbox that can be employed to robustly estimate both individual- and group-level sparse networks. The software:&lt;br /&gt; (1) Reads time series from a group of subjects;&lt;br /&gt; (2) Subsample data 100 times to estimate stability (i.e. stability &lt;br /&gt; selection);&lt;br /&gt; (3) Group graphical-lasso constraints are applied, including 2 &lt;br /&gt; regularization parameters;&lt;br /&gt; (4) Ranges of regularization parameters are chosen to implement stability &lt;br /&gt; selection;&lt;br /&gt; (5) The alternating direction method of multipliers (ADMM) approach is &lt;br /&gt; employed to solve the problem.&lt;br /&gt;&lt;br /&gt;The Method is described in the following paper:&lt;br /&gt;Xiaoyun Liang, Alan Connelly, Fernando Calamante. A novel joint sparse partial correlation method for estimating group functional networks. Human Brain Mapping 12/2015; DOI:10.1002/hbm.23092. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=995&amp;screenshot_id=965&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=995&amp;screenshot_id=965&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 21, 2015</release>
+<homepage>http://www.nitrc.org/projects/jgmss/</homepage>
+<maintainer>Florey Institute of Neuroscience and Mental Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

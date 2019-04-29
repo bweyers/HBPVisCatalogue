@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="volBrain: online MRI segmentation" nitrc="https://www.nitrc.org/projects/volbrain" />
+<description> volBrain is an online MRI brain segmentation system. It is intended to help researchers all over the world to obtain automatically volumetric brain information from their MRI data without the need for any infrastructure in their local sites. volBrain works in a fully automatic manner and is able to provide brain structure volumes without any human interaction. We encourage you to use the system hoping you find it useful. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=932&amp;screenshot_id=924&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=932&amp;screenshot_id=924&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>volBrain is free for non-commercial and non-medical purposes</license>
+<release>May 23, 2015</release>
+<homepage>http://www.nitrc.org/projects/volbrain/</homepage>
+<maintainer>Universidad Politécnica de Valencia, Bordeaux University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="3DSlicerLupusLesionModule" nitrc="https://www.nitrc.org/projects/lupuslesion" />
+<description> The purpose of this Slicer3 module is to provide a capability for performing white matter lesion classification and summary. </description>
+<license>3D Slicer License</license>
+<release>Nov 12, 2008</release>
+<homepage>http://www.nitrc.org/projects/lupuslesion/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

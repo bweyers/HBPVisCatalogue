@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="SFMProject" nitrc="https://www.nitrc.org/projects/sfmproject" />
+<description> Structure from motion algorithms repository. Common interface for various sfm algorithms. </description>
+<release>Apr 17, 2010</release>
+<homepage>http://www.nitrc.org/projects/sfmproject/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

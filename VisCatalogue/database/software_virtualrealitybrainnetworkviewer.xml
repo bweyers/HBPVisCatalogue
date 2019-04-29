@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Virtual Reality Brain Network Viewer" nitrc="https://www.nitrc.org/projects/vrnetworkviewer" />
+<description> The Virtual Reality Brain Network Viewer provides a new and innovative way to interact with brain connectome data. By utilizing the Oculus Rift headset and the Oculus Touch controllers the software allows you to physically interact with your data sets. This includes the ability to pick up the brain model and move it with your hands, as well as the ability to slice open the brain mesh to further examine the nodes and connections within. The software also comes with analysis tools that allow control over the connection threshold, the ability to isolate connections on a given node, and the overlay of MRI data on the brain model. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1244&amp;screenshot_id=1159&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1244&amp;screenshot_id=1159&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Jan 5, 2018</release>
+<homepage>http://www.nitrc.org/projects/vrnetworkviewer/</homepage>
+<maintainer>UNC Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

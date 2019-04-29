@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="BTK : Baby Brain Toolkit" nitrc="https://www.nitrc.org/projects/btk" />
+<description> Fbrain is a ERC funded project. The purpose of this project is to develop image processing tools for a better understanding of the fetal brain development.&lt;br /&gt;&lt;br /&gt;BTK (baby brain toolkit), which is the toolkit developed for the fbrain project, consists of several image processing tools: image reconstruction, image denoising, image segmentation, tractography etc. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=683&amp;screenshot_id=624&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=683&amp;screenshot_id=624&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>CeCill v2</license>
+<release>Feb 11, 2013</release>
+<homepage>http://www.nitrc.org/projects/btk/</homepage>
+<maintainer>CNRS</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

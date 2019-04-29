@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="MouseTracker" nitrc="https://www.nitrc.org/projects/mousetracker" />
+<description> MouseTracker is a free, user-friendly software package that allows researchers to record and analyze real-time hand movements en route to responses on the screen (via the coordinates of an MR-safe mouse, trackball, or sensor). By looking at how the hand settles into a response alternative--and how it may be partially pulled toward other alternatives--researchers glean information about real-time mental processing. It&#x27;s like opening up a single reaction time into a continuous stream of rich cognitive output. Experiments can incorporate images, letter strings, and sounds. Once recorded, participants&#x27; mouse trajectories can be visualized, averaged, and explored, and measures of curvature, complexity, velocity, acceleration, and angle can be computed. Precise characterizations of mouse trajectories&#x27; temporal and spatial dynamics are available, and these can shed light on a variety of important empirical questions across psychology, neuroscience, and beyond. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=430&amp;screenshot_id=310&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=430&amp;screenshot_id=310&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Non-Commercial Software License Agreement</license>
+<release>Dec 7, 2010</release>
+<homepage>http://mousetracker.jbfreeman.net</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

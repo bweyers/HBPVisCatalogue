@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="Fusion ICA Toolbox (FIT)" nitrc="https://www.nitrc.org/projects/fit" />
+<description> FIT is a MATLAB toolbox which uses Independent Component Analysis (ICA) to extract the shared information across modalities like fMRI, EEG, sMRI and SNP data. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Independent Component Analysis</category>
+<category>Principal Component Analysis</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>OS Independent</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 3, 2008</release>
+<homepage>http://icatb.sourceforge.net/fusion/fusion_startup.php</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

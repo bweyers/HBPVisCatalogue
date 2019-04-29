@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="False Discovery Rate Weighted" nitrc="https://www.nitrc.org/projects/fdrw" />
+<description> Simple and efficient, this application performs the Weighted False Discovery Rate procedure of Benjamini and Hochberg (1997) to correct for multiple testing. The good think is that you can test virtually any number of p-values (even millions) obtained with any test-statistics for any data set. The bonus is that you can assign a-priori weights to give a better chance to those variables that you deem important. In practice, this procedure is powerful only with a relatively small number of p-values. </description>
+<release>May 21, 2012</release>
+<homepage>http://www.nitrc.org/projects/fdrw/</homepage>
+<maintainer>GIPSA-lab, Grenoble, FRANCE</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

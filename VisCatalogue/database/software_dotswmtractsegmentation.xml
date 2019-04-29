@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="DOTS WM tract segmentation" nitrc="https://www.nitrc.org/projects/dots" />
+<description> Diffusion-Oriented Tract Segmentation (DOTS) is a fast, scalable tool developed at the Johns Hopkins University to automatically segment the major anatomical fiber tracts within the human brain from clinical quality diffusion tensor MR imaging. With an atlas-based Markov Random Field representation, DOTS directly estimates the tract probabilities, bypassing tractography and associated issues. Overlapping and crossing fibers are modeled and DOTS can also handle white matter lesions. &lt;br /&gt;&lt;br /&gt;DOTS is released as a plug-in for the MIPAV software package and as a module for the JIST pipeline environment. They are therefore cross-platform and compatible with a wide variety of file formats. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=439&amp;screenshot_id=318&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=439&amp;screenshot_id=318&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<release>Jan 18, 2011</release>
+<homepage>http://www.nitrc.org/projects/dots/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

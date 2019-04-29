@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Viking family of Viewing/Annotation/Analysis tools for Connectomics" nitrc="https://www.nitrc.org/projects/viking_viewer" />
+<description> Viking is a multi-user modular viewing and annotation system which functions with any type of stacked 2D imagery registered into a 3D volume. Originally designed for transmission electron microscopy connectome data Viking has been used for confocal, bright field, and OCT images. &lt;br /&gt;&lt;br /&gt;Viking provides multi-user concurrent annotation of data sets using a variety of 1D or 2D shapes, including arbitrary polygons. Annotations are stored in a spatial database. The largest current database has well over a million annotations.&lt;br /&gt;&lt;br /&gt;A paper describing Viking is here:&lt;br /&gt;&lt;a href=&quot;http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2818.2010.03402.x/abstract&quot; target=&quot;_new&quot;&gt;http://onlinelibrary.wiley.com/doi/10.11...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Collaborating labs host images, typically registered with the Nornir tools, locally. Annotations are either stored on the Viking servers or optionally labs deploy local back-end servers with assistance from the developer. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=419&amp;screenshot_id=1224&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=419&amp;screenshot_id=1224&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<release>Nov 15, 2010</release>
+<homepage>http://www.nitrc.org/projects/viking_viewer/</homepage>
+<maintainer>University of Utah</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

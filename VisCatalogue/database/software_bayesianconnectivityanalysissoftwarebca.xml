@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Bayesian Connectivity Analysis software (BCA)" nitrc="https://www.nitrc.org/projects/bca" />
+<description> Bayesian Connectivity analysis software (BCA) is a pipeline for connectivity matrix analysis. A general user is a researcher who is interested in brain network analysis and has basic knowledge of Linux/Unix, R, and Matlab. </description>
+<license>GPL-Style Open Source</license>
+<category>Software</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<release>Apr 9, 2015</release>
+<homepage>http://www.nitrc.org/projects/bca/</homepage>
+<maintainer>University of Maryland Baltimore</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

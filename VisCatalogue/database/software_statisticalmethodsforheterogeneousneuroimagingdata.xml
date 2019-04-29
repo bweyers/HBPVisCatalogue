@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Statistical Methods for Heterogeneous Neuroimaging Data" nitrc="https://www.nitrc.org/projects/ghmm" />
+<description> The aim of this package is to present several statistical analysis pipelines for heterogeneous neuroimaging data. The Gaussian hidden Markov model (GHMM) toolbox is for dealing with the spatial heterogeneity of cartilage progression across both time and subjects. To estimate unknown parameters in GHMM, we employ a pseudo-likelihood function and optimize it by using an expectation-maximization (EM) algorithm. The proposed model can effectively detect diseased regions in each OA subject and present a localized analysis of longitudinal cartilage thickness within each latent subpopulation. </description>
+<license>BIAS License</license>
+<release>Apr 14, 2016</release>
+<homepage>http://www.nitrc.org/projects/ghmm/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

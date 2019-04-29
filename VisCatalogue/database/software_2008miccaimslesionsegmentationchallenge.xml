@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="2008 MICCAI MS Lesion Segmentation Challenge" nitrc="https://www.nitrc.org/projects/msseg" />
+<description> Welcome to the MS lesion segmentation challenge 2008 download site at NITRC. The goal of this competition is to compare different algorithms to segment the MS lesions from brain MRI scans.&lt;br /&gt;&lt;br /&gt;If you want to join the competition, you can download data set from links here (with the password in the README that can be downloaded here), and submit your segmentation results at &lt;a href=&quot;http://www.ia.unc.edu/MSseg&quot; target=&quot;_new&quot;&gt;http://www.ia.unc.edu/MSseg&lt;/a&gt; after registering your team. We require team name, password, and email address for future contact. You can submit the segmentation data in a zip file format. Please refer submission page for uploading data format.&lt;br /&gt;&lt;br /&gt;The data has a special license:&lt;br /&gt;- the data sets and associated segmentation data, or any data derived from these data sets, must not be given nor redistributed to persons not belonging to the registered team.&lt;br /&gt;- you need to upload the results of your algorithm and allow us to make the quantitative evaluation results publicly available on the MS lesion segmentation challenge site. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=745&amp;screenshot_id=675&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=745&amp;screenshot_id=675&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Other/Proprietary License</license>
+<release>Aug 22, 2013</release>
+<homepage>http://www.nitrc.org/projects/msseg/</homepage>
+<maintainer>UNC Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

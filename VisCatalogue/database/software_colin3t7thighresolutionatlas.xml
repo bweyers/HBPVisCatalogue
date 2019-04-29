@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Colin 3T/7T High-resolution Atlas" nitrc="https://www.nitrc.org/projects/colin3t7t" />
+<description> High-field extension of the Colin27 single-subject atlas with additional high-resolution, quantitative, averaged scans at both 3T and 7T. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=825&amp;screenshot_id=774&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=825&amp;screenshot_id=774&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Atlas Data</category>
+<category>Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 5, 2014</release>
+<homepage>http://www.nitrc.org/projects/colin3t7t/</homepage>
+<maintainer>Western University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

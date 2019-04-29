@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="RapidArt" nitrc="https://www.nitrc.org/projects/rapidart" />
+<description> RapidArt provides software for detecting artifacts and performing individual region-of-interest (ROI) based statistical analysis of fMRI data and enables users of fMRI technology to produce more detailed, consistent and reliable results. </description>
+<license>MIT/X Consortium License</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 22, 2008</release>
+<homepage>http://www.nitrc.org/projects/rapidart/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

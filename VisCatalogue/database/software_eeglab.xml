@@ -1,0 +1,44 @@
+<root>
+<software>
+<name name="EEGLAB" nitrc="https://www.nitrc.org/projects/eeglab" />
+<description> EEGLAB is to date the most popular EEG/MEG/ECoG software with about 100,000 download worldwide since 2003. EEGLAB provides an interactive graphic user interface (GUI) allowing users to flexibly and interactively process their high-density EEG and other dynamic brain data using independent component analysis (ICA) and/or spectral time/frequency and coherence analysis, as well as standard methods including event-related potentials (ERP). EEGLAB also incorporates extensive tutorial and help windows, plus a command history function that eases users&#x27; transition from GUI-based data exploration to building and running batch or custom data analysis scripts. EEGLAB offers a wealth of methods for visualizing and modeling event-related brain dynamics, both at the level of individual EEGLAB &#x27;datasets&#x27; and/or across a collection of datasets. For experienced Matlab users, EEGLAB offers a structured programming environment for storing, accessing, measuring, manipulating and visualizing event-related EEG data. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=536&amp;screenshot_id=465&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=536&amp;screenshot_id=465&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Format Conversion</category>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<category>Source Separation Analysis</category>
+<category>Independent Component Analysis</category>
+<category>Fourier Time-domain Analysis</category>
+<category>Spectral Analysis</category>
+<category>Temporal Wavelet Analysis</category>
+<category>ANOVA</category>
+<category>Event Related Potential</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>OS Independent</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>ASCII</input>
+<output>ASCII</output>
+<input>ANT</input>
+<output>ANT</output>
+<input>Brain Vision Analyzer Data Exchange Format</input>
+<output>Brain Vision Analyzer Data Exchange Format</output>
+<input>CNT</input>
+<output>CNT</output>
+<input>EDF/BDF/GDF</input>
+<output>EDF/BDF/GDF</output>
+<input>EGI</input>
+<output>EGI</output>
+<release>Nov 4, 2011</release>
+<homepage>https://sccn.ucsd.edu/eeglab/index.php#</homepage>
+<maintainer>UCSD</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: ODVBA" nitrc="https://www.nitrc.org/projects/odvba" />
+<description> ODVBA provides a mathematically rigorous framework for determining the optimal spatial smoothing of structural and functional images, prior to applying voxel-based group analysis. In order to determine the optimal smoothing kernel, a local discriminative analysis, restricted by appropriate nonnegativity constraints, is applied to a spatial neighborhood around each voxel, aiming to find the direction best highlights the difference between two groups in that neighborhood. Since each voxel belongs to a large number of such neighborhoods, each centered on one of its neighboring voxels, the group difference at each voxel is determined by a composition of all these optimal smoothing directions. Permutation tests are used to obtain the statistical significance of the resulting Optimally-Discriminative VBM (ODVBA) maps. </description>
+<license>SBIA License</license>
+<release>Feb 16, 2017</release>
+<homepage>http://www.nitrc.org/projects/odvba/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

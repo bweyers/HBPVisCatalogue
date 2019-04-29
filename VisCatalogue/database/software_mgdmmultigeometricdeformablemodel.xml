@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="MGDM: Multi Geometric Deformable Model" nitrc="https://www.nitrc.org/projects/mgdm" />
+<description> MGDM is an efficient level set framework for multi-object segmentation. Its representation inherently prevents overlaps and gaps and it readily preserves object topology and object relationships. MGDM is efficient, storing only a fixed number of functions for any number of objects, and therefore scales well to segmentation problems with many classes and large images. It&#x27;s representation also avoids some instabilities in other multi-class level set methods. MGDM is cross-platform; MATLAB wrappers, Java source and API are provided, with MIPAV plugins forthcoming. </description>
+<license>Freeware</license>
+<category>Algorithm or Reusable Library</category>
+<release>Jun 20, 2012</release>
+<homepage>http://www.nitrc.org/projects/mgdm/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

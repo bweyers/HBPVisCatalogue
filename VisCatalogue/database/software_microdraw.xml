@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MicroDraw" nitrc="https://www.nitrc.org/projects/microdraw" />
+<description> MicroDraw (&lt;a href=&quot;http://microdraw.pasteur.fr/&quot; target=&quot;_new&quot;&gt;http://microdraw.pasteur.fr/&lt;/a&gt;) is a web application by NAAT to visualise and annotate collaboratively high resolution histology data. Annotations are vectorial, and you can use boolean operations to combine, subtract and split regions. Simply point MicroDraw to your own DeepZoom data! </description>
+<license>GNU Affero General Public License v3</license>
+<release>Nov 16, 2016</release>
+<homepage>http://microdraw.pasteur.fr/</homepage>
+<maintainer>Instut Pasteur</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

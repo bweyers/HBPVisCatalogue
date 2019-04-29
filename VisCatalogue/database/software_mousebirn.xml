@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Mouse BIRN" nitrc="https://www.nitrc.org/projects/mousebirn" />
+<description> Mouse BIRN has ended. The next phase of this project is the Mouse Connectome Project (&lt;a href=&quot;https://www.nitrc.org/projects/mcp/&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/projects/mcp/&lt;/a&gt;). </description>
+<license>BIRN License</license>
+<category>Atlas Data</category>
+<category>Data</category>
+<release>Nov 3, 2008</release>
+<homepage>http://www.nitrc.org/projects/mcp/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

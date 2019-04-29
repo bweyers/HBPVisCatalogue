@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="Connectome Viewer" nitrc="https://www.nitrc.org/projects/cviewer" />
+<description> Connectome Viewer is free, open source, cross-platform Python-based software application for visualization and analysis in connectome research.&lt;br /&gt;&lt;br /&gt;Features of the software include: &lt;br /&gt;* Connectome File Format including metadata, networks, surfaces, volumes, track files&lt;br /&gt;* Complex network analysis toolboxes&lt;br /&gt;* Modular plugin architecture for extensibility&lt;br /&gt;* Mayavi2 for 3D Scientific Visualization and Plotting&lt;br /&gt;* Interactive data manipulation and scripting capabilities&lt;br /&gt;* Neuroimaging and Diffusion in Python libraries 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=355&amp;screenshot_id=225&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=355&amp;screenshot_id=225&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Atlas Application</category>
+<category>Format Conversion</category>
+<category>Tractography</category>
+<category>Animation</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Mar 18, 2010</release>
+<homepage>http://connectomics.org/viewer/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

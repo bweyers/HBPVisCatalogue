@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="UNC-Wisconsin Neurodevelopment Rhesus MRI Database" nitrc="https://www.nitrc.org/projects/uncuw_macdevmri" />
+<description> This is a macaque brain MRI database characterizing the normal postnatal macaque brain development. This longitudinal primate database was acquired from a cohort of healthy macaque monkeys ranging from a few week olds up to 3-year-old adolescents.&lt;br /&gt;&lt;br /&gt;Each scan consists of structural (both T1 and T2) and diffusion MRI. T1 and T2 are provided as NRRD format in the original scanner space as well as in a common atlas space where they are rigidly aligned. Diffusion MRI is provided as raw diffusion weighted images. In addition, pre-processing was performed including motion and eddy current distortion correction on the diffusion weighted MR and tensors were calculated with diffusion property maps (FA, MD, Baseline and iDWI).&lt;br /&gt;&lt;br /&gt;For further information, see also Young JT et al. The UNC-Wisconsin Rhesus Macaque Neurodevelopment Database: A Structural MRI and DTI Database of Early Postnatal Development. Frontiers in Neuroscience. 2017 Feb 2;11:292–11. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=794&amp;screenshot_id=726&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=794&amp;screenshot_id=726&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<release>Feb 3, 2014</release>
+<homepage>http://www.nitrc.org/projects/uncuw_macdevmri/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

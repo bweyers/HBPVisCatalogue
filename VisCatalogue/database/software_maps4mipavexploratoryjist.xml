@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="Maps4Mipav (Exploratory JIST)" nitrc="https://www.nitrc.org/projects/maps4mipav" />
+<description> Java Image Science Toolkit (JIST) is an extension to the MIPAV (Medical Image Processing, Analysis, and Visualization) plug-in framework that allows the user to design and execute pipelines, which are multi-stage processing tasks.&lt;br /&gt;&lt;br /&gt;JIST was formerly known as the MedIC Automated Pipeline Scheduler (MAPS).&lt;br /&gt;&lt;br /&gt;This is the exploratory development tree. New features and designs are tested here before general release into the JIST project. &lt;br /&gt;&lt;br /&gt;Access to the source code is freely given. However, registration is required so that we can notify users of critical changes. For unrestricted access to the stable release, see the JIST project. &lt;a href=&quot;http://www.nitrc.org/projects/jist/&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/projects/jist/&lt;/a&gt;</description>
+<release>Sep 9, 2008</release>
+<homepage>http://www.nitrc.org/projects/maps4mipav/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

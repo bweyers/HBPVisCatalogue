@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Advanced Segmentation Tools (ASeTs)" nitrc="https://www.nitrc.org/projects/asets" />
+<description> Advanced Segmentation Tools (ASETS) - Fast Continuous Max Flow variants in CUDA/C/Matlab&lt;br /&gt;&lt;br /&gt;Attention: This is a beta version. We appreciate any bug reports and feedback on how to improve usability. For installation and usage please refer to the readme.md. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;- Fast parallel continuous max flow solvers in 2D/3D&lt;br /&gt;-- Binary max flow&lt;br /&gt;-- Multi-region (Potts model, Ishikawa model, Hierarchical Max Flow)&lt;br /&gt;-- In two different implementations (full flow and pseudo flow solvers)&lt;br /&gt;&lt;br /&gt;- Implemented in multiple languages&lt;br /&gt;-- Matlab/mex/C&lt;br /&gt;-- Matlab/CUDA&lt;br /&gt;&lt;br /&gt;- Application examples for (medical) image segmentation:&lt;br /&gt;-- Interactive max flow graph cuts&lt;br /&gt;-- Regularization of probabilistic label maps as in atlas-based segmentation&lt;br /&gt;-- High-performance multi-phase levelsets&lt;br /&gt;-- Post-processing of flawed manual segmentations with contrast sensitive regularization&lt;br /&gt;-- L1 intensity segmentation&lt;br /&gt;&lt;br /&gt;- Resources:&lt;br /&gt;&lt;a href=&quot;http://www.advancedsegmentationtools.org&quot; target=&quot;_new&quot;&gt;http://www.advancedsegmentationtools.org&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=923&amp;screenshot_id=922&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=923&amp;screenshot_id=922&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Atlas Application</category>
+<category>Segmentation</category>
+<release>Mar 23, 2015</release>
+<homepage>http://asets.github.io/asetsMatlabMaxFlow/</homepage>
+<maintainer>Imperial College London, UK &amp; Robarts Research Institute, CAN</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

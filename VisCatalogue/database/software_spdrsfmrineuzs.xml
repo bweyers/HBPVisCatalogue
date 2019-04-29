@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="SPD-rsfMRI-NEU-ZS" nitrc="https://www.nitrc.org/projects/spd_rsfmri" />
+<description> We provide MRI data of Schizotypal Personality Disorder(SPD) and Healthy controls. The total number of SPD subjects and HC are 36 (each 18). For each subject, T1 weighted and resting state functional MRI are included. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>Jul 9, 2018</release>
+<homepage>http://www.nitrc.org/projects/spd_rsfmri/</homepage>
+<maintainer>Northeastern University and DaLian ZhongShan Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Infant Macaque MRI And DTI Templates" nitrc="https://www.nitrc.org/projects/infant_monkey" />
+<description> This is a multi-mode (T1w and DTI) brain template of monkeys during late infancy based on longitudinal data (from 6 months to 16 months), which will help spatial normalization, voxel-based and tract-based analyses in non-human primates. &lt;br /&gt;&lt;br /&gt;Lots efforts were made to ensure the quality:&lt;br /&gt;1) we manually skull-striped brains for all T1w&amp;amp;DTI data (120+ brains). The time-consuming procedure guaranteed more accurate brain extraction than automatic methods (3dSkullStrip or BET).&lt;br /&gt;2) We had tested different methods, and the best ones were chosen to build the T1w (by ANTS) and DTI (by DTI-TK) templates.&lt;br /&gt;3) We also made high quality template-related files, including parcellation maps, tissue probability maps, inferior cingulum mask for TBSS, and templates for each time point.&lt;br /&gt;&lt;br /&gt;Detailed information about monkeys and methods of building templates can be found in:&lt;br /&gt;Liu,C, et al. &amp;quot;Rhesus monkey brain development during late infancy and the effect of phencyclidine: a longitudinal MRI and DTI study.&amp;quot; NeuroImage (2015). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=903&amp;screenshot_id=895&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=903&amp;screenshot_id=895&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<release>Dec 14, 2014</release>
+<homepage>http://www.nitrc.org/projects/monkey_development/</homepage>
+<maintainer>Laboratory of the Primate Model for Brain Diseases</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

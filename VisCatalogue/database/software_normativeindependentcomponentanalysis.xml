@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Normative Independent Component Analysis" nitrc="https://www.nitrc.org/projects/nica" />
+<description> This program, executable under any Windows32 OS, performs Group BSS (Blind Source Separation) analysis comparing two groups of individuals and it performs NICA (Normative ICA) analysis where individuals are compared individually to a (normative) group. All analysis is performed in the frequency domain, that is, for all frequencies. The program also performs all these analysis for qEEG, that is, at the electrode level, without any BSS. The program does all computations, saves and displays results.&lt;br /&gt;The rationale and methods used in this program are explained in all details in the following paper:&lt;br /&gt;&lt;br /&gt;Congedo M, John ER, De Ridder D, Prichep L (2010)&lt;br /&gt;Group Independent Component Analysis of Resting-State EEG in Large Normative Samples International Journal of Psychophysiology 78, 89-99. </description>
+<category>Independent Component Analysis</category>
+<category>Fourier Time-domain Analysis</category>
+<category>Spectral Analysis</category>
+<release>May 21, 2012</release>
+<homepage>http://sites.google.com/site/marcocongedo/software/nica</homepage>
+<maintainer>GIPSA-lab, Grenoble, FRANCE</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

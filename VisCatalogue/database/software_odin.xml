@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="ODIN" nitrc="https://www.nitrc.org/projects/od1n" />
+<description> ODIN is a C++ software framework to develop, simulate and run magnetic resonance sequences on different platforms. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Image Reconstruction</category>
+<category>Simulation</category>
+<category>Image Display</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 31, 2008</release>
+<homepage>http://od1n.sourceforge.net</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

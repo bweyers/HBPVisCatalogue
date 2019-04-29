@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="CutNII - Custom-angle slicer for brain atlas volumes" nitrc="https://www.nitrc.org/projects/cutnii" />
+<description> CutNII provides visualization and slicing of 3D isotropic image data (e.g. MRI) and atlases. The software features orthogonal views of the three standard planes (coronal, sagittal, horizontal) and a custom-angle slice cut through the volume. Slicing generates an arbitrarily positioned, oriented and sized rectangular sample from the dataset.&lt;br /&gt;&lt;br /&gt;The main use of CutNII is to produce custom-angle atlas slices that match histological sections with non-standard cutting angles. In addition, custom slices allow inspection of anatomical features from non-conventional angles.&lt;br /&gt;&lt;br /&gt;Multi-modality atlasing datasets to be provided with CutNII:&lt;br /&gt;&lt;br /&gt;- Waxholm Space Atlas of the Sprague Dawley rat brain (T2* MRI, DTI, and delineations)&lt;br /&gt;- Allen Mouse Brain Atlas reference atlas (grayscale Nissl volume reconstruction and delineations) </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<category>Atlas Application</category>
+<platform>Microsoft</platform>
+<release>Dec 13, 2016</release>
+<homepage>http://www.nitrc.org/projects/cutnii/</homepage>
+<maintainer>University of Oslo</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

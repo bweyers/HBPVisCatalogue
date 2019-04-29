@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="iElectrodes" nitrc="https://www.nitrc.org/projects/ielectrodes" />
+<description> iElectrodes is an open source toolbox to semiautomatically localize and label intracranial electrodes in 2-3 minutes. The toolbox precisely localizes subdural grids (ECoG) and depth (SEEG) electrodes using MRI and CT images. &lt;br /&gt;&lt;br /&gt;2D and 3D visualization simplify the comprehension of anatomical locations.&lt;br /&gt;&lt;br /&gt;Also, it is possible to add anatomical information (brain parcellation images) and surfaces from Freesurfer. Data can be exported in multiple formats, including EEGLAB and Fieldtrip.&lt;br /&gt;&lt;br /&gt;Additionally, grid electrodes can be corrected for brain shift or compression effects, and projected to brain surface.&lt;br /&gt;&lt;br /&gt;Planning of depth electrode implantation is fast and easy.&lt;br /&gt;&lt;br /&gt;More information in our paper Blenkmann et al., Front. Neuroinformatics, 2017 &lt;a href=&quot;http://journal.frontiersin.org/article/10.3389/fninf.2017.00014/full&quot; target=&quot;_new&quot;&gt;http://journal.frontiersin.org/article/1...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1178&amp;screenshot_id=1091&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1178&amp;screenshot_id=1091&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License v3</license>
+<category>Atlas Application</category>
+<category>Simulation</category>
+<category>Position</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<category>Workflow</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 29, 2017</release>
+<homepage>https://sourceforge.net/projects/ielectrodes/</homepage>
+<maintainer>University of Oslo - CONICET Argentina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Longitudinal Rhesus Monkey Brain Templates" nitrc="https://www.nitrc.org/projects/ama24" />
+<description> Age-specific rhesus monkey brain templates from T1-weighted structural MRI (3T Scanner). Templates created from 24 rhesus macaques using deformable image registration (ANTS), at 1week, 4weeks, 8weeks, 13weeks, 26weeks, 39weeks, 52weeks, 104weeks, and 260 weeks of age. Tissue segmentations and lobar parcellations are also provided. </description>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 29, 2015</release>
+<homepage>http://www.nitrc.org/projects/ama24/</homepage>
+<maintainer>UC Davis</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

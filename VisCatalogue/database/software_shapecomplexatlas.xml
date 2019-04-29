@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="ShapeComplexAtlas" nitrc="https://www.nitrc.org/projects/shapecomplex" />
+<description> This is a Matlab demo for constructing a neuro-anatomical shape complex atlas from 3D MRI brain structures, which is based on the paper &amp;quot;Ting Chen, Anand Rangarajan, Stephan J. Eisenschenk and Baba C. Vemuri, Construction of a Neuroanatomical Shape Complex Atlas from 3D MRI Brain Structures. In NeuroImage, Volume 60, Page 1778-1787, 2012&amp;quot;. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Atlas Application</category>
+<release>Jul 8, 2012</release>
+<homepage>http://www.cise.ufl.edu/~tichen/ShapeComplexAtlas.zip</homepage>
+<maintainer>University of Florida</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

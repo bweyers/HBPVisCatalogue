@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="NODDI Matlab Toolbox" nitrc="https://www.nitrc.org/projects/noddi_toolbox" />
+<description> This MATLAB toolbox implements a data fitting routine for Neurite Orientation Dispersion and Density Imaging (NODDI). NODDI is a new diffusion MRI technique for imaging brain tissue microstructure. Compared to DTI, it has the advantage of providing measures of tissue microstructure that are much more direct and hence more specific. It achieves this by adopting the model-based strategy which relates the signals from diffusion MRI to geometric models of tissue microstructure. In contrast to typical model-based techniques, NODDI is much more clinically feasible and can be acquired on standard MR scanners with an imaging time comparable to DTI. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=716&amp;screenshot_id=783&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=716&amp;screenshot_id=783&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Artistic License</license>
+<category>Diffusion Application</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 9, 2013</release>
+<homepage>http://www.nitrc.org/projects/noddi_toolbox/</homepage>
+<maintainer>University College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

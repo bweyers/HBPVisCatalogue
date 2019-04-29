@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="DALAN: Disconnectivity Atlas for Lesion Analysis of Networks" nitrc="https://www.nitrc.org/projects/dalan" />
+<description> DALAN is a HARDI diffusion streamline atlas of 41 older, healthy subjects to be used with lesion masks from clinical images to provide projected medium to long distance connectivity deficits implied by WM stroke lesion damage. The atlas uses the popular Harvard-Oxford (H-O) cortical and subcortical atlas as endpoint targets so that WM connectivity deficits can be analyzed in conjunction with corresponding GM deficits as well. Octave/MatLab functions are provided to illustrate how to use the streamline atlas. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1270&amp;screenshot_id=1191&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1270&amp;screenshot_id=1191&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution</license>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Apr 27, 2018</release>
+<homepage>http://www.nitrc.org/projects/dalan/</homepage>
+<maintainer>US Department of Veterans Affairs</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

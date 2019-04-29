@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="MultiXplore: Visual Exploration Platform for Multimodal Neuroimaging Data" nitrc="https://www.nitrc.org/projects/multixplore" />
+<description> MultiXplore is a graphical user interface that has been implemented as a 3D Slicer plugin (scripted module). It serves to display corresponding set of cortical regions from functional connectivity matrix in an explorable 3D scene that represents brain anatomical environment. In addition to grey matter regions, MultiXplore automatically finds and extracts deterministic fiber bundles which exist between selected region(s) and adds them to the 3D environment. This is a helpful feature in generating region-based fiber bundles given a desired whole-brain tractography data. Please make sure to cite our paper if you find this tool useful in your own work:&lt;br /&gt;Bakhshmand, S. M., Khan, A. R., de Ribaupierre, S., &amp;amp; Eagleson, R. (2017). &amp;quot;MultiXplore: Visual exploration platform for multimodal neuroimaging data&amp;quot;. Journal of Neuroscience Methods. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1100&amp;screenshot_id=1061&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1100&amp;screenshot_id=1061&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>3D Slicer License</license>
+<category>Connectivity Analysis</category>
+<category>Diffusion Application</category>
+<category>Modeling</category>
+<category>Surface Analysis</category>
+<category>Tractography</category>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Jan 11, 2017</release>
+<homepage>http://www.nitrc.org/projects/multixplore/</homepage>
+<maintainer>Western University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

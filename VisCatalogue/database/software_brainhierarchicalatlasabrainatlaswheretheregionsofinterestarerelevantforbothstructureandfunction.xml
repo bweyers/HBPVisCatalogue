@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Brain Hierarchical Atlas: A brain atlas where the regions of interest are relevant for both structure and function" nitrc="https://www.nitrc.org/projects/biocr_hcatlas" />
+<description> This atlas results from a hierarchical clustering approach applied to a combination of functional (resting fMRI) and structural (DTI) datasets. The novelty of the atlas is based on the fact that ROIs are functionally coherent (i.e., the dynamics of voxels within regions have high similarity) and at the same time they are structurally wired (the voxels within regions are highly integrated by white-matter fibers).&lt;br /&gt;&lt;br /&gt;This Project contains the following files:&lt;br /&gt;&lt;br /&gt;-average_networks.mat: The population (N=12) functional and structural matrices, each one with dimensions 2514x2514&lt;br /&gt;&lt;br /&gt;-functional.zip/structural.zip: Zip files containing the functional/structural atlas for all the stages in the hierarchical tree, from M=1 to 2514 ROIs&lt;br /&gt;&lt;br /&gt;-test_crosmodularity.m: Code example on how to compute crosmodularity. It needs crossmodularity.m and modularity_index.m&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;For further information see:&lt;br /&gt;&lt;br /&gt;Diez, P. et al, A novel brain partition highlights the modular skeleton shared by structure and function, Sci Rep 5: 10532, 2015 </description>
+<license>GPL-Style Open Source</license>
+<release>Aug 24, 2015</release>
+<homepage>http://www.nitrc.org/projects/biocr_hcatlas/</homepage>
+<maintainer>Biocruces Heatlh Research Institute. Barakaldo, Spain</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

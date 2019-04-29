@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Brain Entropy in space and time (BEst)" nitrc="https://www.nitrc.org/projects/best" />
+<description> Are you interested in estimating the spatial extent of EEG/MEG sources?&lt;br /&gt;&lt;br /&gt;Are you interested in localizing oscillatory patterns?&lt;br /&gt;&lt;br /&gt;Are you interested in localizing synchronous cortical sources? &lt;br /&gt;&lt;br /&gt;We introduce here the toolbox BEst – &amp;quot;Brain Entropy in space and time&amp;quot; that implements several EEG/MEG source localization techniques within the “Maximum Entropy on the Mean (MEM)” framework. These methods are particularly dedicated to estimate accurately the source of EEG/MEG generators together with their spatial extent along the cortical surface. Assessing the spatial extent of the sources might be very important in some application context, and notably when localizing spontaneous epileptic discharges. We also proposed two other extensions of the MEM framework within the time frequency domain dedicated to localize oscillatory patterns in specific frequency bands and synchronous sources. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=849&amp;screenshot_id=826&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=849&amp;screenshot_id=826&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>EEG</category>
+<category>MEG</category>
+<category>Algorithm or Reusable Library</category>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<release>Jul 30, 2014</release>
+<homepage>http://www.nitrc.org/projects/best/</homepage>
+<maintainer>Ecole de Technologie Supérieure, McGill University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

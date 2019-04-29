@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="The fMRI Data Center" nitrc="https://www.nitrc.org/projects/fmridatacenter" />
+<description> A free database of fMRI data used in peer reviewed studies (fMRIDC). The database of studies can be browsed and searched, and data is provided via download links that are emailed to users in response to specific requests. All of the data has been rendered anonymous, is free, and can be used in further studies. Any published findings based on these datasets should credit the authors of the original study as well as the fMRI Data Center including the accession number. </description>
+<license>Attribution</license>
+<release>May 26, 2010</release>
+<homepage>http://www.nitrc.org/projects/fmridatacenter/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="JHU Proj. in Applied Medical Imaging" nitrc="https://www.nitrc.org/projects/iaclmedic" />
+<description> This project is used for students enrolled in courses using the JIST framework. Content in this CVS is freely available, but it is not intended for any specific purpose. </description>
+<release>Oct 19, 2008</release>
+<homepage>http://www.nitrc.org/projects/iaclmedic/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

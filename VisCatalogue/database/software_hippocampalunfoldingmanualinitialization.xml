@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="HippocampalUnfolding_ManualInitialization" nitrc="https://www.nitrc.org/projects/huppunfolding" />
+<description> Data here includes manually segmented hippocampal grey matter and dark band, as well as labels used in computational unfolding of grey matter using Laplace equation (1).&lt;br /&gt;&lt;br /&gt;The goal of this work is to improve subfield segmentation and provide a standardized indexing system for hippocampal tissue that accounts for variability in ontological folding of this structure (e.g. digitation and curvature of the uncus in the anterior hippocampus).&lt;br /&gt;&lt;br /&gt;Current atlas is v2.0. &lt;br /&gt;Updates include addition and extension of labels surrounding the hippocampus to ensure easier integration with other neocortical and subcortical atlases, and some changes to labelling of hippocampal grey matter and dark band (mainly in subject V075 who originally had some tracing errors). &lt;br /&gt;&lt;br /&gt;1. DeKraker, J., Ferko, K. M., Lau, J. C., Köhler, S., &amp;amp; Khan, A. R. (2017). Unfolding the hippocampus: An intrinsic coordinate system for subfield segmentations and quantitative mapping. bioRxiv, 146878.&lt;br /&gt;code at &lt;a href=&quot;https://github.com/jordandekraker/HippUnfolding&quot; target=&quot;_new&quot;&gt;https://github.com/jordandekraker/HippUn...&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<release>Feb 21, 2017</release>
+<homepage>http://www.nitrc.org/projects/hippunfolding/</homepage>
+<maintainer>University of Western Ontario</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

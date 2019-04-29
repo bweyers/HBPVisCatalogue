@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Hierarchical Event Descriptor (HED) Tags" nitrc="https://www.nitrc.org/projects/hed" />
+<description> HED tags are assigned to event codes (also known as triggers or event numbers) in EEG recordings and allow humans and computers to better understand what these codes represent (e.g. code #5 -&amp;gt; Target detection in an RSVP paradigm).&lt;br /&gt;&lt;br /&gt;Why tags?&lt;br /&gt;&lt;br /&gt;In the same way that we tag a picture on Flicker, or a video clip on Youtube (e.g. cat, cute, funny), we can tag EEG experimental event types used in event-related EEG research. Hierarchical Event Descriptors (HED) is a set of descriptor tags partially adopted from BrainMap/NeuroLex ontologies and organized hierarchically. HED tags can be used to describe many types of EEG experiment events in a uniform, extensible, and machine-readable manner.&lt;br /&gt;&lt;br /&gt;Visit &lt;a href=&quot;http://www.hedtags.org&quot; target=&quot;_new&quot;&gt;http://www.hedtags.org&lt;/a&gt; for more information. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=955&amp;screenshot_id=941&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=955&amp;screenshot_id=941&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT</license>
+<release>Jul 16, 2015</release>
+<homepage>http://www.nitrc.org/projects/hed/</homepage>
+<maintainer>Syntrogi</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

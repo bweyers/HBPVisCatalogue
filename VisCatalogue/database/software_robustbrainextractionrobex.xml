@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Robust Brain Extraction (ROBEX)" nitrc="https://www.nitrc.org/projects/robex" />
+<description> ROBEX is an automatic whole-brain extraction tool for T1-weighted MRI data (commonly known as skull stripping). Whole-brain segmentation is often the first component in neuroimage pipelines and therefore, its robustness is critical for the overall performance of the system. Many methods have been proposed in the literature, but they often:&lt;br /&gt;- work well on certain datasets but fail on others.&lt;br /&gt;- require case-specific parameter tuning &lt;br /&gt;&lt;br /&gt;ROBEX aims for robust skull-stripping across datasets with no parameter settings. It fits a triangular mesh, constrained by a shape model, to the probabilistic output of a supervised brain boundary classifier. Because the shape model cannot perfectly accommodate unseen cases, a small free deformation is subsequently allowed. The deformation is optimized using graph cuts.&lt;br /&gt;&lt;br /&gt;The method ROBEX is based on was published in IEEE Transactions on Medical Imaging; please visit my website &lt;a href=&quot;http://www.jeiglesias.com&quot; target=&quot;_new&quot;&gt;http://www.jeiglesias.com&lt;/a&gt; to download the paper. </description>
+<license>BSD License</license>
+<release>Jul 11, 2012</release>
+<homepage>http://www.nitrc.org/projects/robex/</homepage>
+<maintainer>UCLA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

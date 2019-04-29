@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="NIAG Addiction Data" nitrc="https://www.nitrc.org/projects/tehran" />
+<description> Addiction data </description>
+<license>Creative Commons License</license>
+<category>Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 27, 2017</release>
+<homepage>http://niag.ir/</homepage>
+<maintainer>Tehran University of Medical Sciences</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

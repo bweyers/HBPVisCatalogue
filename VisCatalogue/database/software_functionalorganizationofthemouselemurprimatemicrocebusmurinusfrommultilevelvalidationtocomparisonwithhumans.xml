@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Functional organization of the mouse lemur Primate Microcebus murinus : from multilevel validation to comparison with humans" nitrc="https://www.nitrc.org/projects/fmri_mouselemur" />
+<description> Brain network organization in the mouse lemur (Microcebus murinus) Primate.&lt;br /&gt;Archives contain:&lt;br /&gt;&lt;br /&gt;- Raw anatomical and resting-state functional MR images recorded from 14 mouse lemurs at 11.7 Tesla (2 time point per animal).&lt;br /&gt;&lt;br /&gt;- A functional atlas of the mouse lemur brain (48 cerebral regions) issued from resting fMRI.&lt;br /&gt;&lt;br /&gt;- A functional atlas of human brains (56 cerebral regions) issued from resting state fMRI data recorded from 42 healthy humans ranging from 41 to 60 years old at 3.0 Tesla.&lt;br /&gt;&lt;br /&gt;- Dictionary learning analysis in mouse lemurs and humans showing 6 cerebral networks identified in these two species. </description>
+<license>CeCill v2</license>
+<release>Dec 5, 2018</release>
+<homepage>http://www.nitrc.org/projects/fmri_mouselemur/</homepage>
+<maintainer>Commissariat à l'énergie atomique et aux énergies alternatives</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

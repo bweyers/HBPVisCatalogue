@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Spanish Resting State Network" nitrc="https://www.nitrc.org/projects/srsn" />
+<description> Spanish Resting State Network (SRSN); Foro para compartir datos y conocimiento sobre esta red. Se constituye el Spanish Resting State Network como una colaboracion entre distintos grupos de investigacion de España y centros nacionales e internacionales. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=387&amp;screenshot_id=261&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=387&amp;screenshot_id=261&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Data</category>
+<input>Microsoft Word Document</input>
+<output>Microsoft Word Document</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>PDF - Portable Document Format</input>
+<output>PDF - Portable Document Format</output>
+<release>Jun 21, 2010</release>
+<homepage>http://www.nitrc.org/projects/srsn/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

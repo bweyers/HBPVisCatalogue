@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="ShapeViewer" nitrc="https://www.nitrc.org/projects/shapeviewer" />
+<description> The ShapeViewer (&lt;a href=&quot;http://www.loni.usc.edu/Software/ShapeViewer&quot; target=&quot;_new&quot;&gt;http://www.loni.usc.edu/Software/ShapeVi...&lt;/a&gt;) is a simple, portable geometry viewer that supports the file formats used by CCB researchers and provides their most commonly needed viewing functions. Since it is written in Java, it can run on a wide variety of computers.&lt;br /&gt;&lt;br /&gt;ShapeViewer is distributed by the Laboratory of Neuro Imaging (&lt;a href=&quot;http://www.LONI.usc.edu/Software/ShapeViewer&quot; target=&quot;_new&quot;&gt;http://www.LONI.usc.edu/Software/ShapeVi...&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=306&amp;screenshot_id=418&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=306&amp;screenshot_id=418&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 8, 2009</release>
+<homepage>http://www.nitrc.org/projects/shapeviewer/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

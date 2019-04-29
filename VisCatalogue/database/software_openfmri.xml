@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="OpenFMRI" nitrc="https://www.nitrc.org/projects/openfmri" />
+<description> OpenFMRI is a data sharing resource for task-based fMRI data. It aims to provide a resource for any fMRI researcher who wishes to share their data openly. Currently it provides access to raw fMRI datasets along with associated metadata. In the future, it will also provide access to processed datasets. </description>
+<license>Open Data Commons Public Domain Dedication and License 1.0</license>
+<category>Data</category>
+<release>Jul 15, 2011</release>
+<homepage>https://openfmri.org/</homepage>
+<maintainer>University of Texas at Austin</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

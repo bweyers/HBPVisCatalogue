@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="iView X MRI-LR - Eye Tracking for fMRI" nitrc="https://www.nitrc.org/projects/iviewx_mri-lr" />
+<description> The iView X MRI-LR is a non-invasive, long-range eye tracking system for use in the fMRI environment. Some features of the system include:&lt;br /&gt;&lt;br /&gt;- Elaborate faraday shielding and fiber optics to avoid noise in high-field magnets.&lt;br /&gt;&lt;br /&gt;- Includes stimulus presentation software “Experiment Center” and is compatible with 3rd party products such as “Presentation” by NeuroBS.&lt;br /&gt;&lt;br /&gt;- Utilizes mirror box customized for large field of view.&lt;br /&gt;&lt;br /&gt;- Includes powerful analysis software “BeGaze2” for graphical and statistical analysis of eye movements.&lt;br /&gt;&lt;br /&gt;- Includes fixation, saccade and blink detection, and area-of-interest based statistics&lt;br /&gt;&lt;br /&gt;- Real-time data available via digital or analog output </description>
+<license>Commerical Software</license>
+<release>Jun 29, 2009</release>
+<homepage>http://www.nitrc.org/projects/iviewx_mri-lr/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

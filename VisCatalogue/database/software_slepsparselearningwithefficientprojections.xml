@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="SLEP: Sparse Learning with Efficient Projections" nitrc="https://www.nitrc.org/projects/slep" />
+<description> SLEP contains a collection of algorithms for solving sparse learning problems, including LASSO, group LASSO, sparse group LASSO, hierarchical tree structure, and trace norm regularization. </description>
+<license>GNU General Public License v3</license>
+<release>Oct 21, 2017</release>
+<homepage>http://www.nitrc.org/projects/slep/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

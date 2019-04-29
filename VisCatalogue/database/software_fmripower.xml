@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="FMRIpower" nitrc="https://www.nitrc.org/projects/fmripower" />
+<description> A common question investigators ask statisticians when working on grants is how to calculate power. FMRIpower is an easy to use matlab-based graphical user interface that calculates power for future studies based on older analyses or pilot data. </description>
+<license>Public Domain</license>
+<category>Linear</category>
+<category>Other Software Resource</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 29, 2007</release>
+<homepage>http://fmripower.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

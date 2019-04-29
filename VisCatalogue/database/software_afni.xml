@@ -1,0 +1,43 @@
+<root>
+<software>
+<name name="AFNI" nitrc="https://www.nitrc.org/projects/afni" />
+<description> AFNI is a set of C programs for processing, analyzing, and displaying FMRI data. It runs on Unix+X11+Motif systems, including SGI, Solaris, Linux, and Mac OS X. It is available free for research purposes. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=23&amp;screenshot_id=98&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=23&amp;screenshot_id=98&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<category>Response Monitoring</category>
+<category>Tensor Metric</category>
+<category>Volumetric Analysis</category>
+<category>Region of Interest</category>
+<category>Registration</category>
+<category>Resampling</category>
+<category>Nonlinear</category>
+<category>Surface Analysis</category>
+<category>Temporal Convolution - Deconvolution</category>
+<category>Haemodynamic Response</category>
+<category>Image Display</category>
+<category>Rendering</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>May 7, 2007</release>
+<homepage>http://afni.nimh.nih.gov/afni/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,34 @@
+<root>
+<software>
+<name name="Fast Nonlocal Means for MRI denoising" nitrc="https://www.nitrc.org/projects/unlmeans" />
+<description> This is a fast and robust implementation of the popular Nonlocal Means for MRI-Rician denoising. It works by computing the non-local weights based on distances in a features space comprising the local mean value and gradients of the image.&lt;br /&gt;&lt;br /&gt;It can reach an acceleration factor of 20x over the original implementation, with an improved performance for medium-low SNR images.&lt;br /&gt;&lt;br /&gt;We use a bias correction step for Rician noise based on the well-known Conventional Approach.&lt;br /&gt;&lt;br /&gt;This software can be compiled either as a Slicer module or a stand-alone:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.nitrc.org/snapshots.php?group_id=518&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/snapshots.php?group...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;For diffusion MRI volumes, see also: &lt;a href=&quot;http://www.nitrc.org/projects/jalmmse_dwi&quot; target=&quot;_new&quot;&gt;http://www.nitrc.org/projects/jalmmse_dw...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Key words: nonlocal (non-local) means, NLM, C++, ITK 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=518&amp;screenshot_id=400&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=518&amp;screenshot_id=400&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>3D Slicer License</license>
+<category>Artifact Removal</category>
+<category>Filtering</category>
+<category>Intensity Non-uniformity Correction</category>
+<category>Quality Metrics</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 26, 2011</release>
+<homepage>http://www.nitrc.org/projects/unlmeans/</homepage>
+<maintainer>Brigham and Women's Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

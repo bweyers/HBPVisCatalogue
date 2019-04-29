@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="signalml" nitrc="https://www.nitrc.org/projects/signalml" />
+<description> Example implementation of SignaML metadescription of formats of biomedical time series, allowing to read data in new formats base upon standardized XML description.&lt;br /&gt;&lt;br /&gt;Also open platform for implementing advanced signal processing methods in user-friendly environment, at the moment interfacs for Java code, standalone executables and Matlab code via Matlab Builder for Java.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://signalml.org/&quot; target=&quot;_new&quot;&gt;http://signalml.org/&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1196&amp;screenshot_id=1116&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1196&amp;screenshot_id=1116&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Jul 31, 2017</release>
+<homepage>http://signalml.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

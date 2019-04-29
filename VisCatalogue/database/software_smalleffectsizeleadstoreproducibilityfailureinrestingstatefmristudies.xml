@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Small effect size leads to reproducibility failure in resting-state fMRI studies" nitrc="https://www.nitrc.org/projects/meta_metrics" />
+<description> The amplitude of low frequency fluctuation (ALFF), regional homogeneity (ReHo), and degree centrality (DC) images of 5 datasets: PD-off, PD-on, ASD, MF, and EOEC were shared. Please see The amplitude of low frequency fluctuation (ALFF), regional homogeneity (ReHo), and degree centrality (DC) images of 5 datasets: PD-off, PD-on, ASD, MF, and EOEC Please see Jia et al. 2018 for the details about preprocessing and metrics calculation.&lt;br /&gt;&lt;br /&gt;Jia, Xi-Ze; Zhao, Na; Barton, Barek; Burciu, Roxana; Carriere, Nicolas; Cerasa, Antonio et al. (2018): Small effect size leads to reproducibility failure in resting-state fMRI studies. </description>
+<license>Data License</license>
+<release>Jan 20</release>
+<homepage>http://www.nitrc.org/projects/meta_metrics/</homepage>
+<maintainer>Hangzhou Normal University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

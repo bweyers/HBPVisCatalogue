@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="MONSTR Multi Contrast Brain Stripping" nitrc="https://www.nitrc.org/projects/monstr" />
+<description> MONSTR (Multi-cONtrast brain STRipping) is a software tool to generate brainmasks (or skull-strip) from multi-contrast MR brain images, such as T1, T2, PD, or FLAIR. Compared to other T1-based skullstripping methods, MONSTR can take multi-modal inputs, and based on multi-modal atlases, it generates a brainmask of a given subject image. &lt;br /&gt;&lt;br /&gt;It is a patch-based method. Multiple atlas images are first registered to a subject. Then based on the similarities between multiple atlas patches and a given subject patch, the corresponding label (i.e. brain or non-brain) of the subject patch is estimated.&lt;br /&gt;&lt;br /&gt;In addition to the software, we also provide 3 sets of atlas images, having 17 subjects in total. Each atlas contains T1, T2, (FLAIR for one set), and their manually delineated brainmasks. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1063&amp;screenshot_id=1007&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1063&amp;screenshot_id=1007&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<release>Sep 24, 2016</release>
+<homepage>http://www.nitrc.org/projects/monstr/</homepage>
+<maintainer>Henry Jackson Foundation</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="E39 Macaque Histology and MRI data" nitrc="https://www.nitrc.org/projects/e39macaque" />
+<description> Macaque diffusion MRI dataset and corresponding histology for validating diffusion microstructure and tractography measures. </description>
+<release>Nov 7, 2017</release>
+<homepage>http://www.nitrc.org/projects/e39macaque/</homepage>
+<maintainer>Vanderbilt University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

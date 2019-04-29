@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Axonal Beading and Microtubule Quantification" nitrc="https://www.nitrc.org/projects/axonal_beading" />
+<description> Interactive image analysis software for quantifying axonal beading morphology and focal microtubule loss using phase and fluorescent images of a neuron.&lt;br /&gt;&lt;br /&gt;Purpose: Focal axonal beading and focal disruption of microtubule structure are characteristic to traumatic axonal injury. We reproduced these morphological and structural changes in our in vitro model system [Kilinc, Gallo, Barbee, 2008. Exp. Neurol. 212:422–430]. In order to measure bead formation objectively, an observer-independent quantification of beading was necessary. In addition, a quantitative measure for the extent of co-localization of axonal beads and microtubule disruptions was required to establish a causal relationship between focal cytoskeletal damage and bead formation. In this paper we describe Matlab-based, interactive image analysis programs for axonal beading quantification and co-localization analysis. Injury-induced increases in the axonal beading could be successfully detected using the bead analysis program. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1052&amp;screenshot_id=998&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1052&amp;screenshot_id=998&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<category>Quantitative Shape Analysis</category>
+<release>Jun 30, 2016</release>
+<homepage>http://www.nitrc.org/projects/axonal_beading/</homepage>
+<maintainer>Drexel University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

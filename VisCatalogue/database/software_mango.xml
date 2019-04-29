@@ -1,0 +1,42 @@
+<root>
+<software>
+<name name="Mango" nitrc="https://www.nitrc.org/projects/mango" />
+<description> Mango is a viewer for medical research images. It provides analysis tools and a user interface to navigate image volumes. There are three versions of Mango, each geared for a different platform:&lt;br /&gt;&lt;br /&gt;* Mango – Desktop – Mac OS X, Windows, and Linux&lt;br /&gt;* webMango – Browser – Safari, Firefox, Chrome, and Internet Explorer&lt;br /&gt;* iMango – Mobile – Apple iPad&lt;br /&gt;&lt;br /&gt;Key Features:&lt;br /&gt;- Built-in support for DICOM, NIFTI, Analyze, and NEMA-DES formats&lt;br /&gt;- Customizable: Create plugins, custom filters, color tables, file formats, and atlases&lt;br /&gt;- ROI Editing: Threshold and component-based tools for painting and tracing ROIs&lt;br /&gt;- Surface Rendering: Interactive surface models supporting cut planes and overlays&lt;br /&gt;- Image Registration: Semi-automatic image coregistration and manual transform editing&lt;br /&gt;- Image Stacking: Threshold and transparency-based image overlay stacking&lt;br /&gt;- Analysis: Histogram, cross-section, time-series analysis, image and ROI statistics&lt;br /&gt;- Processing: Kernel and rank filtering, arithmetic/logic image and ROI calculators 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=100&amp;screenshot_id=213&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=100&amp;screenshot_id=213&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<category>Websites</category>
+<category>Atlas Application</category>
+<category>Volumetric Analysis</category>
+<category>Region of Interest</category>
+<category>Registration</category>
+<category>Statistical Operation</category>
+<category>Surface Analysis</category>
+<category>Temporal Transformation</category>
+<category>Rendering</category>
+<category>Platform or Development Environment</category>
+<platform>MacOS</platform>
+<platform>Windows Vista</platform>
+<platform>Windows XP</platform>
+<platform>OS Independent</platform>
+<platform>Linux</platform>
+<platform>SunOS/Solaris</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Apr 15, 2008</release>
+<homepage>http://ric.uthscsa.edu/mango/</homepage>
+<maintainer>UTHSCSA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="1000 Functional Connectomes Project" nitrc="https://www.nitrc.org/projects/fcon_1000" />
+<description> ATTENTION: The 1000 Functional Connectomes Project has a new home page at NITRC. Please visit us at:&lt;br /&gt;&lt;a href=&quot;http://fcon_1000.projects.nitrc.org&quot; target=&quot;_new&quot;&gt;http://fcon_1000.projects.nitrc.org&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;This is the parent project for ABIDE, ADHD-200 (ADHD200), INDI, CORR, NKI-Rockland (NKI), Healthy Brain Network (HBN) and other projects. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=296&amp;screenshot_id=211&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=296&amp;screenshot_id=211&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial</license>
+<category>Data</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 24, 2009</release>
+<homepage>http://fcon_1000.projects.nitrc.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

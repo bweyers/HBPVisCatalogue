@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="CoCoMac-Paxinos3D viewer" nitrc="https://www.nitrc.org/projects/cp3d" />
+<description> CoCoMac-Paxinos3D viewer represents an interactive interface of macaque stereotaxic atlas with a connectivity database, allowing integrated data analysis and mapping between 3D structures and database vocabularies. </description>
+<release>Aug 15, 2008</release>
+<homepage>http://www.nitrc.org/projects/cp3d/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,46 @@
+<root>
+<software>
+<name name="Analyze" nitrc="https://www.nitrc.org/projects/analyze" />
+<description> Analyze provides an integrated, comprehensive set of tools for the visualization, segmentation, registration and analysis of multidimensional biomedical imaging data. With Analyze, both anatomic structure and associated function can be studied and fused together for synergistic display and measurement of important structure-to-function relationships. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=291&amp;screenshot_id=566&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=291&amp;screenshot_id=566&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Other/Proprietary License</license>
+<category>Atlas Application</category>
+<category>Quantification</category>
+<category>Manual</category>
+<category>Region Growing</category>
+<category>Region of Interest</category>
+<category>Volumetric Analysis</category>
+<category>Registration</category>
+<category>Resampling</category>
+<category>Spectral Analysis</category>
+<category>Tractography</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<platform>SunOS/Solaris</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>Interfile</input>
+<output>Interfile</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<input>VRML</input>
+<output>VRML</output>
+<release>Nov 6, 2009</release>
+<homepage>http://www.analyzedirect.com/</homepage>
+<maintainer>AnalyzeDirect</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

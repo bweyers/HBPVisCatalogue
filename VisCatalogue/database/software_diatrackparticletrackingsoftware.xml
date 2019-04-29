@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Diatrack particle tracking software" nitrc="https://www.nitrc.org/projects/diatrack" />
+<description> Diatrack, powerful particle tracking (win64)&lt;br /&gt;&lt;br /&gt;Benchmark object tracking software for 2D and 3D applications, such as biological imaging, rheology, or single molecule imaging. Reliably follow and characterize hundreds of objects simultaneously with a precision that reaches 0.01 pixels (depending on data). DiaTrack provides a compelling set of tools to extract quantitative information from image sequences.&lt;br /&gt;&lt;br /&gt;Diatrack can be downloaded under &lt;a href=&quot;http://www.diatrack.org/contact.html&quot; target=&quot;_new&quot;&gt;http://www.diatrack.org/contact.html&lt;/a&gt;&lt;br /&gt;zip file is about 30MB; additional Mathworks libraries are automatically downloaded and installed by Setup. </description>
+<license>Freeware</license>
+<release>Dec 5, 2014</release>
+<homepage>http://www.nitrc.org/projects/diatrack/</homepage>
+<maintainer>www.diatrack.org</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

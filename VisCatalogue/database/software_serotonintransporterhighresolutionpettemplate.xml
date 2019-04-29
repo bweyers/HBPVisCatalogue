@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Serotonin Transporter HighResolution PET Template" nitrc="https://www.nitrc.org/projects/ki-5htt" />
+<description> This PET template is the result of a recent study where we designed and validated an user-independent approach for a detailed in vivo quantification of serotonin transporter (5-HTT) availability in the human brainstem using a template-based approach. &lt;br /&gt;The template was generated with 3T-MR images and parametric binding potential (BPND) [11C]MADAM images of ten healthy subjects. Afterward on this template 5 brainstem regions of interest (Dorsal, Median and Caudal Raphe, Ventral Midbrain and Superior Colliculi) were delineated with a 3D Erosion approach. </description>
+<license>Free For Non-Commercial Use Only</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 21, 2016</release>
+<homepage>http://www.nitrc.org/projects/ki-5htt/</homepage>
+<maintainer>Karolinska Institutet, Department of Clinical Neuroscience</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

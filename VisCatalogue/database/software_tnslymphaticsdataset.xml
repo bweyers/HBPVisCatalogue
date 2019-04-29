@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="TNS Lymphatics Dataset" nitrc="https://www.nitrc.org/projects/tns_lymph" />
+<description> This dataset provides deidentified imaging data for 5 subjects from an imaging study designed to image the lymphatic system non-invasively using MRI. The associated data was published as a part of an article in Elife (&amp;quot;Human and nonhuman primate meninges harbor lymphatic vessels that can be visualized noninvasively by MRI&amp;quot;) and publicized by the NIH Director as a part of his blog (&lt;a href=&quot;https://directorsblog.nih.gov/2017/10/17/new-imaging-approach-reveals-lymph-system-in-brain/&quot; target=&quot;_new&quot;&gt;https://directorsblog.nih.gov/2017/10/17...&lt;/a&gt;). </description>
+<license>TNS Data Access</license>
+<release>May 24, 2018</release>
+<homepage>http://www.nitrc.org/projects/tns_lymph/</homepage>
+<maintainer>National Institutes of Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

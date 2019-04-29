@@ -1,0 +1,30 @@
+<root>
+<software>
+<name name="Neuroimaging Made Easy Blog" nitrc="https://www.nitrc.org/projects/easy_neuroimage" />
+<description> The main aim of this blog is presenting some scripts that can be used to facilitate and automate processing and analysis of brain data. In addition, it could be helpful explaining non clear stages and steps of brain data processing using some software such as; Freesurfer, FSL, Brainvoyager QX... At the moment, there are more than 10 applescripts in the main website &amp;quot;http://www.easyneuroimaging.com&amp;quot; that control different tools and commands (aparcstats2table, asegstats2table, BET, dcm2nii, FIRST, fslsplit, fslswapdim, fslview, mri_convert, Qdec, Recon-all, SIENAX, tkmedit, tksurfer) 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=556&amp;screenshot_id=468&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=556&amp;screenshot_id=468&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<category>Other</category>
+<category>Workflow</category>
+<category>Other Software Resource</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>ASCII</input>
+<output>ASCII</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 24, 2011</release>
+<homepage>http://www.nitrc.org/projects/easy_neuroimage</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

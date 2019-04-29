@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="GAAIN toolset" nitrc="https://www.nitrc.org/projects/gaain" />
+<description> The Alzheimer&#x27;s Association created The Global Alzheimer&#x27;s Association Interactive Network (GAAIN) to connect Alzheimer’s and dementia researchers and speed discovery by connecting potential collaborators to those sharing data (GAAIN Data Partners). GAAIN&#x27;s powerful interactive tools allow users to explore data and create cohorts across multiple data sources and run immediate preliminary analysis while upholding the data control, security, and privacy policies of the data owners. These tools are freely accessible to all at &lt;a href=&quot;http://www.gaaindata.org.&quot; target=&quot;_new&quot;&gt;http://www.gaaindata.org.&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;A wide and vastly varying range of metadata from nearly 500,000 subjects can be explored using these tools. Attributes include demographics, assessments, health factors, biologicals, imaging and genetics. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1264&amp;screenshot_id=1179&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1264&amp;screenshot_id=1179&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Data</category>
+<category>Database</category>
+<category>Other Data Resource</category>
+<category>Other Information Resource</category>
+<platform>OS Independent</platform>
+<release>Mar 26, 2018</release>
+<homepage>http://www.nitrc.org/projects/gaain/</homepage>
+<maintainer>GAAIN, Global Alzheimer's Association Interactive Network</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

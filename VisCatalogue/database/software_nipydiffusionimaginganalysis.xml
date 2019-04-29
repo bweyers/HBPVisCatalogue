@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="NIPY Diffusion Imaging Analysis" nitrc="https://www.nitrc.org/projects/dipy" />
+<description> DIPY is a free and open source software project for computational neuroanatomy. It focuses on diffusion magnetic resonance imaging (dMRI) analysis and tractography but also contains implementations of other computational imaging methods such as denoising and registration that are applicable to the greater medical imaging and image processing communities. Additionally, DIPY is an international project which brings together scientists across labs and countries to share their state-of-the-art code and expertise in the same codebase, accelerating scientific research in medical imaging.&lt;br /&gt;&lt;br /&gt;Twitter &lt;a href=&quot;https://twitter.com/dipymri&quot; target=&quot;_new&quot;&gt;https://twitter.com/dipymri&lt;/a&gt;&lt;br /&gt;G+ &lt;a href=&quot;http://bit.ly/dipymri&quot; target=&quot;_new&quot;&gt;http://bit.ly/dipymri&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=376&amp;screenshot_id=932&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=376&amp;screenshot_id=932&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Connectivity Analysis</category>
+<category>Tensor Metric</category>
+<category>Tractography</category>
+<category>Rendering</category>
+<category>Platform or Development Environment</category>
+<release>May 6, 2010</release>
+<homepage>http://dipy.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

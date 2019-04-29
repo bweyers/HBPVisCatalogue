@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Gannet - Batch Analysis of Edited Magnetic Resonance Spectroscopy (MRS) Data" nitrc="https://www.nitrc.org/projects/gannet" />
+<description> Gannet is a software package designed for the batch analysis of edited magnetic resonance spectroscopy (MRS) data. &lt;br /&gt;&lt;br /&gt;Gannet runs in Matlab, and is distributed as code rather than executables, empowering users to make local changes. &lt;br /&gt;&lt;br /&gt;Gannet is designed to run without user intervention, to remove operator variance from the quantification of edited MRS data. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1252&amp;screenshot_id=1163&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1252&amp;screenshot_id=1163&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Modeling</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Feb 5, 2018</release>
+<homepage>http://www.gabamrs.com/about</homepage>
+<maintainer>The Johns Hopkins University School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="CBICA: Tutorials (Image Processing and Machine Learning) using CPP, ITK, etc." nitrc="https://www.nitrc.org/projects/cbica_tutorials" />
+<description> Welcome to CBICA’s C++ learning resource.&lt;br /&gt;&lt;br /&gt;Here, we will be showcasing our seminar series “CPP for Image Processing and Machine Learning” including presentations and code examples.&lt;br /&gt;&lt;br /&gt;There are image processing and machine learning libraries out there which use C++ as a base and have become industry standards (ITK for medical imaging, OpenCV for computer vision and machine learning, Eigen for linear algebra, Shogun for machine learning). The documentation provided with these packages, though extensive, assume a certain level of experience with C++. Our tutorials are intended for those people who have basic understanding of medical image processing and machine learning but who are just starting to get their toes wet with C++ (and possibly have prior experience with Python or MATLAB).&lt;br /&gt;&lt;br /&gt;Here we will be focusing on how someone with a good theoretical background in image processing and machine learning can quickly prototype algorithms using CPP and extend them to create meaningful software packages. </description>
+<license>SBIA License</license>
+<category>Community</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 4, 2016</release>
+<homepage>http://www.nitrc.org/projects/cbica_tutorials/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

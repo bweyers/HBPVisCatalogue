@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="DPARSF" nitrc="https://www.nitrc.org/projects/dparsf" />
+<description> Data Processing Assistant for Resting-State fMRI (DPARSF) is a convenient plug-in software based on SPM and REST. You just need to arrange your DICOM files, and click a few buttons to set parameters, DPARSF will then give all the preprocessed (slice timing, realign, normalize, smooth) data, FC, ReHo, ALFF and fALFF results. DPARSF can also create a report for excluding subjects with excessive head motion and generate a set of pictures for easily checking the effect of normalization. You can use DPARSF to extract AAL or ROI time courses (or extract Gray Matter Volume of AAL regions, command line only) efficiently if you want to perform small-world analysis.&lt;br /&gt;&lt;br /&gt;Please download it and find more information from &lt;a href=&quot;http://rfmri.org/DPARSF&quot; target=&quot;_new&quot;&gt;http://rfmri.org/DPARSF&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<release>Oct 25, 2011</release>
+<homepage>http://www.nitrc.org/projects/dparsf/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="brainspell" nitrc="https://www.nitrc.org/projects/brainspell" />
+<description> brainspell is the first open, human-curated, collaborative classification of the neuroimaging literature. </description>
+<license>Apache License 2.0</license>
+<category>Bibliographic Resource</category>
+<category>Data</category>
+<category>Database</category>
+<release>Nov 16, 2016</release>
+<homepage>http://brainspell.org/</homepage>
+<maintainer>Instut Pasteur</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

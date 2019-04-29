@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Haiko89: MRI in vivo Baboon Brain Templates Collection (Papio anubis)" nitrc="https://www.nitrc.org/projects/haiko89" />
+<description> A collection of open access MRI in vivo brain template images from average baboon brains (Papio anubis):&lt;br /&gt; &lt;br /&gt;- Symmetric and Asymmetric population-average T1 brain templates from N=89 subjects (Haiko89 &amp;amp; Haiko89sym)&lt;br /&gt;&lt;br /&gt;- Tissue (Grey matter, White matter &amp;amp; CSF) probability maps from symmetric and asymmetric Haiko89 brain templates&lt;br /&gt;&lt;br /&gt;- Sex balanced Brain template created with an equal number of N=31 male and N=31 female images (Haiko62MF)&lt;br /&gt;&lt;br /&gt;- Adult Brain Template created from N=67 adult baboons&#x27; (over 7 years old) images (Haiko67A)&lt;br /&gt;&lt;br /&gt;When using these images please cite:&lt;br /&gt;Love, S.A., Marie, D., Roth, M., Lacoste, R., Nazarian, B., Bertello, A., Coulon, O., Anton, J.-L., Meguerditchian, A., 2016. The average baboon brain: MRI templates and tissue probability maps from 89 individuals. NeuroImage. doi:10.1016/j.neuroimage.2016.03.018 </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>OS/2</platform>
+<platform>OS Independent</platform>
+<platform>Other OS</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Oct 2, 2015</release>
+<homepage>http://www.nitrc.org/projects/haiko89/</homepage>
+<maintainer>Centre National de la Recherche Scientifique (CNRS) / Aix-Marseille University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

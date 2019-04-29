@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="Curry 7" nitrc="https://www.nitrc.org/projects/curry_7" />
+<description> Throughout the world, Curry has the well deserved reputation as the most advanced and comprehensive tool for Multimodal Neuroimaging. Curry’s strength has always been centered on combining functional data such as EEG and MEG with imaging data from MRI and CT to optimize source reconstruction. Now we are combining Curry’s strength with the acquisition and signal processing features of the SCAN software for a comprehensive EEG acquisition, data analysis, source localization and source imaging package. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=578&amp;screenshot_id=472&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=578&amp;screenshot_id=472&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>Atlas Application</category>
+<category>Connectivity Analysis</category>
+<category>Database Application</category>
+<category>Format Conversion</category>
+<category>Image Reconstruction</category>
+<category>Finite Element Analysis</category>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<category>Mesh Generation</category>
+<category>Model Generation</category>
+<category>Simulation</category>
+<category>Position</category>
+<category>Volumetric Analysis</category>
+<category>Segmentation</category>
+<category>Spatial Transformation</category>
+<platform>Windows</platform>
+<release>Feb 20, 2012</release>
+<homepage>http://www.neuroscan.com/curry.cfm</homepage>
+<maintainer>Compumedics</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

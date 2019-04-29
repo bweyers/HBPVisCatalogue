@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Human Connectome Project (HCP)" nitrc="https://www.nitrc.org/projects/hcp" />
+<description> The NIH Human Connectome Project is an effort to map the neural pathways that underlie human brain function. The purpose of the Project is to acquire and share data about the structural and functional connectivity of the human brain. It will advance the capabilities for imaging and analyzing brain connections, resulting in improved sensitivity, resolution, and utility.&lt;br /&gt;&lt;br /&gt;The NIH Blueprint for Neuroscience (&lt;a href=&quot;http://www.neuroscienceblueprint.nih.gov/&quot; target=&quot;_new&quot;&gt;http://www.neuroscienceblueprint.nih.gov...&lt;/a&gt;) has funded two grants that have taken complementary approaches:&lt;br /&gt;&lt;br /&gt;* A consortium led by Washington University in St. Louis and the University of Minnesota is using advanced rfMRI, tfMRI, dMRI and MEG methods to chart brain circuitry in 1200 healthy subjects. &lt;a href=&quot;http://www.humanconnectome.org/&quot; target=&quot;_new&quot;&gt;http://www.humanconnectome.org/&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;* A consortium led by Massachusetts General Hospital and the University of California at Los Angeles has enabled building a next-generation 3T MR scanner that improves the quality and spatial resolution of brain connectivity data. &lt;a href=&quot;http://www.humanconnectomeproject.org/&quot; target=&quot;_new&quot;&gt;http://www.humanconnectomeproject.org/&lt;/a&gt;</description>
+<category>Federal Funding Resource</category>
+<category>Hardware</category>
+<category>Data Resource</category>
+<category>Community</category>
+<category>Software</category>
+<release>Sep 11, 2009</release>
+<homepage>https://www.humanconnectome.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

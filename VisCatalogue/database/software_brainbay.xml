@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="BrainBay" nitrc="https://www.nitrc.org/projects/brainbay" />
+<description> Brainbay supports Human-Computer-Interface functions and diverse Biosignal- and EEG amplifier hardware - including the OpenBCI Cyton and Ganglion devices - for live recording and processing of bioelectric signals. &lt;br /&gt;BrainBay is a part of the OpenEEG project and provides graphical + musical feedback functions and feedback-games. &lt;br /&gt;&lt;br /&gt;The project is hosted on Github:&lt;br /&gt;&lt;a href=&quot;https://github.com/ChrisVeigl/BrainBay&quot; target=&quot;_new&quot;&gt;https://github.com/ChrisVeigl/BrainBay&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=924&amp;screenshot_id=1134&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=924&amp;screenshot_id=1134&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Animation</category>
+<category>Workflow</category>
+<release>Apr 1, 2015</release>
+<homepage>http://www.shifz.org/brainbay/</homepage>
+<maintainer>SHIFZ</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

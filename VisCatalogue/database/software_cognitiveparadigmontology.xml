@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Cognitive Paradigm Ontology" nitrc="https://www.nitrc.org/projects/cogpo" />
+<description> The Cognitive Paradigm Ontology (CogPO) is a domain ontology of cognitive paradigms for application and use in the functional neuroimaging community. CogPO has been developed through the integration of the Functional Imaging Biomedical Informatics Research Network (FBIRN) Human Imaging Database (HID) and the BrainMap Database. The design of CogPO concentrates on what can be observed directly: categorization of each paradigm in terms of (1) the stimulus presented to the subjects, (2) the requested instructions, and (3) the returned response. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=740&amp;screenshot_id=747&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=740&amp;screenshot_id=747&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<platform>OS Independent</platform>
+<release>Aug 6, 2013</release>
+<homepage>http://cogpo.org</homepage>
+<maintainer>Florida International University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Hitachi2nirs" nitrc="https://www.nitrc.org/projects/hitachi2nirs" />
+<description> A Matlab script to convert the raw .csv Hitachi ETG4000 output file into a .nirs file for use with Homer2. The script also requires a .pos file. This is the output of the polhemus 3D digitiser that we use to record where the optodes are located spatially. I realise that not everyone uses a 3D digitiser so I have included three example .pos files - one for each of the possible optode arrangements of the Hitachi system (either two 3x3 arrays, one 3x5 array or one 4x4 array). If you use a different arrangement or have more probes than us, feel free to get in touch and I may be able to advise on how to create a model .pos file.&lt;br /&gt;&lt;br /&gt;There are two versions of the conversion script:&lt;br /&gt;1. single - this will read in ONE .csv file and ONE .pos file and create ONE .nirs file &lt;br /&gt;2. multi - this will read in a user-specified number of .csv files and ONE .pos file. It will then create one .nirs file for each .csv file that was read in and deposit it in the same directory as that .csv file. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=665&amp;screenshot_id=589&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=665&amp;screenshot_id=589&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>NIRS/FNIR</category>
+<release>Dec 3, 2012</release>
+<homepage>http://www.nitrc.org/projects/hitachi2nirs/</homepage>
+<maintainer>University of Nottingham</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

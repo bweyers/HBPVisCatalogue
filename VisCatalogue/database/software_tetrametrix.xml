@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="TetraMetrix" nitrc="https://www.nitrc.org/projects/tmma" />
+<description> TetraMetrix is an open-source software project for distributed Tetrahedral Mesh Modeling and Analysis (TMMA) of multidimensional data. Tetrahedra are 3D, space filling, geometric objects that can be used to form representations and partitions of objects like volumes and shapes obtained from biomedical images (e.g., 3D MRI brain images). Tetrahedra are a natural extension of lines (1D) and surface triangulations (2D) which enable finite element analysis of irregular shapes, and permit a greater range of morphometric characterization of multidimensional objects. The project is being developed by researchers at USC Laboratory of Neuro Imaging (&lt;a href=&quot;http://www.LONI.usc.edu&quot; target=&quot;_new&quot;&gt;http://www.LONI.usc.edu&lt;/a&gt;) and Department of Mathematics (&lt;a href=&quot;http://www.math.ucla.edu&quot; target=&quot;_new&quot;&gt;http://www.math.ucla.edu&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;TetraMetrix is distributed by the Laboratory of Neuro Imaging at USC.&lt;br /&gt;&lt;br /&gt;Update: A new version tetrahedral meshing software along with new related image registration software was made available in the fall of 2015. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=408&amp;screenshot_id=947&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=408&amp;screenshot_id=947&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Oct 4, 2010</release>
+<homepage>http://www.nitrc.org/projects/tmma</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

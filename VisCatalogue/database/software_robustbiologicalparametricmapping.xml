@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Robust Biological Parametric Mapping" nitrc="https://www.nitrc.org/projects/rbpm" />
+<description> Biological parametric mapping (BPM) has extended the widely popular statistical parametric approach to enable application of the general linear model to multiple image modalities (both for regressors and regressands) along with scalar valued observations. This approach offers great promise for direct, voxelwise assessment of structural and functional relationships with multiple imaging modalities. However, as presented, the biological parametric mapping approach is not robust to outliers and may lead to invalid inferences (e.g., artifactual low p-values) due to slight mis-registration or variation in anatomy between subjects. To enable widespread application of this approach, we introduce robust regression and non-parametric regression in the neuroimaging context of application of the general linear model. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Dec 30, 2010</release>
+<homepage>http://www.nitrc.org/projects/rbpm/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

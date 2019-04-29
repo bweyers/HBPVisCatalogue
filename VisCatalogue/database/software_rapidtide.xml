@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="rapidtide" nitrc="https://www.nitrc.org/projects/rapidtide" />
+<description> The rapidtide suite is a set of python tools that we&#x27;ve developed and tested over the last several years in the McLean Hospital Opto Magnetic Group to perform rapid time delay analysis on functional imaging data to find time lagged correlations between the voxelwise time series and other time series. This technique can be used to detect, quantify, and display blood-borne physiological noise signals, as a method for quantifying hemodynamic parameters, and/or as a way to remove them from datasets to improve fMRI data quality. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1097&amp;screenshot_id=1055&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1097&amp;screenshot_id=1055&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jan 5, 2017</release>
+<homepage>http://www.nitrc.org/projects/rapidtide/</homepage>
+<maintainer>McLean Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

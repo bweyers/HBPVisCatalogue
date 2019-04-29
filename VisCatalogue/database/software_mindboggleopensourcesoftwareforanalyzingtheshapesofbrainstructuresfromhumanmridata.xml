@@ -1,0 +1,25 @@
+<root>
+<software>
+<name name="Mindboggle: open source software for analyzing the shapes of brain structures from human MRI data" nitrc="https://www.nitrc.org/projects/mindboggle" />
+<description> Mindboggle (&lt;a href=&quot;http://mindboggle.info&quot; target=&quot;_new&quot;&gt;http://mindboggle.info&lt;/a&gt; and &lt;a href=&quot;https://osf.io/ydyxu/&quot; target=&quot;_new&quot;&gt;https://osf.io/ydyxu/&lt;/a&gt;) is open source software for analyzing the shapes of brain structures from human MRI data. The primary reference documenting and evaluating Mindboggle was published in PLoS Computational Biology:&lt;br /&gt;&lt;br /&gt;Klein A, Ghosh SS, Bao FS, Giard J, Hame Y, Stavsky E, Lee N, Rossa B, Reuter M, Neto EC, Keshavan A. (2017) Mindboggling morphometry of human brains. PLoS Computational Biology 13(3): e1005350. doi:10.1371/journal.pcbi.1005350 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=33&amp;screenshot_id=986&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=33&amp;screenshot_id=986&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Algorithm or Reusable Library</category>
+<category>Volumetric Analysis</category>
+<category>Shape Analysis</category>
+<category>Surface Analysis</category>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 25, 2007</release>
+<homepage>http://www.mindboggle.info</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

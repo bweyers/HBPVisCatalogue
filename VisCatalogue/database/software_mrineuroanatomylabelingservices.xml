@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="MRI Neuroanatomy Labeling Services" nitrc="https://www.nitrc.org/projects/brain_labeling" />
+<description> Neuromorphometrics provides brain labeling and measurement services. Given raw MRI brain scans, we make precise quantitative measurements of the volume, shape, and location of specific neuroanatomical structures. The final measurements result from automated analyses that are manually guided, inspected and certified by a neuroanatomical expert. More than two months of training and a great deal of practice are required for this person to be able to identify and delineate the borders of the structures on each slice where they appear. All data from raw images through final results are checked for completeness and integrity. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=597&amp;screenshot_id=663&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=597&amp;screenshot_id=663&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Consulting Services</category>
+<category>Morphology</category>
+<category>Manual</category>
+<category>Labeling</category>
+<category>Volumetric Analysis</category>
+<category>Visualization</category>
+<release>Apr 18, 2012</release>
+<homepage>http://Neuromorphometrics.com</homepage>
+<maintainer>Neuromorphometrics, Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

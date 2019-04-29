@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="Manually Labeled MRI Brain Scan Database" nitrc="https://www.nitrc.org/projects/manuallabels" />
+<description> This is a continuously growing and improving database of high-quality neuroanatomically labeled MRI brain scans, created not by an algorithm, but by neuroanatomical experts. All results are checked and corrected. Regions of interest include the usual sub-cortical structures (thalamus, caudate, putamen, hippocampus, etc), along with ventricles, brain stem, cerebellum, and gray and white matter. We also sub-divide the cortex into &amp;quot;parcellation units&amp;quot; that are defined by gyral and sulcal landmarks. There are 157 ROIs now and more to come.&lt;br /&gt;This data is offered as a subscription and while it is not free, it is a tiny fraction of the cost of creating the database. The idea is to spread the cost of adding new labeled scans to the database so we can continue to increase the number of scans, along with the age range and other demographics of the subjects. In 2012, we will have at least 63 comprehensively labeled scans available. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=656&amp;screenshot_id=664&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=656&amp;screenshot_id=664&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Other/Proprietary License</license>
+<category>Data Model</category>
+<category>Atlas Data</category>
+<category>Data</category>
+<category>Database</category>
+<category>Test Data</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Oct 17, 2012</release>
+<homepage>http://neuromorphometrics.com/?page_id=23</homepage>
+<maintainer>Neuromorphometrics, Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

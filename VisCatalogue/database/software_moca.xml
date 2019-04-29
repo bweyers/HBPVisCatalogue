@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="MOCA" nitrc="https://www.nitrc.org/projects/moca_2015" />
+<description> MOCA stands for &amp;quot;Metric Optimization for Computational Anatomy&amp;quot;. It is a collection of software tools for the computational analysis of brain anatomy with MRI data. It includes automated software tools from surface reconstruction to their mapping via metric optimization in the Laplace-Beltrami embedding space. It is general and can be applied to a wide range of anatomical structures including cortical, sub-cortical, and fiber bundle surfaces. </description>
+<license>MOCA License</license>
+<category>Connectivity Analysis</category>
+<category>Mesh Generation</category>
+<category>Shape Analysis</category>
+<category>Surface Analysis</category>
+<release>May 21, 2015</release>
+<homepage>http://www.nitrc.org/projects/moca_2015/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="MRIcroS" nitrc="https://www.nitrc.org/projects/mricros" />
+<description> When performing computational neuroscience-based analysis, it is often beneficial to view the data. Also, as Matlab is a common tool for such analysis, it is beneficial to visualize the data without having to open an external application that does not run in the Matlab environment.&lt;br /&gt;&lt;br /&gt;MRIcroS, a Matlab-based tool, provides:&lt;br /&gt;1) surface mesh visualization (PLY, PIAL, NV, STL,VTK, GIFTI formats)&lt;br /&gt;2) Convert NIfTI voxel images to surface meshes (and save as PLY or VTK)&lt;br /&gt;3) track (TRK files) visualization&lt;br /&gt;4) connectome data (BrainNet Viewer .node and .edge files) visualization&lt;br /&gt;5) intuitive GUI&lt;br /&gt;6) all functions available in the GUI are available through scripting. Therefore, automated scripts can be created&lt;br /&gt;7) can export rendered image as bitmap 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=877&amp;screenshot_id=870&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=877&amp;screenshot_id=870&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Three Dimensional Display</category>
+<category>Surface Rendering</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Sep 22, 2014</release>
+<homepage>https://www.nitrc.org/projects/mricros/</homepage>
+<maintainer>University of South Carolina, Medical University Of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

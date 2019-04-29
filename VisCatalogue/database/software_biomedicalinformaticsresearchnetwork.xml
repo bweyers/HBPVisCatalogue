@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Biomedical Informatics Research Network" nitrc="https://www.nitrc.org/projects/birn" />
+<description> BIRN is a geographically distributed virtual community of shared resources to advance the diagnosis and treatment of disease. It&#x27;s emphasis is on enabling the sharing of biomedical data through a suite of software capabilities. It currently consists of expertise in Data Movement, Data Security, Mediation Across Data Sources, Knowledge Engineering, Workflows, and Genetics. The main BIRN site is at the Information Sciences Institute at USC with collborators at the University of Chicago, the Massachusetts General Hospital, University of California, Irvine and University of California, Los Angeles. </description>
+<category>Data Resource</category>
+<category>Knowledge Environment</category>
+<category>Web Resource</category>
+<platform>OS Independent</platform>
+<release>Apr 30, 2008</release>
+<homepage>https://en.wikipedia.org/wiki/Biomedical_Informatics_Research_Network</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

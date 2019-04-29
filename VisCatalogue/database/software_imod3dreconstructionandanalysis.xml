@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="IMOD - 3D Reconstruction and Analysis" nitrc="https://www.nitrc.org/projects/imod" />
+<description> IMOD is a free, cross - platform set of image processing, modeling and display programs used for tomographic reconstruction, reconstruction and segmentation of 3D volumes. IMOD has tools for assembling and aligning data within multiple types and sizes of image stacks, viewing 3D data from any orientation, and modeling and displaying the image files. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=426&amp;screenshot_id=301&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=426&amp;screenshot_id=301&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Nov 29, 2010</release>
+<homepage>http://www.nitrc.org/projects/imod/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

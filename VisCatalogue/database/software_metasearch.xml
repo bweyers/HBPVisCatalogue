@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="MetaSearch" nitrc="https://www.nitrc.org/projects/metasearch" />
+<description> MetaSearch (&lt;a href=&quot;http://openneu.ro/metasearch/&quot; target=&quot;_new&quot;&gt;http://openneu.ro/metasearch/&lt;/a&gt;) is a search tool intended to help you find MRI data shared publicly on the Web. It is provided by the Open Neuroimaging Laboratory project as a companion to the BrainBox, a brain curation and annotation tool. If you want to see your data on MetaSearch, please let us know at &lt;a href=&quot;https://github.com/OpenNeuroLab/metasearch/issues/new.&quot; target=&quot;_new&quot;&gt;https://github.com/OpenNeuroLab/metasear...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1077&amp;screenshot_id=1144&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1077&amp;screenshot_id=1144&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Data</category>
+<category>Database</category>
+<category>Web Service</category>
+<category>Websites</category>
+<platform>OS Independent</platform>
+<release>Nov 16, 2016</release>
+<homepage>http://openneu.ro/metasearch</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

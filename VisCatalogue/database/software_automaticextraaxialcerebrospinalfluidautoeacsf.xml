@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Automatic Extra-Axial Cerebrospinal Fluid (Auto EACSF)" nitrc="https://www.nitrc.org/projects/auto_eacsf" />
+<description> Automatic Extra-Axial Cerebrospinal Fluid (Auto EACSF) is an open-source, interactive tool for automatic computation of brain extra-axial cerebrospinal fluid (EA-CSF) in magnetic resonance image (MRI) scans of infants. Auto EACSF aims to automatically calculate the volume of EA-CSF. Auto EACSF is a user-friendly application that generates a Qt application to calculate the volume of EA-CSF. The application is run through a GUI, but also provides an advanced use mode that allows execution of different steps by themselves via Python and XML scripts. </description>
+<license>Apache License 2.0</license>
+<release>Oct 2, 2018</release>
+<homepage>http://www.nitrc.org/projects/auto_eacsf/</homepage>
+<maintainer>NIRAL, UNC Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

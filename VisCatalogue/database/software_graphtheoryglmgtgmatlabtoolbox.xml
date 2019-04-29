@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Graph Theory GLM (GTG) MATLAB Toolbox" nitrc="https://www.nitrc.org/projects/metalab_gtg" />
+<description> This MATLAB toolbox calculates &amp;amp; runs a GLM on graph theory properties derived from brain networks. The GLM accepts continuous &amp;amp; categorical between-participant predictors &amp;amp; categorical within-participant predictors. Significance is determined via non-parametric permutation tests, including correction for multiple comparisons. Both fully connected &amp;amp; thresholded networks are tested.&lt;br /&gt;&lt;br /&gt;The toolbox also provides a data processing path for resting state &amp;amp; task fMRI data. Options for partialing nuisance signals include: local &amp;amp; total white matter signal (Jo et al., 2013), PCA of white matter/ventricular signal (Muschelli et al., 2014), Saad et al. (2013)&#x27;s GCOR, &amp;amp; Chen et al. (2012)’s GNI. In addition, Power et al. (2014)&#x27;s motion scrubbing method &amp;amp; Patel et al. (2014)&#x27;s WaveletDespike are available.&lt;br /&gt;&lt;br /&gt;Please sign up for the mailing list, as this is where we announce new releases. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=802&amp;screenshot_id=732&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=802&amp;screenshot_id=732&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Connectivity Analysis</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Mar 12, 2014</release>
+<homepage>http://sites.bu.edu/metalab/tools/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

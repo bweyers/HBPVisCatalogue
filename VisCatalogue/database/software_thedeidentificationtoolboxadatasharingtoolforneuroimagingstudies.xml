@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="The De-identification Toolbox - A data sharing tool for neuroimaging studies" nitrc="https://www.nitrc.org/projects/de-identification" />
+<description> The De-identification Toolbox (formerly DeID) is a Java program that users can use to remove identifying information in neuroimaging datasets. This software provides a series of user interaction wizards to allow users to select data variables to be de-identified, implements functions for auditing and validation of de-identified data, and enables the user to share the de-identified data in a single compressed package through various communication protocols. The software runs with Windows, Linux, and Mac operating systems. </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Jul 9, 2015</release>
+<homepage>http://www.nitrc.org/projects/de-identification/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

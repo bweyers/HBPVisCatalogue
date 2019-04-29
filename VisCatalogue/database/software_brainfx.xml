@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="BrainFX" nitrc="https://www.nitrc.org/projects/brainfx" />
+<description> A developer tool to provide batch processing capability for pipelines. Users input data into a input table and run analysis with it. It is used to power CamBA&#x27;s and Brainwaver&#x27;s User interface. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Workflow</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 18, 2007</release>
+<homepage>http://www.brainfx.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

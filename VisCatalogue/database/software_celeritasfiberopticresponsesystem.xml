@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Celeritas: Fiber Optic Response System" nitrc="https://www.nitrc.org/projects/fobrs" />
+<description> The Celeritas Fiber Optic Response System can be customized to fit your research needs by selecting the combination of Button Response Units (BRUs) and Joysticks. The BRUs and Joysticks comfortably fit small to large hand sizes and are constructed entirely of non-metallic components - completely eliminating all metal inside the magnet room. The units communicate button presses through fiber optic cabling which connects to an Interface Console located in the control room through an available wave guide. The Interface Console provides real-time feedback of participant responses via LED indicators and includes a set of buttons to make responses for the participant as needed. The system seamlessly integrates with E-Prime® through a USB connection. The new Interface Console comes with an Optical Connector and a BNC Connector. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=277&amp;screenshot_id=1085&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=277&amp;screenshot_id=1085&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Response Monitoring</category>
+<release>Aug 21, 2009</release>
+<homepage>https://pstnet.com/products/celeritas/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

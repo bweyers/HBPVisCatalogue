@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Wisconsin White Matter Hyperintensities Segmentation Toolbox" nitrc="https://www.nitrc.org/projects/w2mhs" />
+<description> W2MHS is an open source MATLAB toolbox designed for detecting and quantifying White Matter Hyperintensities(WMH) in Alzheimer’s and aging related neurological disorders.Our toolbox provides a self-sufficient set of tools for segmenting these WMHs reliably and further quantifying their burden for down-processing studies. WMHs arise as bright regions on T2-weighted FLAIR images. They reflect comorbid neural injury or cerebral vascular disease burden. Their precise detection is of interest in Alzheimer’s disease (AD) with regard to its prognosis.&lt;br /&gt;&lt;br /&gt;Please cite the following paper upon usage of this toolbox. &lt;br /&gt;Ithapu, V., Singh, V., Lindner, C., Austin, B. P., Hinrichs, C., Carlsson, C. M., Bendlin, B. B. and Johnson, S. C. (2014), Extracting and summarizing white matter hyperintensities using supervised segmentation methods in Alzheimer&#x27;s disease risk and aging studies. Hum. Brain Mapp.. doi: 10.1002/hbm.22472 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=719&amp;screenshot_id=657&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=719&amp;screenshot_id=657&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 19, 2013</release>
+<homepage>http://www.nitrc.org/projects/w2mhs/</homepage>
+<maintainer>University of Wisconsin - Madison</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

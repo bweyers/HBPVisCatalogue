@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: Identification of Sparse Connectivity Patterns in rsfMRI (SCPLearn)" nitrc="https://www.nitrc.org/projects/cbica_scplearn" />
+<description> This software is used to calculate Sparse Connectivity Patterns (SCPs) from resting state fMRI connectivity data. SCPs consist of those regions whose between-region connectivity co-varies across subjects. This algorithm was developed as a complementary approach to existing network identification methods.&lt;br /&gt;&lt;br /&gt;SCPLearn has the following advantages:&lt;br /&gt;&lt;br /&gt; Does not require thresholding of correlation matrices&lt;br /&gt; Allows for both positive and negative correlations&lt;br /&gt; Does not constrain the SCPs to have spatial/temporal orthogonality/independence&lt;br /&gt; Provides group-common SCPs and subject-specific measures of average correlation within each SCP&lt;br /&gt; Can be run within a hierarchical framework to get &amp;quot;primary&amp;quot; (large spatial extent) and &amp;quot;secondary&amp;quot; level (small spatial extent) SCPs&lt;br /&gt;&lt;br /&gt;Subject-level coefficients can be used for subsequent group-level analysis. </description>
+<license>SBIA License</license>
+<release>Jan 22, 2016</release>
+<homepage>http://www.nitrc.org/projects/cbica_scplearn/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

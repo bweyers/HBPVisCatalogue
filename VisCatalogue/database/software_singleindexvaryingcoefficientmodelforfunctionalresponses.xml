@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Single-index Varying Coefficient Model for Functional Responses" nitrc="https://www.nitrc.org/projects/sivc" />
+<description> The aim of this tool is to implement a functional analysis pipeline, for the joint analysis of functional data and clinical data, for example age, gender and disease status. SIVC consists of a functional single index for characterizing the association of functional response with covariates of interest by incorporating complex spatial-temporal correlation structure, an efficient method for spatially smoothing varying coefficient functions, an estimation method for estimating the&lt;br /&gt;spatial-temporal correlation structure, a simultaneous confidence band for quantifying the uncertainty in the estimated coefficient functions. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>May 3, 2016</release>
+<homepage>http://www.nitrc.org/projects/sivc/</homepage>
+<maintainer>Department of Biostatistics</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

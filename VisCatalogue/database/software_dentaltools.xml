@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="DentalTools" nitrc="https://www.nitrc.org/projects/dentaltools" />
+<description> This package provides 3Dimaging resources such as multimodal imaging, volume and mesh processing or segmentation for Dental Research. DentalTools package intends to contribute to the free exchange of information and methods in the dentistry research community. </description>
+<license>3D Slicer License</license>
+<release>Jul 18, 2012</release>
+<homepage>http://www.nitrc.org/projects/dentaltools/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

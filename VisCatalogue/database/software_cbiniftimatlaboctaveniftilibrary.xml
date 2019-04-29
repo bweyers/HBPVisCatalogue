@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="cbiNifti: Matlab/Octave Nifti library" nitrc="https://www.nitrc.org/projects/cbinifti" />
+<description> cbiNifti: An I/O library for Matlab/Octave&lt;br /&gt;&lt;br /&gt;Matlab and Octave library for reading and writing Nifti-1 files. &lt;br /&gt;&lt;br /&gt;cbiNifti is intended to be a small, self-contained library that makes minimal assumptions about what Nifti files should look like and allow users easy access to the raw data. &lt;br /&gt;&lt;br /&gt;cbiNifti handles compressed file formats for reading and writing, using Unix pipes for compression and decompression.&lt;br /&gt;&lt;br /&gt;More information and code examples at:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.pc.rhul.ac.uk/staff/J.Larsson/software.html&quot; target=&quot;_new&quot;&gt;http://www.pc.rhul.ac.uk/staff/J.Larsson...&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<release>May 15, 2009</release>
+<homepage>http://www.nitrc.org/projects/cbinifti/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

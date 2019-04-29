@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="ShapePopulationViewer" nitrc="https://www.nitrc.org/projects/shapepopviewer" />
+<description> ShapePopulationViewer is a software that allows you to dynamically interact with multiple surfaces at the same time. It is very useful for visualisation and comparison of 3D surfaces by also displaying their scalars or vectors attributes stored in the points, and allowing the user to simply modify the colormap.&lt;br /&gt;ShapePopulationViewer is available as an extension of 3D Slicer (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;) 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=759&amp;screenshot_id=704&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=759&amp;screenshot_id=704&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Surface Analysis</category>
+<category>Surface Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<release>Oct 25, 2013</release>
+<homepage>http://www.nitrc.org/projects/shapepopviewer/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

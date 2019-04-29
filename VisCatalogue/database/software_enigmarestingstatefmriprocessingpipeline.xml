@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="ENIGMA resting state fMRI processing pipeline" nitrc="https://www.nitrc.org/projects/enigma-fmri" />
+<description> The ENIGMA rsFMRI pipeline provides tools for pre-processing of fMRI data and measurements of connectivity for stable functional networks, including default mode network. This is yet experimental pipeline that requires only EPI fMRI data and uses a population based template and tissue priors for regression of global connectivity signal. The pipeline is based on AFNI software and includes PCA-based denoising and group-based regularization approach for imputation of censored frames and removal of outliers. The pipeline can also be used for pre-processing of the task-based functional MRI studies in ENIGMA workgroups.The pipeline is distributed as a set of standard unix scripts and software and as a virtual machine&#x27;s container for unix, mac and windows platforms. &lt;br /&gt;To get involved in any ENIGMA group send us a message -- &lt;a href=&quot;mailto:enigma@ini.usc.edu&quot; target=&quot;_new&quot;&gt;enigma@ini.usc.edu&lt;/a&gt; or support.enigmaDTI@ini.usc.edu. </description>
+<release>Jun 26, 2017</release>
+<homepage>http://www.nitrc.org/projects/enigma-fmri/</homepage>
+<maintainer>ENIGMA center for imaging genetics</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

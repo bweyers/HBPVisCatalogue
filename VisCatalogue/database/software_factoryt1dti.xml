@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="factory_t1_dti" nitrc="https://www.nitrc.org/projects/factory4t1ndti" />
+<description> Tools to make easier on using spm, pipedream, dti-tk, and other softwares to analyze t1 or dti images. </description>
+<release>Aug 7, 2009</release>
+<homepage>http://www.nitrc.org/projects/factory4t1ndti/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="InterVar" nitrc="https://www.nitrc.org/projects/intervar" />
+<description> InterVar is a bioinformatics software tool for clinical interpretation of genetic variants by the ACMG/AMP 2015 guideline. The input to InterVar is an annotated file generated from ANNOVAR, while the output of InterVar is the classification of variants into &#x27;Benign&#x27;, &#x27;Likely benign&#x27;, &#x27;Uncertain significance&#x27;, &#x27;Likely pathogenic&#x27; and &#x27;Pathogenic&#x27;, together with detailed evidence code. InterVar is a command-line-driven software written in Python and can be used as a standalone application on a variety of operating systems—includingWindows, Linux, and MacOS—where Python is installed. wInterVar is a web server, which offers a graphical user interface for InterVar. </description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Genomic Analysis</category>
+<release>May 13, 2018</release>
+<homepage>http://www.nitrc.org/projects/intervar/</homepage>
+<maintainer>Children's Hospital of Philadelphia</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

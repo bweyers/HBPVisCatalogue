@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Lipsia" nitrc="https://www.nitrc.org/projects/lipsia" />
+<description> Lipsia is a software tool for processing functional magnetic resonance imaging (fMRI) data. It was developed over the course of several years at the Max-Planck-Institute for Human Cognitive and Brain Sciences in Leipzig, Germany.&lt;br /&gt;Lipsia contains software tools for all aspects of fMRI data processing:&lt;br /&gt;&lt;br /&gt; * registration and normalization&lt;br /&gt; * preprocessing&lt;br /&gt; * exploratory processing&lt;br /&gt; * statistical evaluation&lt;br /&gt; * region of interest analysis&lt;br /&gt; * timecourse analysis&lt;br /&gt; * visualization, rendering&lt;br /&gt; * converters to various data formats&lt;br /&gt;&lt;br /&gt;It was developed in C/C++ on Linux PCs. Lipsia provides extremely fast implementations. A standard analysis sequence from the raw data to a statistical parametric map generally takes less than 10 minutes per test subject. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Apr 16, 2011</release>
+<homepage>http://www.nitrc.org/projects/lipsia/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

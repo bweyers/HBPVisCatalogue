@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Anticorrelated Component Analysis" nitrc="https://www.nitrc.org/projects/aca" />
+<description> MATLAB code to compute the two most anticorrelated patterns in a multivariate dataset. &lt;br /&gt;&lt;br /&gt;This technique was first applied to identify competing neuronal networks from the spontaneous activity of brain neural circuits in:&lt;br /&gt;&lt;br /&gt;Nathan X. Kodama, Tianyi Feng, James Ullett, Hillel J. Chiel, Siddharth S. Sivakumar, and Roberto F. Galán (2018). Anti-correlated cortical networks arise from spontaneous neuronal dynamics at slow timescales. Scientific Reports, 8:666.&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-017-18097-0&quot; target=&quot;_new&quot;&gt;https://www.nature.com/articles/s41598-0...&lt;/a&gt;</description>
+<category>Algorithm or Reusable Library</category>
+<release>Aug 13, 2018</release>
+<homepage>https://www.mathworks.com/matlabcentral/fileexchange/64555-anticorrelated-component-analysis-aca</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Sinoplan" nitrc="https://www.nitrc.org/projects/sinoplan_2018" />
+<description> Sinoplan is a powerful software designed for planning of stereotactic implantation surgery, such as depth electrodes(SEEG) or DBS, It is also an useful neuroimaging tool.&lt;br /&gt;Main functions:&lt;br /&gt;Multi-model image fusion.&lt;br /&gt;Automatic image registration;&lt;br /&gt;3D reconstruction and visualization of Vessel, skin, cranial and bone; &lt;br /&gt;Easily trajectory planning and viewing, 8-16pins electrode avaliable.&lt;br /&gt;Calibration of the parameter of stereotactics frame, support both crw and leksell. &lt;br /&gt;&lt;br /&gt;Working environment:&lt;br /&gt;System: Windows 10 (64bits)&lt;br /&gt;CPU: Intel Core i7&lt;br /&gt;Memory: 8G&lt;br /&gt;Graphic: Nvidia GeForce GTX1050M or higher is recommended&lt;br /&gt;Network connection required.&lt;br /&gt;&lt;br /&gt;Attention: &lt;br /&gt;For intellectual property protection reason, this software must be worked in network environment and online verification may be required during operation. Users can use most of the software&#x27;s features and register via email to access all functions.&lt;br /&gt;If have any questions or want to report bugs, feel free to leave us messages through forum or contact &lt;a href=&quot;mailto:lz@sinovationmed.com&quot; target=&quot;_new&quot;&gt;lz@sinovationmed.com&lt;/a&gt;. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1338&amp;screenshot_id=1249&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1338&amp;screenshot_id=1249&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<release>Nov 24, 2018</release>
+<homepage>http://www.nitrc.org/projects/sinoplan_2018/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

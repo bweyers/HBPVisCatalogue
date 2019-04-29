@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="KWScene: MRML-based Atlas and Scene Builder/Reader/Writer" nitrc="https://www.nitrc.org/projects/mrml-paraview" />
+<description> ITK-based processing and 3D Slicer scene management in ParaView. We believe this will broaden the use of ParaView for high performance computing and visualization in the medical imaging research community. The effort is focused on developing ParaView plug-ins for managing VTK structures from 3D Slicer MRML scenes and encapsulating ITK filters for deployment in ParaView. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<release>Nov 4, 2013</release>
+<homepage>http://www.nitrc.org/projects/mrml-paraview/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

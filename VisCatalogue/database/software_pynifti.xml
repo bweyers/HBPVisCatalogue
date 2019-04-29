@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="PyNIfTI" nitrc="https://www.nitrc.org/projects/pynifti" />
+<description> The PyNIfTI module is a Python interface to the NIfTI I/O libraries. Using PyNIfTI, one can easily read and write NIfTI and ANALYZE images from within Python. The NiftiImage class provides pythonic access to the full header information and for a maximum of interoperability the image data is made available via NumPy arrays. </description>
+<license>MIT/X Consortium License</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 6, 2010</release>
+<homepage>http://www.nitrc.org/projects/pynifti/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

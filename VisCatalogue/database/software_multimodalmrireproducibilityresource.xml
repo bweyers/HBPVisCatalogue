@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Multi-Modal MRI Reproducibility Resource" nitrc="https://www.nitrc.org/projects/multimodal" />
+<description> We have acquired scan-rescan imaging sessions on 21 healthy volunteers (no history of neurological disease). Imaging modalities include MPRAGE, FLAIR, DTI, resting state fMRI, B0 and B1 field maps, ASL, VASO, quantitative T1 mapping, quantitative T2 mapping, and magnetization transfer imaging. All data have been converted to NIFTI format. &lt;br /&gt;&lt;br /&gt;This is intended to be a resource for statisticians and imaging scientists to be able to quantify the reproducibility of their imaging methods using data available from a generic &amp;quot;1 hour&amp;quot; session at 3T.&lt;br /&gt;&lt;br /&gt;Please cite: Bennett. A. Landman, Alan J. Huang, Aliya Gifford, Deepti S. Vikram, Issel Anne L. Lim, Jonathan A.D. Farrell, John A. Bogovic, Jun Hua, Min Chen, Samson Jarso, Seth A. Smith, Suresh Joel, Susumu Mori, James J. Pekar, Peter B. Barker, Jerry L. Prince, and Peter C.M. van Zijl. “Multi-Parametric Neuroimaging Reproducibility: A 3T Resource Study”, NeuroImage. (2010) NIHMS/PMC:252138 doi:10.1016/j.neuroimage.2010.11.047 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=313&amp;screenshot_id=253&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=313&amp;screenshot_id=253&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BIRN Data License</license>
+<category>Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 16, 2009</release>
+<homepage>http://www.nitrc.org/projects/multimodal/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

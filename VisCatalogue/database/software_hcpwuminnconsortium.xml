@@ -1,0 +1,39 @@
+<root>
+<software>
+<name name="HCP WU-Minn Consortium" nitrc="https://www.nitrc.org/projects/hcp_wuminn" />
+<description> *THE HUMAN CONNECTOME PROJECT WU-Minn Consortium* is acquiring data and developing analysis pipelines for several modalities of neuroimaging data (rfMRI, tfMRI, dMRI, MEG) plus behavioral and genetic data from 1200 healthy adults (300 twin pairs and siblings). The project will yield invaluable information about brain connectivity, its relationship to behavior, and contributions of genetic and environmental factors to individual differences in brain circuitry. Data is being shared with the scientific community via user-friendly platforms for data mining, analysis, and visualization. Extensive refinements were made for data acquisition and analysis methods in the first phase of the project (2010-2012). Now in production phase (2012-2015), HCP is collecting and releasing data from 400 subjects/year. &lt;a href=&quot;http://www.humanconnectome.org&quot; target=&quot;_new&quot;&gt;http://www.humanconnectome.org&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=456&amp;screenshot_id=461&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=456&amp;screenshot_id=461&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>MEG</category>
+<category>Scanner</category>
+<category>Atlas Data</category>
+<category>Data</category>
+<category>Database</category>
+<category>Registration</category>
+<category>Independent Component Analysis</category>
+<category>Time Domain Analysis</category>
+<category>Diffusion MR Fiber Tracking</category>
+<category>Animation</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>CIFTI</input>
+<output>CIFTI</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 4, 2011</release>
+<homepage>http://www.nitrc.org/projects/hcp_wuminn/</homepage>
+<maintainer>Washington University in St. Louis, University of Minnesota, Oxford University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

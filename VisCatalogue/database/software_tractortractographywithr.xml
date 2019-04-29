@@ -1,0 +1,35 @@
+<root>
+<software>
+<name name="TractoR: Tractography with R" nitrc="https://www.nitrc.org/projects/tractor" />
+<description> The TractoR (Tractography with R) project includes R packages for reading, writing and visualising magnetic resonance images stored in Analyze, NIfTI and DICOM file formats (DICOM support is read only). It also contains functions specifically designed for working with diffusion MRI, tractography and graph theory, including a standard implementation of the neighbourhood tractography approach to white matter tract segmentation. A shell interface is also provided, to run experiments with TractoR without interacting with R. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=224&amp;screenshot_id=1102&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=224&amp;screenshot_id=1102&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Atlas Application</category>
+<category>Modeling</category>
+<category>Quantification</category>
+<category>Segmentation</category>
+<category>Shape Analysis</category>
+<category>Statistical Operation</category>
+<category>Tractography</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 5, 2009</release>
+<homepage>http://www.tractor-mri.org.uk</homepage>
+<maintainer>University College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

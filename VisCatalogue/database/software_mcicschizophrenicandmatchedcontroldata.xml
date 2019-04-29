@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="MCIC- schizophrenic and matched control data" nitrc="https://www.nitrc.org/projects/mcic" />
+<description> Expertly collected, well-curated data sets consisting of comprehensive clinical characterization and raw structural, functional and diffusion-weighted DICOM images in schizophrenia patients and gender and age-matched controls are now accessible to the scientific community through an on-line data repository (coins.mrn.org). This data repository will be useful to 1) educators in the fields of neuroimaging, medical image analysis and medical imaging informatics who need exemplar data sets for courses and workshops; 2) computer scientists and software algorithm developers for testing and validating novel registration, segmentation, and other analysis software; and 3) scientists who can study schizophrenia by further analysis of this cohort and/or by pooling with other data. </description>
+<license>COINS Data Use Agreement</license>
+<category>Data</category>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>Jun 17, 2013</release>
+<homepage>http://www.nitrc.org/projects/mcic/</homepage>
+<maintainer>Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

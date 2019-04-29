@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="ADNI" nitrc="https://www.nitrc.org/projects/adni" />
+<description> Data collected as part of the ADNI study are freely available to authorized investigators, through the Image Data Archive (IDA). Information about obtaining access to ADNI data may be found in the How to Apply for Data section (&lt;a href=&quot;http://adni.loni.usc.edu/data-samples/&quot; target=&quot;_new&quot;&gt;http://adni.loni.usc.edu/data-samples/&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;For more detailed information about accessing data from the IDA, please review the IDA User Manual.&lt;br /&gt;&lt;br /&gt;The following ADNI data types are available: Clinical: Demographics, Clinical Assessments, Cognitive Assessments); Imaging: MRI: Raw, pre- and post- processed image files; PET: Raw, pre- and post- processed image files; fMRI: (ADNI GO); DTI: (ADNI GO); Chemical Biomarker: Laboratory Results; Genetic: Illumina SNP genotyping; Image Analysis Results: Numeric results derived from image analyses.&lt;br /&gt;&lt;br /&gt;The ADNI database is managed and housed by the Laboratory of Neuro Imaging (&lt;a href=&quot;http://www.LONI.usc.edu/&quot; target=&quot;_new&quot;&gt;http://www.LONI.usc.edu/&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=470&amp;screenshot_id=344&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=470&amp;screenshot_id=344&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>ADNI License</license>
+<category>Data</category>
+<category>Database</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Mar 28, 2011</release>
+<homepage>http://adni.loni.usc.edu/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

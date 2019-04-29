@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="NIH Pediatric MRI Data Repository" nitrc="https://www.nitrc.org/projects/pediatric_mri" />
+<description> The NIH Pediatric MRI Data Repository contains longitudinal structural MRIs, spectroscopy, DTI and correlated clinical/behavioral data from approximately 500 healthy, normally developing children, ages newborn to young adult. </description>
+<category>Data</category>
+<category>Database</category>
+<category>Websites</category>
+<platform>OS Independent</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Apr 7, 2008</release>
+<homepage>http://pediatricmri.nih.gov</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

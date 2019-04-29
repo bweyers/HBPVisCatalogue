@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="HINT: Hierarchical Independent Component Analysis Toolbox" nitrc="https://www.nitrc.org/projects/hint" />
+<description> The Hierarchical Independent Component Analysis Toolbox (HINT) is a Matlab toolbox serving as a user-friendly platform for conducting analyses under the hierarchical ICA framework. At this time, the toolbox implements the hc-ICA technique of Shi and Guo, 2016, with further extensions of this approach, including a longitudinal ICA method, in active development. &lt;br /&gt;&lt;br /&gt;Highlights: &lt;br /&gt;Model based estimation and hypothesis testing of covariate effects&lt;br /&gt;Visualization windows to examine covariate effects, contrasts, and to compare sub-populations&lt;br /&gt;&lt;br /&gt;Shi, R., &amp;amp; Guo, Y. (2016). Investigating differences in brain functional networks using hierarchical covariate-adjusted independent component analysis. The Annals of Applied Statistics, 10(4), 1930–1957. &lt;a href=&quot;http://doi.org/10.1214/16-AOAS946&quot; target=&quot;_new&quot;&gt;http://doi.org/10.1214/16-AOAS946&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Mac/Windows/Linux/HPC 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1331&amp;screenshot_id=1247&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1331&amp;screenshot_id=1247&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT</license>
+<category>Connectivity Analysis</category>
+<category>Modeling</category>
+<category>Independent Component Analysis</category>
+<category>Multivariate Analysis</category>
+<category>Regression</category>
+<category>Visualization</category>
+<release>Nov 12, 2018</release>
+<homepage>https://github.com/Emory-CBIS/HINT</homepage>
+<maintainer>Center for Biomedical Imaging Statistics (CBIS)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

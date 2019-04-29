@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="HD Neuro-Informatics" nitrc="https://www.nitrc.org/projects/hdni" />
+<description> Huntington Disease Nueroimaging Initiative (HDNI) is an international effort to establish resources necessary to study the application of neuroimaging measures as (surrogate) biomarkers in HD. The primary aims are to develop and apply software tools, imaging protocols, quality control procedures, data archiving, data distribution, and participation guidelines that will accelerate existing and prospective imaging studies. </description>
+<license>BSD License</license>
+<release>Aug 19, 2009</release>
+<homepage>http://www.nitrc.org/projects/hdni/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

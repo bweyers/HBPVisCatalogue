@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="MarsBaR region of interest toolbox" nitrc="https://www.nitrc.org/projects/marsbar" />
+<description> MarsBaR (MARSeille Boîte À Région d&#x27;Intérêt) is a toolbox for SPM which provides routines for region of interest analysis. Features include region of interest definition, combination of regions of interest with simple algebra, extraction of data for regions with and without SPM preprocessing (scaling, filtering), and statistical analyses of ROI data using the SPM statistics machinery. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Linear</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Apr 1, 2009</release>
+<homepage>http://marsbar.sourceforge.net/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

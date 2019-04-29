@@ -1,0 +1,31 @@
+<root>
+<software>
+<name name="Computational Anatomy Toolbox - CAT" nitrc="https://www.nitrc.org/projects/cat" />
+<description> CAT is a an extension to SPM12 (Wellcome Department of Cognitive Neurology) to provide computational anatomy. This covers diverse morphometric methods such as voxel-based morphometry (VBM), surface-based morphometry (SBM), deformation-based morphometry (DBM), and region- or label-based morphometry (RBM). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1027&amp;screenshot_id=974&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1027&amp;screenshot_id=974&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Volume Measurement</category>
+<category>Expectation Minimization</category>
+<category>Quality Metrics</category>
+<category>Volumetric Analysis</category>
+<category>Spherical Harmonics</category>
+<category>Mean Curvature</category>
+<category>Thickness</category>
+<category>Surface Rendering</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 21, 2016</release>
+<homepage>http://www.neuro.uni-jena.de/cat/</homepage>
+<maintainer>Jena University Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="GPU based affine registration" nitrc="https://www.nitrc.org/projects/gpu-areg" />
+<description> This tool can be used as a command line module with 3D Slicer (version 3 and above) for the affine registration of image volumes. The registration toolbox has 2 options: 1) a Mutual Information based registration, 2) a Sum-of-Square differences registration method. The final output is in the same space as the fixed image. You do require to have CUDA v2.2 or greater installed on your system with atleast 256MB Nvidia GPU memmory card. All operating systems are supported, but take a look at the CMakeLists.txt file for how to compile for you system. </description>
+<license>GPL-Style Open Source</license>
+<release>Jun 9, 2010</release>
+<homepage>http://www.nitrc.org/projects/gpu-areg/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Adaptive Neuro-Fuzzy Inference System Granger Causality (ANFISGC)" nitrc="https://www.nitrc.org/projects/anfisgc_measure" />
+<description> The codes belong to the following article:&lt;br /&gt;Farokhzadi, M., Hossein-Zadeh, G.A., Soltanian-Zadeh, H., 2018. Nonlinear Effective Connectivity Measure Based on Adaptive Neuro Fuzzy Inference System and Granger Causality. J Neuroimage 181, 382–394. &lt;a href=&quot;https://doi.org/10.1016/j.neuroimage.2018.07.024&quot; target=&quot;_new&quot;&gt;https://doi.org/10.1016/j.neuroimage.201...&lt;/a&gt;&lt;br /&gt;The shared MATLAB codes contain: &lt;br /&gt;1) Generating three time series with 4000 samples (n=1,…,4000) based on the following equations:&lt;br /&gt;x_1 (n)=3.4x_1 (n-1)(1-x_1^2 (n-1)) e^(-x_1^2 (n-1) )+ε_1 (n)&lt;br /&gt;x_2 (n)=3.4x_2 (n-1)(1-x_2^2 (n-1)) e^(-x_2^2 (n-1) )+cx_2 (n-1) x_1 (n-1)+ε_2 (n)&lt;br /&gt;x_3 (n)=3.4x_3 (n-1)(1-x_3^2 (n-1)) e^(-x_3^2 (n-1) )+0.3x_2 (n-1)+0.5x_1^2 (n-1)+ε_3 (n)&lt;br /&gt;The signal-to-noise ratio (SNR) is 0 dB.&lt;br /&gt;The parameter c, which indicates the coupling strength of (x1→x2) connection, is set to 0.5.&lt;br /&gt;2) Implementation of ANFISGC criterion to detect both linear and nonlinear causal connections among brain regions.&lt;br /&gt;In the Matlab functions, the inputs and outputs are described. </description>
+<license>ANFISGC_License</license>
+<release>Jul 31, 2018</release>
+<homepage>http://www.nitrc.org/projects/anfisgc_measure/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

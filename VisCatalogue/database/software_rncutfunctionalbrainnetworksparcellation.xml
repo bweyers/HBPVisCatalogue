@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="RNcut: functional brain networks parcellation" nitrc="https://www.nitrc.org/projects/rncut" />
+<description> The RNcut software freely disseminated below can be used for parcellating functional brain networks with resting-state BOLD fMRI datasets. This software package represents the improved version of conventional Ncut with two added regularization terms, smoothing term Ev and small-patch removal term Ep. The software package can generate robust and homogeneous functional parcellation of not only adult but also neonate brain networks. </description>
+<license>RNcut</license>
+<release>Dec 23, 2018</release>
+<homepage>http://www.nitrc.org/projects/rncut/</homepage>
+<maintainer>Children's Hospital of Philadelphia/University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

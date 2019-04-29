@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Network-Based Statistic (NBS)" nitrc="https://www.nitrc.org/projects/nbs" />
+<description> Matlab toolbox for testing hypotheses about the human connectome. NBS has been widely used to identify connections and networks comprising the connectome that are associated with an experimental effect or a between-group difference. User provides a series of connectivity matrices from different cohorts, or from the same subject during different experimental conditions. Connectivity matrices are inferred from neuroimaging data using other packages that, for example, count the number of tractography streamlines that interconnect each pair of regions (diffusion-MRI), or measure the extent of inter-regional correlation in BOLD response (fMRI). User specifies hypothesis to be tested at every connection with the general linear model. Features include: graphical user interface; NBSview, a basic network viewer modeled on SPMresults; exchange blocks for repeated measures; options to measure network size with intensity or extent; false discovery rate (FDR) option. Developed by Zalesky, Fornito, Cocchi and Bullmore. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=629&amp;screenshot_id=548&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=629&amp;screenshot_id=548&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Connectivity Analysis</category>
+<category>Statistical Operation</category>
+<release>Aug 9, 2012</release>
+<homepage>http://www.nitrc.org/projects/nbs/</homepage>
+<maintainer>University of Melbourne</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

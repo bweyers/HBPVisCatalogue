@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: MOE" nitrc="https://www.nitrc.org/projects/moe" />
+<description> This software can be used for datasets where the reference group (&amp;quot;controls&amp;quot;) and the affected group (&amp;quot;patients&amp;quot;) cannot be separated by a single line (&amp;quot;hyperplane&amp;quot;). MOE combines multiple hyperplanes along with a clustering objective, to split the affected group into multiple sub-groups. This is done in such a manner that each of the resulting sub-group is separable from the reference group by a single line. &lt;br /&gt;&lt;br /&gt;See Figure in test/All_test_results.png, where the reference group is denoted by circles, and the affected group by triangles. In Case1, the affected group is not heterogeneous, as it is seperable from the reference group with a single line. Cases 2, 3, 4 require multiple lines to separate the affected group from the reference group.&lt;br /&gt;&lt;br /&gt;This software works with data saved in comma-separated value format. Input features can be based on any type of data - volumes, density, connectivity, diffusion, clinical scores, cognitive data etc. </description>
+<license>SBIA License</license>
+<release>Feb 16, 2017</release>
+<homepage>http://www.nitrc.org/projects/moe/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

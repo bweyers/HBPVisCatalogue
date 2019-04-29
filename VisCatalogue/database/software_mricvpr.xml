@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="MRI_CVPR" nitrc="https://www.nitrc.org/projects/medical_cvpr" />
+<description> Tools processing MRI data with a number of techniques from cvpr conference, including segmentation, matching, features, and classification. </description>
+<release>Nov 7, 2009</release>
+<homepage>http://www.nitrc.org/projects/medical_cvpr/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

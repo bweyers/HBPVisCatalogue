@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Mid-Space-Independent Deformable Image Registration" nitrc="https://www.nitrc.org/projects/msi-register" />
+<description> This open-source toolbox contains Matlab codes and binaries for 2D and 3D deformable image registration, using the mid-space-independent approach introduced by Aganj et al (NeuroImage 2017). A short tutorial is included in EXAMPLE.m. If available, a GPU can be used for speed-up. </description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Intersubject</category>
+<category>Intramodal</category>
+<category>Intrasubject</category>
+<category>Nonlinear Warp</category>
+<release>Jan 14, 2017</release>
+<homepage>http://www.nitrc.org/projects/msi-register</homepage>
+<maintainer>Harvard Medical School / Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

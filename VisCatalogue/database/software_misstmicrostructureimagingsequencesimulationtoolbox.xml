@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="MISST - Microstructure Imaging Sequence Simulation ToolBox" nitrc="https://www.nitrc.org/projects/misst" />
+<description> Microstructure Imaging Sequence Simulation Toolbox (MISST), is a practical diffusion MRI simulator for development, testing, and optimisation of novel MR pulse sequences for microstructure imaging. MISST is based on a matrix method approach and simulates the signal for a large variety of pulse sequences and tissue models. Its key purpose is to provide a deep understanding of the restricted diffusion MRI signal for a wide range of realistic, fully flexible, scanner acquisition protocols, in practical computational time. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=814&amp;screenshot_id=752&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=814&amp;screenshot_id=752&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Artistic License</license>
+<category>Simulation</category>
+<release>May 8, 2014</release>
+<homepage>http://www.nitrc.org/projects/misst/</homepage>
+<maintainer>University College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

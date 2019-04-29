@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Estimating Functional Brain Network based on Modularity Prior" nitrc="https://www.nitrc.org/projects/modularbrain" />
+<description> This is the source code of a new method for estimating functional brain networks. The method is based on sparse and low-rank representation for incorporating modularity prior into brain network construction. </description>
+<release>Jan 12, 2016</release>
+<homepage>http://www.nitrc.org/projects/modularbrain/</homepage>
+<maintainer>UNC@Chapel hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

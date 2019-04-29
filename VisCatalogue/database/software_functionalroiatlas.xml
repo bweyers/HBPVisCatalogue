@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Functional ROI Atlas" nitrc="https://www.nitrc.org/projects/froi_atlas" />
+<description> The Functional ROI Atlas is an effort to provide a set of quasi-probabilistic atlases for established &amp;quot;functional ROIs&amp;quot; in the human neuroimaging literature. Many atlases exist for various anatomical parcellation schemes, such as the Brodmann areas, the structural atlases, tissue segmentation atlases, etc. To date, however, there is no atlas for so-called &amp;quot;functional ROIs&amp;quot;. Such fROIs are typically associated with an anatomical label of some kind (e.g. the _fusiform_ face area), but these labels are only approximate and can be misleading inasmuch as fROIs are not constrained by anatomical landmarks, whether cytoarchitectonic or based on sulcal and gyral landmarks.&lt;br /&gt;&lt;br /&gt;The goal of this project is to provide quasi-probabilistic atlases for fROIs that are based on published coordinates in the neuroimaging literature. This is an open-ended enterprise and the atlas can grow as needed. Members of the neuroscience and neuroimaging community interested in contributing to the project are encouraged to do so. </description>
+<license>GNU General Public License (GPL)</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 16, 2012</release>
+<homepage>http://www.nitrc.org/projects/froi_atlas/</homepage>
+<maintainer>Rotman Research Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

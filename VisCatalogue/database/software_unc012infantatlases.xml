@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="UNC 0-1-2 Infant Atlases" nitrc="https://www.nitrc.org/projects/pediatricatlas" />
+<description> Keyword: Infant; Pediatric; Template; Atlas; Longitudinal&lt;br /&gt;There are 3 atlases dedicated for neonates, 1-year-olds, and 2-year-olds. Each atlas comprises a set of 3D images made up of the intensity model, tissue probability maps, and anatomical parcellation map. These atlases are constructed with the help of state-of-the-art infant MR segmentation and groupwise registration methods, on a set of longitudinal images acquired from 95 normal infants (56 males and 39 females) at neonate, 1-year-old, and 2-year-old.&lt;br /&gt;&lt;br /&gt;Please refer to the following article for the atlases:&lt;br /&gt;Feng Shi, Pew-Thian Yap, Guorong Wu, Hongjun Jia, John H. Gilmore, Weili Lin, Dinggang Shen,&amp;quot;Infant Brain Atlases from Neonates to 1- and 2-year-olds&amp;quot;, PLoS ONE, 6(4): e18746, 2011.&lt;br /&gt;&lt;br /&gt;For more information and download link, please visit:&lt;br /&gt;&lt;a href=&quot;http://www.med.unc.edu/bric/ideagroup/free-softwares/unc-infant-0-1-2-atlases&quot; target=&quot;_new&quot;&gt;http://www.med.unc.edu/bric/ideagroup/fr...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=204&amp;screenshot_id=682&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=204&amp;screenshot_id=682&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Atlas Application</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Feb 20, 2009</release>
+<homepage>http://www.nitrc.org/projects/pediatricatlas/</homepage>
+<maintainer>UNC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

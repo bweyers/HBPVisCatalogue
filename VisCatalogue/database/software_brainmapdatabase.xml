@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="BrainMap Database" nitrc="https://www.nitrc.org/projects/brainmap" />
+<description> BrainMap is a community database of published functional neuroimaging studies (mainly PET and fMRI). BrainMap contains both metadata descriptions of experimental design and activation locations in the form of stereotactic coordinates. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=53&amp;screenshot_id=268&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=53&amp;screenshot_id=268&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BrainMap License</license>
+<category>Database</category>
+<category>Ontology</category>
+<category>Websites</category>
+<category>Modeling</category>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 31, 2007</release>
+<homepage>http://brainmap.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

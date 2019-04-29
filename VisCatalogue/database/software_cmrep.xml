@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="cmrep" nitrc="https://www.nitrc.org/projects/cmrep" />
+<description> The continuous medial representation (cm-rep) is a set of deformable modeling algorithms for shape analysis and structure-specific normalization. Applications of cm-reps include structure-specific fMRI analysis, DTI analysis, and structural brain mor </description>
+<release>Jul 6, 2008</release>
+<homepage>http://www.nitrc.org/projects/cmrep/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

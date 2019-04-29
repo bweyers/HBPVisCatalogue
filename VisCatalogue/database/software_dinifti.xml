@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="dinifti" nitrc="https://www.nitrc.org/projects/dinifti" />
+<description> Convert DICOM images to NIfTI format. </description>
+<license>BSD License</license>
+<category>Format Conversion</category>
+<platform>FreeBSD</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Apr 23, 2009</release>
+<homepage>http://as.nyu.edu/cbi/resources/Software/DINIfTI.html</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

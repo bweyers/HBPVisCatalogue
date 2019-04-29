@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="NeuroWeb - NeuroImaging Database" nitrc="https://www.nitrc.org/projects/neuroweb" />
+<description> NeuroWeb provides infrastructure for data aggregation, processing, and management in multi-dimensional medical imaging research (i.e., MRI, CT, PET). NeuroWeb is designed for rapid deployment on a small/moderate scale with limited hardware. </description>
+<release>Sep 19, 2008</release>
+<homepage>http://www.nitrc.org/projects/neuroweb/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

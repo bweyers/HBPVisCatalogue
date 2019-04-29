@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="UNC Human Brain Atlas" nitrc="https://www.nitrc.org/projects/unc_brain_atlas" />
+<description> Human brain atlases and databases generated at UNC-Chapel Hill. &lt;br /&gt;&lt;br /&gt;Current available atlases:&lt;br /&gt;- UNC/UCI Neonate hippocampus amygdala multi-atlas database&lt;br /&gt;- UNC/UCI Neonate scan rescan database : 6 subjects with each two scans of T1- and T2-weighted MR images&lt;br /&gt;- UNC Neonate multi/population atlas: Multi-atlas population for tissue segmentation in neonates, includes left-right mirrored images for symmetric analysis&lt;br /&gt; - UNC-MNI Pediatric 1-year-old atlas: Symmetric atlas generated from 104 1-year-old subjects, combining children at high familial risk of autism and controls.&lt;br /&gt; - Pediatric 4-year-old atlas: Symmetric atlas generated from 10 4-year-old healthy subjects.&lt;br /&gt; - Adult atlas: Symmetric atlas generated from 50+ healthy adult subjects (20-59 year old).&lt;br /&gt; - Elderly atlas: Atlas generated from 27 healthy elderly subjects (60+ years old).&lt;br /&gt;&lt;br /&gt;Additional information and acknowledgment for their usage can be found by clicking on the release notes. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=288&amp;screenshot_id=197&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=288&amp;screenshot_id=197&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<category>Atlas Data</category>
+<category>Data</category>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Oct 23, 2009</release>
+<homepage>http://www.nitrc.org/projects/unc_brain_atlas</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

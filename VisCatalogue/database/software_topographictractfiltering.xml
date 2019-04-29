@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Topographic Tract Filtering" nitrc="https://www.nitrc.org/projects/ttf" />
+<description> The package contains the conference version of the TTF tool for filtering white matter tracts reconstructed from diffusion MRI based on a notion called topographic regularity. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1247&amp;screenshot_id=1180&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1247&amp;screenshot_id=1180&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>TTF Lisence</license>
+<category>Connectivity Analysis</category>
+<category>Tractography</category>
+<release>Jan 16, 2018</release>
+<homepage>http://www.nitrc.org/projects/ttf/</homepage>
+<maintainer>USC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

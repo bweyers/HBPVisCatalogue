@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="StdpC" nitrc="https://www.nitrc.org/projects/stdpc" />
+<description> StdpC is dynamic clamp software that allows users to use dynamic clamp without in depth knowledge of real time interfaces or indeed programming. StdpC has a graphical user interface based on the popular QT framework and defines a good number of common synapse and ion channel models, including plasticity rules such as STDP. Advanced features include a comprehensive scripting mechanism that allows full experimental automation and the inclusion of spike generator and simulated neuron modules. StdpC also supports Active Electrode Compensation methods, as introduced by the Brette lab, for Dynamic Clamp with a single, high impedance electrode. </description>
+<license>GNU GPL v2</license>
+<release>Jan 6, 2017</release>
+<homepage>http://www.nitrc.org/projects/stdpc/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

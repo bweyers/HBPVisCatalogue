@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Multiscale Weighted Principal Component Regression" nitrc="https://www.nitrc.org/projects/mwpcr" />
+<description> In MWPCR, we build an importance score weight matrix for the selection&lt;br /&gt;of individual features at each location and a spatial weight matrix for the incorporation of the spatial pattern of feature vectors. We integrate the importance score weights with the spatial weights in order to recover the low dimensional structure of high dimensional features. </description>
+<license>BIAS License</license>
+<release>Nov 10, 2016</release>
+<homepage>http://www.nitrc.org/projects/mwpcr/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

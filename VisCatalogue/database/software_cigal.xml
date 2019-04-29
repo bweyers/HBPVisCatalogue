@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CIGAL" nitrc="https://www.nitrc.org/projects/cigal" />
+<description> CIGAL is a program that provides accurate real-time stimulus control, behavioral and physiological recording, and synchronization with external devices. It can also provide continuous real-time feedback of task performance and physiological responses. Task programming typically involves a simple text file specifying basic parameter settings (e.g. screen color) and a list of stimulus events, which can include images, animated movies, sound files, text stimuli, video graphics, or commands that communicate with external hardware devices. Multiple video and auditory stimuli can be presented simultaneously. Multi-channel response recording and real-time feedback features require no user programming. Advanced users can add customized stimulus events using CIGAL’s real-time programming capabilities. Output files can be automatically created in a variety of output formats (e.g. FSL 3-column files, XML Events files, CSV trial tables). </description>
+<license>CIGAL License</license>
+<release>Feb 18, 2009</release>
+<homepage>https://wiki.biac.duke.edu/jvs:cigal</homepage>
+<maintainer>Duke University Medical Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

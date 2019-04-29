@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="University of Illinois Cognitive Neuroimaging Laboratory Optical Brain Imaging Software" nitrc="https://www.nitrc.org/projects/uofi-cnl-opt" />
+<description> “CNL Optical Brain Imaging Software” is a suite of tools for designing and analyzing whole head optical data, both &amp;quot;slow (NIRS) and &amp;quot;fast&amp;quot; (EROS). These tools are designed to work together to simplify, as much as possible, the co-registration of digitized source and detector locations (“OCP”), correction of pulse artifacts, filtering and averaging (“p_pod”), motion artifacts (kbWF) and 3D reconstruction and statistical analysis (“opt3d”). Most of these steps are implemented as Matlab subroutines, which can be called by batch controllers or used independently. Currently, the final stages (“opt3d”) are implemented in Lahey FORTRAN. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=868&amp;screenshot_id=976&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=868&amp;screenshot_id=976&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution-NonCommercial-NoDerivs CC BY-NC-ND</license>
+<category>Other Software Resource</category>
+<release>Sep 2, 2014</release>
+<homepage>http://www.nitrc.org/projects/uofi-cnl-opt/</homepage>
+<maintainer>University of Illinois</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

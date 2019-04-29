@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="PsychoPy" nitrc="https://www.nitrc.org/projects/psychopy" />
+<description> PsychoPy - Psychology software in Python. PsychoPy is an open-source application to allow the presentation of stimuli and collection of data for a wide range of neuroscience, psychology and psychophysics experiments. It is intended as a free, powerful alternative to Presentation or e-Prime. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=369&amp;screenshot_id=239&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=369&amp;screenshot_id=239&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Experimental Control</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>FreeBSD</platform>
+<platform>Linux</platform>
+<release>May 4, 2010</release>
+<homepage>http://www.psychopy.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="3-Dimensional Diffusion Tensor Imaging (DTI) Atlas of the Rat Brain In Postnatal Day 5, 14, and Adulthood" nitrc="https://www.nitrc.org/projects/dti_rat_atlas" />
+<description> 3D DTI anatomical rat brain atlases have been created by the UNC- Chapel Hill Department of Psychiatry and the CAMID research collaboration. There are three age groups, postnatal day 5, postnatal day 14, and postnatal day 72. &lt;br /&gt;The subjects were Sprague-Dawley rats that were controls in a study on cocaine abuse and development. The P5 and P14 templates were made from scans of twenty rats each (ten female, ten male); the P72, from six females. The individual cases have been resampled to isotropic resolution, manually skull-stripped, and deformably registered via an unbiased atlas building method to create a template for each age group. Each template was then manually segmented using itk-SNAP software. &lt;br /&gt;Each atlas is made up of 3 files, a template image, a segmentation, and a label file. This work was funded by the UNC Neurodevelopment Disorders Research Center HD 03110, the NIH STTR grant R41 NS059095, and the NIH Program Project IP01DA022446-02. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=669&amp;screenshot_id=594&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=669&amp;screenshot_id=594&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>Dec 14, 2012</release>
+<homepage>http://www.nitrc.org/projects/dti_rat_atlas/</homepage>
+<maintainer>UNC-Chapel Hill Department of Psychiatry</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

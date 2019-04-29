@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="HAMMER: Deformable Registration" nitrc="https://www.nitrc.org/projects/hammer" />
+<description> The HAMMER package performs high-dimensional warping of brain images. Standard voxel-based analysis can be applied to these tissue density maps, in order to examine regional volumetrics, effects of disease, or correlations with clinical measurements. </description>
+<license>SBIA License</license>
+<release>Oct 4, 2007</release>
+<homepage>https://www.med.unc.edu/bric/ideagroup/free-softwares/fast-hammer</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="INCF Neuroimaging Data Sharing" nitrc="https://www.nitrc.org/projects/incf_nidstf" />
+<description> Neuroscience data, particularly those in neuroinformatics related areas such as neuroimaging and electrophysiology, are associated with a rich set of descriptive information often called metadata. For data archive, storage, sharing and re-use, metadata are of equal importance to primary data, as they define the methods and conditions of data acquisition (such as device characteristics, study/experiment protocol and parameters, behavioral paradigms, and subject/patient information), and statistical procedures. A further challenge for datasharing is the rapidly evolving nature of investigative methods and scientific applications.&lt;br /&gt;&lt;br /&gt;The overall scope of this program is to develop generic standards and tools to facilitate the recording, sharing, and reporting of metadata. It is expected that these efforts will greatly improve upon current practices for archiving and sharing neuroscience data. This group is often refered to as NI-DASH or NIDASH. It has generated the neuroimaging data model called NI-DM. </description>
+<license>Creative Commons License</license>
+<category>Community</category>
+<release>Mar 25, 2011</release>
+<homepage>http://incf.org/programs/datasharing/neuroimaging-task-force</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Bayesian longitudinal low-rank regression" nitrc="https://www.nitrc.org/projects/l2r2" />
+<description> To perform a joint analysis of multivariate neuroimaging phenotypes and candidate genetic markers obtained from longitudinal studies, we develop a Bayesian longitudinal low-rank regression (L2R2) model. The L2R2 model integrates three key methodologies: a low-rank matrix for approximating the high-dimensional regression coefficient matrices corresponding to the genetic main effects and their interactions with time, penalized splines for characterizing the overall time effect, and a sparse factor analysis model coupled with random effects for capturing within-subject spatio-temporal correlations of longitudinal phenotypes. Posterior computation proceeds via an efficient Markov chain Monte Carlo algorithm. </description>
+<license>GNU Affero General Public License v3</license>
+<release>Dec 28, 2016</release>
+<homepage>http://www.nitrc.org/projects/l2r2/</homepage>
+<maintainer>MD Anderson Cancer Center</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

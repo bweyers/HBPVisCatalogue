@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="Diffusion MRI Orientation Distribution Function in Constant Solid Angle (CSA-ODF) and Hough-Transform Tractography" nitrc="https://www.nitrc.org/projects/csaodf-hough" />
+<description> This is a diffusion-weighted MRI processing Matlab toolbox (including binaries), which can be used to:&lt;br /&gt;•Compute the Q-Ball Imaging Orientation Distribution Function in Constant Solid Angle (CSA-ODF) for Diffusion-Weighted MRI, introduced in (Aganj et al, MRM 2010).&lt;br /&gt;•Perform Hough-transform tractography, as described in (Aganj et al, MedIA 2011).&lt;br /&gt;•Visualize the ODFs and tracts, and export them for further analysis.&lt;br /&gt;•Verify the correctness of the diffusion gradient table, following (Aganj, Sci Rep 2018).&lt;br /&gt;&lt;br /&gt;For short tutorials, see EXAMPLE.m and EXAMPLE_CLI.m. If available, GPUs can be used for speed-up. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1148&amp;screenshot_id=1077&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1148&amp;screenshot_id=1077&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Algorithm or Reusable Library</category>
+<category>Connectivity Analysis</category>
+<category>Diffusion Application</category>
+<category>Q-Ball</category>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>OS Independent</platform>
+<release>Apr 10, 2017</release>
+<homepage>http://www.nitrc.org/projects/csaodf-hough</homepage>
+<maintainer>University of Minnesota, and Harvard Medical School / MGH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="LDDMM" nitrc="https://www.nitrc.org/projects/lddmm-volume" />
+<description> The Large Deformation Diffeomorphic Metric Mapping (LDDMM) tool is an application which aims to assign metric distances on the space of anatomical images in Computational Anatomy thereby allowing for the direct comparison and quantization of morphometric changes in shapes. As part of these efforts the Center for Imaging Science at Johns Hopkins University developed techniques to not only compare images, but also to visualize the changes and differences.&lt;br /&gt;&lt;br /&gt;For additional information please refer to:&lt;br /&gt;&lt;br /&gt; Faisal Beg, Michael Miller, Alain Trouve, and Laurent Younes. Computing Large Deformation Metric Mappings via Geodesic Flows of Diffeomorphisms. International Journal of Computer Vision, Volume 61, Issue 2; February 2005.&lt;br /&gt;&lt;br /&gt; M.I. Miller and A. Trouve and L. Younes, On the Metrics and Euler-Lagrange Equations of Computational Anatomy, Annual Review of biomedical Engineering, 4:375-405, 2002. &lt;br /&gt;&lt;br /&gt;Software developed with support from National Institutes of Health NCRR grant P41 RR15241. </description>
+<category>Shape Analysis</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Mar 5, 2008</release>
+<homepage>http://cis.jhu.edu/software</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

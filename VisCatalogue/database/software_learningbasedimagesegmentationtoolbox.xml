@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Learning based Image Segmentation Toolbox" nitrc="https://www.nitrc.org/projects/list" />
+<description> Local Label Learning for Multi-atlas based Image Segmentation Toolbox </description>
+<license>PAMI License</license>
+<release>Mar 14, 2013</release>
+<homepage>http://www.nitrc.org/projects/list/</homepage>
+<maintainer>UPENN</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

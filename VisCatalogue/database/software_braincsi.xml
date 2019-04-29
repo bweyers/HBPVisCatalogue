@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="BrainCSI" nitrc="https://www.nitrc.org/projects/braincsi" />
+<description> BrainCSI is a tool for analysis of Magnetic Resonance Spectroscopy (MRS) data by registering it to anatomical images. BrainCSI imports LCModel results to calculate absolute metabolite concentrations using tissue water. Corrections to LCModel metabolite concentrations for partial volume of tissues are accomplished by tissue classification of the anatomical images. </description>
+<license>BSD License</license>
+<category>Application</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Apr 6, 2008</release>
+<homepage>http://www.nitrc.org/projects/braincsi/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

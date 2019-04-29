@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Enumerated Auditory Response (EAR)" nitrc="https://www.nitrc.org/projects/audquant" />
+<description> EAR is an automated auditory fMRI post processing method that provides consistent radiological interpretations for evaluating auditory response in TBI, carbon monoxide poisoning, and other neurological disease processes that affect auditory response. The tool was developed by an expert in auditory fMRI interpretation. Accuracy has been demonstrated with very high correlation to expert reads and other quantitative methods. A similar approach for fMRI analysis might be appropriate for both future research projects with constrained resources, as well as possible routine clinical use. </description>
+<license>Attribution</license>
+<release>Apr 22</release>
+<homepage>http://www.nitrc.org/projects/audquant/</homepage>
+<maintainer>Imgen</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

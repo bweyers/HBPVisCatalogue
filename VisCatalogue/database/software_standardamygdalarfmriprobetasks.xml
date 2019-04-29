@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Standard Amygdalar fMRI Probe Tasks" nitrc="https://www.nitrc.org/projects/amygdalamapping" />
+<description> This resource provides MRI data on 32 control subjects who have been imaged with 4 standard amygdala mapping tasks. </description>
+<license>BIRN Data License</license>
+<release>Jul 11, 2016</release>
+<homepage>http://www.nitrc.org/projects/amygdalamapping/</homepage>
+<maintainer>Vanderbilt University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Framewise Integrated Real-time MRI Monitoring" nitrc="https://www.nitrc.org/projects/firmm" />
+<description> [For Investigational Use Only]&lt;br /&gt;&lt;br /&gt;Easy to set up and use, the FIRMM software suite provides MRI scanner operators with data quality metrics in real time. Using FIRMM to identify the ideal scan time for each person can reduce total brain MRI scan times and associated costs by 50% or more.&lt;br /&gt;&lt;br /&gt;Features:&lt;br /&gt;&lt;br /&gt;Accurate FD calculations as you scan. FIRMM’s framewise displacement (FD) calculations are not only fast, but also accurate, when compared to a standard, commonly utilized offline, post-hoc processing stream.&lt;br /&gt;&lt;br /&gt;Prediction of remaining scan time needed. We built an algorithm that accurately predicts the required scan time until you have captured as much quality data as you need.&lt;br /&gt;&lt;br /&gt;User-friendly, real-time feedback. FIRMM users have been able to share the percentage of quality data frames with participants or display the FIRMM GUI on the participant’s screen in the scanner room for feedback and training purposes. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1144&amp;screenshot_id=1107&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1144&amp;screenshot_id=1107&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>FIRMM license</license>
+<release>Mar 23, 2017</release>
+<homepage>http://firmm.io/</homepage>
+<maintainer>Oregon Health and Science University and Washington University in St. Louis</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

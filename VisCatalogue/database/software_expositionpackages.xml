@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="ExPosition Packages" nitrc="https://www.nitrc.org/projects/exposition" />
+<description> Exposition is defined as a comprehensive explanation of an idea. In the world of high dimensional data analysis and multivariate analysis one technique stands out because of its versatility and ubiquity: The singular&lt;br /&gt;value decomposition (SVD). With the ExPosition packages for R, a comprehensive explanation of your data will be provided with minimal effort. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Other Omics</category>
+<category>Discriminant Analysis</category>
+<category>Principal Component Analysis</category>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<release>Feb 4, 2014</release>
+<homepage>http://www.nitrc.org/projects/exposition/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

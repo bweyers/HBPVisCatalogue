@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Linear Fascicle Evaluation" nitrc="https://www.nitrc.org/projects/life" />
+<description> This software implements a framework to encode structural brain connectomes into multidimensional arrays. These arrays are commonly referred to as tensors. Encoding Connectomes provides an agile framework for computing over connectome edges and nodes efficiently. We provide several examples of operations that can be performed using the framework. One major application of the tensor encoding is the implementation of the Linear Fascicle Evaluation method, in short LiFE. The tensor encoding method allows implementing LiFE with a dramatic reduction in storage requirements, up to 40x compression factors. Furthermore, connectome encoding allows performing multiple computational neuroanatomy operations such as tract-dissections, virtual lesions, and connectivity estimates very efficiently using the machine-friendly array operators. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1261&amp;screenshot_id=1176&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1261&amp;screenshot_id=1176&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Algorithm or Reusable Library</category>
+<category>Diffusion MR Fiber Tracking</category>
+<release>Mar 23, 2018</release>
+<homepage>https://github.com/brain-life/encode</homepage>
+<maintainer>Indiana University, Bloomington</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

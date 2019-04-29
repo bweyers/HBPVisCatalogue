@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CWL-EEG-fMRI" nitrc="https://www.nitrc.org/projects/cwl_eeg_fmri" />
+<description> This is a plugin for EEGlab that does Carbon-Wire Loops regression for getting rid of Ballistocardiac artifacts and other motion-related artifacts such as the Helium pump artifact (for the paper of its performance on the He pump artifact, see &amp;quot;Carbon-wire loop based artifact correction outperforms post-processing EEG/fMRI corrections-A validation of a real-time simultaneous EEG/fMRI correction method.&amp;quot;, NeuroImage, 2016 Jan 15;125:880-94.&lt;br /&gt;&lt;br /&gt;This EEGLAB plugin also comes with a (very) small example dataset for testing out the regression: this dataset has got 30 EEG channels, 1 EOG, 1 ECG and 6 CWL signals (the latter of which are used for the regression of the EEG and the EOG channel). &lt;br /&gt;&lt;br /&gt;A full CWL-EEG/fMRI 8-subject eyes open/eyes closed data set (EEG and MR data ~ 25 Gig) is available at the NITRC website (see: &lt;a href=&quot;https://www.nitrc.org/search/?type_of_search=group&amp;amp;q=cwl+eeg+fmri&amp;amp;sa.x=0&amp;amp;sa.y=0&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/search/?type_of_se...&lt;/a&gt; ) See also the following NITRC Project for more information: &lt;a href=&quot;https://www.nitrc.org/projects/cwleegfmri_data/&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/projects/cwleegfmr...&lt;/a&gt;</description>
+<license>MIT/X Consortium License</license>
+<release>May 22, 2015</release>
+<homepage>http://www.nitrc.org/projects/cwl_eeg_fmri/</homepage>
+<maintainer>Max Planck Institute (Leipzig)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

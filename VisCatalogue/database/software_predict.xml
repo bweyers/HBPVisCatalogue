@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="PREDiCT" nitrc="https://www.nitrc.org/projects/predict" />
+<description> PREDiCT is the Patient Repository for EEG Data + Computational Tools. It offers one-stop shopping for EEG tasks, data storage, and analytic tools for pattern classification of clinical groups. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1187&amp;screenshot_id=1108&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1187&amp;screenshot_id=1108&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<category>Data</category>
+<category>Database</category>
+<category>Algorithm or Reusable Library</category>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 27, 2017</release>
+<homepage>http://predictsite.com</homepage>
+<maintainer>University of New Mexico</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

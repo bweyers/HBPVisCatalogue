@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MRI Brain Template and Atlas of the Mouse Lemur Primate Microcebus murinus" nitrc="https://www.nitrc.org/projects/mouselemuratlas" />
+<description> MRI template and 120-region atlas for the mouse lemur primate Microcebus murinus.&lt;br /&gt;&lt;br /&gt;Generated from 34 animals aged 15-58 months old scanned at 7T using a T2-weighted sequence, resolution 115 × 115 × 230 µm. The code developed to create and manipulate the template has been refined into general procedures for registering small mammal brain MR images, available within a python module sammba-mri (SmAll-maMMals BrAin MRI; &lt;a href=&quot;https://sammba-mri.github.io/&quot; target=&quot;_new&quot;&gt;https://sammba-mri.github.io/&lt;/a&gt;). The template was up-sampled to 91 µm isotropic for hand-segmentation of structures, and also used to create probability maps of grey matter, white matter and cerebro-spinal fluid.&lt;br /&gt;&lt;br /&gt;Note that this atlas is from July 2018, and will be regularly improved in future versions. </description>
+<license>CeCill v2</license>
+<release>Aug 23, 2017</release>
+<homepage>http://www.nitrc.org/projects/mouselemuratlas/</homepage>
+<maintainer>CEA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Local Label Learning for Image Segmentation" nitrc="https://www.nitrc.org/projects/locallabel" />
+<description> Local Label Learning for Multi-atlas based Image Segmentation Toolbox </description>
+<license>BSD License, GNU Lesser General Public License and GNU General Public License, v</license>
+<release>Dec 17, 2017</release>
+<homepage>http://www.nitrc.org/projects/locallabel/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

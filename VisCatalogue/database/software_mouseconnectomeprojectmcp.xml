@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="Mouse Connectome Project (MCP)" nitrc="https://www.nitrc.org/projects/mcp" />
+<description> The Mouse Connectome Project (MCP,http://www.mouseconnectome.org) aims to create a three-dimensional digital connectome atlas of the C57Black/6J mouse brain. MCP offers a catalog of neural tracer injection cases, which is updated continuously to eventually cover the entire brain. Serial sections of each case are available to view at 10x magnification in the interactive iConnectome browser. Sample data set is available to explore in iConnectome. The data set features 5 layers which may be turned on, off, or adjusted for transparency, and split window features are available for comparing data sets.&lt;br /&gt;&lt;br /&gt;The MCP project is housed at the Laboratory of Neuro Imaging at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=472&amp;screenshot_id=413&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=472&amp;screenshot_id=413&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>LONI Software License</license>
+<category>Atlas Data</category>
+<category>Database</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Mar 28, 2011</release>
+<homepage>http://www.nitrc.org/projects/mcp/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

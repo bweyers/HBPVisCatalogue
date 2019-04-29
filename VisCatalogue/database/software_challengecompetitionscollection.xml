@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Challenge Competitions Collection" nitrc="https://www.nitrc.org/projects/challenges" />
+<description> This resource provides a guide to the many platforms available to conduct and compete in grand challenges, all in the name of improving science!&lt;br /&gt;&lt;br /&gt;Challenges allow researchers to put their problems before other subject matter experts to be solved. The community then competes to craft the best algorithms and developers have an opportunity to evaluate novel algorithms by testing them against other competitors using real-world datasets. Everybody wins.&lt;br /&gt;&lt;br /&gt;You can see a curated list of challenges by navigating to the Challenge Competitions Collection MediaWiki. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1209&amp;screenshot_id=1231&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1209&amp;screenshot_id=1231&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>Aug 28, 2017</release>
+<homepage>http://www.nitrc.org/projects/challenges/</homepage>
+<maintainer>NeuroImaging Tools and Resources Collaboratory</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

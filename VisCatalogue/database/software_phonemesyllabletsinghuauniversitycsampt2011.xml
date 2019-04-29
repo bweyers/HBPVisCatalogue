@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Phoneme-Syllable Tsinghua University CS&amp;T 2011" nitrc="https://www.nitrc.org/projects/tsinghua_2011" />
+<description> FMRI data set for phoneme coding in the auditory cortex with 7 subjects and 9 Chinese CV syllables. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>Jun 8, 2015</release>
+<homepage>http://www.nitrc.org/projects/tsinghua_2011/</homepage>
+<maintainer>Tsinghua University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

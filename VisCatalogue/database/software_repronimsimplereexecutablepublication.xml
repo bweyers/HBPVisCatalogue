@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="ReproNim Simple Reexecutable Publication" nitrc="https://www.nitrc.org/projects/simple1" />
+<description> In this project, we document a set of procedures, which include supplemental additions to a manuscript, that unambiguously define the data, workflow, execution environment and results of a neuroimaging analysis, in order to generate a verifiable re-executable publication. Re-executability provides a starting point for examination of the generalizability and reproducibility of a given finding.&lt;br /&gt;&lt;br /&gt;This project accompanies Ghosh SS, Poline JB, Keator DB et al. A very simple, re-executable neuroimaging publication. F1000Research 2017, 6:124 (doi: 10.12688/f1000research.10783.2) 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1258&amp;screenshot_id=1190&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1258&amp;screenshot_id=1190&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<release>Mar 9, 2018</release>
+<homepage>http://www.nitrc.org/projects/simple1/</homepage>
+<maintainer>ReproNim</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

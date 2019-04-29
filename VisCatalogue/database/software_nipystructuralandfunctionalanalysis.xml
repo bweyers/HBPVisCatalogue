@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="NIPY Structural and Functional Analysis" nitrc="https://www.nitrc.org/projects/nipy" />
+<description> Nipy aims to provide a complete Python environment for the analysis of structural and functional neuroimaging data. It currently has a full system for general linear modeling of functional magnetic resonance imaging (fMRI). </description>
+<license>BSD License</license>
+<release>May 3, 2010</release>
+<homepage>http://nipy.org/nipy</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

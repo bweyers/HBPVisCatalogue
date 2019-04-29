@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="M3" nitrc="https://www.nitrc.org/projects/pare" />
+<description> The M3 (multi-modal imaging and multi-level characteristic with multi-classifier) is a brain imaging classification tool, which can help researchers to discriminate patients from normal controls. The M3 includes three steps: feature selection, maximum uncertainty linear discriminant analysis (MLDA)-based classification and multi-classifier. A leave-one-out cross-validation (LOOCV) is further used to estimate the performance of the M3. Finally, the most discriminative features are identified. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Sep 25, 2011</release>
+<homepage>http://www.nitrc.org/projects/pare/</homepage>
+<maintainer>Beijing Normal University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

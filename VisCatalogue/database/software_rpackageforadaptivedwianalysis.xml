@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="R-package for adaptive DWI analysis" nitrc="https://www.nitrc.org/projects/rdti" />
+<description> The package dti provides methods for structural adaptive smoothing of diffusion weighted data in the context of the diffusion tensor model. Through its edge preserving properties they reduce data noise without compromizing significant structures. </description>
+<license>GNU General Public License (GPL)</license>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 12, 2009</release>
+<homepage>http://www.nitrc.org/projects/rdti/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

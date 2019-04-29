@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Corpus Callosum Thickness Profile Analysis Pipeline" nitrc="https://www.nitrc.org/projects/ccsegthickness" />
+<description> An end-to-end pipeline for corpus callosum processing that provides automated midsagittal alignment, CC segmentation with a quality control tool, and thickness profile generation. Groupwise analysis is facilitated by permutation testing with FWER and FDR multiple comparison correction. Results display is facilitated by a display script that shows p-values on a 3D pipe representation of a CC. This pipeline is implemented in Python. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Other Software Resource</category>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 21, 2013</release>
+<homepage>http://www.nitrc.org/projects/ccsegthickness/</homepage>
+<maintainer>Murdoch Childrens Research Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

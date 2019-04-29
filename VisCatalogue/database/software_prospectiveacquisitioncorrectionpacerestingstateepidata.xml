@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Prospective Acquisition CorrEction (PACE) Resting State EPI data" nitrc="https://www.nitrc.org/projects/epi_pace_rest" />
+<description> This data release contains the 4D NifTi pre-processed images corresponding to resting-state functional magnetic resonance imaging (Rs-fMRI) data acquired from 47 healthy individuals using the EPI-PACE sequence on a Siemens 3T Verio scanner at the Auburn University MRI Research Center. Along with the 4D images, the release contains voxel-wise frame-wise displacement of the head (FDvox) for each subject, MATLAB files containing the motion metrics (3 translations and 3 rotations) and summary motion statistics.&lt;br /&gt;&lt;br /&gt;We provide the 4D NifTi data for several combinations of nuisance signal regressors and retrospective motion correction approaches: (i) CSF (cerebro-spinal fluid) + WM (white matter) signal regression, (ii) CSF + WM + GS (global signal) regression, (iii) CSF + WM + Friston-24 motion regression, (iv) CSF + WM + GS + Friston-24 motion regression, (v) CSF + WM + Friston-24 motion regression + motion censoring, and (vi) CSF + WM + GS + Friston-24 motion regression + motion censoring. </description>
+<license>Attribution Non-Commercial</license>
+<release>Mar 4, 2017</release>
+<homepage>http://www.nitrc.org/projects/epi_pace_rest/</homepage>
+<maintainer>Auburn University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

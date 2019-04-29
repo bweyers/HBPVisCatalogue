@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Cytoseg" nitrc="https://www.nitrc.org/projects/cytoseg" />
+<description> The goal of the Cytoseg project is to produce tools for automatic segmentation of of 3D electron microscopy, specifically neuropil. The project is written in Python and uses the pythonxy platform (which includes scipy and ITK image processing tools). </description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Jul 11, 2009</release>
+<homepage>http://cytoseg.googlecode.com</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

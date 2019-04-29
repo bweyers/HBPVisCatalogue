@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="vis: Visualized statistics toolbox (SPM5/8/12)" nitrc="https://www.nitrc.org/projects/vis" />
+<description> A simple, menu-driven toolbox for exploratory data analysis of brain images in SPM5, SPM8, or SPM12; features include: &lt;br /&gt;&lt;br /&gt;(1) Histograms or kernel density estimates of voxel values; &lt;br /&gt;(2) Scatter, Bland-Altman, or quantile-quantile plots comparing two images; &lt;br /&gt;(3) Surface plot of all voxel values at a particular axial slice; &lt;br /&gt;(4) ROI-based extraction of voxel value point estimates (mean, std, etc.)&lt;br /&gt;&lt;br /&gt;For **CURRENT VERSION** download and documentation, visit &lt;a href=&quot;http://tools.robjellis.net&quot; target=&quot;_new&quot;&gt;http://tools.robjellis.net&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<category>Quantification</category>
+<category>Statistical Operation</category>
+<category>Visualization</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jan 18, 2012</release>
+<homepage>http://tools.robjellis.net/</homepage>
+<maintainer>BIDMC / Harvard Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

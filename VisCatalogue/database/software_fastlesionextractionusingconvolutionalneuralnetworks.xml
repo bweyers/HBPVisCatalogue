@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Fast Lesion Extraction using Convolutional Neural Networks" nitrc="https://www.nitrc.org/projects/flexconn" />
+<description> FLEXCONN (Fast Lesion Extraction using Convolutional Neural Networks) is a toolbox for segmenting white matter lesions from multi-contrast MR images. Using T1-w and FLAIR images, a fully convolutional neural network (CNN) is trained using manually labeled training data. The trained CNN model can be applied to pre-processed pair of T1 and FLAIR images to generate a lesion membership as well as a hard segmentation. The algorithm is described in the following paper:&lt;br /&gt;&lt;a href=&quot;https://arxiv.org/abs/1803.09172&quot; target=&quot;_new&quot;&gt;https://arxiv.org/abs/1803.09172&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Python codes for training and prediction are provided. Trained models using manually labeled atlases from ISBI-2015 challenge (&lt;a href=&quot;https://www.nitrc.org/projects/longitudinal_ms&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/projects/longitudi...&lt;/a&gt;) are also provided. The CNN is implemented in Tensorflow and Keras (&lt;a href=&quot;https://github.com/fchollet/keras&quot; target=&quot;_new&quot;&gt;https://github.com/fchollet/keras&lt;/a&gt;).&lt;br /&gt;&lt;br /&gt;This work was developed with funding support from the National Multiple Sclerosis Society (RG-1507-05243) and from the Center for Neuroscience and Regenerative Medicine in the Department of Defense. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1214&amp;screenshot_id=1138&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1214&amp;screenshot_id=1138&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<release>Sep 23, 2017</release>
+<homepage>http://www.nitrc.org/projects/flexconn/</homepage>
+<maintainer>Henry Jackson Foundation</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

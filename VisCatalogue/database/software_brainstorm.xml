@@ -1,0 +1,38 @@
+<root>
+<software>
+<name name="Brainstorm" nitrc="https://www.nitrc.org/projects/bst" />
+<description> Brainstorm is a free Matlab application dedicated to MEG and EEG data visualization, processing and cortical source estimation.&lt;br /&gt;Its rich and intuitive graphic interface does not require any programming knowledge or experience with Matlab.&lt;br /&gt;&lt;br /&gt;MEG/EEG visualization and processing:&lt;br /&gt;- Support for most of the common file formats for MEG, EEG and MRI&lt;br /&gt;- Pre-processing: frequency filtering, resampling, artifact detection and correction, epoching, averaging&lt;br /&gt;- Visualization of recordings: time series, 2D/3D topographies&lt;br /&gt;- MRI/EEG/MEG co-registration&lt;br /&gt;- Powerful database explorer&lt;br /&gt;&lt;br /&gt;Source estimation:&lt;br /&gt;- Forward modeling: spherical models, overlapping spheres, BEM&lt;br /&gt;- Inverse modeling: minimum norm, dSPM, sLORETA, beamformers&lt;br /&gt;- Visualization of sources: cortex surface, MRI volume, normalization to atlases&lt;br /&gt;&lt;br /&gt;Post-processing:&lt;br /&gt;- Regions of interests at cortical level&lt;br /&gt;- Time-frequency analysis: Morlet wavelets, Hilbert transform, FFT, PSD&lt;br /&gt;- Group analysis: Registration of individual brains on a template, t-test, permutations 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=282&amp;screenshot_id=523&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=282&amp;screenshot_id=523&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Atlas Application</category>
+<category>Connectivity Analysis</category>
+<category>Database Application</category>
+<category>Format Conversion</category>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<category>Mesh Generation</category>
+<category>Spatial Transformation</category>
+<category>Statistical Operation</category>
+<category>Temporal Transformation</category>
+<category>Time Domain Analysis</category>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Sep 23, 2009</release>
+<homepage>http://neuroimage.usc.edu/brainstorm</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

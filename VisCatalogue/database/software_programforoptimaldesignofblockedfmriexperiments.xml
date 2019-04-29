@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Program for optimal design of blocked fMRI experiments" nitrc="https://www.nitrc.org/projects/pobe" />
+<description> The computer program POBE (program for optimal design of blocked experiments, version 1.1) provides a graphical user interface for fMRI researchers to easily and efficiently design their blocked experiments. The computer program POBE calculates the optimal number of subjects and the optimal scanning time for user specified experimental factors and model parameters so that the statistical efficiency is maximised for a given study budget. POBE can also be used to determine the minimum budget for a given power. Furthermore, a maximin design can be determined as efficient design for a possible range of values for the unknown model parameters. </description>
+<license>Freeware</license>
+<category>Other Software Resource</category>
+<release>Dec 18, 2012</release>
+<homepage>http://www.nitrc.org/projects/pobe/</homepage>
+<maintainer>University of Liege</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

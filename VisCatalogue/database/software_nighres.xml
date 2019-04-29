@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Nighres" nitrc="https://www.nitrc.org/projects/nighres" />
+<description> Processing tools for high-resolution neuroimaging </description>
+<license>Apache License 2.0</license>
+<release>Aug 22, 2017</release>
+<homepage>http://www.nitrc.org/projects/nighres/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

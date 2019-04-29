@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="ICN_Atlas" nitrc="https://www.nitrc.org/projects/icn_atlas" />
+<description> ICN_Atlas is an SPM compatible toolbox that is aimed at facilitating the interpretation of neuroimaging data in the context of intrinsic connectivity networks (ICNs, a.k.a. resting-state networks or RSNs) by describing fMRI maps or other statistical maps in function-oriented, objective and quantitative way using a set of 15 metrics conceived to quantify the degree of ‘engagement’ of ICNs for any given statistical map of interest. Besides the functionally-derived atlasing capabilities (based on the BrainMap ICN data) the toolbox provides anatomy-based atlasing (based on the JHU and Brainnetome Atlas data), as well. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1241&amp;screenshot_id=1156&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1241&amp;screenshot_id=1156&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<category>Atlas Data</category>
+<category>Atlas Application</category>
+<category>Overlap Metrics</category>
+<category>Volumetric Analysis</category>
+<category>Statistical Operation</category>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 14, 2017</release>
+<homepage>http://www.nitrc.org/projects/icn_atlas/</homepage>
+<maintainer>Semmelweis University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

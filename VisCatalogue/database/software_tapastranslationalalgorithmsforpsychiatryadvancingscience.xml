@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="TAPAS - Translational Algorithms for Psychiatry-Advancing Science" nitrc="https://www.nitrc.org/projects/tapas" />
+<description> TAPAS is a collection of algorithms and software tools developed by the Translational Neuromodeling Unit (TNU, Zurich) and collaborators. The goal of these tools is to support clinical neuromodeling, particularly computational psychiatry, computational neurology, and computational psychosomatics.&lt;br /&gt;&lt;br /&gt;Currently, TAPAS includes the following packages:&lt;br /&gt;&lt;br /&gt;HGF: Hierarchical Gaussian Filter; Bayesian inference on computational processes from observed behavior&lt;br /&gt;&lt;br /&gt;HUGE: Variational Bayesian inversion for hierarchical unsupervised generative embedding&lt;br /&gt; &lt;br /&gt;MICP: Bayesian Mixed-effects Inference for Classification Studies&lt;br /&gt;&lt;br /&gt;MPDCM: Massively Parallel DCM; Efficient numerical integration&lt;br /&gt;&lt;br /&gt;PhysIO: Physiological Noise Correction for fMRI&lt;br /&gt;&lt;br /&gt;rDCM: Efficient inference on effective brain connectivity for fMRI.&lt;br /&gt;&lt;br /&gt;SEM: SERIA Model for (anti-)Saccadic Eye Movements and Reaction Times&lt;br /&gt;&lt;br /&gt;VBLM: Variational Bayesian Linear Regression&lt;br /&gt;&lt;br /&gt;TAPAS is written in MATLAB and distributed as open source code under GNU General Public License 3.0. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1259&amp;screenshot_id=1172&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1259&amp;screenshot_id=1172&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License v3</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Mar 9, 2018</release>
+<homepage>http://www.translationalneuromodeling.org/tapas</homepage>
+<maintainer>University of Zurich and ETH Zurich</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

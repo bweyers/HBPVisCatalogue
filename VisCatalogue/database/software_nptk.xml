@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="NPTK" nitrc="https://www.nitrc.org/projects/nptk" />
+<description> NPTK provides non-rigid registration/distortion correction tools for enhanced functional localization through the registration of EPI fMRI to high-resolution anatomical MRI. </description>
+<category>Artifact Removal</category>
+<category>Intermodal</category>
+<category>Nonlinear Warp</category>
+<platform>MacOS</platform>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jan 2, 2008</release>
+<homepage>http://www.nitrc.org/projects/nptk/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

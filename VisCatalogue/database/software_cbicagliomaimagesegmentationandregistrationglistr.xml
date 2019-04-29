@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: GLioma Image SegmenTation and Registration (GLISTR)" nitrc="https://www.nitrc.org/projects/cbica_glistr" />
+<description> GLioma Image SegmenTation and Registration (GLISTR) is a software package designed for simultaneously segmenting brain scans of glioma patients and registering these scans to a normal atlas.&lt;br /&gt;&lt;br /&gt;Some typical applications of GLISTR include,&lt;br /&gt;&lt;br /&gt; Labeling entire brain regions of glioma patients;&lt;br /&gt; Mapping gliomas into the healthy atlas space;&lt;br /&gt; Estimating parameters of the tumor growth model.&lt;br /&gt;&lt;br /&gt;GLISTR is implemented as a command-line tool. It is semi-automatic and requires minimal user initializations. Users could use the visual interface called BrainTumorViewer to easily make initializations and a script for the execution. As a results, GLISTR will output a label map, a mapping between atlas and input, tumor parameters, etc. </description>
+<license>SBIA License</license>
+<release>Jan 22, 2016</release>
+<homepage>http://www.med.upenn.edu/sbia/glistr.html</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

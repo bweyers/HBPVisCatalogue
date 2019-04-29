@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="ShapeTools" nitrc="https://www.nitrc.org/projects/shapetools" />
+<description> The ShapeTools library is a collection of Java classes that enable Java programmers to model, manipulate and visualize geometric shapes and associated data values. It simplifies the creation of application programs by providing a ready-made set of support routines.&lt;br /&gt;&lt;br /&gt;ShapeTools are distributed by the Laboratory of Neuro Imaging (&lt;a href=&quot;http://www.LONI.usc.edu/Software/ShapeTools&quot; target=&quot;_new&quot;&gt;http://www.LONI.usc.edu/Software/ShapeTo...&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=299&amp;screenshot_id=419&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=299&amp;screenshot_id=419&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 8, 2009</release>
+<homepage>http://www.nitrc.org/projects/shapetools/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="ShapeComplexityIndex" nitrc="https://www.nitrc.org/projects/shapecomplexity" />
+<description> ShapeComplexityIndex tool calculate the local complexity as the difference between the observed distributions of local surface topology to its best-fit basic topology model within a given local kernel.&lt;br /&gt;&lt;br /&gt;The reference paper was published in &lt;a href=&quot;http://proceedings.spiedigitallibrary.org/proceeding.aspx?articleid=2211519&amp;amp;resultClick=1&quot; target=&quot;_new&quot;&gt;http://proceedings.spiedigitallibrary.or...&lt;/a&gt;</description>
+<license>Apache License 2.0</license>
+<release>May 6, 2015</release>
+<homepage>http://www.nitrc.org/projects/shapecomplexity/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

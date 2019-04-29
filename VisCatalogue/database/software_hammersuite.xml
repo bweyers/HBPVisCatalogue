@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="HAMMER Suite" nitrc="https://www.nitrc.org/projects/hammer_suite" />
+<description> The tool is a GUI for a complete processing pipeline of brain MR images. It provides functions on skull-stripping, cerebellum removal, tissue segmentation, and HAMMER registration. </description>
+<license>Freeware</license>
+<release>Feb 1, 2011</release>
+<homepage>http://www.nitrc.org/projects/hammer_suite/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="mach2qtl" nitrc="https://www.nitrc.org/projects/mach2qtl" />
+<description> QTL analysis based on imputed dosages/posterior_probabilities. </description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Genetic Association</category>
+<release>Feb 13, 2013</release>
+<homepage>http://www.nitrc.org/projects/mach2qtl/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

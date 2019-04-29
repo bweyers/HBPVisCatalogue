@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="CBICA: WhiteStripe" nitrc="https://www.nitrc.org/projects/cbica_whitestri" />
+<description> WhiteStripe is a user-friendly implementation of an algorithm to normalize conventional magnetic resonance images by detecting a latent subdistribution of normal tissue and linearly scaling the histogram of the images. </description>
+<license>CBICA License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Statistical Operation</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 25, 2017</release>
+<homepage>http://www.nitrc.org/projects/cbica_whitestri/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

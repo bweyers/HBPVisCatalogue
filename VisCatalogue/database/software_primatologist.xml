@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Primatologist" nitrc="https://www.nitrc.org/projects/primatologist" />
+<description> Primatologist is a BrainVISA toolbox dedicated to the processing of structural MRIs acquired in macaques (for now) and more generally in non-human primates (NHP, in the future).&lt;br /&gt;&lt;br /&gt;Its main component is a modular segmentation pipeline for T1 or T2-weighted MRIs based on a generative model of intensities, with NHP-specific preprocessing tools. It allows segmenting the brain into 17 anatomical regions. The results can then easily be processed with Morphologist to extract meshes of the brain and sulci.&lt;br /&gt;&lt;br /&gt;It takes advantages of the features of BrainVISA including an ontological organization of the data, the possibility to easily distribute processing on a multicore workstation or on a computing cluster, and easy quality checking with dedicated viewers. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1198&amp;screenshot_id=1119&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1198&amp;screenshot_id=1119&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>CeCill v2</license>
+<release>Aug 3, 2017</release>
+<homepage>http://www.nitrc.org/projects/primatologist/</homepage>
+<maintainer>CEA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

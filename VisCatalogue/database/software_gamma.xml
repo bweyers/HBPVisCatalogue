@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="GAMMA" nitrc="https://www.nitrc.org/projects/gamma_suite" />
+<description> GAMMA suite is an open-source cross-platform data mining software package designed to analyze neuroimaging data. A neuroimaging study often focuses on biomarker detection and classification. We designed and implemented a Bayesian, multivariate, nonparametric suite of algorithms for analyzing neuroimaging data. The GAMMA suite can be used for brain morphometric analysis, lesion-deficit analysis, and functional MR data analysis. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Modeling</category>
+<category>Volumetric Analysis</category>
+<category>Statistical Operation</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Cygwin</platform>
+<platform>HP-UX</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Apr 29, 2010</release>
+<homepage>http://www.nitrc.org/projects/gamma_suite/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

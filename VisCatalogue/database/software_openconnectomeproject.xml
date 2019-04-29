@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Open Connectome Project" nitrc="https://www.nitrc.org/projects/ocp" />
+<description> The Open Connectome Project (OCP: openconnectomeproject.org) provides access to high resolution neuroanatomical images that can be used to explore connectomes. We also provide programmatic access to this data for human and machine annotation, with a long-term goal of reconstructing the neural circuits comprising an entire brain. This project aims to bring the most state-of-the-art scientific data in the world to the hands of anybody with internet access, so collectively, we can begin to unravel connectomes. </description>
+<license>Creative Commons License</license>
+<release>Mar 31, 2011</release>
+<homepage>http://www.nitrc.org/projects/ocp/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,35 @@
+<root>
+<software>
+<name name="NeuroDebian" nitrc="https://www.nitrc.org/projects/neurodebian" />
+<description> This is a collaborative effort to package neuroscience-related software for the Debian operating system. The main goal of the project is to provide a versatile and convenient environment for neuroscientific research that is based on open-source software. To this end, the project offers a package repository that complements the main Debian (and Ubuntu) archive. NeuroDebian is not yet another Linux distribution, but rather an effort inside the Debian project itself. Software packages are fully integrated into the Debian system and from there will eventually migrate into Ubuntu as well.&lt;br /&gt;&lt;br /&gt;With NeuroDebian, installing and updating neuroscience software is no different from any other part of the operating system. Maintaining a research software environment becomes as easy as installing an editor. For example, installing FSL looks like: &amp;quot;apt-get install fsl&amp;quot;&lt;br /&gt;&lt;br /&gt;There is also virtual machine to test NeuroDebian on Windows or Mac OS.&lt;br /&gt;&lt;br /&gt;If you want to see your software packaged for Debian, please drop us a note. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=365&amp;screenshot_id=236&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=365&amp;screenshot_id=236&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Other Software Resource</category>
+<category>Platform or Development Environment</category>
+<platform>FreeBSD</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<input>PDF - Portable Document Format</input>
+<output>PDF - Portable Document Format</output>
+<input>Philips PAR/REC</input>
+<output>Philips PAR/REC</output>
+<release>Apr 19, 2010</release>
+<homepage>http://neuro.debian.net</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

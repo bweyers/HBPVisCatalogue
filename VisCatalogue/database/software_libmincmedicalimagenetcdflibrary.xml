@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="libminc - Medical Image NetCDF library" nitrc="https://www.nitrc.org/projects/minc" />
+<description> MINC is primarily a file format and a 3 level API for medical image analysis with a particular focus on the needs of research. </description>
+<license>MINC Licence (BSD'ish)</license>
+<category>File Format</category>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<release>Jun 27, 2008</release>
+<homepage>http://bic-mni.github.io/</homepage>
+<maintainer>McGill University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

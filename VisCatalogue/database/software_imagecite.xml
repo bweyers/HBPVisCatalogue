@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="ImageCite" nitrc="https://www.nitrc.org/projects/imagecite" />
+<description> The ImageCite Consortium is a group of image data host providers banded together with the objective to plan and implement an imaging unique identification (DOI) system across a broad set of imaging data sharing host providers. The consortium will review a proposed scheme of identification and attribution (&lt;a href=&quot;https://doi.org/10.3389/fninf.2016.00034&quot; target=&quot;_new&quot;&gt;https://doi.org/10.3389/fninf.2016.00034&lt;/a&gt;) in terms of its suitability and applicability to the needs of the community and feasibility of implementation in the various image hosting systems. Outcomes will be a conceptual plan of what can be accomplished by the repositories in the short term under current, existing development cycles (Phase 0); identification of additional future objectives that can be achieved with additional, potentially coordinated, support; and a ‘white paper’ document that documents this identifier vision that can be circulated to additional resource providers in order to attempt to gain even wider adoption. </description>
+<license>Creative Commons License</license>
+<release>Jun 9, 2017</release>
+<homepage>http://www.nitrc.org/projects/imagecite/</homepage>
+<maintainer>The ImageCite Consortium</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Mixed Effect Model of Genetic-Set and Environment Interaction" nitrc="https://www.nitrc.org/projects/mixge" />
+<description> Toolbox: Mixed Effect Model of Genetic-Set and Environment Interaction for Neuroimage applications&lt;br /&gt;&lt;br /&gt;This MATLAB Toolbox provides a mixed effect model for gene-environment interaction (MixGE) on neuroimaging phenotypes, such as structural volumes and tensor-based morphometry (TBM). This model incorporates both fixed and random effects of genetic-set and environment interaction, to investigate homogeneous and heterogeneous contributions of sets of genetic variants and their interaction with environmental risks to phenotypes. To avoid direct parameter estimation in the MixGE model due to small sample size and high computational cost, score statistics were constructed for the terms associated with fixed and random effects of the genetic-set and environment interaction. They were combined into a single significance value. </description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Feb 26, 2017</release>
+<homepage>http://http://www.bioeng.nus.edu.sg/cfa/imaginggenetics.html</homepage>
+<maintainer>National University of Singapore</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

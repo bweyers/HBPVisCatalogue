@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="GWASrap" nitrc="https://www.nitrc.org/projects/gwasrap" />
+<description> GWASrap uses a one-stop solution, users can quickly fetch very comprehensive annotation when they are browsing the GWAS result in highly interactive Circos-style graph or dynamic Manhattan panel. System can perform independent variant prioritization based on additive effect principle by combining the original statistical value and variant prioritization score. The server also hosts a well-structured and up-to-date repositories which store all of significant TASs about hot cases frequently investigated by current GWAS to satisfy the increasing number of GWA studies. </description>
+<license>GNU General Public License v3</license>
+<release>Mar 1, 2017</release>
+<homepage>http://www.nitrc.org/projects/gwasrap/</homepage>
+<maintainer>HKU</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

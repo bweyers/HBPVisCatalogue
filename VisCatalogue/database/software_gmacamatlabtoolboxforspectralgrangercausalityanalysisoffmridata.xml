@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="GMAC: A Matlab toolbox for spectral Granger causality analysis of fMRI data" nitrc="https://www.nitrc.org/projects/gmac_2012" />
+<description> The open-source software toolbox GMAC (Granger Multivariate Autoregressive Connectivity) implemented multivariate spectral Granger Causality Analysis for studying brain connectivity using fMRI data. Available features are: fMRI data importing, network nodes definition, time series preprocessing, multivariate autoregressive modeling, spectral Granger causality indexes estimation, statistical significance assessment using surrogate data, network analysis and visualization of connectivity results. All functions are integrated into a graphical user interface developed in Matlab environment. &lt;br /&gt;Dependencies: Matlab, BIOSIG, SPM, MarsBar.&lt;br /&gt;&lt;br /&gt;GMAC documentation: Tana MG, Sclocco R, Bianchi AM (2012) GMAC: a Matlab toolbox for spectral Granger causality analysis of fMRI data. Computers in Biology and Medicine 42: 943-956 (&lt;a href=&quot;http://dx.doi.org/10.1016/j.compbiomed.2012.07.003&quot; target=&quot;_new&quot;&gt;http://dx.doi.org/10.1016/j.compbiomed.2...&lt;/a&gt;) 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=660&amp;screenshot_id=578&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=660&amp;screenshot_id=578&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Connectivity Analysis</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 7, 2012</release>
+<homepage>http://www.nitrc.org/projects/gmac_2012/</homepage>
+<maintainer>Politecnico di Milano</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

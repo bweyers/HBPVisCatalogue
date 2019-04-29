@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="BrainMagix SPM Viewer" nitrc="https://www.nitrc.org/projects/bm_spm_viewer" />
+<description> BrainMagix SPM Viewer is a free, professional viewer for SPM fMRI results.&lt;br /&gt;&lt;br /&gt;SPM (Statistical Parametric Mapping, UCL, London) is a powerful fMRI analysis software but its visualization capabilities are sometimes a limitation for the researchers. That&#x27;s why Imagilys has decided to offer the neuroimaging community a free version of its commercial &amp;quot;BrainMagix&amp;quot; neuroimaging software, called &amp;quot;BrainMagix SPM viewer&amp;quot;.&lt;br /&gt;&lt;br /&gt;BrainMagix SPM Viewer&#x27;s Features&lt;br /&gt;&lt;br /&gt;- Professional viewer for your SPM-based fMRI activations&lt;br /&gt;- JAVA-programmed, cross-platform (Windows, MAC, Linux), without Matlab license, making it possible to share your results with colleagues who do not have SPM installed&lt;br /&gt;- Reads SPM.mat files and NIfTI images in an user-friendly way&lt;br /&gt;- Overlay the blobs with an atlas or any anatomical image&lt;br /&gt;- On the fly adjustment of threshold and cluster size&lt;br /&gt;- Localize your activations in an atlas&lt;br /&gt;- BOLD signal curves in ROIs (future feature)&lt;br /&gt;- Export your results as PNG images 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=738&amp;screenshot_id=668&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=738&amp;screenshot_id=668&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BrainMagix SPM Viewer: License &amp; Disclaimer</license>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 29, 2013</release>
+<homepage>http://www.imagilys.com/brainmagix-spm-viewer/</homepage>
+<maintainer>Imagilys</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

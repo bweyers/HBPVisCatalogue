@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="LIMO EEG" nitrc="https://www.nitrc.org/projects/limo_eeg" />
+<description> LIMO EEG is a matlab toolbox (EEGlab compatible) allowing the processing of&lt;br /&gt;MEEG data using single trials and hierarchical linear models. Almost all statistical designs can be analyzed with our tool. Across subject analyses are performed using bootstrap offering robust inferences. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=506&amp;screenshot_id=633&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=506&amp;screenshot_id=633&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Time Domain Analysis</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 11, 2011</release>
+<homepage>https://github.com/LIMO-EEG-Toolbox</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

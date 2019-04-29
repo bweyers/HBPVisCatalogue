@@ -1,0 +1,41 @@
+<root>
+<software>
+<name name="FieldTrip" nitrc="https://www.nitrc.org/projects/fieldtrip" />
+<description> FieldTrip is the Matlab software toolbox for MEG and EEG analysis that is being developed at the Donders Institute for Brain, Cognition and Behaviour at the Radboud University Nijmegen, the Netherlands together with collaborating institutes.&lt;br /&gt;&lt;br /&gt;The toolbox includes algorithms for simple and advanced analysis of MEG, EEG, and invasive electrophysiological data, such as time-frequency analysis, source reconstruction using dipoles, distributed sources and beamformers and non-parametric statistical testing. It supports the data formats of all major MEG systems (CTF, Neuromag, BTi) and of the most popular EEG systems, and new formats can be added easily. FieldTrip contains high-level functions that you can use to construct your own analysis protocols in Matlab. Furthermore, it easily allows developers to incorporate low-level algorithms for new EEG/MEG analysis methods. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=243&amp;screenshot_id=735&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=243&amp;screenshot_id=735&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<category>Registration</category>
+<category>Independent Component Analysis</category>
+<category>Multivariate Analysis</category>
+<category>Fourier Time-domain Analysis</category>
+<category>Spectral Analysis</category>
+<category>Visualization</category>
+<category>Workflow</category>
+<platform>OS Independent</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 1, 2009</release>
+<homepage>http://www.fieldtriptoolbox.org</homepage>
+<maintainer>Radboud University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

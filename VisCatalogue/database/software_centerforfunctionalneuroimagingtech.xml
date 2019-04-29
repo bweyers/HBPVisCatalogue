@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Center for Functional Neuroimaging Tech" nitrc="https://www.nitrc.org/projects/cfnt" />
+<description> The Center for Functional Neuroimaging Technologies (CFNT) is a Regional Resource located at the Athinoula A. Martinos Center for Biomedical Imaging at the Massachusetts General Hospital. The primary mission of the Center is to expand understanding of the human brain in health and disease through the development and dissemination of innovative multimodal Magnetic Resonance (MR)-based neuroimaging techniques and technologies. The Resource is sponsored by the National Center for Research Resources of the NIH. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=165&amp;screenshot_id=87&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=165&amp;screenshot_id=87&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MGH CSRL License</license>
+<category>Knowledge Environment</category>
+<platform>OS Independent</platform>
+<release>Oct 18, 2008</release>
+<homepage>http://www.nmr.mgh.harvard.edu/martinos/ncrr/index</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

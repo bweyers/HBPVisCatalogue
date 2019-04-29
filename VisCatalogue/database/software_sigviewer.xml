@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="SigViewer" nitrc="https://www.nitrc.org/projects/sigviewer" />
+<description> SigViewer is a viewing application for biosignals such as EEG or MEG time series. In addition to viewing raw data, SigViewer can also create, edit, and display event information (such as annotations or artifact selections). SigViewer supports many different biosignal data formats (including GDF, EDF, CNT, EEG, and many more). SigViewer also features basic signal processing modules such as computing the average over selected epochs (yielding event-related potentials) and power spectral densities of selected signals. SigViewer is written in standard C++ using the cross-platform graphical user interface (GUI) toolkit Qt. SigViewer is open source and available for all three major platforms (Windows, Mac OS X, and Linux). The application is licensed under the GNU GPL. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1110&amp;screenshot_id=1066&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1110&amp;screenshot_id=1066&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Visualization</category>
+<release>Jan 30, 2017</release>
+<homepage>https://github.com/cbrnr/sigviewer</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

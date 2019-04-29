@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Faceted Search Based Ontology Visualizer" nitrc="https://www.nitrc.org/projects/ontologyviz" />
+<description> Allows user to do faceted search on an ontology and enables visualization of the search results on the 3D digital atlas. Currently supports faceted search of functional neuroanatomy. </description>
+<license>3D Slicer License</license>
+<release>May 25, 2011</release>
+<homepage>http://www.nitrc.org/projects/ontologyviz/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

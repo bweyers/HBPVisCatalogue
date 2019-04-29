@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Imeka Tractography Service" nitrc="https://www.nitrc.org/projects/imeka_tracto" />
+<description> Imeka Tractography is a diffusion MRI service that handles the processing of diffusion data from raw data to structural connectivity, including Quality Assurance. We work with neuroscience researchers who want quality diffusion data reconstruction. These researchers do not necessarily have the knowledge to perform diffusion analysis or don&#x27;t have the manpower. &lt;br /&gt;&lt;br /&gt;Our service is not a black box solution: we work with the researchers and make sure they can work with the tractography results and are aware of the pitfalls of the techniques by providing training sessions. We have a system to work at a distance as if we were in your lab. We can do high angular resolution (HARDI) reconstruction from DTI data, with as little as 20 gradient directions acquisitions.&lt;br /&gt;&lt;br /&gt;State-of-the-art diffusion MRI is just one click away. Contact us right now to submit your project and have access to structural Connectome research today.&lt;br /&gt;&lt;br /&gt;Visit us at &lt;a href=&quot;http://www.imeka.ca&quot; target=&quot;_new&quot;&gt;http://www.imeka.ca&lt;/a&gt; for more details </description>
+<category>Tractography</category>
+<release>Oct 31, 2013</release>
+<homepage>http://www.imeka.ca</homepage>
+<maintainer>Imeka Solutions</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

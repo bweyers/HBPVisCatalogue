@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="DSI Studio" nitrc="https://www.nitrc.org/projects/dsistudio" />
+<description> DSI Studio is a software for diffusion MR images analysis. The provided functions include reconstruction (DTI, QBI, DSI, and GQI), deterministic fiber tracking, and 3D visualization. It has a window-based interface and operates on Microsoft Windows system. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=160&amp;screenshot_id=642&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=160&amp;screenshot_id=642&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Image Reconstruction</category>
+<category>Diffusion Spectrum</category>
+<category>Q-Ball</category>
+<category>Tensor Metric</category>
+<category>Quantification</category>
+<category>Diffusion MR Fiber Tracking</category>
+<category>Visualization</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Sep 25, 2008</release>
+<homepage>http://dsi-studio.labsolver.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

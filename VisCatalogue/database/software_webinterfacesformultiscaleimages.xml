@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Web Interfaces for Multiscale Images" nitrc="https://www.nitrc.org/projects/webmscaleapi" />
+<description> This is a venue for discussing and defining standard web interfaces for sharing images, annotations, and analyses of multiscale biological images. The goal is to increase interoperability of code to share the burden of infrastructure, increase code reuse, and allow us to spend more time focused on scientific questions.&lt;br /&gt;&lt;br /&gt;Please visit our Wiki to start participating.&lt;br /&gt;&lt;br /&gt;Together we can develop a small group of interfaces which are easy to implement, extensible, and cover the major tasks of developing tools for multiscale data on the web. </description>
+<license>Public Domain</license>
+<release>Nov 26, 2010</release>
+<homepage>http://www.nitrc.org/plugins/mwiki/index.php/webmscaleapi:MainPage</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

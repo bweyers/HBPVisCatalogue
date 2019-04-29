@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="LONI Inspector" nitrc="https://www.nitrc.org/projects/inspector" />
+<description> The LONI Inspector is an application for examining medical image files. The Inspector focuses on reading, displaying, searching, comparing, and exporting &amp;quot;metadata&amp;quot; (e.g., patient name, the model of scanner). </description>
+<license>LONI Software License</license>
+<category>Workflow</category>
+<category>Other Software Resource</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 19, 2007</release>
+<homepage>http://www.loni.ucla.edu/Software/Software_Detail.jsp?software_id=54</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

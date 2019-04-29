@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Density Spectral Array of BIS VISTA Monitoring System in a functional hemispherectomy" nitrc="https://www.nitrc.org/projects/dsa-fh" />
+<description> The Bilateral Bispectral index (BIS) was designed to allow the user to record and display four channels of EEG; two from each side of the brain. This monitor was used to detect changes in EEG, and in the power spectrum distribution using the density spectral array (DSA) in both hemispheres1. Functional hemispherectomy (FH) is a surgical technique used in pediatric population to treat drug-resistant epilepsy caused by extensive hemispheric lesions. There are few cases in the literature about FH in adults but there aren’t about the use of DSA in this surgery. We present the case of a patient scheduled for a right FH to treat epilepsy where the DSA provides information about the depth of anaesthesia and sedation, and it was helpful for monitoring the effectiveness of the surgery. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>Mar 19, 2017</release>
+<homepage>http://www.nitrc.org/projects/dsa-fh/</homepage>
+<maintainer>Hospital del Mar</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

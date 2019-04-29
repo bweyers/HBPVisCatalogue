@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Mesh-based Monte Carlo (MMC)" nitrc="https://www.nitrc.org/projects/mmc" />
+<description> Mesh-based Monte Carlo, or MMC, is a Monte Carlo (MC) solver for photon migration in 3D turbid media. Different from existing MC software designed for layered (such as MCML) or voxel-based media (such as MMC or tMCimg), MMC can represent a complex domain using a tetrahedral mesh. This not only greatly improves the accuracy of the solutions when modeling objects with smooth/complex boundaries, but also gives an efficient way to sample the problem domain to use less memory. The current version of MMC support multi-threaded programming and can give a almost proportional speed-up when using multiple CPU cores. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=394&amp;screenshot_id=497&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=394&amp;screenshot_id=497&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Monte Carlo</category>
+<platform>POSIX/UNIX-like</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 24, 2010</release>
+<homepage>http://mcx.sf.net/mmc/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

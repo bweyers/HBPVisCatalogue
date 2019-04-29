@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="A Shimadzu to .nirs data converter" nitrc="https://www.nitrc.org/projects/shimadzu2nirs" />
+<description> Shimadzu2nirs is a Matlab script which takes near-infrared spectroscopy data recorded by Shimadzu system(s) and converts it to a .nirs file format for use with the HOMER2 NIRS processing package. </description>
+<release>Apr 14, 2017</release>
+<homepage>http://www.nitrc.org/projects/shimadzu2nirs/</homepage>
+<maintainer>Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

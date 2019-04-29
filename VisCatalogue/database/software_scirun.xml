@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="SCIRun" nitrc="https://www.nitrc.org/projects/scirun" />
+<description> SCIRun is a Problem Solving Environment (PSE), for modeling, simulation and visualization of scientific problems. SCIRun now includes the biomedical components formally released as BioPSE, as well as BioMesh3D. BioMesh3D is a free, easy to use program for generating quality meshes for the use in biological simulations. The most recent stable release is version 4.6. </description>
+<license>MIT/X Consortium License</license>
+<release>Mar 29, 2010</release>
+<homepage>http://www.scirun.org</homepage>
+<maintainer>University of Utah</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

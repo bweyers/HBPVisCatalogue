@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="DATAPixx" nitrc="https://www.nitrc.org/projects/vpixx" />
+<description> The DATAPixx is a complete multi-function data and video processing USB peripheral for vision research. In addition to a dual-display video processor, the DATAPixx includes an array of peripherals which often need to be synchronized to video during an experiment, including a stereo audio stimulator, a button box port for precise reaction-time measurement, triggers for electrophysiology equipment, and even a complete analog I/O subsystem. Because we implemented the video controller and peripheral control on the same circuit board, you can now successfully synchronize all of your subject I/O to video refresh with microsecond precision. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=496&amp;screenshot_id=371&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=496&amp;screenshot_id=371&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License: VPixx</license>
+<category>Response Monitoring</category>
+<category>Stimulus Presentation</category>
+<category>EEG</category>
+<release>Jun 30, 2011</release>
+<homepage>http://vpixx.com/our-products/video-i-o-hub/</homepage>
+<maintainer>VPixx Technologies</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

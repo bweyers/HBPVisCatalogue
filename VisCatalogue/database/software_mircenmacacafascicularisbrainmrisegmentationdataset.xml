@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="MIRCen Macaca fascicularis brain MRI segmentation dataset" nitrc="https://www.nitrc.org/projects/mircen_macset" />
+<description> This dataset comprises 10 T2-weighted MRIs acquired in healthy Cynomolgus macaques (Macaca fascicularis), aged 3 to 5 years, on a 7T scanner, along with manual segmentations into 17 anatomical regions of 15 sections per scan, along different incidences.&lt;br /&gt;&lt;br /&gt;A set of python functions is also provided in order to compute F1/Dice scores between complete 3D segmentations and these 2D references.&lt;br /&gt;&lt;br /&gt;It was used to validate the Primatologist segmentation pipeline and is intended to be used by any team or individual wishing to validate its algorithm or compare its results with ours. It is freely available for academic work upon citing the following Data in Brief article.&lt;br /&gt;&lt;br /&gt;A thorough description of the material &amp;amp; methods can be found in:&lt;br /&gt;- Balbastre et al., 2017. &amp;quot;A validation dataset for Macaque brain MRI segmentation.&amp;quot;&lt;br /&gt;&lt;br /&gt;Our results on this dataset can be found in:&lt;br /&gt;- Balbastre et al., 2017. &amp;quot;Primatologist: a modular segmentation pipeline for macaque brain morphometry.&amp;quot; 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1199&amp;screenshot_id=1120&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1199&amp;screenshot_id=1120&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>CeCill v2</license>
+<release>Aug 3, 2017</release>
+<homepage>http://www.nitrc.org/projects/mircen_macset/</homepage>
+<maintainer>CEA</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

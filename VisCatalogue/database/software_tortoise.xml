@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="TORTOISE" nitrc="https://www.nitrc.org/projects/tortoise" />
+<description> The TORTOISE software package is for processing diffusion MRI data. It contains two main modules, DIFF_PREP and DIFF_CALC.&lt;br /&gt;&lt;br /&gt;DIFF_PREP - software for image resampling, motion, eddy current distortion and susceptibility induced EPI distortion corrections, and for re-orientation of data to a common space&lt;br /&gt;&lt;br /&gt;DIFF_CALC - software for tensor fitting, error analysis, color map visualization and ROI analysis&lt;br /&gt;&lt;br /&gt;Software and sample data downloads, as well as documentation for the software, are available at &lt;a href=&quot;http://www.tortoisedti.org.&quot; target=&quot;_new&quot;&gt;http://www.tortoisedti.org.&lt;/a&gt;</description>
+<license>TORTOISE License</license>
+<category>Tensor Metric</category>
+<release>Oct 29, 2009</release>
+<homepage>http://www.tortoisedti.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

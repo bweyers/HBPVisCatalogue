@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="EEG-FNIRS hybrid SMR BCI data" nitrc="https://www.nitrc.org/projects/eegfnirshbci" />
+<description> To be filled after registering </description>
+<release>Jul 22, 2015</release>
+<homepage>http://www.nitrc.org/projects/eegfnirshbci/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

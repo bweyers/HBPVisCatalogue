@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="GazeReader" nitrc="https://www.nitrc.org/projects/gazereader" />
+<description> GazeReader is a toolbox for a point-process derived GLM analysis of eye tracking data in Matlab (Mathworks, Nattick, MA). It was developed with the following goals in mind:&lt;br /&gt;&lt;br /&gt;1. Flexible yet well ordered integration of the steps involved in linear model specification, fitting, selection and review.&lt;br /&gt;2. Ease of use and efficiency in specifying and comparing numerous alternate models through both a graphical interface and Matlab scripting.&lt;br /&gt;3. Simple error checking and review of model fitting and procedures.&lt;br /&gt;4. The ability to display model data side by side with raw eye-tracking data along with any appropriate stimulus related background images in order to facilitate interpretation.&lt;br /&gt;5.Efficiency of numerical model fitting. &lt;br /&gt;&lt;br /&gt; Data loading, model specification, fitting and review are organized into a sequence of events, each of which is handled by a separate module in the toolbox. The graphical interface was created using the Matlab graphical user interface development environment (GUIDE). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=885&amp;screenshot_id=850&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=885&amp;screenshot_id=850&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Eye Tracking</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Sep 30, 2014</release>
+<homepage>http://www.nitrc.org/projects/gazereader/</homepage>
+<maintainer>University of Iowa</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

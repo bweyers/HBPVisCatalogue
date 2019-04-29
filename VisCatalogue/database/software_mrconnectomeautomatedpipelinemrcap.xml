@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="MR Connectome Automated Pipeline (MRCAP)" nitrc="https://www.nitrc.org/projects/mrcap" />
+<description> This is the project page for the MR Connectome Automated Pipeline based on JIST and MIPAV. The pipeline combines structural magnetic resonance data with diffusion tensor imaging to estimate a connectome, which is a comprehensive description of the wiring diagram of the brain. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=482&amp;screenshot_id=367&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=482&amp;screenshot_id=367&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<release>Apr 24, 2011</release>
+<homepage>http://www.nitrc.org/projects/mrcap/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

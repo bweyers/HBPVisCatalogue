@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Tractography based on Riemannian geodesics and tensor adjugates" nitrc="https://www.nitrc.org/projects/riemantract" />
+<description> This tool provides a way to trace fiber tracts based on Riemannian geodesics, the local cost function being defined as the adjugate (as opposed to the commonly used inverse) of the diffusion tensor. The minimization of the cost function is globally (not just locally) attained via dynamic programming, using the &amp;quot;Fast sweeping&amp;quot; algorithm for the sake of efficiency. </description>
+<license>3D Slicer License</license>
+<release>Jun 8, 2015</release>
+<homepage>http://www.nitrc.org/projects/riemantract/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

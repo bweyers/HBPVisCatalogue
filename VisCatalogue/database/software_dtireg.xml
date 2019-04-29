@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="DTI-Reg" nitrc="https://www.nitrc.org/projects/dtireg" />
+<description> DTI-Reg is an open-source C++ application that performs pair-wise DTI registration, using scalar FA map to drive the registration. &lt;br /&gt;&lt;br /&gt;Individual steps of the pair-wise registration pipeline are performed via external applications - some of them being 3D Slicer modules. Starting with two input DTI images, scalar FA maps are generated via dtiprocess. Registration is then performed between these FA maps, via BRAINSFit/BRAINSDemonWarp or ANTS -Advanced Normalization Tools-, which provide different registration schemes: rigid, affine, BSpline, diffeomorphic, logDemons. The final deformation is then applied to the source DTI image via ResampleDTIlogEuclidean.&lt;br /&gt;&lt;br /&gt;DTI-Reg is available in a 3D Slicer (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;) extension called DTIAtlasBuilder </description>
+<license>Apache License 2.0</license>
+<category>Registration</category>
+<category>Resampling</category>
+<category>Workflow</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Nov 2, 2011</release>
+<homepage>http://www.nitrc.org/projects/dtireg/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

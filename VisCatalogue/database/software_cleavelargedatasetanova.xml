@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="CLEAVE: Large Data Set ANOVA" nitrc="https://www.nitrc.org/projects/cleave" />
+<description> CLEAVE is a UNIX-style command-line program which quickly computes multifactorial ANOVAs for very large data sets with minimal memory use (without loading all of the data into memory). It has been used for fMRI analysis, e.g.&lt;br /&gt;&lt;br /&gt;CLEAVE adds the following to the standard ANOVA analyses:&lt;br /&gt;&lt;br /&gt;0) Unlimited numbers of factors can be analyzed.&lt;br /&gt;1) Factor Correlation and Unequal Variance Corrections&lt;br /&gt;2) Treatment Magnitudes: omega^2, partial eta^2, and R^2&lt;br /&gt;3) A convenient Ranking of Factors based upon treatment magnitudes and significance levels.&lt;br /&gt;4) Post-Hoc Significance Tests&lt;br /&gt;5) Post-Hoc Power Table to gauge how many subjects will be needed to achieve significance.&lt;br /&gt;6) Allows the use of Random Factors.&lt;br /&gt;7) A Configuration File to make the program more tunable&lt;br /&gt;8) A Histogram and Cell Line Diagrams: which help the user to detect outliers.&lt;br /&gt;9) Associated MATLAB functions: port CLEAVE-style data sets in or out of MATLAB.&lt;br /&gt;&lt;br /&gt;Software is at &lt;a href=&quot;http://www.ebire.org/hcnlab/software/cleave.html&quot; target=&quot;_new&quot;&gt;http://www.ebire.org/hcnlab/software/cle...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=405&amp;screenshot_id=278&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=405&amp;screenshot_id=278&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution</license>
+<category>Statistical Operation</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Aug 24, 2010</release>
+<homepage>http://www.ebire.org/hcnlab/software/cleave.html</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

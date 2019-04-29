@@ -1,0 +1,40 @@
+<root>
+<software>
+<name name="HCP Harvard/MGH-UCLA" nitrc="https://www.nitrc.org/projects/hcp_mgh-ucla" />
+<description> ***THE HUMAN CONNECTOME PROJECT Harvard/MGH-UCLA***&lt;br /&gt;&lt;br /&gt;The HCP is a multi-center project comprising two distinct consortia (Mass. Gen. Hosp. and UCLA; and Wash. U. and the U. of Minn.) seeking to map white matter fiber pathways in the human brain using leading edge neuroimaging methods, genomics, architectonics, mathematical approaches, informatics, and interactive visualization.&lt;br /&gt;&lt;br /&gt;This NITRC project site is dedicated to linking all listed connectivity analysis tools under one common heading: HCP-related as well as independently created software packages. Please use this site to explore the variety of connectomics software tools available via NITRC as well well as valuable data resources, forthcoming scientific meetings, etc. Scroll down to view the list of useful tools. If you have such tools yourself, please list them with NITRC, and request to link with us!&lt;br /&gt;&lt;br /&gt;See &lt;a href=&quot;http://www.humanconnectomeproject.org&quot; target=&quot;_new&quot;&gt;http://www.humanconnectomeproject.org&lt;/a&gt; or &lt;a href=&quot;http://www.humanconnectome.org&quot; target=&quot;_new&quot;&gt;http://www.humanconnectome.org&lt;/a&gt; for details. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=418&amp;screenshot_id=296&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=418&amp;screenshot_id=296&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD/MIT-Style Open Source License</license>
+<category>EEG</category>
+<category>MEG</category>
+<category>Scanner</category>
+<category>Data</category>
+<category>Database</category>
+<category>Web Resource</category>
+<category>Diffusion Spectrum</category>
+<category>Q-Ball</category>
+<category>Tensor Metric</category>
+<category>Quantification</category>
+<category>Shape Analysis</category>
+<category>Spatial Transformation</category>
+<category>Fiber Tracking</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Sep 11, 2009</release>
+<homepage>http://www.nitrc.org/projects/hcp_mgh-ucla/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

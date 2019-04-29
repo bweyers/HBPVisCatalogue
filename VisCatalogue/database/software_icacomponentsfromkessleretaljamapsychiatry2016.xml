@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="ICA Components from Kessler, et al, JAMA Psychiatry 2016" nitrc="https://www.nitrc.org/projects/kessler_jama16" />
+<description> This dataset includes 15 unthresholded ICA connectomic components and the grid parcellation from Kessler et al “Growth Charting Brain Connectivity Networks and the Identification of Attention Impairment in Youth”. This release can be used to extract component expression scores for new datasets (see manuscript for methodological details). These expression scores can then be age-corrected and used to predict attention-related phenotypes. </description>
+<license>Attribution Share Alike</license>
+<release>Jan 15, 2016</release>
+<homepage>http://www.nitrc.org/projects/kessler_jama16/</homepage>
+<maintainer>University of Michigan</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

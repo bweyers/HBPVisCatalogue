@@ -1,0 +1,31 @@
+<root>
+<software>
+<name name="BXH/XCEDE Tools" nitrc="https://www.nitrc.org/projects/bxh_xcede_tools" />
+<description> A collection of data processing and image analysis tools for data in BXH or XCEDE format. This includes data format encapsulation/conversion, event-related analysis, QA tools, and more. These tools form the basis of the fBIRN QA procedures and are also distributed as part of the fBIRN Data Upload Scripts. </description>
+<license>BIRN License</license>
+<category>Format Conversion</category>
+<category>Quantification</category>
+<category>Statistical Operation</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Feb 13, 2009</release>
+<homepage>http://www.nitrc.org/projects/bxh_xcede_tools/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

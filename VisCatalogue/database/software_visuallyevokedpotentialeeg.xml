@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Visually Evoked Potential EEG" nitrc="https://www.nitrc.org/projects/vep_eeg_raw" />
+<description> An 18-subject EEG dataset from an experiment in which subjects performed a standard visual oddball task. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1223&amp;screenshot_id=1173&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1223&amp;screenshot_id=1173&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<category>Event-Related Potentials</category>
+<category>EEG Modeling</category>
+<release>Oct 10, 2017</release>
+<homepage>http://www.nitrc.org/projects/vep_eeg_raw/</homepage>
+<maintainer>University of Texas at San Antonio</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

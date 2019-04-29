@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="gCCA" nitrc="https://www.nitrc.org/projects/gcca" />
+<description> gCCA is a multivariate method for fMRI data analysis based on generalized canonical correlation analysis (gCCA) to maximize SPM reproducibility without adopting any model for the hemodynamic response or other temporal brain responses. The underlying assumption is that there are multiple subjects that share an unknown spatial response (or spatial map) to the common experimental manipulation but may show different temporal responses to external stimulation. For each subject, our gCCA explores a broad range of temporal responses in fMRI time-series space while maximizing the mean of correlation coefficients between the pair-wise spatial maps of the subjects.&lt;br /&gt;&lt;br /&gt;[1] Afshin-Pour, B., et. al (2012). Enhancing reproducibility of fMRI statistical maps using generalized canonical correlation analysis in NPAIRS framework. NeuroImage, 60(4), 1970-1981.&lt;br /&gt;&lt;br /&gt;[2] Afshin-Pour, et. al (2014). Evaluation of spatio-temporal decomposition techniques for group analysis of fMRI resting state data sets. NeuroImage, 87, 363-382. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Multivariate Analysis</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 14, 2014</release>
+<homepage>http://babakafshinpour.com/wp-content/uploads/2014/05/gCCA-14-05-2014.rar</homepage>
+<maintainer>Rotman research institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

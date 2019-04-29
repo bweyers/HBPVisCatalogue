@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="Brainscape" nitrc="https://www.nitrc.org/projects/brainscape" />
+<description> Brainscape is a database for resting state functional connectivity studies. Functional connectivity has shown tremendous promise in mapping the intrinsic functional topography of the brain, evaluating neuroanatomical models, and investigating neurological and psychiatric disease. Brainscape includes a repository of public and private data and an analysis engine for exploring the correlation structure of spontaneous fluctuations in the fMRI BOLD signal. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=107&amp;screenshot_id=154&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=107&amp;screenshot_id=154&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Data</category>
+<category>Database</category>
+<category>Statistical Operation</category>
+<category>Correlation</category>
+<platform>OS Independent</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>May 13, 2008</release>
+<homepage>http://www.brainscape.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

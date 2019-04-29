@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="UNC detail-preserved longitudinal 0-3-6-9-12 months-old atlas" nitrc="https://www.nitrc.org/projects/infant_atlas_4d" />
+<description> We present a series of detail-preserved MRI longitudinal infant atlases. The atlases are 0-3-6-9-12 months-old respectively. For each time point, we built both T1-weighted &amp;amp; T2-weighted atlases, and the probabilistic segmentation maps. Data are in NIFTI format. Please see the related publication for further detials.&lt;br /&gt;Zhang, Y., Shi, F., Wu, G., Wang, L., Yap, P.T. and Shen, D., 2016. Consistent spatial-temporal longitudinal atlas construction for developing infant brains. IEEE transactions on medical imaging, 35(12), pp.2568-2577. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1195&amp;screenshot_id=1114&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1195&amp;screenshot_id=1114&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<release>Jul 31, 2017</release>
+<homepage>http://www.nitrc.org/projects/infant_atlas_4d/</homepage>
+<maintainer>University of North Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

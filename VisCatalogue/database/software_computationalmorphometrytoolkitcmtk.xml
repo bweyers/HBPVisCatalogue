@@ -1,0 +1,44 @@
+<root>
+<software>
+<name name="Computational Morphometry Toolkit (CMTK)" nitrc="https://www.nitrc.org/projects/cmtk" />
+<description> A software toolkit for computational morphometry of biomedical images, CMTK comprises a set of command line tools and a back-end general-purpose library for processing and I/O.&lt;br /&gt;&lt;br /&gt;The command line tools primarily provide the following functionality: registration (affine and nonrigid; single and multi-channel; pairwise and groupwise), image correction (MR bias field estimation; interleaved image artifact correction; EPI unwarping), processing (filters; combination of segmentations via voting and STAPLE; shape-based averaging), statistics (t-tests; general linear model).&lt;br /&gt;&lt;br /&gt;CMTK is implemented in C++ with parallel processing using POSIX Threads (SMP), OpenMP (SMP), Grand Central Dispatch (SMP), and CUDA (GPU). &lt;br /&gt;&lt;br /&gt;Supported file formats include Analyze (r/w), NIFTI (r/w), Nrrd (r/w), DICOM (read), BioRad (read). Data exchange with other toolkits, such as ITK, FSL, AFNI, SPM, etc. is thus easily accomplished. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=212&amp;screenshot_id=212&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=212&amp;screenshot_id=212&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Atlas Application</category>
+<category>Format Conversion</category>
+<category>Image Reconstruction</category>
+<category>Anatomic</category>
+<category>Artifact Removal</category>
+<category>Image-to-Image</category>
+<category>Resampling</category>
+<category>Warping</category>
+<category>Principal Component Analysis</category>
+<category>Linear</category>
+<category>Two Dimensional Display</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Other OS</platform>
+<platform>Cygwin</platform>
+<platform>Linux</platform>
+<platform>SunOS/Solaris</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Mar 27, 2009</release>
+<homepage>http://www.nitrc.org/projects/cmtk/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

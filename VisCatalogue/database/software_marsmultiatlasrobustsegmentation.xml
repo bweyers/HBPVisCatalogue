@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="MARS (Multi-Atlas Robust Segmentation)" nitrc="https://www.nitrc.org/projects/mars" />
+<description> MARS (Multi-Atlas Robust Segmentation) provides the automatic solutions for efficent segmentation/labeling anatomcial structures from medical images.&lt;br /&gt;&lt;br /&gt;Specifically, this software has integrated several state-of-the-art multi-atlas based segmentation methods, such as majority voting, local weighted voting, and non-local patch based segmentation methods. &lt;br /&gt;&lt;br /&gt;More importantly, we also included our recently-developed joint sparse patch based segmentation method in this software. Compared with convention methods, our method has the following advantages: (1) add sparsity constraint to suppress the influence of misleading patches; (2) reduce the joint risk of two patches jointly making the same segmentation errors, and (3) use iterative framework to correct the possible mis-segmentations. &lt;br /&gt;&lt;br /&gt;This software package was developed in the IDEA group at UNC-Chapel Hill ( &lt;a href=&quot;http://bric.unc.edu/ideagroup&quot; target=&quot;_new&quot;&gt;http://bric.unc.edu/ideagroup&lt;/a&gt;).&lt;br /&gt;Wu et. al., &amp;quot;A generative probability model of joint label fusion for multi-atlas based brain segmentation&amp;quot;, MIA, 2013. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=758&amp;screenshot_id=684&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=758&amp;screenshot_id=684&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Oct 23, 2013</release>
+<homepage>http://www.nitrc.org/projects/mars/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

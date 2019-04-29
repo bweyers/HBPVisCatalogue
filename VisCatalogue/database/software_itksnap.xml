@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="ITK-SNAP" nitrc="https://www.nitrc.org/projects/itk-snap" />
+<description> ITK-SNAP is an open-source software application for medical image segmentation. Its primary use is for delineating anatomical structures and regions in MRI, CT and other 3D biomedical imaging data. ITK-SNAP is actively developed by Paul Yushkevich, Hui Zhang, and colleagues at the Penn Image Computing and Science Laboratory at the University of Pennsylvania. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=110&amp;screenshot_id=8&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=110&amp;screenshot_id=8&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Active Contour</category>
+<category>Manual</category>
+<category>Anatomic</category>
+<category>Volumetric Analysis</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>May 30, 2008</release>
+<homepage>http://www.itksnap.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

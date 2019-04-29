@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="MagPro Magnetic Stimulator (TMS)" nitrc="https://www.nitrc.org/projects/magpro" />
+<description> MagPro is a complete line of non-invasive magnetic stimulation systems designed for clinical examinations and for research in the areas of neurophysiology, neurology, cognitive neuroscience, rehabilitation and psychiatry. </description>
+<license>MagPro Medical Device License</license>
+<category>Response Monitoring</category>
+<category>Stimulus Presentation</category>
+<input>Microsoft Word Document</input>
+<output>Microsoft Word Document</output>
+<release>Apr 13, 2011</release>
+<homepage>http://www.magventure.com</homepage>
+<maintainer>MagVenture</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

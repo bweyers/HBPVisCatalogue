@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="minc-toolkit-testsuite" nitrc="https://www.nitrc.org/projects/minctoolkittest" />
+<description> Sample data in MINC format and collection of scripts to verify correct installation of minc-toolkit. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 13, 2013</release>
+<homepage>http://www.nitrc.org/projects/minctoolkittest/</homepage>
+<maintainer>Montreal Neurological Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

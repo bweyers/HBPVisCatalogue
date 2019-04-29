@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Brede Wiki" nitrc="https://www.nitrc.org/projects/bredewiki" />
+<description> The Brede Wiki is a semantic wiki with structured information from neuroscience. It contains listing of results from neuroimaging studies such as Talairach coordinates and brain volume measurements as well as items for researchers, software packages and brain regions. SQL dumps of the structured information in the wiki is available so complex queries can be formed.&lt;br /&gt;Search on Talairach coordinates in the database is available from an external specialized search engine. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Data</category>
+<category>Knowledge Environment</category>
+<category>Websites</category>
+<platform>OS Independent</platform>
+<release>Mar 11, 2009</release>
+<homepage>http://neuro.imm.dtu.dk/wiki/Main_Page</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Neurodevelopmental MRI Database" nitrc="https://www.nitrc.org/projects/neurodevdata" />
+<description> This is a database of average MRIs and associated MRI volumes for developmental MRI work. It consists of average MRI templates, segmented partial volume estimate volumes for GM, WM, T2W-derived CSF. The database is separated into head-based and brain-based averages. The data are separated by ages in months, years, 6-month, or 5-year intervals. The templates are grouped into first year (2 weeks through 12 months), early childhood (15 months through 4 years), childhood (4 years through 10 years), adolescence (10.5 years through 17.5 years) and adults (18 years through 89 years). Tools for cortical source analysis of EEG and ERP are provided. These tools are based on the average MRI templates, segmenting, and atlases. </description>
+<license>Attribution Non-Commercial</license>
+<release>Apr 5</release>
+<homepage>http://www.nitrc.org/projects/neurodevdata/</homepage>
+<maintainer>University of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="EEG Study Schema (ESS)" nitrc="https://www.nitrc.org/projects/ess" />
+<description> EEG Study Schema (ESS) makes it easier for researchers in the field of EEG/BCI to package, share and automatize the analysis workflow of their study data. You can think of ESS as a &amp;quot;shipping container&amp;quot; for your EEG study data.&lt;br /&gt;&lt;br /&gt;Using other people’s EEG data could be painful as often one has to do detective work to find out:&lt;br /&gt;&lt;br /&gt;What happened in the experiment?&lt;br /&gt;Which files are for which subjects/sessions?&lt;br /&gt;What do these event codes mean?&lt;br /&gt;To remove ‘EEG data sharing pain&#x27; we have created a set of standards (HED and ESS) and tools&lt;br /&gt;&lt;br /&gt;ESS is designed from a user-centered viewpoint that emphasizes simplicity and ease of use. It is created to contain all the information a researcher unfamiliar with a particular EEG (or MEG) Study needs to further analyze the data. It is An XML-based specification&lt;br /&gt;Holds all the information necessary to analyze an EEG study.&lt;br /&gt;&lt;br /&gt;Please visit &lt;a href=&quot;http://www.eegstudy.org&quot; target=&quot;_new&quot;&gt;http://www.eegstudy.org&lt;/a&gt; for more information. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=956&amp;screenshot_id=943&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=956&amp;screenshot_id=943&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT</license>
+<category>Database</category>
+<category>Ontology</category>
+<release>Jul 21, 2015</release>
+<homepage>http://www.nitrc.org/projects/ess/</homepage>
+<maintainer>Syntrogi</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

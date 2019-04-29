@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="3T DWI test-retest reliability dataset" nitrc="https://www.nitrc.org/projects/dwi_test-retest" />
+<description> This data-set contains all 3T MRI data used in Boekel et al., (submitted), in which we aimed to investigate the invivo test-retest reliability of several DTI derived measures.&lt;br /&gt;&lt;br /&gt;34 healthy young subjects were scanned twice on the same day with a 3T MRI scanner in which the following data was acquired:&lt;br /&gt;- T1 weighted whole brain scan (1mm isotropic). &lt;br /&gt;- B0 weighted whole brain scan (2mm isotropic)&lt;br /&gt;- Diffusion weighted whole brain scan (2mm isotropic, 32 directions, b-value=1000, 4 repetitions)&lt;br /&gt;&lt;br /&gt;A subset of 15 subjects were also scanned a third session on the same day, as well as in a two-week follow-up session with the same MRI protocol.&lt;br /&gt;&lt;br /&gt;The full reference of the article is: &lt;br /&gt;Boekel, W., Forstmann, B. U., Keuken, M.C. (In press) A test-retest reliability analysis of diffusion measures of white matter tracts relevant for cognitive control. Psychophysiology. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=990&amp;screenshot_id=959&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=990&amp;screenshot_id=959&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<release>Nov 20, 2015</release>
+<homepage>http://www.nitrc.org/projects/dwi_test-retest/</homepage>
+<maintainer>University of Amsterdam</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

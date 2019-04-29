@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="fanDTasia Java Applet: DT-MRI Processing" nitrc="https://www.nitrc.org/projects/fandtasia" />
+<description> FanDTasia is a Java applet tool for DT-MRI processing. It opens dw-mri datasets from user&#x27;s computer and performs very efficient tensor field estimation using parallel threaded processing on user&#x27;s browser. No installation is required. It runs on any operating system that supports Java (Windows, Mac, Linux,...). The estimated tensor field is guaranteed to be positive definite second order or higher order and is saved in user&#x27;s local disc. MATLAB functions are also provided to open the tensor fields for your convenience in case you need to perform further processing. The fanDTasia Java applet provides also vector field visualization for 2nd and 4th-order tensors, as well as calculation of various anisotropic maps. Another useful feature is 3D fiber tracking (DTI-based) which is also shown using 3d graphics on the user&#x27;s browser. </description>
+<license>Non-Commercial Software License Agreement</license>
+<release>Feb 5, 2011</release>
+<homepage>http://www.nitrc.org/projects/fandtasia/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="NIREP" nitrc="https://www.nitrc.org/projects/nirep" />
+<description> We have started the Non-rigid Image Registration Evaluation Project (NIREP) to develop software tools and provide shared image validation databases for rigorous testing of non-rigid image registration algorithms. NIREP will extend the scope of prior validation projects by developing evaluation criteria and metrics using large image populations, using richly annotated image databases, using computer simulated data, and increasing the number and types of evaluation criteria.&lt;br /&gt;&lt;br /&gt;The goal of this project is to establish, maintain, and endorse a standardized set of relevant benchmarks and metrics for performance evaluation of nonrigid image registration algorithms. Furthermore, these standards will be incorporated into an exportable computer program to automatically evaluate the registration accuracy of nonrigid image registration algorithms. </description>
+<license>Free For Non-Commercial Use Only</license>
+<release>Jan 12, 2011</release>
+<homepage>http://www.nitrc.org/projects/nirep/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

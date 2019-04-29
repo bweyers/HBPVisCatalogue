@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="QCQP" nitrc="https://www.nitrc.org/projects/qcqp" />
+<description> Quadratically constrained quadratic programing (QCQP) technique in medical image analysis. QCQP based tools are provided for classification, segmentation, and bias field correction. </description>
+<release>Aug 12, 2009</release>
+<homepage>http://www.nitrc.org/projects/qcqp/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="NITRC Image Repository (NITRC-IR)" nitrc="https://www.nitrc.org/projects/nitrcir" />
+<description> NITRC Image Repository offers a cloud-based federated neuroimaging data storage system for resource sharing of neuroimaging data in DlCOM and NIfTI formats. Available are thousands of subjects and imaging sessions searchable across over a dozen projects to promote re-use and integration of valuable NIH-funded data. &lt;br /&gt;&lt;br /&gt;Search for and freely download publicly available data sets including thousands of DICOM and NIfTI normal subjects and those with diagnoses such as: schizophrenia, ADHD, autism, and Parkinson&#x27;s disease. From the search results you may select and download images. NITRC&#x27;s Image Repository leverages XNAT software: Extensible Neuroimaging Archive Toolkit. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1194&amp;screenshot_id=1113&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1194&amp;screenshot_id=1113&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Data</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>OS/2</platform>
+<platform>OS Independent</platform>
+<platform>Other OS</platform>
+<platform>POSIX/UNIX-like</platform>
+<release>Jul 27, 2017</release>
+<homepage>http://www.nitrc.org/projects/nitrcir/</homepage>
+<maintainer>NeuroImaging Tools and Resources Collaboratory</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

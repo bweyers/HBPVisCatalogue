@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Notion ResearchPACS" nitrc="https://www.nitrc.org/projects/notion" />
+<description> Notion PACS&lt;br /&gt;===========&lt;br /&gt;&lt;br /&gt;Notion is a stand-alone [PACS](&lt;a href=&quot;http://en.wikipedia.org/wiki/Picture_archiving_and_communication_system&quot; target=&quot;_new&quot;&gt;http://en.wikipedia.org/wiki/Picture_arc...&lt;/a&gt;) designed to be used by radiology researchers for storage and anonymization of research images. &lt;br /&gt;&lt;br /&gt;### Why use Notion?&lt;br /&gt;&lt;br /&gt;If you have a need to:&lt;br /&gt;- store DICOM images, but do not want/have a dedicated research PACS&lt;br /&gt;- anonymize DICOM images&lt;br /&gt;- map Names, IDs and Accession numbers during anonymization&lt;br /&gt;- maintain separation of image data across projects&lt;br /&gt;- scale to 100&#x27;s of independant research projects&lt;br /&gt;&lt;br /&gt;### Why *not* use Notion?&lt;br /&gt;&lt;br /&gt;If you:&lt;br /&gt;- already have a research PACS&lt;br /&gt;- do not need to anonymize data&lt;br /&gt;- do not care about isolation between research projects&lt;br /&gt;- are happy using manual anonymization tools 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=793&amp;screenshot_id=721&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=793&amp;screenshot_id=721&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Application</category>
+<platform>OS Independent</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>Jan 31, 2014</release>
+<homepage>http://www.nitrc.org/projects/notion/</homepage>
+<maintainer>Mayo Clinic</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

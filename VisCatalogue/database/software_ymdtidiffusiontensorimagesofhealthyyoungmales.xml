@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="YMDTI: Diffusion Tensor Images of Healthy Young Males" nitrc="https://www.nitrc.org/projects/ymdti" />
+<description> This dataset contains diffusion tensor images of 93 healthy, young male subjects.&lt;br /&gt;&lt;br /&gt;Subject infomration:&lt;br /&gt; age: 18-30, mean age 23&lt;br /&gt; 86 right-handed, 7 left-handed&lt;br /&gt; no psychiatric or neurological diseases&lt;br /&gt;&lt;br /&gt;DTI-images were recorded on a 3-T Philips Achieva scanner with the following specifications:&lt;br /&gt; 8-channel head coil&lt;br /&gt; 32 gradient directions&lt;br /&gt; 70 axial slices &lt;br /&gt; slice thickness 2 mm&lt;br /&gt; single-shot EPI sequence&lt;br /&gt; TR = 7852 ms&lt;br /&gt; TE = 60 ms&lt;br /&gt; flip angle 90°&lt;br /&gt; FOV = 224 mm&lt;br /&gt; matrix = 112 x 112 </description>
+<license>Attribution Non-Commercial</license>
+<category>Data</category>
+<release>May 29, 2014</release>
+<homepage>http://www.nitrc.org/projects/ymdti/</homepage>
+<maintainer>University of Luebeck</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

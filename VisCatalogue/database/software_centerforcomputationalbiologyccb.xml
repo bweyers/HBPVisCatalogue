@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Center for Computational Biology (CCB)" nitrc="https://www.nitrc.org/projects/ccb" />
+<description> The Center for Computational Biology (&lt;a href=&quot;http://ccb.loni.usc.edu&quot; target=&quot;_new&quot;&gt;http://ccb.loni.usc.edu&lt;/a&gt;) provides 3 types of resources: (1) Stand-alone computational software tools (image and volume processing, analysis, visualization, graphical workflow environments). (2) Infrastructure Resources (Databases, computational Grid, services). (3) Web-services (web-accessible resources for processing, validation and exploration of multimodal/multichannel data including clinical data, imaging data, genetics data and phenotypic data).&lt;br /&gt;&lt;br /&gt;CCB is headquartered at the Laboratory of Neuro Imaging (&lt;a href=&quot;http://CCB.LONI.usc.edu/&quot; target=&quot;_new&quot;&gt;http://CCB.LONI.usc.edu/&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=298&amp;screenshot_id=202&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=298&amp;screenshot_id=202&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Dec 4, 2009</release>
+<homepage>http://www.CCB.usc.edu</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,39 @@
+<root>
+<software>
+<name name="Caret" nitrc="https://www.nitrc.org/projects/caret" />
+<description> Caret is free, open source software used to visualize and analyze the structural and functional characteristics of cerebral and cerebellar cortex in humans, nonhuman primates, and rodents. Visit the Tool/Resource Home Page for more information. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Atlas Application</category>
+<category>Mesh Generation</category>
+<category>Quantitative Shape Analysis</category>
+<category>Segmentation</category>
+<category>Shape Analysis</category>
+<category>Intersubject</category>
+<category>Image-to-Template</category>
+<category>Gaussian Curvature</category>
+<category>Mean Curvature</category>
+<category>Animation</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>AFNI BRIK</input>
+<output>AFNI BRIK</output>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 26, 2007</release>
+<homepage>http://brainvis.wustl.edu/wiki/index.php/Caret:About</homepage>
+<maintainer>Washington University in St. Louis</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

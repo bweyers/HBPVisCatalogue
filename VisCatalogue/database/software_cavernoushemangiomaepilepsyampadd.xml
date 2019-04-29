@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Cavernous Hemangioma: Epilepsy &amp; ADD" nitrc="https://www.nitrc.org/projects/cavernoush" />
+<description> This resource is populated with information related to a single subject with multiple cavernous hemangiomas with a diagnosis of epilepsy and ADD. </description>
+<license>Attribution</license>
+<release>May 22, 2017</release>
+<homepage>http://www.nitrc.org/projects/cavernoush/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

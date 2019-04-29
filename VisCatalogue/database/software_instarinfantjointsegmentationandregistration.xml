@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="INSTAR (Infant Joint Segmentation and Registration)" nitrc="https://www.nitrc.org/projects/instar" />
+<description> INSTAR (Infant Joint Segmentation and Registration) provides a solution of accurate segmentation and registration for infant brain images, especially from birth to 1 year old, which plays an important role in many early brain development studies. &lt;br /&gt;Specifically, infant brain image segmentation or registration often encounters much more challenges than segmentation/registration of adult brain images due to the dynamic appearance change with rapid brain development. Therefore, in this software package, we included out latest joint segmentation and registration framework [1] to tackle the challenges.&lt;br /&gt;This software package was developed in the IDEA group at UNC-Chapel Hill (&lt;a href=&quot;http://bric.unc.edu/ideagroup&quot; target=&quot;_new&quot;&gt;http://bric.unc.edu/ideagroup&lt;/a&gt;).&lt;br /&gt;[1] P. Dong, L. Wang, W. Lin, D. Shen, and G. Wu, &amp;quot;Scalable joint segmentation and registration framework for infant brain images,&amp;quot; Neurocomputing, In Press, 2016 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1089&amp;screenshot_id=1053&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1089&amp;screenshot_id=1053&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Intersubject</category>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Dec 22, 2016</release>
+<homepage>http://www.nitrc.org/projects/instar/</homepage>
+<maintainer>UNC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

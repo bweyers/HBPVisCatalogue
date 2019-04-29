@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="MoTrak: Head Motion Tracking System" nitrc="https://www.nitrc.org/projects/motrak" />
+<description> Designed for use in an MRI simulator, MoTrak software uses Ascension Technology’s trakSTAR. The sensor attached to the subject’s head determines the position of the head in space relative to the transmitter. The sensor records angular rotations as well as positional displacements from an initially calibrated position. This information is displayed and logged by the program in real-time, allowing observation of head motion in an MRI simulator. The goal is to monitor how much the participant moves while the scan is in progress. If a participant moves too much, it can potentially result in unusable data and wasted resources.&lt;br /&gt;&lt;br /&gt;In the simulator, the participant can simultaneously be habituated to the MRI environment, while being trained to remain still via feedback from the MoTrak system. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=229&amp;screenshot_id=204&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=229&amp;screenshot_id=204&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Experiment Control</category>
+<category>Training</category>
+<category>Application</category>
+<platform>Windows Vista</platform>
+<platform>Windows XP</platform>
+<release>Jun 8, 2009</release>
+<homepage>https://pstnet.com/products/motrak/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

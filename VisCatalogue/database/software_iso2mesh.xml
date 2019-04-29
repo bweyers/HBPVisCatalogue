@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="iso2mesh" nitrc="https://www.nitrc.org/projects/iso2mesh" />
+<description> &amp;quot;Iso2mesh&amp;quot; is a Matlab/Octave-based mesh generation toolbox designed for easy creation of high quality surface and tetrahedral meshes from 3D volumetric images. It contains a rich set of mesh processing scripts/programs, functioning independently or interfacing with external free meshing utilities. Iso2mesh toolbox can operate directly on 3D binary, segmented or gray-scale images, such as those from MRI or CT scans, making it particularly suitable for multi-modality medical imaging data analysis or multi-physics modeling.&lt;br /&gt;&lt;br /&gt;URL: &lt;a href=&quot;http://iso2mesh.sf.net&quot; target=&quot;_new&quot;&gt;http://iso2mesh.sf.net&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=392&amp;screenshot_id=262&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=392&amp;screenshot_id=262&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Mesh Generation</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 24, 2010</release>
+<homepage>http://iso2mesh.sourceforge.net/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

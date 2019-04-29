@@ -1,0 +1,23 @@
+<root>
+<software>
+<name name="XNAT" nitrc="https://www.nitrc.org/projects/xnat" />
+<description> XNAT is an open source imaging informatics platform designed to facilitate management and exploration of medical imaging and related data. XNAT includes a DICOM workflow, a secure database backend, and a rich web-based user interface. XNAT&#x27;s web services interface enables external applications to easily access XNAT-hosted data. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=60&amp;screenshot_id=531&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=60&amp;screenshot_id=531&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Database Application</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 7, 2007</release>
+<homepage>http://www.xnat.org</homepage>
+<maintainer>Washington University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

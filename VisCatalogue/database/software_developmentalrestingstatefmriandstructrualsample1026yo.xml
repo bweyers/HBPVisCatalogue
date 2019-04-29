@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Developmental Resting State fMRI and Structrual Sample 10-26 yo" nitrc="https://www.nitrc.org/projects/devrsfmri_2015" />
+<description> Eyes closed 5 min rest and structural 1.5 TR 3T Siemens Trio in developmenetal sample 10-26 years of age. 192 subjects. Data used in PLOS Bio paper, Contribution of Network Organization and Integration to the development of Cognitive Control&lt;br /&gt;Download: &lt;a href=&quot;http://devrsfmri_2015.projects.nitrc.org/devrsfmri_2015.tar.bz2&quot; target=&quot;_new&quot;&gt;http://devrsfmri_2015.projects.nitrc.org...&lt;/a&gt;</description>
+<license>Open Data Commons Open Database License (ODbL)</license>
+<release>Sep 23, 2015</release>
+<homepage>http://www.nitrc.org/projects/devrsfmri_2015/</homepage>
+<maintainer>University of Pittsburgh</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="UNC Primate Brain Atlas" nitrc="https://www.nitrc.org/projects/primate_atlas" />
+<description> This symmetric atlas of the primate brain has been created using 18 cases of rhesus macaques aged 16-34 months. It includes the T1-weighted image (with and without skull), and also tissue segmentation probability maps (white matter, gray matter, CSF, rest), subcortical structures segmentation (amygdala, caudate, hippocampus, pallidus, putamen), and a lobar parcellation map.&lt;br /&gt;&lt;br /&gt;You can find more details about the creation of this atlas in the following paper : &lt;br /&gt;M. Styner, R. Knickmeyer, S. Joshi, C. Coe, S. J. Short, and J. Gilmore. Automatic brain segmentation in rhesus monkeys. In Proc SPIE Vol 6512, Medical Imaging, 2007, pp. 65122 L1-8 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=197&amp;screenshot_id=103&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=197&amp;screenshot_id=103&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Share Alike</license>
+<category>Atlas Data</category>
+<category>Data</category>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Feb 11, 2009</release>
+<homepage>http://www.nitrc.org/projects/primate_atlas/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

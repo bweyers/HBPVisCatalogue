@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Single-subject Resting state fMRI Reproducibility Resource" nitrc="https://www.nitrc.org/projects/kirbyweekly" />
+<description> We have acquired a longitudinal single-subject dataset of a healthy volunteer (40 years of age at time of initial scan; male). A total of 156 sessions of MRI data was acquired on a weekly basis, over a span of 185 weeks (a little over 3 years).&lt;br /&gt; &lt;br /&gt;The subject was scanned on a 3T Philips Achieva scanner (Philips HealthCare, Best, Netherlands). Rs-fMRI data of the subject was acquired using a multi-slice SENSE-EPI pulse sequence with TR/TE = 2000/30 ms, SENSE factor = 2, flip angle = 75°, 37 axial slices, nominal resolution = 3x3x3 mm3, 1 mm gap, 16 channel neuro-vascular coil, number of dynamics (frames) per run = 200. The subject was instructed to stay as still as possible with his eyes closed during the entire scan, and no other instruction was provided.&lt;br /&gt;&lt;br /&gt;(Please see the MediaWiki page for additional information) </description>
+<license>Attribution Non-Commercial</license>
+<release>Sep 29, 2015</release>
+<homepage>http://www.nitrc.org/projects/kirbyweekly/</homepage>
+<maintainer>Johns Hopkins University School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

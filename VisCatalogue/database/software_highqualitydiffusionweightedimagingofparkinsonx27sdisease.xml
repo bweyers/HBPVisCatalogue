@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="High-quality diffusion-weighted imaging of Parkinson&#x27;s disease" nitrc="https://www.nitrc.org/projects/parktdi" />
+<description> This project contains data and analysis pipelines for a set of 53 subjects in a cross-sectional Parkinson&#x27;s disease (PD) study. The dataset contains diffusion-weighted images (DWI) of 27 PD patients and 26 age, sex, and education-matched control subjects. The DWIs were acquired with 120 unique gradient directions, b=1000 and b=2500 s/mm2, and isotropic 2.4 mm3 voxels. The acquisition used a twice-refocused spin echo sequence in order to avoid distortions induced by eddy currents.&lt;br /&gt;&lt;br /&gt;Processing scripts for the paper can be found on Github: &lt;a href=&quot;https://github.com/CyclotronResearchCentre/parktdi_scripts&quot; target=&quot;_new&quot;&gt;https://github.com/CyclotronResearchCent...&lt;/a&gt;</description>
+<license>Attribution Share Alike</license>
+<category>Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 17, 2014</release>
+<homepage>http://www.nitrc.org/projects/parktdi/</homepage>
+<maintainer>University of Liège</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

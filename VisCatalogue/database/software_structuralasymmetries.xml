@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Structural Asymmetries" nitrc="https://www.nitrc.org/projects/structural_asym" />
+<description> The package of scripts available here enables users to measure structural asymmetries at different scales of resolution using deformation fields that are obtained at 3 increasingly finer scales of normalization resolution. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Mar 11</release>
+<homepage>http://www.nitrc.org/projects/structural_asym/</homepage>
+<maintainer>Medical University of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

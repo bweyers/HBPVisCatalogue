@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="NIfTI" nitrc="https://www.nitrc.org/projects/nifti" />
+<description> The Neuroimaging Informatics Technology Initiative (NIfTI) and NIfTI Data Format Working Group, creator and maintainer of the NIfTI-1 and NIfTI-2 data formats. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=26&amp;screenshot_id=80&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=26&amp;screenshot_id=80&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Other Information Resource</category>
+<category>Algorithm or Reusable Library</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 17, 2007</release>
+<homepage>http://nifti.nimh.nih.gov</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

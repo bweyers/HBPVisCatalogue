@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Monte Carlo eXtreme (MCX)" nitrc="https://www.nitrc.org/projects/mcextreme" />
+<description> Monte Carlo eXtreme, or MCX, is a Monte Carlo simulation software for photon migration in 3D turbid media. It uses Graphics Processing Units (GPU) based massively parallel computing techniques and is extremely fast compared to the traditional single-threaded CPU-based simulations. Using an nVidia 8800GT graphics card (14MP/114Cores), the acceleration is about 300x~400x compared to a single core of Xeon 5120 CPU; this ratio can be as high as 700x with a GTX 280 GPU and 1400x with a GTX 470. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Monte Carlo</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 24, 2010</release>
+<homepage>http://mcx.sourceforge.net/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

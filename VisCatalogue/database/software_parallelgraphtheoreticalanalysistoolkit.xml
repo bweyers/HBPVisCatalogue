@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Parallel Graph-theoretical Analysis Toolkit" nitrc="https://www.nitrc.org/projects/pagani_toolkit" />
+<description> PAGANI Toolkit is a complete software package which can implement all process including brain network construction and network analysis for fMRI data. A CPU-GPU hybrid framework is adopted to make PAGANI Toolkit faster in network analysis.Our PAGANI Toolkit has low hardware requirements for only a PC with a CUDA available GPU. Compared with PC clusters, it’s easier to set up and has comparable or better performance for human brain network analysis. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Jan 5, 2016</release>
+<homepage>http://www.nitrc.org/projects/pagani_toolkit/</homepage>
+<maintainer>Department of Electronic Engineering, Tsinghua University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

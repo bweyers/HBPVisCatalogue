@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="NIH-CIDI Segmentation of PET Images based on Affinity Propagation Clustering" nitrc="https://www.nitrc.org/projects/ap_seg_2013_nih" />
+<description> Presented here is a MATLAB GUI for segmenting and quantifying PET images with multi-focal and diffuse uptakes. The segmentation algorithm was presented at the 2013 IEEE International Symposium on Biomedical Imaging and IEEE Transactions on Biomedical Engineering (In Press).&lt;br /&gt;&lt;br /&gt;The MATLAB GUI imports a PET image and allows the user to draw region of interests (ROIs) in 2D or 3D to roughly separate the object of interest from the background. Then, the areas are segmented using a PET image segmentation method based on Affinity Propagation clustering to cluster the image intensities into meaningful groups. &lt;br /&gt;&lt;br /&gt;For quantification, the Standardized Uptake Value measurements of the binary or the user defined ROI are SUVmax, SUVmean, and Volume (mm^3) and can be exported into an excel sheet. We believe that there is meaningful information in the secondary groups, not just the highest uptake group which is the current standard.&lt;br /&gt;&lt;br /&gt;Renderings with the functional information overlaid can also be made for visualization. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Quantification</category>
+<category>Segmentation</category>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Nov 26, 2013</release>
+<homepage>http://www.nitrc.org/projects/ap_seg_2013_nih/</homepage>
+<maintainer>National Institutes of Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

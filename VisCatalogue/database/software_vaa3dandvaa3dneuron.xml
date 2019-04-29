@@ -1,0 +1,38 @@
+<root>
+<software>
+<name name="Vaa3D and Vaa3D-Neuron" nitrc="https://www.nitrc.org/projects/v3d" />
+<description> Vaa3D (3D Visualization-Assisted Analysis) is a handy, fast, and versatile 3D/4D/5D Image Visualization &amp;amp; Analysis System for Bioimages &amp;amp; Surface Objects. Vaa3D is a cross-platform (Mac, Linux, and Windows) tool for visualizing large-scale (gigabytes, and 64-bit data) 3D/4D/5D image stacks and various surface data. It is also a container of powerful modules for 3D image analysis (cell segmentation, neuron tracing, brain registration, annotation, quantitative measurement and statistics, etc) and data management. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Vaa3D is very easy to be extended via a powerful plugin interface. For example, many ITK tools are being converted to Vaa3D Plugins.&lt;br /&gt;&lt;br /&gt;Vaa3D-Neuron is built upon Vaa3D to make 3D neuron reconstruction much easier. In a recent Nature Biotechnology paper (2010, 28(4), pp.348-353) about Vaa3D and Vaa3D-Neuron, an order of magnitude of performance improvement (both reconstruction accuracy and speed) was achieved compared to other tools. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=379&amp;screenshot_id=921&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=379&amp;screenshot_id=921&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Algorithm or Reusable Library</category>
+<category>Atlas Application</category>
+<category>Neuronal Characterization</category>
+<category>Position</category>
+<category>Volumetric Analysis</category>
+<category>Segmentation</category>
+<category>Shape Analysis</category>
+<category>Registration</category>
+<category>Resampling</category>
+<category>Warping</category>
+<category>Surface Analysis</category>
+<category>Fiber Tracking</category>
+<category>Image Display</category>
+<category>Rendering</category>
+<category>Platform or Development Environment</category>
+<platform>MacOS</platform>
+<platform>Windows 95/98/2000</platform>
+<platform>Windows NT/2000</platform>
+<platform>Windows Vista</platform>
+<platform>Windows XP</platform>
+<platform>Cygwin</platform>
+<platform>Linux</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 3, 2010</release>
+<homepage>http://www.vaa3d.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

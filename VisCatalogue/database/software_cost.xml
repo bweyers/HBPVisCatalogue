@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="COST" nitrc="https://www.nitrc.org/projects/cost_unc" />
+<description> Connectivity Orientation Spherical distribution Tool (COST) - This tool implements the method from the paper &amp;quot;Efficient, Graph-based White Matter Connectivity from Orientation Distribution Functions via Multi-directional Graph Propagation,&amp;quot; Proc. of SPIE 2011; 7962(79620S):1-8. However, with it we also seek to modify the method into a minimum cost-based approach and eventually test it on applications. </description>
+<release>Jul 12, 2011</release>
+<homepage>http://www.nitrc.org/projects/cost_unc/</homepage>
+<maintainer>UNC-Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

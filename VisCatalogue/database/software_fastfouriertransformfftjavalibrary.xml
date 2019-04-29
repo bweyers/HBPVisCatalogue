@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Fast Fourier Transform (FFT) JavaLibrary" nitrc="https://www.nitrc.org/projects/fft" />
+<description> The FFT Java library (&lt;a href=&quot;http://www.loni.usc.edu/Software/FFT&quot; target=&quot;_new&quot;&gt;http://www.loni.usc.edu/Software/FFT&lt;/a&gt;) is used for the execution of discrete Fourier transforms in 1-D, 2-D and 3-D through the implementation of Fast Fourier Transform (FFT) algorithms.&lt;br /&gt;&lt;br /&gt;FFT toolbox is distributed by the Laboratory of Neuro Imaging (&lt;a href=&quot;http://www.loni.usc.edu/Software/FFT&quot; target=&quot;_new&quot;&gt;http://www.loni.usc.edu/Software/FFT&lt;/a&gt;) at USC. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=304&amp;screenshot_id=409&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=304&amp;screenshot_id=409&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>LONI Software License</license>
+<release>Dec 8, 2009</release>
+<homepage>http://www.nitrc.org/projects/fft/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

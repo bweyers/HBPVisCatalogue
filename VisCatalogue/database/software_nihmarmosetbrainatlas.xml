@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="NIH Marmoset Brain Atlas" nitrc="https://www.nitrc.org/projects/nih_marmoset" />
+<description> NIH Marmoset Brain Atlas </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</license>
+<release>Oct 9, 2017</release>
+<homepage>http://www.nitrc.org/projects/nih_marmoset/</homepage>
+<maintainer>NIH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

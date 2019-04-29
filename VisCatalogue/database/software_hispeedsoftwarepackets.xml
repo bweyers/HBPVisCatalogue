@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="HI-SPEED Software Packets" nitrc="https://www.nitrc.org/projects/hispeed" />
+<description> HI-SPEED Software Packets contain &lt;br /&gt;(1) unconstrained and constrained nonlinear least squares diffusion tensor estimation techniques, &lt;br /&gt;(2) 2-dimensional and 3-dimensional analytical (Shepp-Logan) magnetic resonance imaging phantoms in both the Fourier and image domains, &lt;br /&gt;(3) techniques for reporting the underlying signal-to-noise ratio in magnetic resonance (MR) images, &lt;br /&gt;(4) Probabilistic Identification and EStimation of NOise (PIESNO)---a technique for identifying noise-only pixels and estimating the underlying noise standard deviation in MR images, and &lt;br /&gt;(5) a signal-transformational technique for breaking the noise floor in MR images. &lt;br /&gt;&lt;br /&gt;Many more computational tools will be shared with users and developers as they become available.&lt;br /&gt;&lt;br /&gt;Download info: &lt;a href=&quot;http://sites.google.com/site/hispeedpackets/&quot; target=&quot;_new&quot;&gt;http://sites.google.com/site/hispeedpack...&lt;/a&gt;</description>
+<license>HI-SPEED Software Packets License</license>
+<category>Algorithm or Reusable Library</category>
+<category>Image Reconstruction</category>
+<category>Tensor Metric</category>
+<category>Statistical Operation</category>
+<platform>OS Independent</platform>
+<release>Jun 16, 2009</release>
+<homepage>http://www.nitrc.org/projects/hispeed/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

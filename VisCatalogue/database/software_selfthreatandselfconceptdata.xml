@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Self-threat and self-concept data" nitrc="https://www.nitrc.org/projects/self01" />
+<description> The content includes the fMRI data of all of the 46 participants of the study mentioned above. You will be able to download the raw data, for preprocessing and analysing by yourself. Please be aware of the different conditions, which are mentioned in the connected paper and attached as logfiles in the repository. </description>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>Jul 22, 2015</release>
+<homepage>http://www.nitrc.org/projects/self01/</homepage>
+<maintainer>University of Graz</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

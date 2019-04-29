@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="NeMo: NEuron MOrphological analysis tool" nitrc="https://www.nitrc.org/projects/nemo_microscopy" />
+<description> NEMO (NEuron MOrphological analysis tool) is a new freeware for semi automated quantitative and dynamic analysis of neuron morphometry.&lt;br /&gt;NEMO was co-developed at the [Italian National Council of Research Institute of Clinical Physiology (IFC-CNR)] (&lt;a href=&quot;https://www.ifc.cnr.it/index.php/it/&quot; target=&quot;_new&quot;&gt;https://www.ifc.cnr.it/index.php/it/&lt;/a&gt;) and the [Research Center &amp;quot;E. Piaggio&amp;quot;, University of Pisa] (&lt;a href=&quot;http://www.centropiaggio.unipi.it/&quot; target=&quot;_new&quot;&gt;http://www.centropiaggio.unipi.it/&lt;/a&gt;).&lt;br /&gt;It incorporates the most important microstructural quantification methods, such as fractal and sholl analysis with statistical and classification tools to provide an integrated image processing environment which enables fast and easy feature identification.&lt;br /&gt;It includes:&lt;br /&gt;Friendly interactive graphical user interface&lt;br /&gt;Image pre-processing&lt;br /&gt;Morphological analysis&lt;br /&gt;Topological analysis&lt;br /&gt;Cell counting&lt;br /&gt;*3-way PCA analysis &lt;br /&gt;Plot of variables&lt;br /&gt;For additional information contact: [lucia.billeci@ifc.cnr.it] (mailto:lucia.billeci@ifc.cnr.it) or [chiara.magliaro@googlemail.com] (mailto:chiara.magliaro@googlemail.com) </description>
+<license>Apache License 2.0</license>
+<release>Oct 2, 2018</release>
+<homepage>http://www.nitrc.org/projects/nemo_microscopy/</homepage>
+<maintainer>University of Pisa</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

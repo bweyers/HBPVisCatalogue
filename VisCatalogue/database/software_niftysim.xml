@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Nifty Sim" nitrc="https://www.nitrc.org/projects/niftysim" />
+<description> Nifty Sim is a high-performance nonlinear finite element solver, developed at University College London. A key feature is the option of GPU-based execution, which allows the solver to significantly out-perform equivalent commercial packages. </description>
+<license>BSD License</license>
+<release>May 1, 2013</release>
+<homepage>http://www.nitrc.org/projects/niftysim/</homepage>
+<maintainer>University of Sheffield/University College London</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

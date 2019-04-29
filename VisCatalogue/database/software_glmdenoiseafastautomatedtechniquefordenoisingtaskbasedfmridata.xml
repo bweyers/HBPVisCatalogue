@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="GLMdenoise: a fast, automated technique for denoising task-based fMRI data" nitrc="https://www.nitrc.org/projects/glmdenoise" />
+<description> GLMdenoise is a MATLAB toolbox for denoising task-based fMRI data. The basic idea is to derive noise regressors from voxels unrelated to the experimental paradigm and to use these regressors in a general linear model (GLM) analysis of the data. The technique is fast and automated and general: it requires only a design matrix indicating the experimental design and an fMRI dataset. In the published paper (Kay et al., Frontiers in Neuroscience, 2013), it is shown that GLMdenoise outperforms other popular denoising methods, such as using motion parameters as noise regressors, ICA-based denoising, and RETROICOR/RVHRCOR. </description>
+<license>Attribution</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<release>Jan 10, 2014</release>
+<homepage>http://kendrickkay.net/GLMdenoise/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

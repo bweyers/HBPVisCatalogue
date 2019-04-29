@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="CAMINO-TRACKVIS" nitrc="https://www.nitrc.org/projects/camino-trackvis" />
+<description> With increasing efforts on brain connectivity analyses it becomes important to have tools that can allow increased interoperability among different tractography tools. This package allows interoperability between CAMINO and TRACKVIS. CAMINO is a leading software package in DTI processing. The package is from University of College London. TRACKVIS is a tract visualizing utility with capability of visualizing up to and over a million white matter tracts seamlessly. The package is from Massachusetts General Hospital.&lt;br /&gt;&lt;br /&gt;The tools in this package allow conversion of tracts from one format to another in a very effective way with ability to handle over a million tracts.&lt;br /&gt;&lt;br /&gt;Please use the sourceforge link below to download source code, instructions example scripts and other miscellaneous tools.&lt;br /&gt;&lt;a href=&quot;http://sourceforge.net/projects/camino-trackvis/&quot; target=&quot;_new&quot;&gt;http://sourceforge.net/projects/camino-t...&lt;/a&gt;</description>
+<license>MIT/X Consortium License</license>
+<release>Dec 19, 2009</release>
+<homepage>http://www.nitrc.org/projects/camino-trackvis/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

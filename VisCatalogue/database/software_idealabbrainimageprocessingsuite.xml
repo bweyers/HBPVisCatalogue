@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="IDeA Lab brain image processing suite" nitrc="https://www.nitrc.org/projects/idea_lab" />
+<description> Suite of tools for brain image analysis. Image manipulation, 2D visualization, linear alignment, BBSI, template-based bias correction, skullstrip. GUI Image analysis tools. Now modified to read/write single file nifti (.nii) format. Other packages to be added. </description>
+<category>Volume Measurement</category>
+<category>Intermodal</category>
+<category>Intersubject</category>
+<category>Image-to-Template</category>
+<category>Spline Interpolation</category>
+<category>Tri-linear</category>
+<category>Nonlinear Warp</category>
+<category>Two Dimensional Display</category>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Mar 20, 2008</release>
+<homepage>http://www.nitrc.org/projects/idea_lab/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

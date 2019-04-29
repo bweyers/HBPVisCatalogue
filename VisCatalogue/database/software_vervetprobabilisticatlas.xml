@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Vervet Probabilistic Atlas" nitrc="https://www.nitrc.org/projects/vervet_atlas" />
+<description> The vervet (Chlorocebus aethiops sabaeus) probabilistic atlas defines an anatomical space (template) with associated tissue and regional prior probability maps. The atlas was produced from whole head MRI of 10 normal adult animal subjects. The package consists of two atlases. The &amp;quot;Biased&amp;quot; directory contains the average template and probabilistic atlases for selected tissue classes constructed by registering the training population to one subject. The &amp;quot;Unbiased&amp;quot; directory contains the atlas constructed using unbiased estimation. The atlas is suitable for use in any segmentation tool using a probabilistic atlas, for example those in Slicer. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=388&amp;screenshot_id=297&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=388&amp;screenshot_id=297&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Share Alike</license>
+<category>Atlas Data</category>
+<release>Jul 2, 2010</release>
+<homepage>http://www.nitrc.org/projects/vervet_atlas/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

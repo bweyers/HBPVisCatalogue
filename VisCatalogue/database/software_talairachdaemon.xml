@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Talairach Daemon" nitrc="https://www.nitrc.org/projects/tal-daemon" />
+<description> The Talairach Daemon database contains anatomical names for brain areas using x-y-z coordinates defined by the 1988 Talairach atlas. </description>
+<license>BrainMap License</license>
+<category>Atlas Application</category>
+<category>Database Application</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Aug 31, 2007</release>
+<homepage>http://www.talairach.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Statistical Methods for Manifold-valued Data" nitrc="https://www.nitrc.org/projects/mosfa" />
+<description> The aim of this package is to develop several statistical methods for manifold-valued data. Mixture of offset-normal shape factor analyzers (MOSFA) toolbox is a penalized model-based clustering framework to cluster landmark based planar shape data. </description>
+<license>BIAS License</license>
+<release>Apr 14, 2016</release>
+<homepage>http://www.nitrc.org/projects/smmd/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

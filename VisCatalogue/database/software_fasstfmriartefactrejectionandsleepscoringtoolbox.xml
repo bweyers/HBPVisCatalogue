@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="FASST – fMRI Artefact rejection and Sleep Scoring Toolbox" nitrc="https://www.nitrc.org/projects/fasst" />
+<description> FASST is an EEG toolbox developed to help users with 3 specific types of data and problems: simulatenous EEG-fMRI recording, continuous EEG scoring (e.g. sleep) and handling (visualisation, cutting, power spectrum, etc.) multi-channel recording of spontaneous EEG.&lt;br /&gt;The toolbox is written in Matlab and is specifically compatible with the BrainAmp family of EEG recorders (from BrainProducts GmbH) Three other data formats are now also supported: the edf &#x27;European Data Format&#x27;, exported raw-EGI data (from Electrical Geodesics, Inc.) and the BCI2000 format.The results are directly compatible with SPM8 and are saved with SPM8 EEG data format. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=648&amp;screenshot_id=564&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=648&amp;screenshot_id=564&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Visualization</category>
+<platform>OS Independent</platform>
+<release>Sep 26, 2012</release>
+<homepage>http://www.montefiore.ulg.ac.be/~phillips/FASST.html</homepage>
+<maintainer>University of Liège</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

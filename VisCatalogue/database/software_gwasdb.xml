@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="GWASdb" nitrc="https://www.nitrc.org/projects/gwasdb" />
+<description> The database provides following functions: &lt;br /&gt;(i) In addition to all the TASs attained genome-wide significance (P-value &amp;lt; 5 x 10-8), we manually curated the TASs that are marginally significant (P-value &amp;lt; 10-3) by looking into the supplementary materials of each original publication; &lt;br /&gt;(ii) Extensive functional annotations and predictions for those TASs across multiple domains; &lt;br /&gt;(iii) Furthermore, we have manually mapped those TASs by phenotype according to Disease Ontology (DO), Human Phenotype Ontology (HPO) and Medical Subject Headings (MeSH) for easy access. &lt;br /&gt;(iv) Besides the SNP-trait association, we also collect SNP-Drug Response data. &lt;br /&gt;(v) Comprehensive and interactive user interface to facilitate the GWAS research. </description>
+<license>GNU General Public License v3</license>
+<release>Mar 1, 2017</release>
+<homepage>http://www.nitrc.org/projects/gwasdb/</homepage>
+<maintainer>HKU</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

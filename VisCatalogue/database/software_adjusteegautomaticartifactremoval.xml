@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="ADJUST - EEG Automatic Artifact Removal" nitrc="https://www.nitrc.org/projects/adjust" />
+<description> ADJUST is a completely automatic algorithm for artifact identification and removal in EEG data. ADJUST is based on Independent Component Analysis (ICA), a successful but unsupervised method for isolating artifacts from EEG recordings. ADJUST identifies artifacted ICA components by combining stereotyped artifact-specific spatial and temporal features. Features are optimised to capture blinks, eye movements and generic discontinuities. Once artifacted IC are identified, they can be simply removed from the data while leaving the activity due to neural sources almost unaffected.&lt;br /&gt;&lt;br /&gt;ADJUST runs in Matlab as a plugin of the EEGLAB software, the most popular software for analysis of electrophysiological data. No Matlab toolboxes are required.&lt;br /&gt;&lt;br /&gt;For more details, please read ADJUST reference paper and ADJUST tutorial (&amp;quot;Docs&amp;quot; tab on the left of the page). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=739&amp;screenshot_id=672&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=739&amp;screenshot_id=672&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Independent Component Analysis</category>
+<platform>OS Independent</platform>
+<release>Aug 1, 2013</release>
+<homepage>http://www.nitrc.org/projects/adjust/</homepage>
+<maintainer>University of Trento, Italy</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

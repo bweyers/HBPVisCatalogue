@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Monte Carlo Simulation Software: tMCimg" nitrc="https://www.nitrc.org/projects/tmcimg" />
+<description> tMCimg uses a Monte Carlo algorithm to model the transport of photons through 3D volumes with spatially varying optical properties. Both highly-scattering tissues (e.g. white matter) and weakly scattering tissues (e.g. cerebral spinal fluid) are supported. Using the anatomical information provided by MRI, X-ray CT, or ultrasound, accurate solutions to the photon migration forward problems are computed in times ranging from minutes to hours, depending on the optical properties and the computing resources available. </description>
+<license>BSD License</license>
+<category>Monte Carlo</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 24, 2010</release>
+<homepage>http://www.nitrc.org/projects/tmcimg/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

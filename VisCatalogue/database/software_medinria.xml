@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="MedINRIA" nitrc="https://www.nitrc.org/projects/medinria" />
+<description> MedINRIA allows to process and analyze a wide range of magnetic resonance (MR) images including anatomical MRI, functional MRI (fMRI), and diffusion tensor MRI (DT-MRI). MedINRIA is intended to be used by anyone curious about medical images! </description>
+<release>Sep 9, 2008</release>
+<homepage>http://med.inria.fr/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

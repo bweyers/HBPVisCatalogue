@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Registry Builder Data Harmonization and Aggregation Tool" nitrc="https://www.nitrc.org/projects/registrybuilder" />
+<description> Remedy Informatics&#x27; platform aggregates data from multiple sources, harmonizes the data via Ontology, and provides data visualization and pattern recognition and querying tools. Our software helps harmonize the data that you have in different Excel files, databases, repositories, biospecimen applications, etc. and maps it to one common registry. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=705&amp;screenshot_id=637&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=705&amp;screenshot_id=637&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Mosaic License</license>
+<category>Data Resource</category>
+<release>Apr 8, 2013</release>
+<homepage>http://www.remedyinformatics.com/</homepage>
+<maintainer>Remedy Informatics</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

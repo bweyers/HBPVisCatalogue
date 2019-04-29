@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Intra- and inter-scanner reliability of RS-fMRI BOLD and ASL with eyes closed vs. eyes open" nitrc="https://www.nitrc.org/projects/reliability" />
+<description> Data information:&lt;br /&gt;21 subjects were scanned 3 times (V1, V2, V3), with V1 and V2 on a scanner, V3 on another scanner in another site. Resting-state blood-oxygenation-level-dependent functional MRI (BOLD-fMRI), pseudo-continuous arterial spin labeling (pCASL), and high-resolution 3D T1 imaging were performed under eyes open (EO) and eyes closed (EC) conditions. Please see below for the original paper (Yuan et al., 2018) and another paper (Zhao et al. 2018).&lt;br /&gt;Yuan, L.-X. et al. (2018) ‘Intra- and Inter-scanner Reliability of Scaled Subprofile Model of Principal Component Analysis on ALFF in Resting-State fMRI Under Eyes Open and Closed Conditions’, Frontiers in Neuroscience, 12, p. 311. doi: 10.3389/fnins.2018.00311&lt;br /&gt;Zhao, N. et al. (2018) ‘Intra- and Inter-Scanner Reliability of Voxel-Wise Whole-Brain Analytic Metrics for Resting State fMRI’, Frontiers in Neuroinformatics, 12, p. 54. doi: 10.3389/fninf.2018.00054 </description>
+<category>Data</category>
+<release>Jan 6</release>
+<homepage>http://www.nitrc.org/projects/reliability/</homepage>
+<maintainer>Hangzhou Normal University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

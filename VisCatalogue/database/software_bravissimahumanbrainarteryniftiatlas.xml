@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Bravissima: Human Brain Artery NIfTI Atlas" nitrc="https://www.nitrc.org/projects/bravissima" />
+<description> Bravissima is a translation of the BraVa arterial vasculature database (nitrc.org/projects/breva) into the more useful NIFTI MRI file format that can be applied to stroke studies, fMRI resting state imaging studies and other clinical neuroscience studies. We have successfully converted BraVa artery locations in both hemispheres for 43 healthy subjects into standard NIFTI MRI format files, including normalizing artery locations into MNI152 stereotaxic space. We have also included subject NIFTI files of the distance each arterial location is from the Circle of Willis as well as group maps of the locations of major arterial branch junctions; frequent locations of arterial occlusion. Group artery region labels and arterial density maps are provided as well. Matlab scripts used to produce all files are included. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1266&amp;screenshot_id=1184&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1266&amp;screenshot_id=1184&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution</license>
+<category>Atlas Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Apr 18, 2018</release>
+<homepage>http://www.nitrc.org/projects/bravissima/</homepage>
+<maintainer>US Department of Veterans Affairs</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

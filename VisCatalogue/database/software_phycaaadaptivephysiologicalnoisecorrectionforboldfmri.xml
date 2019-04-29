@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="PHYCAA+: adaptive physiological noise correction for BOLD fMRI" nitrc="https://www.nitrc.org/projects/phycaa_plus" />
+<description> The PHYCAA+ algorithm automatically estimates and removes physiological noise in BOLD fMRI data, including the effects of heartbeat and respiration. This algorithm (1) masks out high-variance CSF and vascular tracts that may otherwise confound analyses, and (2) regresses out noise timeseries in grey matter tissue, using an adaptive multivariate component decomposition (Canonical Autocorrelations Analysis). PHYCAA+ is an efficient, automated procedure that does NOT require external measures of physiology, nor does it require the user to manually identify noise components.&lt;br /&gt;&lt;br /&gt;Based on the peer-reviewed article:&lt;br /&gt;Churchill &amp;amp; Strother (2013). &amp;quot;PHYCAA+: An Optimized, Adaptive Procedure for &lt;br /&gt;Measuring and Controlling Physiological Noise in BOLD fMRI&amp;quot;. NeuroImage 82: 306-325 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=751&amp;screenshot_id=677&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=751&amp;screenshot_id=677&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<category>Algorithm or Reusable Library</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 5, 2013</release>
+<homepage>http://www.nitrc.org/projects/phycaa_plus/</homepage>
+<maintainer>Rotman Research Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

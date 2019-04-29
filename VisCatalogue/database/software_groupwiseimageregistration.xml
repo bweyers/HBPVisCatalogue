@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Groupwise Image Registration" nitrc="https://www.nitrc.org/projects/girt" />
+<description> Groupwise Image Registration Toolbox&lt;br /&gt;&lt;br /&gt;1. A method for group-wise image registration by pairwisely registering similar images identified using graph theoretic techniques. Particularly, we use sparse coding to estimate image similarity measures among images to be registered, yielding asymmetric, group-wise image similarity measures for each image to others in the group. Based on the asymmetric group-wise image similarity measures among different images, a directed graph is built for learning a manifold of images and identifying a group center image so that all other images can be registered to the center image following the shortest directed paths, each of them decomposing a large deformation into a series of small and anatomically meaningful deformations. &lt;br /&gt;&lt;br /&gt;2. A method for group-wise registration of functional MRI images based on their local functional connectivity patterns. </description>
+<license>PAMI License</license>
+<release>Mar 14, 2013</release>
+<homepage>http://www.nitrc.org/projects/girt/</homepage>
+<maintainer>Institute of Automation, Chinese Academy of Sciences</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="CleanLine" nitrc="https://www.nitrc.org/projects/cleanline" />
+<description> Sinusoidal noise can be a prominent artifact in recorded electrophysiological data. This can stem from AC power line fluctuations (e.g. 50/60 Hz line noise + harmonics), power suppliers (e.g. in medical equipment), fluorescent lights, etc. Notch filtering is generally undesirable due to creation of band-holes, and significant distortion of frequencies around the notch frequency (as well as phase distortion at other frequencies and Gibbs rippling in the time-domain). CleanLine is an EEGLAB plugin which adaptively estimates and removes sinusoidal artifacts from ICA components or scalp channels using a frequency-domain (multi-taper) regression technique with a Thompson F-statistic for identifying significant sinusoidal artifacts. This approach has been advocated by Partha Mitra and Hemant Bokil (Observed Brain Dynamics, Chapter 7.3.4., 2007) and CleanLine utilizes modified routines from the Mitra Lab&#x27;s Chronux Toolbox (www.chronux.org). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=572&amp;screenshot_id=477&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=572&amp;screenshot_id=477&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Spectral Analysis</category>
+<release>Feb 8, 2012</release>
+<homepage>http://www.nitrc.org/projects/cleanline/</homepage>
+<maintainer>UCSD</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

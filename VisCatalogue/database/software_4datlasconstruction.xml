@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="4D Atlas Construction" nitrc="https://www.nitrc.org/projects/atlas4d" />
+<description> 4DAtlas (4D Atlas Construction Toolbox) provides solutions for constructing longitudinal atlases, which are the necessary steps for many brain-related applications.&lt;br /&gt;&lt;br /&gt;This software package was developed in the IDEA group at UNC-Chapel Hill ( &lt;a href=&quot;http://bric.unc.edu/ideagroup&quot; target=&quot;_new&quot;&gt;http://bric.unc.edu/ideagroup&lt;/a&gt; ). </description>
+<license>GNU General Public License (GPL)</license>
+<release>Mar 25, 2013</release>
+<homepage>http://www.nitrc.org/projects/atlas4d/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

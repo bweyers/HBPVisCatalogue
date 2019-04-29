@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="MeshValmet: Validation Metric for Meshes" nitrc="https://www.nitrc.org/projects/meshvalmet" />
+<description> MeshValmet is a tool that measures surface to surface distance between two triangle meshes using user-specified uniform sampling. Thus, users can choose finer sampling level to calculate errors to gain more accuracy in the &amp;quot;error space&amp;quot;, or sparser sampling to gain speed and get an approximate feeling of error distribution between boundaries.&lt;br /&gt;&lt;br /&gt;Besides its pleasant visualization using the VTK library, MeshValmet also provides useful histogram and statistical information based on the sample errors, such as mean and median distance, root mean square distance, mean square distance, mean absolute distance, Hausdorff distance, 95 percentile, 68 percentile, etc.&lt;br /&gt;&lt;br /&gt;MeshValmet is based on the work of Nicolas Aspert, etc.: MESH: Measuring Errors between Surfaces using the Hausdorff distance in the proceedings of the IEEE Int. Conf. on Multimedia and Expo 2002 (ICME), vol. I, pp. 705-708.&lt;br /&gt;&lt;br /&gt;The calculation of the Dice&#x27;s Coefficient is calculated by Joshua Stough using the concept of a Riemannian sum. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Feb 11, 2011</release>
+<homepage>http://www.nitrc.org/projects/meshvalmet/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

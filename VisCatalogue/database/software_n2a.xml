@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="N2A" nitrc="https://www.nitrc.org/projects/n2a" />
+<description> A scalable object-oriented language for modeling neural systems, along with an IDE for writing models and controlling simulations. </description>
+<license>BSD License</license>
+<category>Multi-Neuron Modeling</category>
+<release>Oct 8, 2015</release>
+<homepage>http://www.nitrc.org/projects/n2a/</homepage>
+<maintainer>Sandia National Laboratories</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

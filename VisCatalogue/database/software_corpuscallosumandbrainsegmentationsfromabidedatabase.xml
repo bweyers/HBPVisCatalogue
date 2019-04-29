@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Corpus callosum and brain segmentations from ABIDE database" nitrc="https://www.nitrc.org/projects/cc_abide" />
+<description> - NIFTI format corpus callosum segmentation data&lt;br /&gt;- NIFTI format brain segmentations&lt;br /&gt;&lt;br /&gt;Both derived from ABIDE database </description>
+<license>Attribution</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 8, 2015</release>
+<homepage>http://sites.google.com/site/hpardoe/cc_abide</homepage>
+<maintainer>New York University School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

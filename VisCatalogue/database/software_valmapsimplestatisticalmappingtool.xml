@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="ValMap: simple statistical mapping tool" nitrc="https://www.nitrc.org/projects/valmap" />
+<description> valmap is a command line voxel-wise statistical analysis program for images. Images can be gray matter density, jacobian images, etc.&lt;br /&gt;&lt;br /&gt;The linear model is implemented, i.e. designs that can be modeled as Y=AB, where Y is a vector or matrix of dependent variables, B is a vector or matrix of parameters to be estimated, and A is a design matrix. &lt;br /&gt;&lt;br /&gt;Why use valmap?&lt;br /&gt;&lt;br /&gt;1. Do not need a Matlab license to run.&lt;br /&gt;2. Can incorporate a spatially varying independent variable (e.g., you have a perfusion map as your dependent variable, and you want to co-vary for gray matter at each voxel, so use a gray matter map as an independent variable).&lt;br /&gt;3. Can use spatially invariant independent variables (e.g., you can have a cognitive test score as the dependent variable, and use jacobian maps as the independent variable).&lt;br /&gt;4. Can have multiple dependent variables and do multivariate analyses (e.g., want to know the overall effect of disease on perfusion and structure, so use perfusion maps and jacobian maps as dependent variables). </description>
+<license>BSD License</license>
+<category>Morphology</category>
+<category>Linear</category>
+<platform>Windows XP</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Nov 6, 2009</release>
+<homepage>http://www.nitrc.org/projects/valmap/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

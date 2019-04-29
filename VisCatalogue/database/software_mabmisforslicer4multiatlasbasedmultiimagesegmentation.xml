@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MABMIS for Slicer 4: Multi-Atlas Based Multi-Image Segmentation" nitrc="https://www.nitrc.org/projects/mabmis_slicer4" />
+<description> MABMIS is a module for Slicer 4 that implements a multi-atlas based multi-image method for group-wise segmentation. (H. Jia, P-T Yap, D. Shen, &amp;quot;Iterative multi-atlas-based multi-image segmentation with tree-based registration&amp;quot;, NeuroImage, 59:422-430, 2012. )&lt;br /&gt;The method utilizes a novel tree-based groupwise registration method for concurrent alignment of both the atlases and the target images, and an iterative groupwise segmentation method for simultaneous consideration of segmentation information propagated from all available images, including the atlases and other newly segmented target images.&lt;br /&gt;&lt;br /&gt;MABMIS contains a training step and a testing step. In the training step, a groupwise registration is performed to generate a tree structure for the atlases. In the testing step, a group of target images are simultaneously and iteratived segmented using the pre-constructed atlas tree. &lt;br /&gt;&lt;br /&gt;Prior to applying MABMIS, the atlas images and target images need be skullstripped, and linearly transformed to a common space. </description>
+<license>3D Slicer License</license>
+<release>Jan 2, 2014</release>
+<homepage>http://www.nitrc.org/projects/mabmis_slicer4/</homepage>
+<maintainer>UNC/GE</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

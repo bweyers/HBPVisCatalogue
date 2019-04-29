@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="ModelGUI" nitrc="https://www.nitrc.org/projects/modelgui" />
+<description> ModelGUI (or simply mgui) is an open source Java-based project intended to provide a graphic user interface (GUI) for interactions between scientists (or enthusiasts) and their data. In its current (beta) form, mgui offers the following functionality:&lt;br /&gt;&lt;br /&gt;Established:&lt;br /&gt;&lt;br /&gt;Cross-platform functionality (with a Java Runtime installation, runs on Linux, Windows, Mac, or Solaris)&lt;br /&gt;2D rendering of data based upon Java2D, and 3D rendering based upon Java3D&lt;br /&gt;An extensible I/O framework accommodating a variety of standard and non-standard file formats&lt;br /&gt;Database connectivity using JDBC&lt;br /&gt;Graph visualization based upon the JUNG library&lt;br /&gt;An intuitive Swing-based GUI for managing, querying, and visualizing data&lt;br /&gt;&lt;br /&gt;Experimental:&lt;br /&gt;&lt;br /&gt;Various CAD-type tools for editing and creating geometry&lt;br /&gt;The ability to organize complex datasets into intuitive mgui projects&lt;br /&gt;A processing pipeline interface which allows users to process their datasets with any available Java or native software tools&lt;br /&gt;A computational modelling framework 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=726&amp;screenshot_id=692&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=726&amp;screenshot_id=692&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Database Application</category>
+<category>Clipping</category>
+<category>Three Dimensional Display</category>
+<category>Two Dimensional Display</category>
+<category>Surface Rendering</category>
+<category>Volume Rendering</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 6, 2013</release>
+<homepage>http://mgui.wikidot.com</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

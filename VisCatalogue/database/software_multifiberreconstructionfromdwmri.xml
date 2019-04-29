@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Multi-fiber Reconstruction from DW-MRI" nitrc="https://www.nitrc.org/projects/diffusion-mri" />
+<description> This program contains Python modules for modeling and reconstruction of diffusion weighted MRI data. It is a subset of the code internally used in the CVGMI lab at the University of Florida. Three different reconstruction methods are currently included in this program, namely, Mixture of Wisharts (MOW), Diffusion Orientation Transform (DOT) and Q-ball Imaging (QBI).&lt;br /&gt;&lt;br /&gt;This program is mainly developed and maintained by Bing Jian, as part of his Ph.D. research, supervised by Prof. Baba Vemuri.&lt;br /&gt;&lt;br /&gt;Please note that the source code of this program is hosted at Google Code, see the &amp;quot;Source Code&amp;quot; link on the left. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>OS Independent</platform>
+<release>Jun 9, 2009</release>
+<homepage>http://www.nitrc.org/projects/diffusion-mri/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

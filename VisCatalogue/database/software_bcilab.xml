@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="BCILAB" nitrc="https://www.nitrc.org/projects/bcilab" />
+<description> BCILAB is a MATLAB toolbox for Brain-Computer Interface (BCI) research. It facilitates the design and development of new methods for cognitive state estimation and their use in both offline data analysis and real-time applications. BCILAB includes an easily extensible collection of currently over 100 methods from the literature (covering signal processing, machine learning and BCI-specific methods). Aside from supporting advanced BCI research, a special aim of BCILAB is to facilitate the adoption of machine learning and advanced statistical modeling for functional neuroimaging purposes in tandem with the EEGLAB platform. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=559&amp;screenshot_id=561&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=559&amp;screenshot_id=561&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Discriminant Analysis</category>
+<category>Temporal Integration</category>
+<release>Jan 6, 2012</release>
+<homepage>http://www.nitrc.org/projects/bcilab/</homepage>
+<maintainer>UCSD</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

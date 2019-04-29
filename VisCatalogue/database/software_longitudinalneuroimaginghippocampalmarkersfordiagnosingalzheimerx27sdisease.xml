@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Longitudinal neuroimaging hippocampal markers for diagnosing Alzheimer&#x27;s disease" nitrc="https://www.nitrc.org/projects/longhippsegm" />
+<description> We introduce a longitudinal image analysis framework based on robust registration and simultaneous hippocampal segmentation and longitudinal marker classification of brain MRI of an arbitrary number of time points. The framework comprises two innovative parts: a longitudinal segmentation and a longitudinal classification step. We introduce a novel approach to the joint segmentation of the hippocampus across multiple time points; this approach is based on graph cuts of longitudinal MRI scans with constraints on hippocampal atrophy and supported by atlases. </description>
+<release>Jun 29, 2017</release>
+<homepage>http://www.nitrc.org/projects/longhippsegm/</homepage>
+<maintainer>UPM</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

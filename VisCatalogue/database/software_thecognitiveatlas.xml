@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="The Cognitive Atlas" nitrc="https://www.nitrc.org/projects/cogatlas" />
+<description> The Cognitive Atlas, &lt;a href=&quot;http://www.cognitiveatlas.org,&quot; target=&quot;_new&quot;&gt;http://www.cognitiveatlas.org,&lt;/a&gt; is a collaborative knowledge building project that aims to develop a knowledge base (or ontology) that characterizes the state of current thought in cognitive neuroscience. The goal is to develop a knowledge base that will support annotation of data in databases, as well as supporting improved discourse in the community. It is open to all interested researchers. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=396&amp;screenshot_id=502&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=396&amp;screenshot_id=502&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<category>Ontology</category>
+<category>Knowledge Environment</category>
+<category>Websites</category>
+<platform>OS Independent</platform>
+<release>Jul 26, 2010</release>
+<homepage>http://www.cognitiveatlas.org</homepage>
+<maintainer>Stanford University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Personode" nitrc="https://www.nitrc.org/projects/personode" />
+<description> Personode is a user-friendly, open-source MatLab toolbox that semi-automatically guides through ICA components classification into resting-state networks (RSN), alleviating the selection process, and allows the robust definition of either group- or subject-specific ROIs derived from RSN, which could make network analysis more accurate and individually specific. This tool can produce higher activations than ROIs based on single-studies coordinates or meta-analysis studies for expected regions in a task-related ROI activation analysis and more accurate correlation values (either positive or negative) than clusters belonging to an atlas for expected interactions among networks in a resting state functional connectivity analysis. </description>
+<license>Attribution Non-Commercial</license>
+<release>May 26, 2018</release>
+<homepage>http://www.nitrc.org/projects/personode/</homepage>
+<maintainer>USP/UZH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

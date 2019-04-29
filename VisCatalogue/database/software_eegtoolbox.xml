@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="EEG Toolbox" nitrc="https://www.nitrc.org/projects/eeg" />
+<description> This toolbox has been developed to facilitate quick and easy import, visualisation and measurement for ERP data. The toolbox can open and visualise ERP averaged data (Neuroscan, ascii formats), 2D/3D electrode coordinates and 3D cerebral tissue tesselations (meshes). All the features can be explored quickly and easily using the example data provided in the toolbox. The GUI interface is simple and intuitive.&lt;br /&gt;&lt;br /&gt;For more details, see: &lt;a href=&quot;http://eeg.sourceforge.net/&quot; target=&quot;_new&quot;&gt;http://eeg.sourceforge.net/&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<category>Event Related Potential</category>
+<release>Apr 30, 2012</release>
+<homepage>http://www.nitrc.org/projects/eeg/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

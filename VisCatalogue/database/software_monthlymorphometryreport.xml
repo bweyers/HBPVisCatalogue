@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Monthly Morphometry Report" nitrc="https://www.nitrc.org/projects/mmr" />
+<description> The Monthly Morphometry Report (MMR) is designed to be a quick, high-level synopsis of the volumetric literature, compiled on a monthly basis. We seek to represent the corpus of published findings in a suscinct and common format, to ease human interpretation of ths vast set of measures that are being reported.&lt;br /&gt;&lt;br /&gt;To start, monthly PUBMED reports of potential volumetric publications in humans are identified, and human curators then summarise these abstracts into a standard report format. In the future, we hope to add automation to the curation process and index more complete full-text content.&lt;br /&gt;&lt;br /&gt;This project is HIGHLY alpha in its design and should be considered only a &#x27;work in progress&#x27;. Enter at your own risk, or, volunteer to help! </description>
+<license>Creative Commons License</license>
+<category>Knowledge Environment</category>
+<category>Web Resource</category>
+<platform>OS Independent</platform>
+<release>Jul 11, 2015</release>
+<homepage>http://www.nitrc.org/projects/mmr/</homepage>
+<maintainer>University of Massachusetts Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

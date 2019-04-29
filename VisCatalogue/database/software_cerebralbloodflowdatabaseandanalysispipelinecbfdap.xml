@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Cerebral Blood Flow Database and Analysis Pipeline (CBFDAP)" nitrc="https://www.nitrc.org/projects/cbfdap" />
+<description> The Cerebral Blood Flow Database and Analysis Pipeline (CBFDAP) is a web enabled data and workflow management system extended from the HID codebase on NITRC specialized for Arterial Spin Labeling data management and analysis (including group analysis) in a centralized manner. </description>
+<license>BIRN License</license>
+<release>Aug 6, 2013</release>
+<homepage>http://www.nitrc.org/projects/cbfdap/</homepage>
+<maintainer>UCSD</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="LONI De-identification Debablet" nitrc="https://www.nitrc.org/projects/did" />
+<description> The LONI de-identification Debablet is an application for removing patient-identifying information from medical image files. Removing this information is often necessary for enabling investigators to share image files in a HIPAA compliant manner. </description>
+<license>LONI Software License</license>
+<category>Workflow</category>
+<category>Other Software Resource</category>
+<category>Platform or Development Environment</category>
+<platform>OS Independent</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>MINC</input>
+<output>MINC</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jul 19, 2007</release>
+<homepage>http://www.loni.ucla.edu/Software/Software_Detail.jsp?software_id=23</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

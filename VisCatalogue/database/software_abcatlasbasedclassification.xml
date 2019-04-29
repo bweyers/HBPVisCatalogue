@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="ABC (Atlas Based Classification)" nitrc="https://www.nitrc.org/projects/abc" />
+<description> ABC (Atlas Based Classification) is a comprehensive processing pipeline developed and used at University of North Carolina and University of Utah for brain MRIs. The processing pipeline includes image registration, filtering, segmentation and inhomogeneity correction. The tool is cross-platform and can be run within 3D Slicer or as a stand-alone program.&lt;br /&gt;&lt;br /&gt;The image segmentation algorithm is based on the EMS software developed by Koen van Leemput. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=297&amp;screenshot_id=573&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=297&amp;screenshot_id=573&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>3D Slicer License</license>
+<category>Segmentation</category>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<release>Dec 3, 2009</release>
+<homepage>http://www.nitrc.org/projects/abc/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Generation R Pediatric MRI Resources" nitrc="https://www.nitrc.org/projects/genr" />
+<description> Generation R (GenR) Pediatric MRI Resources: Pediatric MRI experiences unique challenges with respect to spatial normalization/registration. An average, age-appropriate T1-weighted image, constructed from 130 typically developing children ages 6-to-10, is available.&lt;br /&gt;&lt;br /&gt;Further, a set of 25 resting-state ICA components are made available. The components were generated from 536 typically developing children, ages 6-to-10 years old. The components are the result of a meta-ICA which combined the output of 500 different ICA analyses where 50 subjects were randomly sub-sampled.&lt;br /&gt;&lt;br /&gt;Both of these resources are described in detail the following publication:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/27417416&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/27417...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Contents:&lt;br /&gt;&lt;br /&gt;GenR130 T1-weighted template. 1mm and 2mm resolution brain images and brain masks.&lt;br /&gt;&lt;br /&gt;GenR25_metaICA resting state components. 25 Resting state components in 3mm and 2mm resolution. These are available in the GenR130 space (space in which original ICAs and metaICA was conducted), and also in MNI152 space. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<category>Data</category>
+<release>Feb 25, 2014</release>
+<homepage>http://www.nitrc.org/projects/genr/</homepage>
+<maintainer>Erasmus MC - Sophia Children's Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

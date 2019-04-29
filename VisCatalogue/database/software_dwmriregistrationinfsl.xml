@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="DW-MRI registration in FSL" nitrc="https://www.nitrc.org/projects/dwiregistration" />
+<description> This code registers linearly and non-linearly Diffusion Weighted Magnetic Resonance Images (DW-MRIs) by extending FLIRT (linear registration of 3D scalar volumes) and FNIRT (non-linear registration of 3D scalar volumes) in the FMRIB Software Library (FSL) to work with 4D volumes. The basis for registering DW-MRIs is the concept of Angular Interpolation (Tao, X., Miller, J. V., 2006. A method forregistering diffusion weighted magnetic resonance images. In: MICCAI. Vol. 9. pp. 594–602), which is implemented and extended to non-linear registration, based on the FLIRT and FNIRT models in FSL. See &lt;a href=&quot;http://www.frontiersin.org/Brain_Imaging_Methods/10.3389/fnins.2013.00041/abstract.&quot; target=&quot;_new&quot;&gt;http://www.frontiersin.org/Brain_Imaging...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;The code does not overwrite FLIRT, FNIRT or any of the FSL C++ code. It is added as FLIRT4D, FNIRT4D and supporting cost functions. The makefiles will however be overwritten to compile the new code, without affecting any version of FSL. </description>
+<license>FSL License</license>
+<release>Mar 1, 2012</release>
+<homepage>http://www.nitrc.org/projects/dwiregistration/</homepage>
+<maintainer>University of Minnesota</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

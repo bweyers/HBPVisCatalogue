@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="SeeCAT" nitrc="https://www.nitrc.org/projects/seecat" />
+<description> The Seed-based Connectivity Analysis Toolbox (SeeCAT) is developed in Matlab environment with GUI. The toolbox mainly includes four functional modules: 1) a preprocessing pipeline works with functional MRI data (work with SPM), which is enabled with fast parallel computing to improve processing speed; 2) a calculating module for seed-based structural or functional connectivity with various definitions of seeds; 3) a computation function for nodal degree in high-resolution functional brain networks (voxel-based) with flexible options, including selections for different thresholds, positive and negative connection, binary or weighted, anatomical distance, normalization, and smoothing; and 4) some useful tools for statistics, visualization and image calculation. </description>
+<license>GNU General Public License (GPL)</license>
+<release>May 16, 2017</release>
+<homepage>http://www.nitrc.org/projects/seecat/</homepage>
+<maintainer>Beijing Normal University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

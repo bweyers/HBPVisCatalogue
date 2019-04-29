@@ -1,0 +1,11 @@
+<root>
+<software>
+<name name="DICOM_UploadGUI" nitrc="https://www.nitrc.org/projects/dicomuploadgui" />
+<description> UploadGUI is a Java tool that takes an unorganized collection of DICOM scans, sorts and categorizes them according to user-customizable rules, gathers metadata about the scans, and saves out this information to help facilitate data uploads. Batch pr </description>
+<release>Jul 3, 2008</release>
+<homepage>http://www.nitrc.org/projects/dicomuploadgui/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

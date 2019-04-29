@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Spatial Analysis 3D" nitrc="https://www.nitrc.org/projects/sa3d" />
+<description> Spatial Analysis 3D is a user-friendly, graphical user interface (GUI) that allows statistical and visual manipulations of real and simulated three-dimensional spatial point patterns. The analyses use files containing sets of X, Y, Z coordinates. These point patterns are frequently coordinates of cells of specific cell classes within in volumes of tissue derived from microscopy analyses. The analyses are scale independent so spatial analyses of coordinates from larger and smaller scale distributions are possible. The software can also generate sample sets of X, Y, Z coordinates for program exploration and modeling purposes. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=235&amp;screenshot_id=140&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=235&amp;screenshot_id=140&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Simulation</category>
+<category>Position</category>
+<category>Statistical Operation</category>
+<platform>OS Independent</platform>
+<release>Jun 19, 2009</release>
+<homepage>http://www.nitrc.org/projects/sa3d/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

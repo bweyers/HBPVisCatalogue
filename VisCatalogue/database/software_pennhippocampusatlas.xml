@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="Penn Hippocampus Atlas" nitrc="https://www.nitrc.org/projects/pennhippoatlas" />
+<description> The Penn Hippocampus Atlas is a resource consisting of segmented and normalized high-resolution ex vivo MRI and histology of the human hippocampus. The current atlas, consisting of MRI scans of 31 specimens and serial histology of 9 specimens is described in the 2018 paper by Adler, Wisse, et al. in PNAS. Imaging data, source code, and statistics for the 2018 paper can be accessed using the Download link on this page. &lt;br /&gt;&lt;br /&gt;A prior version of the atlas consisting of MRI scans of 5 specimens was described in Yushkevich et al., Neuroimage 44(2):385-398, 2009. Data for this atlas are also available on the Download page. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=109&amp;screenshot_id=1174&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=109&amp;screenshot_id=1174&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Penn Hippocampus Atlas</license>
+<category>Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 30, 2008</release>
+<homepage>http://www.nitrc.org/projects/pennhippoatlas/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

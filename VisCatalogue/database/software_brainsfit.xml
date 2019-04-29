@@ -1,0 +1,29 @@
+<root>
+<software>
+<name name="BRAINSFit" nitrc="https://www.nitrc.org/projects/multimodereg" />
+<description> NOTE: All active development of BRAINSFit is now being stored in a Git repository at github.com. Please go to&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/BRAINSia/BRAINSTools&quot; target=&quot;_new&quot;&gt;https://github.com/BRAINSia/BRAINSTools&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;A program for registering images with with mutual information based metric. Several registration options are given for 3,6, 9,12,16 parameter (i.e. translate, rigid, scale, scale/skew, full affine) based constraints for the registration. The program uses the Slicer3 execution model framework to define the command line arguments and can be fully integrated with Slicer3 using the module discovery capabilities of Slicer3 </description>
+<license>BSD License</license>
+<category>Intermodal</category>
+<category>Intersubject</category>
+<category>Affine Warp</category>
+<category>Linear Warp</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>OS Independent</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Aug 30, 2007</release>
+<homepage>http://www.github.com/BRAINSia/BRAINSTools</homepage>
+<maintainer>University of Iowa</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

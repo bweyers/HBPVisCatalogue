@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="EYE-EEG (combined eye-tracking &amp; EEG)" nitrc="https://www.nitrc.org/projects/eye-eeg" />
+<description> EYE-EEG is a plugin for the open-source MATLAB toolbox EEGLAB developed with the goal to facilitate integrated analyses of electrophysiological and oculomotor data. The plugin parses, imports, and synchronizes simultaneously recorded eye tracking data and adds it as extra channels to the EEG.&lt;br /&gt;&lt;br /&gt;Saccades and fixations can be imported from the eye tracking raw data or detected with an adaptive velocity-based algorithm. Eye movements are then added as new time-locking events to EEGLAB&#x27;s event structure, allowing easy saccade- and fixation-related EEG analysis (e.g., fixation-related potentials, FRPs). Alternatively, EEG data can be aligned to stimulus onsets and analyzed according to oculomotor behavior (e.g. pupil size, microsaccades) in a given trial. Saccade-related ICA components can be objectively identified based on their covariance with the electrically independent eye tracker.&lt;br /&gt;&lt;br /&gt;All functions can be accessed via EEGLAB&#x27;s GUI or called from the command line. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=744&amp;screenshot_id=674&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=744&amp;screenshot_id=674&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Software</category>
+<platform>OS Independent</platform>
+<release>Aug 18, 2013</release>
+<homepage>http://www2.hu-berlin.de/eyetracking-eeg</homepage>
+<maintainer>Humboldt University at Berlin</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="LORIS" nitrc="https://www.nitrc.org/projects/loris" />
+<description> LORIS (Longitudinal Online Research and Imaging System) is an open-source database solution platform for neuroimaging and neuroscience research. &lt;br /&gt;&lt;br /&gt;LORIS is a platform designed for seamless data acquisition, curation, processing, and dissemination across large neuroimaging, clinical and genomic datasets. Its secure web-accessible database infrastructure automates the flow of data throughout the lifecycle of multi-site longitudinal studies, and includes extensive Quality Control and Data Validation processes for both scalar and multidimensional data. &lt;br /&gt;&lt;br /&gt;LORIS’ extensible design enables researchers to aggregate, query, and distribute subject data in a powerfully customizable and flexible manner to image processing pipelines and analysis suites frequently used in neuroimaging research studies.&lt;br /&gt;&lt;br /&gt;More info? visit &lt;a href=&quot;http://www.LORIS.CA&quot; target=&quot;_new&quot;&gt;http://www.LORIS.CA&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Try our demonstration database at &lt;a href=&quot;https://demo.loris.ca&quot; target=&quot;_new&quot;&gt;https://demo.loris.ca&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Find our latest Release and Documentation Wiki on GitHub --&lt;br /&gt;&lt;a href=&quot;https://github.com/aces/Loris&quot; target=&quot;_new&quot;&gt;https://github.com/aces/Loris&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=542&amp;screenshot_id=1002&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=542&amp;screenshot_id=1002&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<category>Database Application</category>
+<platform>Linux</platform>
+<input>MINC</input>
+<output>MINC</output>
+<input>MINC2</input>
+<output>MINC2</output>
+<release>Dec 5, 2011</release>
+<homepage>http://loris.ca</homepage>
+<maintainer>Montreal Neurological Institute</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

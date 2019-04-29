@@ -1,0 +1,24 @@
+<root>
+<software>
+<name name="fMRI-CPCA" nitrc="https://www.nitrc.org/projects/fmricpca" />
+<description> Constrained Principal Component Analysis (CPCA) combines regression analysis and principal component analysis into a unified framework. This method derives images of functional neural networks from singular-value decomposition of BOLD signal time series, and allows derivation of images when the analyzed BOLD signal is constrained to the scans occurring in peristimulus time, using all other scans as baseline. &lt;br /&gt;&lt;br /&gt;CPCA provides allows (1) determination of multiple functional networks involved in a task, (2) estimation of the pattern of BOLD changes associated with each functional network over peristimulus time points, (3) quantification of the degree of interaction between these multiple functional networks, and (4) a statistical test of the degree to which experimental manipulations affect each functional network. &lt;br /&gt;&lt;br /&gt;fMRI CPCA provides all results in matlab.mat file format, as well as writing images in analyze format for all components, rotated and unrotated. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=203&amp;screenshot_id=332&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=203&amp;screenshot_id=332&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Freeware</license>
+<category>Principal Component Analysis</category>
+<category>Regression</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 19, 2009</release>
+<homepage>http://www.nitrc.org/projects/fmricpca/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

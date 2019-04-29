@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="VoxBo" nitrc="https://www.nitrc.org/projects/voxbo" />
+<description> VoxBo is a highly modular and interoperable collection of free tools for brain image manipulation and analysis, focusing on fMRI and lesion analysis. VoxBo can be used independently or in conjunction with other packages. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=73&amp;screenshot_id=238&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=73&amp;screenshot_id=238&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Format Conversion</category>
+<category>Overlap Metrics</category>
+<category>Sinc Function Interpolation</category>
+<category>Linear</category>
+<category>Three Dimensional Display</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 29, 2007</release>
+<homepage>http://voxbo.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="FVGWAS: Fast Voxelwise Genome Wide Association Analysis" nitrc="https://www.nitrc.org/projects/fvgwas" />
+<description> The Fast Voxelwise Genome Wide Association analysiS (FVGWAS) framework to efficiently carry out whole-genome analyses of whole-brain data. FVGWAS consists of three components including a heteroscedastic linear model, a global sure independence screening (GSIS) procedure, and a detection procedure based on wild bootstrap methods. Specically, for standard linear association, the computational complexity is O(n*N_V*N_C) for voxelwise genome wide association analysis (VGWAS) method compared with&lt;br /&gt;
+O((N_C+N_V)*n^2) for FVGWAS. Our FVGWAS may be a valuable statistical toolbox for large-scale imaging genetic analysis as the field is rapidly advancing with ultra-high-resolution imaging and whole-genome sequencing. </description>
+<license>BIAS License</license>
+<release>Jun 10, 2015</release>
+<homepage>http://www.nitrc.org/projects/fvgwas/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

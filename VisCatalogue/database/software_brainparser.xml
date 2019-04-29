@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="BrainParser" nitrc="https://www.nitrc.org/projects/brainparser" />
+<description> Brain Parser software uses a novel statistical-learning technique to segment brain regions of interest (ROIs) based on a training set of data and generates 3D MRI volumes. The software comes pre-trained on a provided data set but can be retrained to work with your desired regions of interest. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Anatomic</category>
+<category>Workflow</category>
+<platform>Windows NT/2000</platform>
+<platform>Windows Vista</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<release>Dec 8, 2009</release>
+<homepage>http://www.nitrc.org/projects/brainparser/</homepage>
+<maintainer>University of California, San Diego</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

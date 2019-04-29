@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Paradigm" nitrc="https://www.nitrc.org/projects/paradigm" />
+<description> Flexible and millisecond accurate experimental control for cognitive neuroscience, psychology and linguistics research. Build your experiments using Paradigm&#x27;s simple drag and drop interface. Presents text, images, sounds, movies, self-paced reading trials and rating scales. An integrated Python scripting API is available to ensure total flexibility and control. Joystick and microphone response are available. Supports button boxes from PST, Cedrus,&lt;br /&gt;fORP and custom built response boxes. Paradigm can detect fMRI triggers through serial and parallel ports. Includes sample experiments that implement many of the most popular experiment designs. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=460&amp;screenshot_id=612&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=460&amp;screenshot_id=612&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Paradigm License</license>
+<category>EEG</category>
+<category>Eye Tracking</category>
+<category>Scanner</category>
+<category>Experimental Control</category>
+<platform>Microsoft</platform>
+<release>Mar 9, 2011</release>
+<homepage>http://www.paradigmexperiments.com</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

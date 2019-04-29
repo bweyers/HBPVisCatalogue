@@ -1,0 +1,28 @@
+<root>
+<software>
+<name name="SPHARM-MAT" nitrc="https://www.nitrc.org/projects/spharm-mat" />
+<description> SPHARM-MAT is implemented based on a powerful 3D Fourier surface representation method called SPHARM, which creates parametric surface models using spherical harmonics. It is a matlab-based 3D shape modeling and analysis toolkit, and is designed to aid statistical shape analysis for identifying morphometric changes in 3D structures of interest related to different conditions. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=386&amp;screenshot_id=249&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=386&amp;screenshot_id=249&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Morphology</category>
+<category>Quantitative Shape Analysis</category>
+<category>Spherical Harmonics</category>
+<category>Surface Analysis</category>
+<platform>Windows</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jun 18, 2010</release>
+<homepage>http://www.iu.edu/~spharm/</homepage>
+<maintainer>Indiana University School of Medicine</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="CalaTK - Atlas Building TK" nitrc="https://www.nitrc.org/projects/calatk" />
+<description> CalaTK is an open-source toolkit for cross-sectional and longitudinal atlas building.&lt;br /&gt;&lt;br /&gt;The CalaTK project develops innovative methods and tools for longitudinal atlases with a focus on neurodevelopment. The computational toolbox is developed with the objective to analyze the neural developmental patterns observed in human and non-human primate structural and diffusion tensor magnetic resonance (MR) images. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=630&amp;screenshot_id=551&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=630&amp;screenshot_id=551&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Algorithm or Reusable Library</category>
+<category>Atlas Application</category>
+<category>Image-to-Image</category>
+<release>Aug 14, 2012</release>
+<homepage>http://www.calatk.org/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

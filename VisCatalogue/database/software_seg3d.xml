@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="Seg3D" nitrc="https://www.nitrc.org/projects/seg3d" />
+<description> Seg3D is a free volume processing sgementing tool that combines a flexible manual interface with powerful image processing and segmentation algorithms. Users can explore and label image volumes using slice windows and 3D volume rendering. </description>
+<license>MIT/X Consortium License</license>
+<category>Segmentation</category>
+<category>Three Dimensional Display</category>
+<category>Volume Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 11, 2008</release>
+<homepage>http://www.seg3d.org</homepage>
+<maintainer>University of Utah</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

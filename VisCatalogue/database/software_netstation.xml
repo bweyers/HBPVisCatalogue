@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Net Station" nitrc="https://www.nitrc.org/projects/netstation_api" />
+<description> APIs for Net Station data files. APIs are available for C++, C#, and Java. </description>
+<release>Dec 21, 2011</release>
+<homepage>http://www.egi.com/clinical-division/clinical-division-geodesic-eeg-components/clinical-division-net-station</homepage>
+<maintainer>Electrical Geodesics, Inc.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

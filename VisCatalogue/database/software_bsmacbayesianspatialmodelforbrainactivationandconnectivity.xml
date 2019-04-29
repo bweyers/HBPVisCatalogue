@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="BSMac: Bayesian Spatial Model for Brain Activation and Connectivity" nitrc="https://www.nitrc.org/projects/bsmac" />
+<description> We provide a statistical and graphical visualization MATLAB toolbox for the analysis of fMRI data, called the Bayesian Spatial Model for activation and connectivity (BSMac). BSMac simultaneously performs whole-brain activation analyses at the voxel and region of interest levels as well as task-related functional connectivity (FC) analyses using a flexible Bayesian modeling framework (Bowman et al., 2008). BSMac allows for inputting data in either Analyze or Nifti file formats. The user provides information pertaining to subgroup memberships, scanning sessions, and experimental tasks (stimuli), from which the design matrix is constructed. BSMac then performs parameter estimation based on MCMC methods and generates plots for activation and FC, such as interactive 2D maps of voxel and region-level task-related changes in neural activity and animated 3D graphics of the FC results. &lt;br /&gt;&lt;br /&gt;The toolbox can be downloaded: &lt;a href=&quot;http://web1.sph.emory.edu/bios/CBIS/links.html&quot; target=&quot;_new&quot;&gt;http://web1.sph.emory.edu/bios/CBIS/link...&lt;/a&gt; (&lt;a href=&quot;http://www.ncbi.nlm.nih.gov/pubmed/22101143&quot; target=&quot;_new&quot;&gt;http://www.ncbi.nlm.nih.gov/pubmed/22101...&lt;/a&gt;). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=654&amp;screenshot_id=569&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=654&amp;screenshot_id=569&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License, GNU Lesser General Public License and GNU General Public License, v</license>
+<release>Oct 2, 2012</release>
+<homepage>http://web1.sph.emory.edu/bios/CBIS/download_page.php</homepage>
+<maintainer>Emory University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="PhysIO Toolbox" nitrc="https://www.nitrc.org/projects/physio" />
+<description> The general purpose of this Matlab toolbox is the model-based physiological noise correction of fMRI data using peripheral measures of respiration and cardiac pulsation. The PhysIO Toolbox can be downloaded as part of the TAPAS software collection of the TNU and integrates with SPM.&lt;br /&gt;&lt;br /&gt;Core design goals for the toolbox were: flexibility, robustness, and quality assurance to enable physiological noise correction for large-scale and multi-center studies. &lt;br /&gt;&lt;br /&gt;Some highlights:&lt;br /&gt;1) Robust preprocessing via iterative peak detection, shown for noisy data and patients.&lt;br /&gt;2) Flexible support of peripheral data formats (Siemens, Philips, GE, BIDS, Biopac, ...) and noise models (RETROICOR, RVHRCOR).&lt;br /&gt;3) Fully automated noise correction and performance assessment for group studies.&lt;br /&gt;4) Integration in fMRI pre-processing pipelines as SPM Toolbox (Batch Editor GUI).&lt;br /&gt;&lt;br /&gt;The accompanying technical paper about the toolbox concept and methodology can be found at: &lt;a href=&quot;https://doi.org/10.1016/j.jneumeth.2016.10.019&quot; target=&quot;_new&quot;&gt;https://doi.org/10.1016/j.jneumeth.2016....&lt;/a&gt;</description>
+<release>Jun 19, 2017</release>
+<homepage>http://www.nitrc.org/projects/physio/</homepage>
+<maintainer>Institute for Biomedical Engineering, University of Zurich &amp; ETH Zurich</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

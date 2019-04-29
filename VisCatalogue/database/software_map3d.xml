@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="map3d" nitrc="https://www.nitrc.org/projects/map3d" />
+<description> map3d supports interactive visualization of surface based time signals such as high resolution EEG, MEG, and ECG. </description>
+<category>Forward - Inverse</category>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Windows 95/98/2000</platform>
+<platform>Linux</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 16, 2008</release>
+<homepage>http://www.sci.utah.edu/cibc-software/map3d.html</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

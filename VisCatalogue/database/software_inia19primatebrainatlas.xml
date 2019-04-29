@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="INIA19 Primate  Brain Atlas" nitrc="https://www.nitrc.org/projects/inia19" />
+<description> The INIA19 primate brain atlas was created from over 100 structural MR scans of 19 rhesus macaque animals. The atlas currently comprises high-resolution T1-weighted average MR images with and without skull stripping, tissue probability maps, and a detailed parcellation map based on the NeuroMaps atlas.&lt;br /&gt;&lt;br /&gt;INIA19 was created by researchers of the NIH-funded Integrative Neuroscience Initiative on Alcoholism (INIA). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=561&amp;screenshot_id=584&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=561&amp;screenshot_id=584&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution</license>
+<category>Atlas Data</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jan 17, 2012</release>
+<homepage>http://www.nitrc.org/projects/inia19/</homepage>
+<maintainer>SRI International</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Resting state MEG data used in Marek et al., 2018, Plos Biology" nitrc="https://www.nitrc.org/projects/rs_meg_2018" />
+<description> Raw resting state MEG data used in Marek et al., 2018 Plos Biology. Dataset includes both raw resting state data (5 minutes), as well as raw empty room MEG data (2 minutes) in 89 subjects aged 14-31 years. </description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>Oct 10, 2018</release>
+<homepage>http://www.nitrc.org/projects/rs_meg_2018/</homepage>
+<maintainer>University of Pittsburgh</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

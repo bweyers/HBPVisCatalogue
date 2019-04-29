@@ -1,0 +1,33 @@
+<root>
+<software>
+<name name="AutoSeg" nitrc="https://www.nitrc.org/projects/autoseg" />
+<description> AutoSeg is a novel C++ based application developped at UNC-Chapel Hill that performs automatic brain tissue classification and structural segmentation. &lt;br /&gt;&lt;br /&gt;AutoSeg is designed for use with human and non-human primate pediatric, adolescent and adult data.&lt;br /&gt;&lt;br /&gt;AutoSeg uses a BatchMake pipeline script that includes the main steps of the framework entailing N4 bias field correction, rigid registration to a common coordinate image, tissue segmentation, skull-stripping, intensity rescaling, atlas-based registration, subcortical segmentation and lobar parcellation, regional cortical thickness and intensity statistics. AutoSeg allows efficient batch processing and grid computing to process large datasets and provides quality control visualizations via Slicer3 MRML scenes. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=421&amp;screenshot_id=320&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=421&amp;screenshot_id=320&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Expectation Minimization</category>
+<category>Labeling</category>
+<category>Volumetric Analysis</category>
+<category>Image-to-Image</category>
+<category>Image-to-Template</category>
+<category>Spline Interpolation</category>
+<category>Nonlinear Warp</category>
+<category>Workflow</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Nov 22, 2010</release>
+<homepage>http://www.nitrc.org/projects/autoseg/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

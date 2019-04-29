@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="NIRAL Utilities" nitrc="https://www.nitrc.org/projects/niral_utilities" />
+<description> NIRAL Utilities are open-source applications developped at UNC-Chapel Hill in the Neuro Image Research and Analysis Lab (NIRAL). These utilities are C++ based command line applications that allow image analysis and processing using ITK or VTK libraries.&lt;br /&gt;&lt;br /&gt;Specifically the following utilities are contained thus far:&lt;br /&gt;ImageMath - the swiss army knife image modification&lt;br /&gt;ImageStat - compute stats on images&lt;br /&gt;IntensityRescaler - rescale/normalize intensities using a prior brain tissue segmentation&lt;br /&gt;convertITKformats - convert 3D images in all ITK formats (NRRD, NIFTI, GIPL, Meta etc)&lt;br /&gt;DWI_NiftiNrrdConversion - convert DWI and DTI from/to NRRD and NIFTI, works with UNC DTI tools and FSL&lt;br /&gt;CropTools - crops 3D and 4D images&lt;br /&gt;PolydataMerge - Merges VTK polydata files&lt;br /&gt;PolydataTransform - Transforms polydata files&lt;br /&gt;TransformDeformationField - concatenates or average deformation fields (H-fields or displacement fields)&lt;br /&gt;DTIAtlasBuilder - Creates a DTI average from multiple DTI images 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=465&amp;screenshot_id=335&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=465&amp;screenshot_id=335&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Application</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Mar 17, 2011</release>
+<homepage>http://www.nitrc.org/projects/niral_utilities/</homepage>
+<maintainer>University of North Carolina at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

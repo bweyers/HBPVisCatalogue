@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="IATR" nitrc="https://www.nitrc.org/projects/iatr" />
+<description> IATR is the Image Analysis Tools Registry. The goal for this site is to provide a centrally available listing of all image analysis tools that are available to the neuroscience community. </description>
+<license>Public Domain</license>
+<category>Database</category>
+<category>Knowledge Environment</category>
+<category>Web Service</category>
+<category>Websites</category>
+<category>Software</category>
+<platform>OS Independent</platform>
+<release>Aug 16, 2007</release>
+<homepage>http://iatr.virtualbrain.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="fNIRS during Stroop before and after acute bout of aerobic exercise" nitrc="https://www.nitrc.org/projects/exercisefnirs" />
+<description> fNIRS data collected from prefrontal and motor cortices while human subjects perform Stroop task before and after thirty minutes of cardiovascular exercise. Associated preprint: &lt;a href=&quot;https://www.biorxiv.org/content/early/2018/06/29/359307&quot; target=&quot;_new&quot;&gt;https://www.biorxiv.org/content/early/20...&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Associated Dissertation: &lt;br /&gt;&lt;a href=&quot;https://digital.library.unt.edu/ark:/67531/metadc1157584/&quot; target=&quot;_new&quot;&gt;https://digital.library.unt.edu/ark:/675...&lt;/a&gt;</description>
+<license>Academic Free License (&quot;AFL&quot;)</license>
+<release>Nov 8, 2018</release>
+<homepage>http://www.nitrc.org/projects/exercisefnirs/</homepage>
+<maintainer>UNT Denton</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

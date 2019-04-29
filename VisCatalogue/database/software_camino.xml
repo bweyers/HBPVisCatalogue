@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Camino" nitrc="https://www.nitrc.org/projects/camino" />
+<description> Camino is a free, open-source, object-oriented software package for analysis and reconstruction of Diffusion MRI data, tractography and connectivity mapping.&lt;br /&gt;&lt;br /&gt;Please see the Camino home page (camino.org.uk) for documentation and tutorials. If you need support, join the Camino mailing list on this site. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=253&amp;screenshot_id=508&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=253&amp;screenshot_id=508&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Artistic License</license>
+<category>Q-Ball</category>
+<category>Tensor Metric</category>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>MacOS</platform>
+<platform>POSIX/UNIX-like</platform>
+<release>Jul 30, 2009</release>
+<homepage>http://camino.cs.ucl.ac.uk</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

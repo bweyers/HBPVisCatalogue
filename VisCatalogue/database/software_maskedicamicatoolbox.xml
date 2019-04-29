@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="masked ICA (mICA) Toolbox" nitrc="https://www.nitrc.org/projects/mica" />
+<description> mICA Toolbox is a user-friendly toolbox to perform masked independent component analysis, i.e. ICA within a spatially restricted subregion of the brain. It is based on command line tools from FSL suite to perform the ICA and related analyses (e.g. specific data preprocessing, atlas-based mask generation, mICA-based parcellation, dual-regression and direct back reconstruction). Various options provide flexible control of the analysis.&lt;br /&gt;&lt;br /&gt;mICA Toolbox is a helpful utility for researchers in the field of neuroimaging. It facillitates the study of intrinsic connectivity of brain (sub-)regions and the reconstruction of their extrinsic connectivity (i.e. connectivity with regions outside of the mask).&lt;br /&gt;&lt;br /&gt;The toolbox furthermore offers an easy way to calculate ICA reproducibility over a range of decomposition dimensions, which can be used to overcome the common problem of dimensionality estimation. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=937&amp;screenshot_id=929&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=937&amp;screenshot_id=929&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Independent Component Analysis</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 29, 2015</release>
+<homepage>http://www.nitrc.org/projects/mica/</homepage>
+<maintainer>Hannover Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

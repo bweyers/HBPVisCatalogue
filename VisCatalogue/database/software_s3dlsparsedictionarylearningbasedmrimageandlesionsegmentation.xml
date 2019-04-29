@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="S3DL Sparse Dictionary Learning based MR Image and Lesion Segmentation" nitrc="https://www.nitrc.org/projects/s3dl" />
+<description> S3DL (Subject Specific Sparse Dictionary Learning) is a software tool to generate whole brain segmentation as well as lesion segmentation from multi-contrast human brain MR images. It is a patch-based method, where similarities between patches from a subject and one or more atlases are exploited to create a segmentation of the subject.&lt;br /&gt;&lt;br /&gt;There are two parts of the tool, one to create multi-class segmentation from T1-w MR images, another to segment MS lesions from T1-w and FLAIR images. They can be used independently. In addition to the software, some training atlases and test data are provided.&lt;br /&gt;&lt;br /&gt;The toolbox is based on the following paper, &lt;br /&gt;S. Roy, Q. He, E. Sweeney, A. Carass, D. S. Reich, J.L. Prince, and D. L. Pham, &amp;quot;Subject-Specific Sparse Dictionary Learning for Atlas-Based Brain MRI Segmentation&amp;quot;, IEEE Journal of Biomedical and Health Informatics, 19(5):1598-1609, 2015. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1134&amp;screenshot_id=1073&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1134&amp;screenshot_id=1073&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial</license>
+<category>Volumetric Analysis</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 6, 2017</release>
+<homepage>http://www.nitrc.org/projects/s3dl/</homepage>
+<maintainer>Henry Jackson Foundation</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

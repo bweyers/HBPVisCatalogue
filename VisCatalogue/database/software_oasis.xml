@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="OASIS" nitrc="https://www.nitrc.org/projects/oasis" />
+<description> The Open Access Series of Imaging Studies (OASIS) is a project aimed at making MRI data sets of the brain freely available to the scientific community. By compiling and freely distributing MRI data sets, we hope to facilitate future discoveries in basic and clinical neuroscience. OASIS is made available by the Washington University Alzheimer’s Disease Research Center, Dr. Randy Buckner at the Howard Hughes Medical Institute (HHMI) at Harvard University, the Neuroinformatics Research Group (NRG) at Washington University School of Medicine, and the Biomedical Informatics Research Network (BIRN). OASIS currently includes two data sets. A cross-sectional set includes 416 subjects aged 18 to 96, 100 of whom were clinically diagnosed with Alzheimer&#x27;s disease. A longitudinal release includes 150 subjects aged 60 to 96, many diagnosed with Alzheimer&#x27;s disease at some point during their participation. </description>
+<license>OASIS</license>
+<category>Data</category>
+<platform>OS Independent</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<release>Aug 7, 2009</release>
+<homepage>http://www.oasis-brains.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

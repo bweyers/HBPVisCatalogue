@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="Displacement Field Viewer" nitrc="https://www.nitrc.org/projects/dfviewer" />
+<description> Displacement field viewer or DFViewer is a simple tool for visualizing displacement fields estimated in association with image registration. Based on the displacement vector field, a mesh is generated for visualization. The mesh can be color mapped with the jacobian determinant at each point for better localization of regions that undergo compression or expansion.&lt;br /&gt;&lt;br /&gt;Key features: &lt;br /&gt;1) Jacobian determinant color mapping. &lt;br /&gt;2) View synchronization. &lt;br /&gt;3) Save/Load view configurations. &lt;br /&gt;4) Conversion from deformation fields. &lt;br /&gt;5) Conversion from HAMMER displacement fields. &lt;br /&gt;6) Drag-and-drop mechanism for opening file.&lt;br /&gt;7) Adjustable mesh resolution.&lt;br /&gt;8) Option to save mesh in VTK format.&lt;br /&gt;9) Option to view mesh in different image planes.&lt;br /&gt;10) Glyph (arrow) view.&lt;br /&gt;11) Accepts multiple image formats, including NIfTI (.nii.gz or .nii), NRRD (.nrrd or .nhdr), and MetaImage (.mha or .mhd). 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=782&amp;screenshot_id=709&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=782&amp;screenshot_id=709&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Visualization</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Dec 19, 2013</release>
+<homepage>http://www.nitrc.org/projects/dfviewer/</homepage>
+<maintainer>University of North Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

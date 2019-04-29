@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="NIRFAST" nitrc="https://www.nitrc.org/projects/nirfast" />
+<description> Nirfast is a software package for modeling Near-Infrared light transport in tissue and image reconstruction. This includes: Standard single wavelength absorption and reduced scatter, Multi-wavelength spectrally constrained models and Fluorescence models. </description>
+<license>BSD License</license>
+<release>Jul 12, 2012</release>
+<homepage>http://www.nitrc.org/projects/nirfast/</homepage>
+<maintainer>Dartmouth College USA/University of Birmingham UK</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

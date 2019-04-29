@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Internet Brain Volume Database (IBVD)" nitrc="https://www.nitrc.org/projects/ibvd" />
+<description> The IBVD provides a web-based searchable database of brain neuroanatomic volumetric observations. This is designed to access both group volumetric results as well as volume observations in individual cases. A major thrust effort is to enable electronic access to the results that exist in the published literature. Currently, there is quite limited electronic or searchable methods for the data observations that are contained in publications. This effort will facilitate the dissemination of volumetric observations by making a more complete corpus of volumetric observations findable to the neuroscience researcher. This also enhances the ability to perform comparative and integrative studies, as well as meta-analysis. Extensions that permit pre-published, non-published and other representation are planned, again to facilitate comparative analyses. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=226&amp;screenshot_id=130&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=226&amp;screenshot_id=130&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Database</category>
+<category>Web Service</category>
+<category>Volumetric Analysis</category>
+<platform>OS Independent</platform>
+<release>May 12, 2009</release>
+<homepage>http://ibvd.virtualbrain.org/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

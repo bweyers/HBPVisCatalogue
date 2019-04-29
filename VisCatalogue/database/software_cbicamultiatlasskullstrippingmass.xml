@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: Multi Atlas Skull Stripping (MASS)" nitrc="https://www.nitrc.org/projects/cbica_mass" />
+<description> Multi Atlas Skull Stripping (MASS) [ARAD2013], is a software package designed for robust and accurate brain extraction, applicable for both individual as well as large population studies.&lt;br /&gt;&lt;br /&gt;MASS is implemented as a Unix command-line tool. It is fully automatic and easy to use — users input an image, and MASS will output the extracted brain and the associated brain mask. </description>
+<license>SBIA License</license>
+<release>Jan 22, 2016</release>
+<homepage>http://www.nitrc.org/projects/cbica_mass/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

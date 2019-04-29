@@ -1,0 +1,33 @@
+<root>
+<software>
+<name name="BioSig" nitrc="https://www.nitrc.org/projects/biosig" />
+<description> Biosig provides tools for processing of electroencephalogram (EEG) and other biomedical signals like ECG, EOG, EMG, etc. Biosig contains tools for quality control, artifact processing, time series analysis, feature extraction, classification and machine learning, and tools for statistical analysis. &lt;br /&gt;&lt;br /&gt;Many tools are able to handle data with missing values (statistics, time series analysis, machine learning). Another feature is that more then 40 different data formats are supported, and a number of converters for EEG,, ECG and polysomnography are provided. &lt;br /&gt;&lt;br /&gt;Biosig has been widely used for scientific research on EEG-based BraiN-Computer Interfaces (BCI), sleep research, and ECG and HRV analysis. &lt;br /&gt;&lt;br /&gt;It provides software interfaces several programming languages (C, C++, Matlab/Octave, Python), and it provides also an interactive viewing and scoring software for adding, and editing of annotations, markers and events. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=557&amp;screenshot_id=635&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=557&amp;screenshot_id=635&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GPL-Style Open Source</license>
+<category>Directed Transfer Analysis</category>
+<category>Granger Causality</category>
+<category>Partial Directed Coherence</category>
+<category>Format Conversion</category>
+<category>Information Theory</category>
+<category>Discriminant Analysis</category>
+<category>Multivariate Analysis</category>
+<category>Regression</category>
+<category>Spectral Analysis</category>
+<category>Autocorrelation</category>
+<category>Cross-correlation</category>
+<category>Event Related Potential</category>
+<platform>Windows</platform>
+<platform>BSD</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Dec 27, 2011</release>
+<homepage>http://www.nitrc.org/projects/biosig/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

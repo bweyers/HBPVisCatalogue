@@ -1,0 +1,27 @@
+<root>
+<software>
+<name name="FreeSurfer" nitrc="https://www.nitrc.org/projects/freesurfer" />
+<description> FreeSurfer is a set of automated tools for reconstruction of the brain’s cortical surface from structural MRI data, and overlay of functional MRI data onto the reconstructed surface. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=62&amp;screenshot_id=7&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=62&amp;screenshot_id=7&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>FreeSurfer License</license>
+<category>Image Reconstruction</category>
+<category>Anatomic</category>
+<category>Spatial Transformation</category>
+<category>Gaussian Curvature</category>
+<category>Mean Curvature</category>
+<category>Thickness</category>
+<category>Image Display</category>
+<category>Surface Rendering</category>
+<platform>MacOS</platform>
+<platform>Linux</platform>
+<input>MGH/MGZ</input>
+<output>MGH/MGZ</output>
+<release>Sep 13, 2007</release>
+<homepage>http://surfer.nmr.mgh.harvard.edu/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

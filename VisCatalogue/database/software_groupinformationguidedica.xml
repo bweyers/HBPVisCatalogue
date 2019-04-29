@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Group Information Guided ICA" nitrc="https://www.nitrc.org/projects/gig-ica" />
+<description> The toolbox is for group-information guided ICA (GIG-ICA). In GIG-ICA, group information captured by standard Independent Component Analysis (ICA) on the group level is used as guidance to compute individual subject specific Independent Components (ICs) using a multi-objective optimization strategy. For computing subject specific ICs, GIG-ICA is applicable to subjects that are involved or not involved in the computation of the group information. Besides the group ICs, group information captured from other imaging modalities and meta analysis could be used as the guidance in GIG-ICA too. &lt;br /&gt;&lt;br /&gt;References:&lt;br /&gt;Y. Du, Y. Fan. Group information guided ICA for fMRI data analysis. Neuroimage. 2013 Apr 1;69:157-97. doi: 10.1016/j.neuroimage.2012.11.008. Epub 2012 Nov 27.&lt;br /&gt;Y. Du, Y. Fan. Group information guided ICA for analysis of multi-subject fMRI data. 2011, 17th Annual Meeting of the Organization for Human Brain Mapping, Quebec City, Canada. Trainee Abstract Travel Awards, Interactive poster. </description>
+<license>PAMI License</license>
+<release>Dec 3, 2012</release>
+<homepage>http://www.nitrc.org/projects/gig-ica/</homepage>
+<maintainer>Institute of Automation, Chinese Academy of Sciences</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

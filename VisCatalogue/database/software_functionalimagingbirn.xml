@@ -1,0 +1,28 @@
+<root>
+<software>
+<name name="Functional Imaging BIRN" nitrc="https://www.nitrc.org/projects/fbirn" />
+<description> The FBIRN Federated Informatics Research Environment (FIRE) includes tools and methods for multi-site functional neuroimaging. This includes resources for data collection, storage, sharing and management, tracking, and analysis of large fMRI datasets. </description>
+<category>Data</category>
+<category>Database</category>
+<category>Other Data Resource</category>
+<category>Ontology</category>
+<category>Web Service</category>
+<category>Database Application</category>
+<category>Quality Metrics</category>
+<category>Statistical Operation</category>
+<category>Visualization</category>
+<category>Workflow</category>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 18, 2007</release>
+<homepage>http://www.nbirn.net/research/function</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

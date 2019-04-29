@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="CBICA: Cancer Imaging Phenomics Toolkit (CaPTk)" nitrc="https://www.nitrc.org/projects/captk" />
+<description> The Cancer Imaging Phenomics Toolkit (CaPTk) is a comprehensive imaging analytics suite providing algorithms that produce extensive panels of quantitative imaging features. Applications in CaPTk use those imaging features in diagnostic and predictive models to support optimized, personalized treatment planning.&lt;br /&gt;&lt;br /&gt;The software has been designed for research purposes only and has not been reviewed or approved by the Food and Drug Administration or by any other agency. It is not intended or recommended for clinical applications.&lt;br /&gt;&lt;br /&gt;DEPRECATED: Our NITRC page is only used to distribute binaries; for issues and other communication, please see our GitHub page at github.com/cbica/captk. </description>
+<license>SBIA License</license>
+<category>Application</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Aug 22, 2016</release>
+<homepage>https://www.cbica.upenn.edu/captk</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

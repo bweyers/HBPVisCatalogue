@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="ANTsR" nitrc="https://www.nitrc.org/projects/antsr" />
+<description> ANTsR is an R extension to ANTs that performs multivariate statistical parametric mapping of DTI, T1 and other datatypes for the purpose of both performing clinical studies and for tracking the performance of ANTs (and other) image processing methodologies. ANTsR depends upon the R statistical language, bash scripts and the ANTs toolkit. Some branches of ANTsR will also depend upon pipedream and specific datasets. Some of these datasets will be open access and, in that case, ANTsR will provide a 100% reproducible neuroimaging study on that data. </description>
+<license>BSD License</license>
+<release>Oct 27, 2010</release>
+<homepage>http://www.nitrc.org/projects/antsr/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

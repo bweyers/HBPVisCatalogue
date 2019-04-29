@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Umeå Brain Arteries" nitrc="https://www.nitrc.org/projects/brainarteries" />
+<description> Umeå Brain Arteries (UBA24 and UBA167) are stereotactic atlases with probabilistic values describing the location of the main cerebral arteries. &lt;br /&gt;&lt;br /&gt;Data collection is described in:&lt;br /&gt;COBRA: A prospective multimodal imaging&lt;br /&gt;study of dopamine, brain structure and function, and cognition, Nevalainen et al., Brain Research, 2015 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1070&amp;screenshot_id=1027&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1070&amp;screenshot_id=1027&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial Share Alike</license>
+<release>Nov 2, 2016</release>
+<homepage>http://www.nitrc.org/projects/brainarteries/</homepage>
+<maintainer>Umeå University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

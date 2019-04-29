@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="LIBEEP" nitrc="https://www.nitrc.org/projects/libeep" />
+<description> The LIBEEP library deals with reading and writing RIFF-format CNT/AVR-files.&lt;br /&gt;&lt;br /&gt;This file format is also called &amp;quot;EEProbe data format&amp;quot;, and is used in the software packages EEProbe, ASA, ASA-Lab, Cognitrace, eemagine EEG, Visor, by ANT Neuro B.V., The Netherlands.&lt;br /&gt;&lt;br /&gt;The file format provides for storage of EEG/ERP/MEG data as 32-bit values, and includes a very efficient compression algorithm. Encoding/decoding from the compressed data is performed automatically through the LIBEEP interface functions. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=553&amp;screenshot_id=930&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=553&amp;screenshot_id=930&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU Lesser General Public License (plus Addendum)</license>
+<category>Format Conversion</category>
+<release>Dec 23, 2011</release>
+<homepage>http://libeep.sourceforge.net/</homepage>
+<maintainer>ANT Neuro B.V.</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

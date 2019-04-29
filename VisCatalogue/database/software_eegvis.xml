@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="EEGVIS" nitrc="https://www.nitrc.org/projects/eegvis" />
+<description> EEGVIS is a MATLAB toolbox for exploration of multi-channel EEG and other large array-based data sets using multi-scale drill-down techniques. The toolbox can be used directly in MATLAB at any stage in a user&#x27;s processing pipeline, as a plug in for EEGLAB, or as a standalone precompiled application without MATLAB running. EEGVIS and its supporting packages are freely available under the GNU general public license. The toolbox also supplies a number of extensible base classes for users who wish to develop their own visualizations. Additional information is provided at &lt;a href=&quot;http://visual.cs.utsa.edu/eegvis&quot; target=&quot;_new&quot;&gt;http://visual.cs.utsa.edu/eegvis&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<category>Algorithm or Reusable Library</category>
+<category>Statistical Operation</category>
+<category>Visualization</category>
+<release>Mar 11, 2012</release>
+<homepage>http://visual.cs.utsa.edu/eegvis</homepage>
+<maintainer>University of Texas at San Antonio</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

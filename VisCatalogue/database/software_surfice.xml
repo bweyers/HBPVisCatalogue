@@ -1,0 +1,28 @@
+<root>
+<software>
+<name name="Surf Ice" nitrc="https://www.nitrc.org/projects/surfice" />
+<description> Surf Ice is a tool for surface rendering the cortex with overlays to illustrate tractography, network connections, anatomical atlases and statistical maps. While there are many alternatives, Surf Ice is easy to use and uses advances shaders to generate stunning images. It supports many popular mesh formats [3ds, ac3d, BrainVoyager (srf), ctm, Collada (dae), dfs, dxf, FreeSurfer (Asc, Srf, Curv, gcs, Pial, W), GIfTI (gii), gts, lwo, ms3d, mz3, nv, obj, off, ply, stl, vtk], connectome formats (edge/node) and tractography formats [bfloat, pdb, tck, trk, vtk]. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=984&amp;screenshot_id=950&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=984&amp;screenshot_id=950&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD License</license>
+<category>Tractography</category>
+<category>Three Dimensional Display</category>
+<category>Surface Rendering</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>bshort/bfloat</input>
+<output>bshort/bfloat</output>
+<input>GIfTI</input>
+<output>GIfTI</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Oct 19, 2015</release>
+<homepage>http://www.nitrc.org/projects/surfice/</homepage>
+<maintainer>University of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

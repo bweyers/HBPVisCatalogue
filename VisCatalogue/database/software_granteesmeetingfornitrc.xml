@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Grantees Meeting for NITRC" nitrc="https://www.nitrc.org/projects/nihgrantees" />
+<description> This project is meant for planning the NITRC Grantee meetings. The meetings introduce NITRC participants to one another, promote discussion of common interests, and identify opportunities for collaboration and interoperability. &lt;br /&gt;&lt;br /&gt;Plans for the 2009 Grantee Meeting are underway. Click on the MediaWiki link (in gray menu on left) to learn more. </description>
+<category>Other KE</category>
+<release>Jan 7, 2008</release>
+<homepage>http://www.nitrc.org/projects/nihgrantees/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

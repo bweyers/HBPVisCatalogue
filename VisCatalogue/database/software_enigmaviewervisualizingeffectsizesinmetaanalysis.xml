@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="ENIGMA-Viewer: Visualizing Effect Sizes in Meta-Analysis" nitrc="https://www.nitrc.org/projects/enigmaviewer_20" />
+<description> ENIGMA-Viewer is an interactive visualization tool for neuroscientists to examine DTI data and compare effective sizes and associated genetics information in meta-analysis. The program supports the visualization of sub-cortical and cortical regions. The user may upload your own data for comparison. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1048&amp;screenshot_id=999&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1048&amp;screenshot_id=999&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>MIT</license>
+<category>Surface Rendering</category>
+<release>May 18, 2016</release>
+<homepage>http://enigma-viewer.org</homepage>
+<maintainer>UMBC; UMB; USC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

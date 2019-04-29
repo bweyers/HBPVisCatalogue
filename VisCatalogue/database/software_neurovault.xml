@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="NeuroVault" nitrc="https://www.nitrc.org/projects/neurovault" />
+<description> NeuroVault makes uploading statistical maps easy and straightforward. In addition it provides permanent links to attractive volumetric and 3D (surface based) visualisations of your data. </description>
+<category>Database</category>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 5, 2014</release>
+<homepage>http://neurovault.org</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

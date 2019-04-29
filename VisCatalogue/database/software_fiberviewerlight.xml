@@ -1,0 +1,22 @@
+<root>
+<software>
+<name name="FiberViewerLight" nitrc="https://www.nitrc.org/projects/fvlight" />
+<description> Fiber ViewerLight is an open-source C++ application to analyze fiber bundles. It provides:&lt;br /&gt;- Several methods for clustering: Length, Gravity, Hausdorff, and Mean methods but also a Normalized Cut algorithm.&lt;br /&gt;- 3D fibers visualization&lt;br /&gt;- 3D plane selection&lt;br /&gt;&lt;br /&gt;FiberViewerLight is now available as a 3D Slicer extension (&lt;a href=&quot;http://www.slicer.org&quot; target=&quot;_new&quot;&gt;http://www.slicer.org&lt;/a&gt;) 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=534&amp;screenshot_id=767&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=534&amp;screenshot_id=767&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Diffusion MR Fiber Tracking</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Linux</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Oct 28, 2011</release>
+<homepage>http://www.nitrc.org/projects/fvlight/</homepage>
+<maintainer>University of North Carolin at Chapel Hill</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Cluster reporter" nitrc="https://www.nitrc.org/projects/cluster_report" />
+<description> This matlab script and associated files will take resultant statistical images and essentially output everything you could ever want to know. It can work off of images that were previously corrected for multiple comparisons, but it can actually do the correction itself. This is because the cluster_correct script is incorporated within. It will iterate through atlases (borrowed from other software) to tell you the location of significant results. It outputs an extremely detailed report as well as a summary table for quick investigation. In addition, it will output statistics for each surviving cluster, and the image as a whole.Feedback would be much appreciated. </description>
+<license>GNU General Public License (GPL)</license>
+<release>Mar 8, 2011</release>
+<homepage>http://www.nitrc.org/projects/cluster_report/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

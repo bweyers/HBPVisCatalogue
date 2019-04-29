@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="Recorder" nitrc="https://www.nitrc.org/projects/bv_recorder" />
+<description> BrainVision Recorder is a multifunctional recording software designed to provide our amplifier customers with a versatile and easy-to-use platform for recording setup and execution.&lt;br /&gt;&lt;br /&gt;•A wizard menu guides you through hardware setup and hard/software filter configuration. &lt;br /&gt;•Acquired data can be displayed in multiple ways. &lt;br /&gt;•Channel montages (original, bipolar, average) can be switched on the fly to adjust the channel view.&lt;br /&gt;•Channel by channel impedance check: Each electrode is placed at the topographic position and its impedance value is displayed with a color coding.&lt;br /&gt;•Acquisition parameters and impedance values are automatically stored and accessable any time. &lt;br /&gt;•An EP analysis can be performed in real-time; the segmented/averaged data can be stored together with the raw data. &lt;br /&gt;•A video module allows the capture of images of the subject; the video is synchronized with the EEG.&lt;br /&gt;•Data can be sent out to the network via the TCP/IP protocol (for real-time data analyses, e.g. in BrainVision RecView) 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1299&amp;screenshot_id=1213&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1299&amp;screenshot_id=1213&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>Application</category>
+<platform>Windows</platform>
+<input>EEG Formats</input>
+<output>EEG Formats</output>
+<release>Aug 6, 2018</release>
+<homepage>https://www.brainproducts.com/</homepage>
+<maintainer>Brain Products GmbH</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="Ruby NIfTI" nitrc="https://www.nitrc.org/projects/ruby-nifti" />
+<description> Ruby NIfTI is a pure-ruby gem [library] for handling NIfTI data in the Ruby programming language.&lt;br /&gt;&lt;br /&gt;Ruby NIfTI currently supports basic read and write access to NIfTI files, including basic &amp;amp; extended header information and image information. &lt;br /&gt;&lt;br /&gt;More information on ruby-nifti can be found on the github page; please use the Github Issue Tracker for any questions:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;https://github.com/brainmap/nifti&quot; target=&quot;_new&quot;&gt;https://github.com/brainmap/nifti&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;INSTALLATION&lt;br /&gt;------------&lt;br /&gt;&lt;br /&gt; gem install nifti&lt;br /&gt;&lt;br /&gt;or add this to your Gemfile and `bundle install`:&lt;br /&gt;&lt;br /&gt; gem &#x27;nifti&#x27;, &#x27;~&amp;gt;0.0.2&#x27;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;USAGE&lt;br /&gt;------&lt;br /&gt;&lt;br /&gt;Read file:&lt;br /&gt;&lt;br /&gt; obj = NIFTI::NObject.new(&amp;quot;T1.nii&amp;quot;)&lt;br /&gt;&lt;br /&gt;Display some key information about the file:&lt;br /&gt;&lt;br /&gt; puts obj.header[&#x27;sform_code_descr&#x27;]&lt;br /&gt; =&amp;gt; &amp;quot;NIFTI_XFORM_SCANNER_ANAT&amp;quot;&lt;br /&gt;&lt;br /&gt;Retrieve the pixel data in a Ruby Array:&lt;br /&gt;&lt;br /&gt; image = obj.get_image&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Full Documentation is at: &lt;br /&gt;&lt;br /&gt; &lt;a href=&quot;http://rdoc.info/gems/nifti/frames&quot; target=&quot;_new&quot;&gt;http://rdoc.info/gems/nifti/frames&lt;/a&gt;</description>
+<license>GNU Lesser General Public License (LGPL)</license>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Apr 9, 2014</release>
+<homepage>http://www.nitrc.org/projects/ruby-nifti/</homepage>
+<maintainer>Harvard University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

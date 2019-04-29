@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Generalized Covariance Analysis (gCVA)" nitrc="https://www.nitrc.org/projects/gcva_pca" />
+<description> Generalized Covariance Analysis: a platform for any PCA-based analysis on functional neuroimaging data (PET and fMRI). &lt;br /&gt;&lt;br /&gt;Includes:&lt;br /&gt;&lt;br /&gt;- Ordinal Trend Canonical Variance Analysis for parametric designs&lt;br /&gt;(C. Habeck et al. A New Approach to Spatial Covariance Modeling of Functional Brain Imaging Data: Ordinal Trend Analysis. Neural Computation 2005; 17: 1602-1645)&lt;br /&gt;&lt;br /&gt;- Partial Least Squares for any design matrix&lt;br /&gt;&lt;br /&gt;- Subprofile Scaling Model for cross-sectional designs&lt;br /&gt;(JR. Moeller, Strother SC. A regional covariance approach to the analysis of functional patterns in positron emission tomographic data.J Cereb Blood Flow Metab. 1991 Mar;11(2):A121-35.) </description>
+<license>GNU General Public License (GPL)</license>
+<release>Feb 24, 2010</release>
+<homepage>http://www.nitrc.org/projects/gcva_pca/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MCML &amp; CONV" nitrc="https://www.nitrc.org/projects/mcml" />
+<description> MCML is a Monte Carlo simulation program for Multi-layered Turbid&lt;br /&gt;Media with an infinitely narrow photon beam as the light source. The&lt;br /&gt;simulation is specified by an input text file called, for example,&lt;br /&gt;&amp;quot;sample.mci&amp;quot;, which can be modified by any simple text editor. The&lt;br /&gt;output is another text file called, for example, &amp;quot;sample.mco&amp;quot;. (The&lt;br /&gt;names are arbitrary.)&lt;br /&gt;&lt;br /&gt;CONV is a convolution program which uses the MCML output file to&lt;br /&gt;convolve for photon beams of any size in a Gaussian or flat&lt;br /&gt;field shape. CONV can provide a variety of output formats (reflectance,&lt;br /&gt;transmission, iso-fluence contours, etc.), which are compatible with&lt;br /&gt;standard graphics applications. </description>
+<license>Open Software License 3.0</license>
+<release>Jul 9, 2012</release>
+<homepage>http://www.nitrc.org/projects/mcml/</homepage>
+<maintainer>Washington University in St. Louis</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

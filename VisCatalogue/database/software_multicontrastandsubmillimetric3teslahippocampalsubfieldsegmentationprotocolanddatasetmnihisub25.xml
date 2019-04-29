@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Multi-contrast and submillimetric 3-Tesla hippocampal subfield segmentation protocol and dataset (MNI-HISUB25)" nitrc="https://www.nitrc.org/projects/mni-hisub25" />
+<description> The MNI-HISUB25 dataset contains manual hippocampal subfield labels and associated high-resolution MRI data (submillimetric T1- and T2-weighted images, detailed sequence information, and stereotaxic probabilistic anatomical maps) based on 25 healthy subjects. Data were acquired on a 3-Tesla MRI system using a 32 phased-array head coil. The protocol divided the hippocampal formation into three subregions: subicular complex, Cornu Ammonis 1, 2 and 3 (CA1-3), and CA4-dentate gyrus (CA4-DG). Segmentation was guided by consistent intensity and morphology characteristics of the densely myelinated molecular layer together with few geometry-based boundaries flexible to overall mesiotemporal anatomy, and achieved excellent intra-/inter-rater reliability (Dice index ≥90/87%). The dataset can inform neuroimaging assessments of the mesiotemporal lobe and help to develop segmentation algorithms relevant for basic and clinical neurosciences. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=969&amp;screenshot_id=946&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=969&amp;screenshot_id=946&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<release>Sep 29, 2015</release>
+<homepage>http://www.nitrc.org/projects/mni-hisub25/</homepage>
+<maintainer>Montreal Neurological Institute (MNI)</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

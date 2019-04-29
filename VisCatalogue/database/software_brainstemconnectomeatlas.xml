@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Brainstem Connectome Atlas" nitrc="https://www.nitrc.org/projects/brainstem_atlas" />
+<description> This is a probabilistic atlas of 23 brainstem bundles using high-quality connectome imaging data and advanced analysis techniques. We performed rigorous quality control on connectome imaging data from the Human Connectome Project (HCP) and only accepted high-quality imaging data with minimal residual distortions for atlas construction. A systematic protocol is then developed to manually delineate 1300 ROIs on 20 HCP subjects (10 males; 10 females) for the reconstruction of brainstem fiber bundles and the probabilistic atlases in the MNI152 space. The 23 brainstem bundles can be divided into three groups: 1) Major motor tracts: the corticospinal tract (CST), the fronto-pontine tract (FPT), and the parieto-occipito-temporo-pontine tract (POTPT); 2) Major sensory tracts: the medial lemniscus (ML), the spinothalamic tract (STT), and the lateral lemniscus (LL); 3) Cerebellar peduncles: superior cerebellar peduncle (SCP), the middle cerebellar peduncle (MCP), and the inferior cerebellar peduncle (ICP). </description>
+<license>Brainstem Connectome Atlas License</license>
+<release>Sep 3, 2017</release>
+<homepage>http://www.nitrc.org/projects/brainstem_atlas/</homepage>
+<maintainer>University of Southern California</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

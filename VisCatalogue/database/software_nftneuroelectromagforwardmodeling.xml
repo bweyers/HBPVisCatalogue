@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="NFT: Neuroelectromag Forward Modeling" nitrc="https://www.nitrc.org/projects/nft" />
+<description> Neuroelectromagnetic Forward Head Modeling Toolbox (NFT) (&lt;a href=&quot;http://sccn.ucsd.edu/nft&quot; target=&quot;_new&quot;&gt;http://sccn.ucsd.edu/nft&lt;/a&gt;) is a MATLAB Toolbox for generating realistic head models from available data (MRI and/or electrode locations), for computing numerical solutions for the forward problem of electromagnetic source imaging and for single dipole source localization. The NFT includes tools for segmenting scalp, skull, cerebrospinal fluid (CSF) and brain tissues from T1-weighted magnetic resonance (MR) images. The Boundary Element Method (BEM) and Finite Element Method (FEM) are used for the numerical solution of the forward problem. When a subject MR image is not available a template head model can be warped to measured electrode locations to obtain an individualized head model. Toolbox functions may be called either from a graphic user interface compatible with EEGLAB or from the MATLAB command line. The toolbox is freely available under the GNU Public License for noncommercial use and open source development. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=565&amp;screenshot_id=613&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=565&amp;screenshot_id=613&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>EEG Modeling</category>
+<release>Jan 24, 2012</release>
+<homepage>http://sccn.ucsd.edu/wiki/NFT</homepage>
+<maintainer>UCSD</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

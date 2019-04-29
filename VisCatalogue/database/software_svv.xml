@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="SVV" nitrc="https://www.nitrc.org/projects/dave1" />
+<description> This project is a simple Surface and Volumetric Visualization application that has been designed to facilitate rapid and flexible visualization from neuroanatomically segmented results. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=7&amp;screenshot_id=70&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=7&amp;screenshot_id=70&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<category>Surface Rendering</category>
+<platform>Linux</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Dec 13, 2006</release>
+<homepage>http://www.nitrc.org/projects/dave1/</homepage>
+<maintainer>Massachusetts General Hospital</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

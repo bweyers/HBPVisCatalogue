@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="connectir" nitrc="https://www.nitrc.org/projects/connectir" />
+<description> Connectir is an R-based package to conduct brain connectivity analyses with a focus on a novel approach to conducting Connectome-Wide Association Studies (CWAS) using functional connectivity.&lt;br /&gt;&lt;br /&gt;Please see our web page for more details: &lt;a href=&quot;http://czarrar.github.io/connectir&quot; target=&quot;_new&quot;&gt;http://czarrar.github.io/connectir&lt;/a&gt; or click the Home Page link on the right below. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<category>Software</category>
+<release>Jul 3, 2011</release>
+<homepage>http://czarrar.github.io/connectir</homepage>
+<maintainer>Yale University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

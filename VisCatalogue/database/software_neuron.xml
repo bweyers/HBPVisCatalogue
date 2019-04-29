@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="NEURON" nitrc="https://www.nitrc.org/projects/neuron" />
+<description> NEURON is a simulation environment for modeling individual neurons and networks of neurons. It provides tools for conveniently building, managing, and using models in a way that is numerically sound and computationally efficient. It is particularly well-suited to problems that are closely linked to experimental data, especially those that involve cells with complex anatomical and biophysical properties. For a more detailed description see &lt;a href=&quot;http://www.neuron.yale.edu/neuron/what_is_neuron&quot; target=&quot;_new&quot;&gt;http://www.neuron.yale.edu/neuron/what_i...&lt;/a&gt;</description>
+<license>BSD License</license>
+<platform>Windows</platform>
+<platform>OS/2</platform>
+<platform>Linux</platform>
+<platform>Other UNIX-like</platform>
+<release>Sep 2, 2014</release>
+<homepage>https://www.neuron.yale.edu/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="fNIR Devices" nitrc="https://www.nitrc.org/projects/fnirdevices" />
+<description> fNIR Imager 1100 is a new generation portable functional near-infrared (fNIR) imaging research tool capable of monitoring brain’s hemodynamics and thereby the cognitive state of the subject in natural environments. &lt;br /&gt;&lt;br /&gt;Neuroimaging Solution for Natural Environments:&lt;br /&gt;•fNIR is the only stand-alone and field-deployable technology able to determine localized brain activity. &lt;br /&gt;•fNIR can be readily integrated with other physiological and neurobehavioral measures that assess human brain activity, including eye tracking, pupil reflex, respiration and electrodermal activity. fNIR can also complement other techniques.&lt;br /&gt;•Studies have shown a positive correlation between a participant&#x27;s performance and fNIR responses as a function of task load.&lt;br /&gt;•It has also been shown that fNIR can effectively monitor attention and working memory in real-life situations. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=492&amp;screenshot_id=370&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=492&amp;screenshot_id=370&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>FNIR COBI Suite</license>
+<category>NIRS/FNIR</category>
+<release>Jun 29, 2011</release>
+<homepage>http://www.fnirdevices.com</homepage>
+<maintainer>fNIR Devices</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

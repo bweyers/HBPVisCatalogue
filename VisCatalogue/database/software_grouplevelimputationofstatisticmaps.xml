@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="Group Level Imputation of Statistic Maps" nitrc="https://www.nitrc.org/projects/multimpute" />
+<description> Group Level Imputation of Statistic Maps (version 1.0) is a toolkit that performs multiple imputation for group level, single sample t-tests. Whole brain group level statistic maps from fMRI rarely cover the entire brain as a result of missing data. Missingness between subjects in fMRI datasets can result from susceptibility artifacts, bounding box (acquisition parameters), and small differences in post-normalized morphology. The toolkit consists of several interactive command line scripts that guide the user to map the spatial distribution of missing data across contrast images, calculate spatial neighborhood averages that help impute values, perform conventional and multiple imputed t-statistics, save the results to brain maps, and create result tables. The toolkit contains an instruction manual (pdf), two Matlab scripts and one R-Statistics script, which depend on functions defined in the popular SPM toolbox and functions defined in the MICE package for [R]. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=585&amp;screenshot_id=492&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=585&amp;screenshot_id=492&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Mar 13, 2012</release>
+<homepage>http://www.nitrc.org/projects/multimpute/</homepage>
+<maintainer>Medical University of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

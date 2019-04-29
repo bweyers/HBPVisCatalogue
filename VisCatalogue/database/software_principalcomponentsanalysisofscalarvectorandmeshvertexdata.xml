@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Principal Components Analysis of Scalar, Vector, and Mesh Vertex Data" nitrc="https://www.nitrc.org/projects/pca-scalar-mesh" />
+<description> An implementation of standard PCA algorithms for use on&lt;br /&gt;scalar or vector data sets. Kernel PCA is implemented in this class as well, where the data sets are scalar or&lt;br /&gt;vector valued functions assigned at each of the points in a PointSet. A Gaussian Distance Kernel class is&lt;br /&gt;provided with the PCA class.&lt;br /&gt; &lt;br /&gt;This contribution is part of a shape analysis software pipeline created at Johns Hopkins. PCA will be used&lt;br /&gt;to develop a set of basis vectors for use with Gaussian Random Field analysis. The output of PCA will be&lt;br /&gt;analyzed for significance with various statistical methods such as t-tests built upon the built-in statistical&lt;br /&gt;capabilities of ITK. </description>
+<license>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported</license>
+<release>Nov 4, 2013</release>
+<homepage>http://www.nitrc.org/projects/pca-scalar-mesh/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

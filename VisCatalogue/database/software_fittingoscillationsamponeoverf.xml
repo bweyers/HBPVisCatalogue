@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Fitting Oscillations &amp; One-Over F" nitrc="https://www.nitrc.org/projects/fooof" />
+<description> FOOOF is a fast, efficient, and physiologically-informed tool to parameterize neural power spectra. FOOOF conceives of a model of the power spectrum as a combination of two distinct functional processes - a) an aperiodic &#x27;background&#x27; component, reflecting 1/f like characteristics, modeled with an exponential fit, with b) a variable number of periodic components, that exhibit as band-limited peaks rising above this background, reflecting putative oscillations, modeled as Gaussians. For putative oscillations, the benefit of the FOOOF approach is that these peaks are characterized in terms of their specific center frequency, amplitude and bandwidth without requiring predefining specific bands of interest. It separates these peaks from a dynamic and independently interesting aperiodic background. This tool offers a way to parameterize both the aperiodic and periodic components together, explicitly dealing with the fact that they overlap in ways that makes estimating one or other in isolation difficult. </description>
+<license>Apache License 2.0</license>
+<release>Jul 20, 2018</release>
+<homepage>https://github.com/voytekresearch/fooof</homepage>
+<maintainer>VoytekLab</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

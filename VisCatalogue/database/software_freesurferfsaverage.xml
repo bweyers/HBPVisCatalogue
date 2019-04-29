@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Freesurfer fsaverage" nitrc="https://www.nitrc.org/projects/fsaverage_gifti" />
+<description> Freesurfer fsaverage mesh files in gifti format </description>
+<release>Jun 29, 2018</release>
+<homepage>http://www.nitrc.org/projects/fsaverage_gifti/</homepage>
+<maintainer>Harvard University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

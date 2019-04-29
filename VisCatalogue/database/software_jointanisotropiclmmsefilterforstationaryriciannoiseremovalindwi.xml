@@ -1,0 +1,28 @@
+<root>
+<software>
+<name name="Joint Anisotropic LMMSE Filter for Stationary Rician noise removal in DWI" nitrc="https://www.nitrc.org/projects/jalmmse_dwi" />
+<description> This module reduces Rician noise on DWI. It filters the image in the mean squared error sense using a Rician noise model. The N closest gradient directions to the direction being processed are filtered together to improve the results: the noise-free signal is seen as an n-dimensional vector which has to be estimated with the LMMSE method from a set of corrupted measurements. The covariance matrix of the noise-free vector and the cross covariance between this signal and the noise have to be estimated, which is done taking into account the image formation process.&lt;br /&gt;&lt;br /&gt;All these estimations are performed as sample estimates in a &#x27;shaped neighborhood&#x27; defined by the weights extracted from the structural similarity of the voxels following the same idea as in the Non-Local Means filter.&lt;br /&gt;&lt;br /&gt;This C++ code can be compiled as either a standalone (ITK required. Versions 3 and 4 are supported) or as a CLI module for 3-D Slicer (versions 3 and 4). Only &amp;quot;nhdr/nrrd&amp;quot; DWIs are supported. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=680&amp;screenshot_id=617&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=680&amp;screenshot_id=617&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>3D Slicer License</license>
+<category>Artifact Removal</category>
+<category>Band Pass</category>
+<category>High Pass</category>
+<category>Low Pass</category>
+<category>Intensity Non-uniformity Correction</category>
+<category>Quality Metrics</category>
+<category>Spatial Convolution - Deconvolution</category>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>POSIX/UNIX-like</platform>
+<input>Nrrd</input>
+<output>Nrrd</output>
+<release>Feb 3, 2013</release>
+<homepage>http://www.nitrc.org/projects/jalmmse_dwi/</homepage>
+<maintainer>University of Valladolid</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CBICA: DTIDROID" nitrc="https://www.nitrc.org/projects/dtidroid" />
+<description> This software implements a method for deformable registration of diffusion tensor (DT) images (DROID) that integrates geometry and orientation features into a hierarchical matching framework. The geometric feature is derived from the structural geometry of diffusion and characterizes the shape of the tensor in terms of prolateness, oblateness, and sphericity of the tensor. Local spatial distributions of the prolate, oblate, and spherical geometry are used to create an attribute vector of geometric feature for matching. The orientation feature improves the matching of the WM fiber tracts by taking into account the statistical information of underlying fiber orientations. These features are incorporated into a hierarchical deformable registration framework to develop a diffusion tensor image registration algorithm. Extensive experiments on simulated and real brain DT data establish the superiority of this algorithm for deformable matching of diffusion tensors, thereby aiding in atlas creation. </description>
+<license>SBIA License</license>
+<release>Feb 16, 2017</release>
+<homepage>http://www.nitrc.org/projects/dtidroid/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

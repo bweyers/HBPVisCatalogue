@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="Multi-Echo Independent Component Regression (ME-ICR) Group-Level Connectivity (GroupInCorr) Dataset" nitrc="https://www.nitrc.org/projects/me-icr" />
+<description> The data provided is an AFNI GroupInCorr session for multi-echo independent component regression (ME-ICR) for a cohort of 52 subjects. This dataset provides a high-quality atlas of seed-based functional connectivity with strong statistical conditioning. </description>
+<license>Data License</license>
+<release>Aug 26, 2013</release>
+<homepage>http://www.nitrc.org/projects/me-icr/</homepage>
+<maintainer>National Institute of Mental Health</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

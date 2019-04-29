@@ -1,0 +1,17 @@
+<root>
+<software>
+<name name="Organization for Human Brain Mapping" nitrc="https://www.nitrc.org/projects/ohbm" />
+<description> The Organization for Human Brain Mapping (OHBM) was created in 1995 and has since evolved in response to the explosion in the field of human functional neuroimaging and its movement into the scientific mainstream.&lt;br /&gt;&lt;br /&gt;One of the primary functions of the organization is to provide an educational forum for the exchange of up-to-the-minute and groundbreaking research across modalities exploring Human Brain Mapping. It does this through a growing membership and an annual conference, held in different locations throughout the world. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1109&amp;screenshot_id=1063&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1109&amp;screenshot_id=1063&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<category>Community</category>
+<category>Other Information Resource</category>
+<release>Jan 24, 2017</release>
+<homepage>http://www.humanbrainmapping.org</homepage>
+<maintainer>Organization for Human Brain Mapping</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

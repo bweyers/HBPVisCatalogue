@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Resting State Hemodynamic Response Function Retrieval and Deconvolution (RS-HRF)" nitrc="https://www.nitrc.org/projects/rshrf" />
+<description> This toolbox is aimed to retrieve the onsets of pseudo-events triggering an hemodynamic response from resting state fMRI BOLD voxel-wise signal. It is based on point process theory, and fits a model to retrieve the optimal lag between the events and the HRF onset, as well as the HRF shape, using either the canonical shape with two derivatives, or a (smoothed) Finite Impulse Response.&lt;br /&gt;&lt;br /&gt;Once that the HRF has been retrieved for each voxel, it can be deconvolved from the time series (for example to improve lag-based connectivity estimates), or one can map the shape parameters everywhere in the brain (including white matter), and use it as a pathophysiological indicator.&lt;br /&gt;&lt;br /&gt;Input can be 3D or 4D nifti images, but also on time series matrices/vectors.&lt;br /&gt;The output are three HRF shape parameters for each voxel, plus the deconvolved time series, and the number of retrieved pseudo-events. All can be written back to nifti images.&lt;br /&gt;&lt;br /&gt;Please refer to the links on the left for the different versions and relative documentation. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1304&amp;screenshot_id=1220&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1304&amp;screenshot_id=1220&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>BSD/MIT-Style Open Source License</license>
+<category>Statistical Operation</category>
+<category>Time Domain Analysis</category>
+<release>Aug 14, 2018</release>
+<homepage>https://github.com/compneuro-da/rsHRF</homepage>
+<maintainer>Ghent University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="PICSL Multi-Atlas Segmentation Tool" nitrc="https://www.nitrc.org/projects/picsl_malf" />
+<description> This package contains a software implementation for joint label fusion and corrective learning, which were applied in MICCAI 2012 Grand Challenge on Multi-Atlas Labeling and finished in the first place.&lt;br /&gt;&lt;br /&gt;Joint label fusion is for combining candidate segmentations produced by registering and warping multiple atlases for a target image. Corrective learning can be applied to further reduce systematic errors produced by joint label fusion. In general, corrective learning can be applied to correct systematic errors produced by other segmentation methods as well. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Atlas Application</category>
+<category>Segmentation</category>
+<release>Sep 4, 2012</release>
+<homepage>http://www.nitrc.org/projects/picsl_malf/</homepage>
+<maintainer>University of Pennsylvania</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

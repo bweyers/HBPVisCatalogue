@@ -1,0 +1,20 @@
+<root>
+<software>
+<name name="nonfractal" nitrc="https://www.nitrc.org/projects/nonfractal" />
+<description> It is a MATLAB toolbox for estimating &amp;quot;nonfractal connectivity&amp;quot; and &amp;quot;fractal connectivity&amp;quot; as well as Hurst parameters from a set of time series with long-range dependence such as resting state fMRI BOLD or EEG signals. Please refer to the following publication for the underlying theories.&lt;br /&gt;&lt;br /&gt;Wonsang You, Sophie Achard, Joerg Stadler, Bernd Bruekner, and Udo Seiffert, &amp;quot;Fractal analysis of resting state functional connectivity of the brain,&amp;quot; in 2012 International Joint Conference on Neural Networks, 2012.&lt;br /&gt;&lt;br /&gt;For more details, please visit the wiki page:&lt;br /&gt;&lt;a href=&quot;https://www.nitrc.org/plugins/mwiki/index.php/nonfractal:MainPage&quot; target=&quot;_new&quot;&gt;https://www.nitrc.org/plugins/mwiki/inde...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1181&amp;screenshot_id=1100&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1181&amp;screenshot_id=1100&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Attribution Non-Commercial No Derivatives</license>
+<platform>MacOS</platform>
+<platform>Microsoft</platform>
+<platform>Linux</platform>
+<input>ASCII</input>
+<output>ASCII</output>
+<release>Jun 6, 2017</release>
+<homepage>http://www.nitrc.org/projects/nonfractal/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

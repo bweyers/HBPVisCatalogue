@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="UNC CEDARS INFANT ATLAS" nitrc="https://www.nitrc.org/projects/functionalatlas" />
+<description> We derived the first set of normative functional brain atlases for infants (neonates, 1- and 2-year olds) by parcellating the infant brain into functionally homogeneous regions based on a novel hybrid iterative normalized cut approach. Infant-specific structural (i.e., AAL) atlases were used as spatial constraint. &lt;br /&gt;&lt;br /&gt;Please refer to the following article for the atlases:&lt;br /&gt;Feng Shi, Andrew P. Salzwedel, Weili Lin, John H. Gilmore, Wei Gao, &amp;quot;Functional Brain Parcellations of the Infant Brain and the Associated Developmental Trends&amp;quot;, Cerebral Cortex, 2017. &lt;a href=&quot;https://doi.org/10.1093/cercor/bhx062&quot; target=&quot;_new&quot;&gt;https://doi.org/10.1093/cercor/bhx062&lt;/a&gt;</description>
+<license>BSD License</license>
+<category>Atlas Application</category>
+<category>Segmentation</category>
+<category>Spatial Transformation</category>
+<category>Time Domain Analysis</category>
+<category>Visualization</category>
+<category>Workflow</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Jun 30, 2016</release>
+<homepage>http://www.nitrc.org/projects/functionalatlas/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

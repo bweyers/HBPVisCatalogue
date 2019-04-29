@@ -1,0 +1,16 @@
+<root>
+<software>
+<name name="METH" nitrc="https://www.nitrc.org/projects/meth" />
+<description> METH is a collection of MATLAB functions to conduct data analysis of MEG and EEG data. A detailed documentation is contained in the download. &lt;br /&gt;Its main features are: &lt;br /&gt;•EEG and MEG forward calculation in realistic volume conductors based on expansions of the lead fields in spherical harmonics.&lt;br /&gt;•Inverse Calculations: Dipole fitting for ERFs/ERPs and cross-spectra, MUSIC, RAP-MUSIC, SC-MUSIC, minimum norm source reconstruction, eLoreta, and beamformers.&lt;br /&gt;•Power and coupling measures: cross-spectra coherency, cross-bispectra and bicoherence, 1:1 phase locking, power correlation including corrections for artifacts of volume conduction, lagged coherence, phase lag index, multivariate coupling measures robust to artifacts of volume conduction (MIM, MIC, GIM).&lt;br /&gt;•Decomposition: MOCA for two or more source distributions&lt;br /&gt;•Statistics: false discovery rate and permutation test&lt;br /&gt;•Visualization: topo-plots, head-in-head plots and time-frequency plots, MRIs and surface plots (e.g. cortex) including results. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1257&amp;screenshot_id=1167&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=1257&amp;screenshot_id=1167&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>GNU General Public License (GPL)</license>
+<release>Feb 27, 2018</release>
+<homepage>https://www.uke.de/english/departments-institutes/institutes/neurophysiology-and-pathophysiology/research/working-groups/</homepage>
+<maintainer>Dept. of Neurophysiology and Pathophysiology</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

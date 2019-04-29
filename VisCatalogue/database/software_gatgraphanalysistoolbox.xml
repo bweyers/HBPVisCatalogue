@@ -1,0 +1,15 @@
+<root>
+<software>
+<name name="GAT : Graph Analysis Toolbox" nitrc="https://www.nitrc.org/projects/gat" />
+<description> GAT is a Matlab-based software that provides a GUI framework for conducting graph analysis with MR data. It integrates the Brain Connectivity Toolbox, REX toolbox, BrainNet Viewer, with original code for additional graph analyses and comparing networks between groups. &lt;br /&gt; &lt;br /&gt;Using GAT, you can analyze structural/functional networks constructed from VBM, Free Surfer data, resting state/task fMRI, DTI, MRS, and behavioral data. GAT provides non-parametric statistics for comparing small-world parameters, regional topology, hubs, network resilience, and modularity between groups. &lt;br /&gt;&lt;br /&gt;Please cite the following paper if you are using GAT: &lt;br /&gt;Hosseini et al (2012). GAT: a graph-theoretical analysis toolbox for analyzing between-group differences in large-scale structural and functional brain networks. PLoS ONE 7(7), e40709. &lt;br /&gt;&lt;br /&gt;Please subscribe to GAT mailing list at &lt;br /&gt;&lt;a href=&quot;https://mailman.stanford.edu/mailman/listinfo/gat_user_forum&quot; target=&quot;_new&quot;&gt;https://mailman.stanford.edu/mailman/lis...&lt;/a&gt; to get updates and share questions. &lt;br /&gt;&lt;br /&gt;Contact: Hadi Hosseini (hosseiny (at) stanford.edu) </description>
+<license>GNU General Public License (GPL)</license>
+<category>Connectivity Analysis</category>
+<category>Multivariate Analysis</category>
+<release>Oct 14, 2015</release>
+<homepage>http://www.nitrc.org/projects/gat/</homepage>
+<maintainer>Stanford University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

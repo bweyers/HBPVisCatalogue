@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="dcm2nii" nitrc="https://www.nitrc.org/projects/dcm2nii" />
+<description> dcm2nii is a popular tool for converting images from the complicated formats used by scanner manufacturers (DICOM, PAR/REC) to the simple NIfTI format used by many scientific tools. dcm2nii works for all modalities (CT, MRI, PET, SPECT) and sequence types. Note: dcm2nii has traditionally been included with MRIcron downloads. This project describes the next generation version which we refer to as dcm2niix. Future releases will supersede the (legacy) dcm2nii distributed with MRIcron. </description>
+<license>BSD License</license>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>OS Independent</platform>
+<platform>Linux</platform>
+<input>DICOM</input>
+<output>DICOM</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Sep 24, 2014</release>
+<homepage>http://www.nitrc.org/projects/dcm2nii/</homepage>
+<maintainer>University of South Carolina</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,19 @@
+<root>
+<software>
+<name name="MriCloud" nitrc="https://www.nitrc.org/projects/mricloud" />
+<description> MriCloud is a cloud-based platform that provides several advanced features including;&lt;br /&gt;&lt;br /&gt;1) Fully automated cloud service for brain parcellation of MPRAGE images based on Multiple-Atlas Likelihood Fusion (MALF) algorithm (Tang, et al. PLoS ONE, 2013), JHU multi-atlas inventories with 286 defined structures, and our Ontology Level Control (OLC) technology (Djamanakova, et al. NeuroImage, 2014).&lt;br /&gt;&lt;br /&gt;2) Fully automated cloud service for DTI tensor calculation and extensive quantitative reports for quality control (Li, et al. PLoS ONE, 2013). </description>
+<license>MriCloud Agreement</license>
+<category>Atlas Application</category>
+<category>Tensor Metric</category>
+<category>Segmentation</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Feb 12, 2015</release>
+<homepage>http://mricloud.org/</homepage>
+<maintainer>Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

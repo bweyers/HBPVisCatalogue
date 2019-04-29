@@ -1,0 +1,32 @@
+<root>
+<software>
+<name name="FSL" nitrc="https://www.nitrc.org/projects/fsl" />
+<description> FSL is a comprehensive library of image analysis and statistical tools for FMRI, MRI and DTI brain imaging data. FSL is written mainly by members of the Analysis Group, FMRIB, Oxford, UK. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=25&amp;screenshot_id=658&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=25&amp;screenshot_id=658&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>FSL License</license>
+<category>Tensor Metric</category>
+<category>Volumetric Analysis</category>
+<category>Segmentation</category>
+<category>Registration</category>
+<category>Affine Warp</category>
+<category>Independent Component Analysis</category>
+<category>Temporal Transformation</category>
+<category>Tractography</category>
+<category>Image Display</category>
+<platform>MacOS</platform>
+<platform>Windows NT/2000</platform>
+<platform>Linux</platform>
+<platform>SunOS/Solaris</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>May 7, 2007</release>
+<homepage>http://www.fmrib.ox.ac.uk/fsl/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

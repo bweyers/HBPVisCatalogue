@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MaCH" nitrc="https://www.nitrc.org/projects/mach" />
+<description> MaCH is a tool for haplotyping, genotype imputation and disease association analysis developed by Goncalo Abecasis and Yun Li. </description>
+<license>Free For Non-Commercial Use Only</license>
+<category>Imputation</category>
+<release>Feb 13, 2013</release>
+<homepage>http://www.nitrc.org/projects/mach/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

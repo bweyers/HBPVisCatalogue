@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="BrainDecoderToolbox" nitrc="https://www.nitrc.org/projects/bdtb" />
+<description> Brain Decoder Toolbox performs “decoding” of brain activity, by learning the difference between brain activity patterns among conditions and then classifying the brain activity based on the learning results.&lt;br /&gt;&lt;br /&gt;BDTB is a set of Matlab functions.&lt;br /&gt;BDTB is OS-independent. </description>
+<license>GNU General Public License (GPL)</license>
+<category>Application</category>
+<platform>MacOS</platform>
+<platform>Windows</platform>
+<platform>Linux</platform>
+<input>ANALYZE</input>
+<output>ANALYZE</output>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 31, 2011</release>
+<homepage>http://www.cns.atr.jp/dni/en/downloads/brain-decoder-toolbox/</homepage>
+<maintainer>Computational Neuroscience Labs</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

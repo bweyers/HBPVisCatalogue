@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="Profound Hearing Loss Database" nitrc="https://www.nitrc.org/projects/phl_2019" />
+<description> Profound hearing loss database&lt;br /&gt;Shared with a Creative Commons Attribution 4.0 International Licence (CC BY) License. </description>
+<release>Aug 20, 2018</release>
+<homepage>http://www.nitrc.org/projects/phl_2019/</homepage>
+<maintainer>City University of Hong Kong and Johns Hopkins University</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

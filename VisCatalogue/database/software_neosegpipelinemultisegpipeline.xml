@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="NeoSegPipeline - MultisegPipeline" nitrc="https://www.nitrc.org/projects/neosegpipeline" />
+<description> This tool allows the tissue segmentation of brain MRI using a subject-specific atlas, as well as a generic multi-atlas based segmentation of regional label definitions. For the tissue segmentation, it generates a subject-specific atlas based on an atlas population propagated to the individual subject image (using optionally also using diffusion images). Then we run a single atlas method with this atlas and obtain some good results. A quick demo on how to use the tool can be seen here: &lt;a href=&quot;https://www.youtube.com/watch?v=yTr3NJZaMos&quot; target=&quot;_new&quot;&gt;https://www.youtube.com/watch?v=yTr3NJZa...&lt;/a&gt; . The MultisegPipeline version allows also regional generic multi-atlas segmentation.&lt;br /&gt;&lt;br /&gt;Recent publication &lt;a href=&quot;https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10953/109530K/Multiseg-pipeline--automatic-tissue-segmentation-of-brain-MR-images/10.1117/12.2513237.short?SSO=1&quot; target=&quot;_new&quot;&gt;https://www.spiedigitallibrary.org/confe...&lt;/a&gt;
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=836&amp;screenshot_id=789&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=836&amp;screenshot_id=789&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Apache License 2.0</license>
+<category>Segmentation</category>
+<platform>Linux</platform>
+<release>Jun 17, 2014</release>
+<homepage>http://www.nitrc.org/projects/neosegpipeline/</homepage>
+<maintainer>NIRAL</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

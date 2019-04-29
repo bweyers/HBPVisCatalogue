@@ -1,0 +1,12 @@
+<root>
+<software>
+<name name="TARQUIN MRS analysis package" nitrc="https://www.nitrc.org/projects/tarquin" />
+<description> TARQUIN is an analysis tool for automatically determining the quantities of molecules present in NMR spectroscopic data. The intended purpose of TARQUIN is to aid the characterisation of pathologies, in particular brain tumours, both non-invasively with in-vivo 1H MRS and ex-vivo with 1H HR-MAS. TARQUIN has the following features:&lt;br /&gt;&lt;br /&gt;Free to use and modify under the GPL licence.&lt;br /&gt;Based on a flexible time-domain fitting routine designed to give accurate rapid and automated quantitation for routine analysis.&lt;br /&gt;Cross platform, works on Windows, Linux and OSX.&lt;br /&gt;Comes packaged with a quantum mechanically based metabolite simulator to allow basis set construction optimised for the investigation of particular pathologies sequence parameters.&lt;br /&gt;Includes both GUI and command line interface for one-off and batch analyses. </description>
+<license>GNU General Public License (GPL)</license>
+<release>May 17, 2012</release>
+<homepage>http://tarquin.sourceforge.net/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,18 @@
+<root>
+<software>
+<name name="Quantitative Diffusion Tools" nitrc="https://www.nitrc.org/projects/quantitativedti" />
+<description> The Quantitative Diffusion Tools provide Slicer3 modules for quantitative diffusion analysis. Modules include tools for clustering fiber tracts, summarizing measures over tract clusters, etc. </description>
+<license>3D Slicer License</license>
+<category>Quantification</category>
+<category>Segmentation</category>
+<category>Tractography</category>
+<platform>OS Independent</platform>
+<input>Other Format</input>
+<output>Other Format</output>
+<release>Jul 23, 2009</release>
+<homepage>http://www.nitrc.org/projects/quantitativedti/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

@@ -1,0 +1,21 @@
+<root>
+<software>
+<name name="ENIGMA: Enhancing Neuro Imaging Genetics through Meta-Analysis" nitrc="https://www.nitrc.org/projects/enigma" />
+<description> The ENIGMA Network brings together researchers in imaging genomics, to understand brain structure and function, based on MRI, DTI, fMRI and genomewide association scan (GWAS) data. The ENIGMA Network has several goals:&lt;br /&gt;&lt;br /&gt; * To create a network of like-minded individuals, interested in pushing forward the field of imaging genetics.&lt;br /&gt; * To ensure promising findings are replicated via member collaborations, in order to satisfy the mandates of most journals.&lt;br /&gt; * To share ideas, algorithms, data, and information on research studies and methods.&lt;br /&gt; * To facilitate training, including workshops and conferences on key methods and emerging directions in imaging genetics. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=693&amp;screenshot_id=628&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=693&amp;screenshot_id=628&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Creative Commons License</license>
+<category>Genetic Association</category>
+<category>Imputation</category>
+<platform>OS Independent</platform>
+<input>NIfTI-1</input>
+<output>NIfTI-1</output>
+<release>Mar 4, 2013</release>
+<homepage>http://enigma.ini.usc.edu/</homepage>
+<maintainer>USC</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

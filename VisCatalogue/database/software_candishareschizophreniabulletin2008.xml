@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="CANDI Share: Schizophrenia Bulletin 2008" nitrc="https://www.nitrc.org/projects/cs_schizbull08" />
+<description> This project hosts data for CANDI Share Schizophrenia Bulletin 2008 (reference below) as part of the CANDI Neuroimaging Access Point. This set includes preprocessed MRI images and segmentation results of all 4 diagnostic groups (Healthy Controls, N=29; Schizophrenia Spectrum, N=20; Bipolar Disorder with Psychosis, N=19; and Bipolar Disorder without Psychosis, N=35).&lt;br /&gt;&lt;br /&gt;Frazier JA, Hodge SM, Breeze JL, Giuliano AJ, Terry JE, Moore CM, Kennedy DN, Lopez-Larson MP, Caviness VS, Seidman LJ, Zablotsky B, Makris N. Diagnostic and sex effects on limbic volumes in early-onset bipolar disorder and schizophrenia. Schizophr Bull. 2008 Jan;34(1):37-46. </description>
+<license>Attribution</license>
+<release>Feb 9, 2012</release>
+<homepage>http://www.nitrc.org/projects/cs_schizbull08/</homepage>
+<maintainer>University of Massachusetts Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

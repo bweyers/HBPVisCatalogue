@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="Presentation" nitrc="https://www.nitrc.org/projects/presentation" />
+<description> Presentation® is a precise and powerful stimulus delivery and experimental control program for neuroscience. Presentation® runs on any Windows PC, and delivers auditory, visual and multimodal stimuli with sub-millisecond temporal precision. Presentation® includes special features for experiments using psychophysics, eye movements, fMRI, ERP, MEG, single neuron recording, and more. </description>
+<license>Available by Purchase Only</license>
+<category>Platform or Development Environment</category>
+<platform>Windows</platform>
+<release>Jun 22, 2009</release>
+<homepage>http://www.nitrc.org/projects/presentation/</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

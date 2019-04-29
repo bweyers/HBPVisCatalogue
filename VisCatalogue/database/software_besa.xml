@@ -1,0 +1,26 @@
+<root>
+<software>
+<name name="BESA" nitrc="https://www.nitrc.org/projects/besa" />
+<description> BESA is the one of the most widely used software for source analysis and dipole localization in EEG and MEG research. BESA Research has been developed on the basis of 20 years experience in human brain research by Michael Scherg, University of Heidelberg, and Patrick Berg, University of Konstanz.&lt;br /&gt;&lt;br /&gt;BESA Research is a highly versatile and user-friendly Windows® program with optimized tools and scripts to preprocess raw or averaged data for source analysis. All important aspects of source analysis are displayed in one window for immediate selection of a wide range of tools. BESA Research provides a variety of source analysis algorithms, a standardized realistic head model (FEM), and allows for fast and easy hypothesis testing and integration with MRI and fMRI. 
+&lt;p/&gt;
+&lt;a href=&quot;https://www.nitrc.org/project/screenshot.php?group_id=643&amp;screenshot_id=559&quot;&gt;&lt;img class=&quot;size-full wp-image-1824&quot; src=&quot;https://www.nitrc.org/project/screenshot.php?group_id=643&amp;screenshot_id=559&quot; alt=&quot;&quot; width=&quot;458&quot; height=&quot;248&quot;/&gt;&lt;/a&gt;
+</description>
+<license>Commercial License</license>
+<category>Connectivity Analysis</category>
+<category>Finite Element Analysis</category>
+<category>EEG Modeling</category>
+<category>MEG Modeling</category>
+<category>Source Separation Analysis</category>
+<category>Independent Component Analysis</category>
+<category>Principal Component Analysis</category>
+<category>Surrogate Data Analysis</category>
+<category>Fourier Time-domain Analysis</category>
+<category>Spectral Analysis</category>
+<category>Event Related Potential</category>
+<release>Sep 20, 2012</release>
+<homepage>http://besa.de</homepage>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

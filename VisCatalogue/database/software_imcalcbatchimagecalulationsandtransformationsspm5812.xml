@@ -1,0 +1,14 @@
+<root>
+<software>
+<name name="imcalc: Batch image calulations and transformations (SPM5/8/12)" nitrc="https://www.nitrc.org/projects/imcalc" />
+<description> ** Updated Nov 2017 ** Image maths and transformations with batch functionality for SPM5, SPM8, or SPM12; features include:&lt;br /&gt;&lt;br /&gt; (1) Binarize: non-zero voxels, or to specific thresholds&lt;br /&gt; (2) Pairwise operations: add, subtract, mean, min, max ...&lt;br /&gt; (3) Create or split cluster images &lt;br /&gt; (4) Create inter-subject agreement maps&lt;br /&gt; (5) Statistical transformations: T-to-Z, Z-score calculation&lt;br /&gt; (6) Create masks based on an image&lt;br /&gt; (7) Replace zeros / NaNs&lt;br /&gt; (8) Pad a bounding box with extra voxels&lt;br /&gt;&lt;br /&gt;For **CURRENT VERSION** download and documentation, visit &lt;a href=&quot;http://tools.robjellis.net/&quot; target=&quot;_new&quot;&gt;http://tools.robjellis.net/&lt;/a&gt;</description>
+<license>GNU General Public License (GPL)</license>
+<category>Statistical Operation</category>
+<release>Jan 31, 2012</release>
+<homepage>http://tools.robjellis.net/</homepage>
+<maintainer>BIDMC / Harvard Medical School</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>

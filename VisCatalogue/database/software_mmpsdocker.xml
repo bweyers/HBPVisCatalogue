@@ -1,0 +1,13 @@
+<root>
+<software>
+<name name="MMPS Docker" nitrc="https://www.nitrc.org/projects/mmps_docker" />
+<description> Docker image of the MMPS pipeline. </description>
+<license>Freeware</license>
+<release>Aug 28, 2018</release>
+<homepage>http://www.nitrc.org/projects/mmps_docker/</homepage>
+<maintainer>UCSD</maintainer>
+<HBP>External</HBP>
+<deployment>Standalone</deployment>
+<display>Desktop</display>
+</software>
+</root>
